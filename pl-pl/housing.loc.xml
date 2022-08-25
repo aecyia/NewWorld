@@ -1,0 +1,260 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_abandon" comment="Abandon House">Porzuć ten dom</string>
+	<string key="ui_house_abandon_confirm_button" comment="Abandon House">Porzuć dom</string>
+	<string key="ui_house_abandon_confirm_placeholder_text" comment="Abandon House">Wpisz nazwę terytorium</string>
+	<string key="ui_house_abandon_notification" comment="Abandon House">Twój dom ({houseName}) został porzucony.</string>
+	<string key="ui_house_abandon_popup_desc" comment="Abandon House">Masz już 1 dom w tym mieście.\nCzy chcesz porzucić {houseName}, by zakupić ten dom?\nWszystkie trofea i meble z porzuconego domu zostaną przeniesione do magazynu miejskiego.</string>
+	<string key="ui_house_abandon_popup_title" comment="Abandon House">Możesz mieć tylko jeden dom w mieście.</string>
+	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">W razie porzucenia tego domu otrzymasz zwrot {percent}% kosztów zakupu. Wszystkie trofea i meble z domu zostaną przeniesione do magazynu miejskiego.</string>
+	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">W razie porzucenia tego domu otrzymasz zwrot &lt;font color="#f25d5d"&gt;{percent}% kosztów zakupu.&lt;/font&gt;\nWszystkie trofea i meble z porzuconego domu zostaną przeniesione do magazynu miejskiego.\n\nBy kontynuować, wpisz poniżej nazwę terytorium ({territoryName}).</string>
+	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Porzucić dom?</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zapłać {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
+	<string key="ui_cannot_travel_currency" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_cannot_travel_dead" comment="Fast Travel">Nie możesz skorzystać z powrotu ani z szybkiej podróży, gdy nie żyjesz.</string>
+	<string key="ui_cannot_travel_encounter" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży podczas walki</string>
+	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży przy przeciążeniu</string>
+	<string key="ui_cannot_travel_in_war" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży podczas wojny</string>
+	<string key="ui_cannot_travel_outpost_rush" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży podczas napadu na posterunek</string>
+	<string key="ui_cantfasttravel" comment="Fast Travel">Nie można skorzystać z szybkiej podróży</string>
+	<string key="ui_cantrecall" comment="Fast Travel">Nie można skorzystać z powrotu</string>
+	<string key="ui_fast_travel" comment="Fast Travel">Szybka podróż</string>
+	<string key="ui_fast_travel_channel" comment="Fast Travel">Trwa podróż…</string>
+	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Punkt szybkiej podróży</string>
+	<string key="ui_fast_travel_cost" comment="Fast Travel">{total} &lt;font color="#949494"&gt;/ {cost}&lt;/font&gt;</string>
+	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">Możesz odbyć szybką podróż tylko z osady, posterunku lub kapliczki ducha.</string>
+	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">Masz za mało azothu.</string>
+	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">Ta czynność czeka na odnowienie.</string>
+	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">Ta czynność czeka na odnowienie.\nPowrót dostępny za: {time}.</string>
+	<string key="ui_fast_travel_error_encumbered" comment="Fast Travel">Nie możesz skorzystać z powrotu lub szybkiej podróży z powodu przeciążenia.</string>
+	<string key="ui_fast_travel_error_inCooldown" comment="Fast Travel">{time}</string>
+	<string key="ui_fast_travel_error_noDestination" comment="Fast Travel">Musisz odwiedzić tę osadę, by móc do niej szybko podróżować.</string>
+	<string key="ui_fast_travel_error_noDestination_outpost" comment="Fast Travel">Musisz odwiedzić ten posterunek, by móc do niego szybko podróżować.</string>
+	<string key="ui_fast_travel_error_noDestination_shrine" comment="Fast Travel">Musisz odwiedzić tę kapliczkę ducha, by móc do niej szybko podróżować.</string>
+	<string key="ui_fast_travel_failed" comment="Fast Travel">Szybka podróż nie udała się</string>
+	<string key="ui_fast_travel_mission_abandon_confirm" comment="Fast Travel">UWAGA: Jeśli odbędziesz szybką podróż, porzucisz wszystkie misje PvP.\n{count} misja zostanie porzucona.\n\nKontynuować?</string>
+	<string key="ui_fast_travel_popup_confirm" comment="Fast Travel">Czy chcesz odbyć szybką podróż do tego miejsca?</string>
+	<string key="ui_fast_travel_reset_popup" comment="Fast Travel">Zresetować czas odnowienia?</string>
+	<string key="ui_fast_travel_reset_popup_confirm" comment="Fast Travel">Czy chcesz zresetować czas odnowienia?</string>
+	<string key="ui_fast_travel_shrine_activated_body" comment="Fast Travel">Aktywowano nowy punkt szybkiej podróży!</string>
+	<string key="ui_fast_travel_shrine_activated_header" comment="Fast Travel">Kapliczka szybkiej podróży</string>
+	<string key="ui_fast_travel_to" comment="Fast Travel">Szybka podróż do</string>
+	<string key="ui_fast_travel_uncharted_point" comment="Fast Travel">Nieodkryty punkt szybkiej podróży</string>
+	<string key="ui_house_recall_popup_confirm" comment="Fast Travel">Czy chcesz powrócić do swojego domu?</string>
+	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Szybką podróż można odbyć ponownie za {time}</string>
+	<string key="ui_housing_fast_travel" comment="Fast Travel">Szybka podróż</string>
+	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">Z dowolnego miejsca do twojego domu</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Potrzebujesz {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
+	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Powrót jest niemożliwy z powodu błędu serwera.</string>
+	<string key="ui_recall_to" comment="Fast Travel">Powrót do</string>
+	<string key="ui_recall_to_house" comment="Fast Travel">Powróć do domu</string>
+	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Powróć do domu (nieaktywne)</string>
+	<string key="ui_reset_travel" comment="Fast Travel">Zresetuj czas odnowienia: {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel" comment="Fast Travel">Szybka podróż</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Odbądź szybką podróż do tej osady za: {cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_spirit_shrine" comment="Fast Travel">Kapliczka ducha</string>
+	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Odbądź szybką podróż do wcześniej odwiedzonych osad, posterunków lub kapliczek ducha.</string>
+	<string key="ui_travel" comment="Fast Travel">Podróż</string>
+	<string key="ui_watchtower_fast_travel" comment="Fast Travel">Powróć do strażnicy</string>
+	<string key="ui_watchtower_recall_from_esc_popup_confirm" comment="Fast Travel">Czy chcesz powrócić do strażnicy zlokalizowanej w: {territoryName}?</string>
+	<string key="ui_group_member_homes" comment="House Plots">Domy członka grupy</string>
+	<string key="ui_group_member_homes_no_data" comment="House Plots">Na tym terenie nie mieszka żaden z członków twojej grupy.</string>
+	<string key="ui_house" comment="House Plots">Dom</string>
+	<string key="ui_house_already_owned" comment="House Plots">Już posiadane</string>
+	<string key="ui_house_max_home_owned_on_territory" comment="House Plots">Maks. liczba domów na terytorium</string>
+	<string key="ui_house_menu" comment="House Plots">Zarządzaj domem</string>
+	<string key="ui_house_preview" comment="House Plots">Podgląd domu</string>
+	<string key="ui_house_price" comment="House Plots">Cena domu</string>
+	<string key="ui_house_type" comment="House Plots">Rodzaj domu</string>
+	<string key="ui_house_type_cooldown" comment="House Plots">Czas odnowienia</string>
+	<string key="ui_house_type_items" comment="House Plots">Przedmioty</string>
+	<string key="ui_housing_cant_afford" comment="House Plots">Masz za mało pieniędzy, by kupić ten dom.</string>
+	<string key="ui_housing_disabled" comment="House Plots">Nieaktywny</string>
+	<string key="ui_housing_enabled" comment="House Plots">Aktywny</string>
+	<string key="ui_housing_features" comment="House Plots">Funkcje domu</string>
+	<string key="ui_housing_hide_ui" comment="House Plots">Ukryj interfejs</string>
+	<string key="ui_housing_next_due_in" comment="House Plots">Następna opłata:</string>
+	<string key="ui_housing_select_house" comment="House Plots">Wybierz dom, który chcesz zobaczyć.</string>
+	<string key="ui_housing_time_calculating" comment="House Plots">Obliczanie…</string>
+	<string key="ui_housing_time_to_recompute" comment="House Plots">Ta lista zostanie zaktualizowana za: &lt;font color="#ffffff"&gt;{time}&lt;/font&gt;.</string>
+	<string key="ui_housing_update_time" comment="House Plots">Ta lista zostanie zaktualizowana za: {time}.</string>
+	<string key="ui_max_homes_owned" comment="House Plots">Maks. liczba posiadanych domów</string>
+	<string key="ui_max_homes_owned_territory" comment="House Plots">Maks. liczba domów posiadanych na terytorium</string>
+	<string key="ui_more_info" comment="House Plots">Więcej informacji</string>
+	<string key="ui_my_house_map_desc" comment="House Plots">{location} dom {number}</string>
+	<string key="ui_my_house_map_desc_disabled" comment="House Plots">{location} dom {number} (wyłączone)</string>
+	<string key="ui_my_house_map_title" comment="House Plots">Twój dom</string>
+	<string key="ui_my_houses_map_title" comment="House Plots">Twoje domy</string>
+	<string key="ui_no_home_owners" comment="House Plots">Pusty dom</string>
+	<string key="ui_owner_list" comment="House Plots">Lista właścicieli</string>
+	<string key="ui_red_button_housing_disabled" comment="House Plots">Domy są obecnie wyłączone z powodu prac konserwacyjnych</string>
+	<string key="ui_red_button_housing_disabled_title" comment="House Plots">Domy wyłączone</string>
+	<string key="ui_residence" comment="House Plots">Właściciel miejsca: {playerName}</string>
+	<string key="ui_resident_homes_already_showing_current" comment="House Plots">Brak</string>
+	<string key="ui_resident_homes_no_data" comment="House Plots">Na tej działce obecnie nie mieszkają inni gracze.</string>
+	<string key="ui_top_houses" comment="House Plots">Top &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;20&lt;/font&gt; domów</string>
+	<string key="ui_your_house" comment="House Plots">Twój dom</string>
+	<string key="ui_your_house_disabled" comment="House Plots">Twój dom (nieaktywny)</string>
+	<string key="ui_beds" comment="Housing Category">Łóżka</string>
+	<string key="ui_chairs" comment="Housing Category">Krzesła</string>
+	<string key="ui_decorations" comment="Housing Category">Ozdoby</string>
+	<string key="ui_lighting" comment="Housing Category">Oświetlenie</string>
+	<string key="ui_misc" comment="Housing Category">Pozostałe</string>
+	<string key="ui_pets" comment="Housing Category">Zwierzęta</string>
+	<string key="ui_shelves" comment="Housing Category">Półki</string>
+	<string key="ui_tables" comment="Housing Category">Stoły</string>
+	<string key="ui_trophies" comment="Housing Category">Trofea</string>
+	<string key="ui_vegetation" comment="Housing Category">Rośliny</string>
+	<string key="ui_housingDecResult_entitlementLimit" comment="Housing Décor Result">Nie można umieścić, w domu znajduje się maksymalna liczba przedmiotów tego typu</string>
+	<string key="ui_housingDecResult_InvalidItem" comment="Housing Décor Result">Nie można umieścić. Nieprawidłowy przedmiot</string>
+	<string key="ui_housingDecResult_InvalidPosition" comment="Housing Décor Result">Nie można umieścić. Nieprawidłowa pozycja</string>
+	<string key="ui_housingDecResult_ItemIdLimit" comment="Housing Décor Result">Nie można umieścić. Osiągnięto limit tego przedmiotu</string>
+	<string key="ui_housingDecResult_ItemLimit" comment="Housing Décor Result">Nie można umieścić, w domu znajduje się maksymalna liczba przedmiotów</string>
+	<string key="ui_housingDecResult_NoItemSelected" comment="Housing Décor Result">Nie można umieścić. Brak przedmiotu</string>
+	<string key="ui_housingDecResult_NotOwner" comment="Housing Décor Result">Nie można umieścić. Nie posiadasz domu</string>
+	<string key="ui_housingDecResult_TagLimit" comment="Housing Décor Result">Nie można umieścić, w domu znajduje się maksymalna liczba przedmiotów tego typu</string>
+	<string key="ui_housingDecResult_TimeOut" comment="Housing Décor Result">Nie można umieścić. Czas minął</string>
+	<string key="ui_housingDecResult_Unknown" comment="Housing Décor Result">Nieznany błąd rozmieszczenia</string>
+	<string key="ui_housingDecResult_Waiting" comment="Housing Décor Result">Nie można umieścić. Oczekiwanie</string>
+	<string key="ui_active_home_point_fail" comment="Housing Errors">Nie udało się zameldować</string>
+	<string key="ui_buildmode_disabled" comment="Housing Errors">Tryb ozdabiania jest obecnie niedostępny. Trwają prace konserwacyjne</string>
+	<string key="ui_context_menu_hint" comment="Housing Hints">Opcje</string>
+	<string key="ui_house_hint_decorate" comment="Housing Hints">Dekoruj</string>
+	<string key="ui_house_hint_exit" comment="Housing Hints">Wyjdź</string>
+	<string key="ui_house_hint_menu" comment="Housing Hints">Menu</string>
+	<string key="ui_house_hint_tips" comment="Housing Hints">Wskazówki</string>
+	<string key="ui_house_hud_hint" comment="Housing Hints">Inni gracze cię nie widzą</string>
+	<string key="ui_housing_grid_snap_hint" comment="Housing Hints">Rozmieszczenie siatki</string>
+	<string key="ui_housing_grid_snap_hint_colon" comment="Housing Hints">Rozmieszczenie siatki:</string>
+	<string key="ui_housing_rotate_camera_hint" comment="Housing Hints">&lt;img src="lyshineui/images/icons/misc/Icon_RightMouseButton" xPadding="0" scale="2.2" yOffset="8"&gt;&lt;/img&gt; Obróć kamerę</string>
+	<string key="ui_housing_rotate_object_hint" comment="Housing Hints">Obróć obiekt</string>
+	<string key="ui_housing_surface_lock_hint" comment="Housing Hints">Zablokuj na powierzchni</string>
+	<string key="ui_housing_surface_lock_hint_colon" comment="Housing Hints">Zablokuj na powierzchni:</string>
+	<string key="ui_house_type_items_limits" comment="Housing Item Cap Messaging">{petPluralOrSingle}: maks. {numPets}. {lightPluralOrSingle}: maks. {numLights}. {storagePluralOrSingle}: maks. {numStorage}.</string>
+	<string key="ui_house_type_light_plural" comment="Housing Item Cap Messaging">Światła</string>
+	<string key="ui_house_type_light_singular" comment="Housing Item Cap Messaging">Światło</string>
+	<string key="ui_house_type_pet_plural" comment="Housing Item Cap Messaging">Zwierzęta domowe</string>
+	<string key="ui_house_type_pet_singular" comment="Housing Item Cap Messaging">Zwierzę domowe</string>
+	<string key="ui_house_type_storage_chest_plural" comment="Housing Item Cap Messaging">Skrzynie magazynowe</string>
+	<string key="ui_house_type_storage_chest_singular" comment="Housing Item Cap Messaging">Skrzynia magazynowa</string>
+	<string key="ui_currently_displaying" comment="Housing Score/Points">Obecne wyświetlanie: publiczne</string>
+	<string key="ui_housing_item_score" comment="Housing Score/Points">Punkty dekoracji</string>
+	<string key="ui_housing_point_tooltip" comment="Housing Score/Points">Na tej liście aktualizowanej co dwa dni figuruje 20 domów o najwyższej punktacji.\n\nPunkty mieszkaniowe oblicza się na podstawie zdobytej przez gracza rangi terytorium oraz mebli na terenie nieruchomości.</string>
+	<string key="ui_num_housing_points" comment="Housing Score/Points">{points} pkt.</string>
+	<string key="ui_cant_pay_property_tax" comment="Housing Taxes">Zapłata możliwa za {time}</string>
+	<string key="ui_decoration_mode_unpaid" comment="Housing Taxes">Musisz zapłacić podatki, by móc udekorować dom.</string>
+	<string key="ui_house_compensation_message_JAV141577" comment="Housing Taxes">Z powodu nieprawidłowego opisu podatków dla nabywców pierwszych domów przyznano ci {amount} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; jako osobie, która zakupiła dom. Mamy nadzieję, że będziesz czerpać wiele radości z New World i swojego domu.</string>
+	<string key="ui_house_overdue_at" comment="Housing Taxes">Zaległy podatek od nieruchomości za: {territoryName}. Zapłać podatek od nieruchomości, by móc korzystać z szybkiej podróży i trybu dekoracji</string>
+	<string key="ui_house_overdue_desc" comment="Housing Taxes">Zalegasz z podatkiem od nieruchomości. Zapłać podatek od nieruchomości, by móc korzystać z funkcji domu.</string>
+	<string key="ui_house_overdue_label" comment="Housing Taxes">Zaległy podatek od nieruchomości</string>
+	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">– kwota na okres rozliczeniowy potrzebna, by móc utrzymać ten dom.</string>
+	<string key="ui_house_tax" comment="Housing Taxes">Podatek od nieruchomości</string>
+	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">Dom nieaktywny z powodu niezapłaconego podatku od nieruchomości.</string>
+	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Zaległa kwota</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Podatek od nieruchomości za terytorium: {territoryName} należy uiścić za: {time}. Zapłać podatek od nieruchomości, by móc korzystać z szybkiej podróży i trybu dekoracji</string>
+	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Twój dom (nieaktywny)</string>
+	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Twój dom jest nieaktywny. Zapłać podatek, by aktywować swój dom!</string>
+	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Zapłać podatek</string>
+	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Wystąpił błąd podczas opłacania podatku. Spróbuj ponownie.</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Zapłać podatek od nieruchomości</string>
+	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Zapłać podatek od nieruchomości na mapie lub w domu.</string>
+	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Musisz opłacić podatek od nieruchomości, aby móc korzystać z funkcji powrotu do domu i odrodzenia się w nim, a także by móc go dekorować.\nPo zakupie domu podatek należy opłacić w ciągu: {firstCycle}, a następnie co: {otherCycle}.</string>
+	<string key="ui_property_tax" comment="Housing Taxes">Podatek od nieruchomości</string>
+	<string key="ui_property_tax_amount_desc" comment="Housing Taxes">Kwota stałego podatku od nieruchomości</string>
+	<string key="ui_property_tax_desc" comment="Housing Taxes">Płać stały podatek od nieruchomości, by móc korzystać z funkcji domu.</string>
+	<string key="ui_property_tax_disabled" comment="Housing Taxes">Podatek od nieruchomości został wyłączony.</string>
+	<string key="ui_property_tax_disabled_short" comment="Housing Taxes">Podatek od nieruchomości wyłączony</string>
+	<string key="ui_property_tax_due" comment="Housing Taxes">Opłata</string>
+	<string key="ui_property_tax_success_desc" comment="Housing Taxes">Podatek od nieruchomości został opłacony.</string>
+	<string key="ui_view_taxinfo" comment="Housing Taxes">Szczegóły osady / informacje o wojnie</string>
+	<string key="ui_your_house_desc" comment="Housing Taxes">Zawsze możesz powrócić do swojego domu i się w nim odrodzić, o ile tylko opłacasz podatki.</string>
+	<string key="ui_house_type_trophies" comment="Housing Trophy Buffs">Miejsca na trofea</string>
+	<string key="ui_housing_trophy_buff" comment="Housing Trophy Buffs">Premie trofeów</string>
+	<string key="ui_housing_trophy_buff_desc" comment="Housing Trophy Buffs">Umieść trofea zapewniające ci premie</string>
+	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Gdy umieścisz to trofeum w swoim domu, będzie źródłem inspiracji.</string>
+	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Premie trofeów</string>
+	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Premie trofeów (wyłączone)</string>
+	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">W &lt;font color={colorHex}&gt;trybie ozdabiania&lt;/font&gt; możesz &lt;font color={colorHex}&gt;obracać obiekt, przyciągać go do siatki&lt;/font&gt; lub &lt;font color={colorHex}&gt;zablokować na powierzchni&lt;/font&gt;, by ozdobić dom tak, jak chcesz.</string>
+	<string key="ui_housing_tip_description2" comment="Load Screen Housing Tips">Rozmieszczanie obiektów w taki sposób, by nie przenikały przez inne, jest najlepszym sposobem na zwiększenie &lt;font color={colorHex}&gt;liczby punktów dekoracji&lt;/font&gt;.</string>
+	<string key="ui_housing_tip_description3" comment="Load Screen Housing Tips">Umieść w swoim domu &lt;font color={colorHex}&gt;trofea&lt;/font&gt;, by aktywować &lt;font color={colorHex}&gt;premie pasywne&lt;/font&gt;.\n\nWskazówka: w każdym domu możesz umieścić maksymalnie 5 trofeów. Premie zapewniane przez trofea tego samego rodzaju mogą się ze sobą łączyć.</string>
+	<string key="ui_housing_tip_description4" comment="Load Screen Housing Tips">W panelu po prawej stronie ekranu znajdziesz &lt;font color={colorHex}&gt;liczbę punktów dekoracji&lt;/font&gt; twojego domu oraz &lt;font color={colorHex}&gt;limit ozdób&lt;/font&gt;.\n\nWskazówka: umieszczenie w domu zbyt wielu sztuk tego samego przedmiotu zmniejszy liczbę punktów dekoracji.</string>
+	<string key="ui_housing_tip_title1" comment="Load Screen Housing Tips">Rozmieszczanie – sterowanie</string>
+	<string key="ui_housing_tip_title2" comment="Load Screen Housing Tips">Rozmieszczenie wpływa na liczbę zdobytych punktów</string>
+	<string key="ui_housing_tip_title3" comment="Load Screen Housing Tips">Premie od trofeów</string>
+	<string key="ui_housing_tip_title4" comment="Load Screen Housing Tips">Łączna liczba przedmiotów i punktacja</string>
+	<string key="ui_house_lost_refunded_message" comment="Make-Good Housing">Zauważyliśmy, że twój dom został utracony z powodu problemu z grą. Dokonaliśmy refundacji Twojego domu w {settlement} i przywróciliśmy wyposażenie przestrzeni magazynowej.</string>
+	<string key="ui_house_lost_refunded_title" comment="Make-Good Housing">Zwrot pieniędzy za dom</string>
+	<string key="ui_house_lost_restored_message" comment="Make-Good Housing">Zauważyliśmy, że twój dom został utracony z powodu problemu z grą. Twój dom w {settlement} został przywrócony.</string>
+	<string key="ui_house_lost_restored_title" comment="Make-Good Housing">Dom przywrócony</string>
+	<string key="@ui_house_items_refunded_multiple_message" comment="Old/Outdated?">W związku ze zmianami w osadzie: {settlement} przedmioty domowe ({count}) wróciły do twojego ekwipunku.</string>
+	<string key="@ui_house_items_refunded_single_message" comment="Old/Outdated?">W związku ze zmianami w osadzie: {settlement} przedmiot domowy wrócił do twojego ekwipunku.</string>
+	<string key="@ui_house_items_refunded_title" comment="Old/Outdated?">Zwrócono przedmioty domowe</string>
+	<string key="@ui_house_refunded_message" comment="Old/Outdated?">W związku ze zmianami w osadzie: {settlement} zwrócono ci pieniądze za dom. Otrzymujesz wszystkie przedmioty oraz {cost} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
+	<string key="@ui_house_refunded_title" comment="Old/Outdated?">Zwrot pieniędzy za dom</string>
+	<string key="ui_house_all_placed_category" comment="Placed Housing Items">Wszystkie przedmioty w tym budynku</string>
+	<string key="ui_house_placed_items" comment="Placed Housing Items">Umieszczone</string>
+	<string key="ui_housing_decorate" comment="Placed Housing Items">Dekoruj</string>
+	<string key="ui_housing_decorate_desc" comment="Placed Housing Items">Umieszczaj meble i zwierzęta domowe</string>
+	<string key="ui_housing_decorations" comment="Placed Housing Items">Tryb ozdabiania</string>
+	<string key="ui_housing_item_animated" comment="Placed Housing Items">Animowane dekoracje</string>
+	<string key="ui_housing_item_count" comment="Placed Housing Items">Umieszczone dekoracje</string>
+	<string key="ui_housing_item_total" comment="Placed Housing Items">Łączna liczba dekoracji</string>
+	<string key="ui_housing_no_items_found" comment="Placed Housing Items">Brak przedmiotów</string>
+	<string key="ui_housing_no_placed_items_found" comment="Placed Housing Items">Brak umieszczonych przedmiotów</string>
+	<string key="ui_housing_object" comment="Placed Housing Items">Obiekt domowy</string>
+	<string key="ui_housing_owned_filter" comment="Placed Housing Items">Pokaż tylko posiadane przedmioty</string>
+	<string key="ui_housing_return_all_items" comment="Placed Housing Items">Przenieś wszystkie przedmioty do składziku</string>
+	<string key="ui_housing_return_all_items_popup_description" comment="Placed Housing Items">Czy na pewno chcesz usunąć wszystkie przedmioty umieszczone w tym domu? Wszystkie przedmioty zostaną przeniesione do składziku.</string>
+	<string key="ui_housing_return_all_items_popup_header" comment="Placed Housing Items">Przenieść wszystkie przedmioty?</string>
+	<string key="ui_housing_trophy_empty_slot" comment="Placed Housing Items">Puste miejsce na trofeum</string>
+	<string key="ui_locate_item" comment="Placed Housing Items">Zlokalizuj przedmiot</string>
+	<string key="ui_start_move_housing_item" comment="Placed Housing Items">Przenieś przedmiot</string>
+	<string key="ui_company_discount" comment="Purchase House">Zniżka kompanii ({discountPercent}%)</string>
+	<string key="ui_home_purchase_error_level" comment="Purchase House">Musisz być na {level}. poziomie, by kupić następny dom</string>
+	<string key="ui_home_purchase_error_level_first" comment="Purchase House">Musisz być na {level}. poziomie, by kupić pierwszy dom</string>
+	<string key="ui_house_compensation_title" comment="Purchase House">Rekompensata za dom</string>
+	<string key="ui_house_purchase" comment="Purchase House">Kup ten dom: {coinText}</string>
+	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Czy chcesz kupić ten dom?</string>
+	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Anuluj</string>
+	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Kup dom</string>
+	<string key="ui_house_purchase_confirm_popup_yes_button" comment="Purchase House">Kup</string>
+	<string key="ui_house_purchase_error_full" comment="Purchase House">Ta działka jest pełna.\nBrak miejsc na sprzedaż.</string>
+	<string key="ui_house_purchase_error_standing" comment="Purchase House">Aby kupić ten dom, musisz mieć {standingRank}. rangę terytorium w: {standingName}.</string>
+	<string key="ui_house_purchase_error_territory_bonus" comment="Purchase House">Potrzebujesz prawa własności domu z: {standingName}</string>
+	<string key="ui_house_purchase_error_territory_bonus_desc" comment="Purchase House">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#F25D5D"&gt;Nie dysponujesz&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt; prawem własności domu&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#F25D5D"&gt; na tym terytorium, by móc kupić dom.&lt;/font&gt;\n &lt;font color="#AAAAAA"&gt;Prawo własności domu jest dostępne od&lt;/font&gt; &lt;font color="#EEEEEE"&gt; {standingRank}. rangi terytorium.&lt;/font&gt;</string>
+	<string key="ui_house_purchase_error_unknown" comment="Purchase House">Nieznany błąd zakupu.</string>
+	<string key="ui_house_purchase_standing_bonus_requirement" comment="Purchase House">Prawo własności domu: {standingName}</string>
+	<string key="ui_house_purchase_standing_requirement" comment="Purchase House">Poziom rangi terytorium: {standingValue} {standingName}</string>
+	<string key="ui_house_purchased" comment="Purchase House">Dom zakupiony!</string>
+	<string key="ui_house_purchased_detail" comment="Purchase House">Gratulacje, od teraz &lt;font color="#FFFFFF"&gt;posiadasz dom&lt;/font&gt; w: &lt;font color="#F4D179"&gt;{settlementName}&lt;/font&gt;! Pamiętaj o opłacaniu podatku od nieruchomości, by móc korzystać z funkcji domu!</string>
+	<string key="ui_housing_purchase_house" comment="Purchase House">Kup ten dom</string>
+	<string key="ui_reward_type_community_goal_territory_standing" comment="Settlement">Ranga terytorium: {amount}</string>
+	<string key="ui_this_location" comment="Settlement">To miejsce</string>
+	<string key="ui_town_center" comment="Settlement">Centrum miasteczka</string>
+	<string key="ui_current_inn_and_distance" comment="Settlement Inn">Gospoda w: {territoryName} ({distance})</string>
+	<string key="ui_current_inn_label" comment="Settlement Inn">TWOJA OBECNA GOSPODA</string>
+	<string key="ui_inn" comment="Settlement Inn">Gospoda</string>
+	<string key="ui_inn_already_checked_in" comment="Settlement Inn">Wygląda na to, że udało ci się już zameldować w tej gospodzie!\n\nMożesz powrócić do tej osady i się w niej odrodzić\nz dowolnego punktu mapy.</string>
+	<string key="ui_inn_check_in" comment="Settlement Inn">Zamelduj się w gospodzie w: {territoryName}</string>
+	<string key="ui_inn_check_in_desc" comment="Settlement Inn">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Witaj w gospodzie ({territoryName})!&lt;/font&gt;&lt;/font&gt;\n\n Czy chcesz się &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;zameldować&lt;/font&gt;&lt;/font&gt;?\n\nTo pozwoli ci powracać do tej osady i się w niej odradzać\nz dowolnego punktu na mapie!</string>
+	<string key="ui_inn_checked_in" comment="Settlement Inn">Oto twój nowy punkt powrotu: {territoryName}.</string>
+	<string key="ui_inn_fast_travel" comment="Settlement Inn">Powróć do gospody</string>
+	<string key="ui_inn_fast_travel_notavailable" comment="Settlement Inn">Powrót możliwy za: {time}</string>
+	<string key="ui_inn_header" comment="Settlement Inn">Gospoda w: {territoryName}</string>
+	<string key="ui_inn_map_tooltip" comment="Settlement Inn">&lt;font color="#949494"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Nie zameldowano&lt;/font&gt;&lt;/font&gt;\nZamelduj się w gospodzie, by utworzyć punkt powrotu i odrodzenia.</string>
+	<string key="ui_inn_recall_from_esc_popup_confirm" comment="Settlement Inn">Czy chcesz powrócić do gospody zlokalizowanej w: {territoryName}?</string>
+	<string key="ui_inn_recall_popup_confirm" comment="Settlement Inn">Czy chcesz powrócić do tej gospody?</string>
+	<string key="ui_inn_replace_desc" comment="Settlement Inn">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;Witaj w gospodzie ({territoryName})!&lt;/font&gt;&lt;/font&gt;\n\n Czy chcesz się &lt;font color="#f3d981"&gt;&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;zameldować&lt;/font&gt;&lt;/font&gt;?\nTo pozwoli ci powracać do tej osady i się w niej odradzać\nz dowolnego punktu na mapie!\n\n&lt;font color="#f3d981"&gt;Jeśli to zrobisz, zmienisz swój obecny punkt powrotu.&lt;/font&gt;</string>
+	<string key="ui_not_checked_in" comment="Settlement Inn">Zamelduj się w gospodzie, by aktywować punkt powrotu w tej osadzie.</string>
+	<string key="ui_not_checked_in_escape_menu" comment="Settlement Inn">Zamelduj się w gospodzie, by aktywować punkt powrotu.</string>
+	<string key="ui_not_checked_in_outpost" comment="Settlement Inn">Zamelduj się w gospodzie, by aktywować punkt powrotu na terenie tego posterunku.</string>
+	<string key="ui_your_inn" comment="Settlement Inn">&lt;font color="#73b651"&gt;&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;Zameldowano&lt;/font&gt;&lt;/font&gt;\nAktywna gospoda. Możesz powrócić do tej gospody i odrodzić się w niej z dowolnego punktu mapy.</string>
+	<string key="ui_housing_item_storage" comment="Storage">Pojemniki</string>
+	<string key="ui_return_to_storage" comment="Storage">Przenieś do składziku</string>
+	<string key="ui_view_personalstorage" comment="Storage">Mój magazyn</string>
+	<string key="ui_view_warinfo" comment="Territory Wars">Wyświetl informacje na temat wojny</string>
+	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Uwaga: Osiągnięto limit punktów mieszkaniowych tego przedmiotu.</string>
+	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Uwaga: Zbyt wiele takich samych przedmiotów domowych umieszczonych w domu spowoduje zebranie punktów negatywnych.</string>
+</resources>
+

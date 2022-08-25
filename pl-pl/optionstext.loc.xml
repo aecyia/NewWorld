@@ -1,0 +1,296 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_about">Informacje o grze</string>
+	<string key="ui_accessibility">Dostępność</string>
+	<string key="ui_audio">Dźwięk</string>
+	<string key="ui_controlsettings">Ustawienia sterowania</string>
+	<string key="ui_gameplay">Rozgrywka</string>
+	<string key="ui_graphicssettings">Ustawienia grafiki</string>
+	<string key="ui_legalnotice">Informacje prawne</string>
+	<string key="ui_legalnotice_desc">Wyświetl informacje prawne w oknie przeglądarki.</string>
+	<string key="ui_privacynotice">Oświadczenie o prywatności</string>
+	<string key="ui_privacynotice_desc">Wyświetl oświadczenie o prywatności w oknie przeglądarki.</string>
+	<string key="ui_credits">Autorzy</string>
+	<string key="ui_credits_desc">Zobacz zespół tworzący New World w oknie przeglądarki</string>
+	<string key="ui_reviewnotices">Zapoznaj się z informacjami.</string>
+	<string key="ui_termsnotice">Regulamin Amazon Games</string>
+	<string key="ui_termsnotice_desc">Wyświetl regulamin w oknie przeglądarki.</string>
+	<string key="ui_visual">Opcje wizualne</string>
+	<string key="ui_section_language">Język</string>
+	<string key="ui_section_camera">Kamera</string>
+	<string key="ui_section_gameplay">Rozgrywka</string>
+	<string key="ui_section_hud">HUD</string>
+	<string key="ui_section_healing">Leczenie</string>
+	<string key="ui_section_notifications">Powiadomienia</string>
+	<string key="ui_section_preferences">Preferencje</string>
+	<string key="ui_section_volume">Głośność</string>
+	<string key="ui_section_audio">Dźwięk</string>
+	<string key="ui_section_voicechat">Czat głosowy</string>
+	<string key="ui_section_chat">Czat</string>
+	<string key="ui_section_twitch">Twitch</string>
+	<string key="ui_section_display">Ekran</string>
+	<string key="ui_section_graphics">Grafika</string>
+	<string key="ui_section_advgraphics">Ustawienia zaawansowane</string>
+	<string key="ui_section_group">Więcej opcji</string>
+	<string key="ui_voicechatsettings">Czat głosowy</string>
+	<string key="ui_openvoicechatsettings">Wyświetl ustawienia czatu głosowego</string>
+	<string key="ui_invertlook">Odwróć kamerę</string>
+	<string key="ui_invertlook_desc">Odwraca oś Y.</string>
+	<string key="ui_looksensitivity">Czułość kamery</string>
+	<string key="ui_looksensitivity_desc">Jak szybko porusza się kamera.</string>
+	<string key="ui_window_mode">Tryb okna</string>
+	<string key="ui_window_mode_desc">Tryb wyświetlania gry w oknie.</string>
+	<string key="ui_fullscreen">Pełny ekran</string>
+	<string key="ui_unavailable_while_dead">Niedostępne w trakcie śmierci</string>
+	<string key="ui_windowed">W oknie</string>
+	<string key="ui_windowed_fullscreen">Pełny ekran w oknie</string>
+	<string key="ui_borderless_window">Okno bez ramki</string>
+	<string key="ui_resolution">Rozdzielczość</string>
+	<string key="ui_resolution_desc">Rozdzielczość obrazu.</string>
+	<string key="ui_monitor">Monitor</string>
+	<string key="ui_monitor_desc">Twój monitor</string>
+	<string key="ui_show_fps">Pokaż FPS</string>
+	<string key="ui_show_fps_desc">Wyświetla lub ukrywa liczbę klatek na sekundę.</string>
+	<string key="ui_enable_vsync">Synchronizacja w pionie</string>
+	<string key="ui_enable_vsync_description">Ogranicza liczbę klatek na sek. do częst. odświeżania twojego monitora. Włącz, by zmniejszyć efekt rwania się obrazu.</string>
+	<string key="ui_enable_motionblur">Rozmycie w ruchu</string>
+	<string key="ui_enable_motionblur_description">Włącza lub wyłącza rozmycie w ruchu.</string>
+	<string key="ui_graphics_effect">Jakość efektów</string>
+	<string key="ui_graphics_effect_description">Ustawienia jakości cząstek, efektów objętościowych i innych efektów w grze.</string>
+	<string key="ui_graphics_lighting">Jakość oświetlenia</string>
+	<string key="ui_graphics_lighting_description">Ustawienia jakości oświetlenia w grze (nie dotyczy cieni).</string>
+	<string key="ui_graphics_objects">Jakość obiektów</string>
+	<string key="ui_graphics_objects_description">Ustawienia jakości wyświetlania obiektów w grze.</string>
+	<string key="ui_graphics_postprocessing">Jakość przetwarzania</string>
+	<string key="ui_graphics_postprocessing_description">Ustawienia jakości przetwarzania obrazu w grze.</string>
+	<string key="ui_graphics_shadows">Jakość cieni</string>
+	<string key="ui_graphics_shadows_description">Ustawienia jakości cieni w grze (nie dotyczy oświetlenia).</string>
+	<string key="ui_graphics_terrain">Jakość terenu</string>
+	<string key="ui_graphics_terrain_description">Ustawienia jakości wyświetlania terenu w grze.</string>
+	<string key="ui_graphics_textures">Jakość tekstur</string>
+	<string key="ui_graphics_textures_description">Ustawienia jakości tekstur w grze.</string>
+	<string key="ui_graphics_water">Jakość wody</string>
+	<string key="ui_graphics_water_description">Ustawienia jakości wyświetlania wody w grze.</string>
+	<string key="ui_graphics_emote_fx">Efekty specjalne gestów</string>
+	<string key="ui_graphics_emote_fx_description">Włącz pokazywanie efektów specjalnych gestów innych graczy.</string>
+	<string key="ui_options_keybindings">Konfiguracja klawiszy</string>
+	<string key="ui_options_gameplay">Gra</string>
+	<string key="ui_options_visuals">Obraz</string>
+	<string key="ui_options_preferences">Preferencje</string>
+	<string key="ui_options_audio">Dźwięk</string>
+	<string key="ui_options_comms">Komunikacja</string>
+	<string key="ui_options_social">Społeczność</string>
+	<string key="ui_options_about">Informacje o grze</string>
+	<string key="ui_options_accessibility">Dostępność</string>
+	<string key="ui_options_chat_font_size_desc">Dostosuj rozmiar czcionki na czacie</string>
+	<string key="ui_chat_message_fade_delay_desc">Ustal, przez ile sekund będą widoczne nowe wiadomości na czacie</string>
+	<string key="ui_chat_message_background_opacity_desc">Ustal przejrzystość tła wiadomości na czacie</string>
+	<string key="ui_chat_message_gameplay_opacity_desc">Ustal przejrzystość wiadomości na czacie</string>
+	<string key="ui_chat_enable_close_after_send_desc">Zamyka czat po wysłaniu wiadomości</string>
+	<string key="ui_chat_enable_always_show_time_options_desc">Zawsze pokazuj czas wysłania wiadomości na czacie</string>
+	<string key="ui_chat_enable_alerts_desc">Pokazuj powiadomienia, gdy czat jest zamknięty</string>
+	<string key="ui_chat_enable_color_messages_options_desc">Kolor wiadomości będzie taki sam, jak kolor kanału</string>
+	<string key="ui_streamermode_ui">Ukryj powiadomienia społecznościowe</string>
+	<string key="ui_streamermode_ui_desc">Zalecane dla streamerów – ukryj duże powiadomienia o przysłanych zaproszeniach do znajomych, grupy i kompanii. Zaproszenia do handlu i pojedynku pozostaną widoczne.</string>
+	<string key="ui_streamermode_server">Automatyczne odrzucanie zaproszeń</string>
+	<string key="ui_streamermode_server_desc">Włącza automatyczne odrzucanie powiadomień i zaproszeń z rodzajów podanych poniżej</string>
+	<string key="ui_streamermode_server_friend">Blokowanie zaproszeń do znajomych</string>
+	<string key="ui_streamermode_server_friend_desc">Blokuje zaproszenia do znajomych i powiadomienia</string>
+	<string key="ui_streamermode_server_group">Blokowanie zaproszeń do grupy</string>
+	<string key="ui_streamermode_server_group_desc">Blokuje zaproszenia do grupy i powiadomienia</string>
+	<string key="ui_streamermode_server_guild">Blokowanie zaproszeń do kompanii</string>
+	<string key="ui_streamermode_server_guild_desc">Blokuje zaproszenia do kompanii i powiadomienia</string>
+	<string key="ui_streamermode_server_trade">Blokowanie zaproszeń do handlu</string>
+	<string key="ui_streamermode_server_trade_desc">Blokuje zaproszenia do handlu i powiadomienia</string>
+	<string key="ui_streamermode_server_duel">Blokowanie zaproszeń do pojedynku</string>
+	<string key="ui_streamermode_server_duel_desc">Blokuje zaproszenia do pojedynku i powiadomienia</string>
+	<string key="ui_streamermode_server_chat">Blokowanie wiadomości</string>
+	<string key="ui_streamermode_server_chat_desc">Blokuje wiadomości i powiadomienia</string>
+	<string key="ui_streamermode_server_currency">Blokowanie przekazów monet</string>
+	<string key="ui_streamermode_server_currency_desc">Blokuje przekazy monet i powiadomienia</string>
+	<string key="ui_streamermode_server_music_invite" rel_version="Feature_MusicalPerformances">Zablokuj zaproszenia muzyczne</string>
+	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Zablokuj zaproszenia do występów muzycznych i powiadomienia</string>
+	<string key="ui_voicechatmode">Tryb czatu głosowego</string>
+	<string key="ui_voicechatmode_desc">Aktualny tryb czatu głosowego.</string>
+	<string key="ui_voicechatmode_enabled">Włączony</string>
+	<string key="ui_voicechatmode_grouponly">Tylko grupa</string>
+	<string key="ui_voicechatmode_world">Świat</string>
+	<string key="ui_voicechatmode_disabled">Wyłączony</string>
+	<string key="ui_speaker_desc">Aktualne urządzenie odtwarzania dźwięku.</string>
+	<string key="ui_receivevolume_desc">Zmienia głośność odbieranych komunikatów.</string>
+	<string key="ui_microphone_desc">Aktualne urządzenie mikrofonowe.</string>
+	<string key="ui_microphonevolume_desc">Zmienia głośność dźwięku z mikrofonu.</string>
+	<string key="ui_microphonesensitivity_desc">Zmienia czułość mikrofonu.</string>
+	<string key="ui_voicechatinputmode">Uaktywnianie czatu głosowego</string>
+	<string key="ui_voicechatinputmode_desc">Twój aktualny tryb uaktywniania czatu głosowego.</string>
+	<string key="ui_voicechatinputmode_alwayson">Zawsze włączony</string>
+	<string key="ui_voicechatinputmode_pushtotalk">Naciśnij i mów (przytrzymaj)</string>
+	<string key="ui_voicechatinputmode_pushtotalk_toggle">Naciśnij i mów (naciśnij)</string>
+	<string key="ui_options_settings">Ustawienia</string>
+	<string key="ui_graphics_settings" comment="Graphics quality settings">Jakość obrazu</string>
+	<string key="ui_graphics_settings_desc">Wstępnie skonfigurowane ustawienia grafiki; niższe przyspieszają działanie gry, wyższe poprawiają jej wygląd.</string>
+	<string key="ui_options_graphics_custom">Użytkownika</string>
+	<string key="ui_options_graphics_low">Niska</string>
+	<string key="ui_options_graphics_medium">Średnia</string>
+	<string key="ui_options_graphics_high">Wysoka</string>
+	<string key="ui_options_graphics_vhigh">Bardzo wysoka</string>
+	<string key="ui_options_take_exit_survey">Wypełnij ankietę</string>
+	<string key="ui_options_take_exit_survey_desc">Przy wychodzeniu z gry wypełnij krótką ankietę.</string>
+	<string key="ui_mastervolume" comment="In-game audio settings">Głośność ogólna</string>
+	<string key="ui_mastervolume_desc">Zmienia głośność ogólną gry.</string>
+	<string key="ui_cinevolume">Głośność filmów</string>
+	<string key="ui_cinevolume_desc">Zmienia głośność filmów.</string>
+	<string key="ui_sfxvolume">Głośność efektów dźwiękowych</string>
+	<string key="ui_sfxvolume_desc">Zmienia głośność efektów dźwiękowych.</string>
+	<string key="ui_ambvolume">Głośność efektów dźwiękowych otoczenia</string>
+	<string key="ui_ambvolume_desc">Zmienia głośność efektów dźwiękowych otoczenia.</string>
+	<string key="ui_vocalsvolume">Głośność dialogów</string>
+	<string key="ui_vocalsvolume_desc">Zmienia głośność kwestii wypowiadanych przez postaci.</string>
+	<string key="ui_vovolume">Głośność postaci w tle</string>
+	<string key="ui_vovolume_desc">Zmienia głośność postaci w tle.</string>
+	<string key="ui_musicvolume">Głośność muzyki</string>
+	<string key="ui_musicvolume_desc">Zmienia głośność muzyki.</string>
+	<string key="ui_ambientmusicvolume">Głośność muzyki tła</string>
+	<string key="ui_ambientmusicvolume_desc">Zmienia głośność muzyki tła.</string>
+	<string key="ui_uivolume">Głośność interfejsu</string>
+	<string key="ui_uivolume_desc">Zmienia głośność efektów dźwiękowych interfejsu.</string>
+	<string key="ui_loudnesslevel">Podbij ciche dźwięki</string>
+	<string key="ui_loudnesslevel_desc">Spraw, aby ciche dźwięki były głośniejsze.</string>
+	<string key="ui_audioquality">Jakość dźwięku</string>
+	<string key="ui_audioquality_desc">Dostosowuje jakość dźwięku. Niższe wartości zużywają mniej zasobów systemu. Wyższe wartości zużywają więcej zasobów systemu i oferują bogatsze doznania dźwiękowe.</string>
+	<string key="ui_max_fps">Maks. FPS</string>
+	<string key="ui_max_fps_desc">Ogranicza liczbę klatek wyświetlanych na sekundę (fps)</string>
+	<string key="ui_options_graphics_30fps">30 fps</string>
+	<string key="ui_options_graphics_60fps">60 fps</string>
+	<string key="ui_options_graphics_uncappedfps">Bez ograniczenia</string>
+	<string key="ui_language">Język</string>
+	<string key="ui_language_desc">Wybierz język menu.</string>
+	<string key="en-US">English</string>
+	<string key="fr-FR">Français</string>
+	<string key="it-IT">Italiano</string>
+	<string key="de-DE">Deutsch</string>
+	<string key="pl-PL">Polski</string>
+	<string key="es-ES">Español – ES</string>
+	<string key="es-MX">Español – MX</string>
+	<string key="pt-BR">Português – BR</string>
+	<string key="ui_profanity_filter">Filtr wulgaryzmów</string>
+	<string key="ui_profanity_filter_desc">Cenzuruje wulgarne słowa na czacie.</string>
+	<string key="ui_subtitles">Napisy</string>
+	<string key="ui_subtitles_desc">Włącz wyświetlanie napisów podczas dialogów.</string>
+	<string key="ui_metaachievementpopups">Włącz powiadomienia o osiągnięciach</string>
+	<string key="ui_metaachievementpopups_desc">Włącz powiadomienia ekranowe, gdy osiągnięcie zostanie ukończone albo będzie bliskie ukończenia.</string>
+	<string key="ui_colorBlindness">Ślepota barw</string>
+	<string key="ui_colorBlindness_desc">Włącza filtr dla osób cierpiących na ślepotę barw.</string>
+	<string key="ui_options_ColorBlindness_NoFilter">Brak filtra</string>
+	<string key="ui_options_ColorBlindness_Protanopia">Protanopia</string>
+	<string key="ui_options_ColorBlindness_Protanomaly">Protanomalia</string>
+	<string key="ui_options_ColorBlindness_Deuteranopia">Deuteranopia</string>
+	<string key="ui_options_ColorBlindness_Deuteranomaly">Deuteranomalia</string>
+	<string key="ui_options_ColorBlindness_Tritanopia">Tritanopia</string>
+	<string key="ui_options_ColorBlindness_Tritanomaly">Tritanomalia</string>
+	<string key="ui_options_ColorBlindness_Achromatopsia">Achromatopsja</string>
+	<string key="ui_options_ColorBlindness_Achromatomaly">Achromatomalia</string>
+	<string key="ui_options_twitch">Twitch</string>
+	<string key="ui_options_TwitchLogin">Połącz z Twitchem</string>
+	<string key="ui_options_TwitchLogin_desc">Zaloguj się, aby uaktywnić funkcje Twitcha</string>
+	<string key="ui_options_TwitchStreamerSpotlight">Wyróżnianie streamera na Twitchu</string>
+	<string key="ui_options_TwitchStreamerSpotlight_desc">Włącz wyróżnianie streamera na Twitchu. Umożliwia innym graczom obserwowanie twojego streamu na Twitchu (działa tylko podczas streamowania)</string>
+	<string key="ui_options_TwitchHideOtherStreamers">Ukryj innych streamerów</string>
+	<string key="ui_options_TwitchHideOtherStreamers_desc">Włącz tę funkcję, aby ukrywać informacje o wyróżnianiu innych graczy, gdy streamujesz rozgrywkę i korzystasz z funkcji wyróżniania na Twitchu</string>
+	<string key="ui_options_TwitchSubArmy">Armia Twitch</string>
+	<string key="ui_options_TwitchSubArmy_desc">Umożliwia dołączanie do streamerów lub werbowanie subskrybentów i obserwujących na Twitchu do własnej grupy lub kompanii</string>
+	<string key="ui_textSize">Wielkość tekstu</string>
+	<string key="ui_textSize_desc">Powiększa tekst na tabliczkach z imionami i w podpowiedziach działań.</string>
+	<string key="ui_options_textSize_regular">Zwykła</string>
+	<string key="ui_options_textSize_bigger">Większa</string>
+	<string key="ui_cameraShake">Włącz drganie kamery</string>
+	<string key="ui_cameraShake_desc">Dla niektórych graczy drganie kamery może być dezorientujące</string>
+	<string key="ui_strafeCamera">Zawsze idź bokiem</string>
+	<string key="ui_strafeCamera_desc">Postać jest zawsze zwrócona w tym samym kierunku, co kamera.</string>
+	<string key="ui_alwaysShowReticle">Zawsze pokazuj celownik</string>
+	<string key="ui_alwaysShowReticle_desc">Celownik jest widoczny nawet wtedy, gdy broń jest schowana</string>
+	<string key="ui_show_pvp_xp">Wyświetl PD PvP na ekranie</string>
+	<string key="ui_show_pvp_xp_desc">Wyłącz tę opcję, by ukryć liczbę zdobywanych PD PvP.</string>
+	<string key="ui_showInspectHint">Funkcje społeczności – podpowiedź</string>
+	<string key="ui_showInspectHint_desc">Przy patrzeniu na gracza wyświetl na tabliczce z jego imieniem podpowiedź związaną z przypisaniem klawiszy funkcji społeczności.</string>
+	<string key="ui_restore_defaults">Przywróć domyślne</string>
+	<string key="ui_restore_defaults_desc">Przywraca ustawienia domyślne tych opcji</string>
+	<string key="ui_restore_defaults_prompt">Czy na pewno chcesz przywrócić ustawienia domyślne tych opcji?</string>
+	<string key="ui_audiooutput_headphones">Słuchawki</string>
+	<string key="ui_audiooutput_speakers">Kino domowe</string>
+	<string key="ui_mute_performance" rel_version="Feature_MusicalPerformances">Wycisz instrumenty muzyczne innych graczy</string>
+	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Wycisz muzykę graną przez innych graczy</string>
+	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Wycisz muzykę bojową</string>
+	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Wycisz muzykę bojową</string>
+	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Wycisz dodatkowe dźwięki występu</string>
+	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Wycisz klaskanie i dodatkowe efekty występów muzycznych</string>
+	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Głośność instrumentów muzycznych</string>
+	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Dostosuj głośność muzyki granej na instrumentach przez pobliskich oraz odległych graczy</string>
+	<string key="ui_outputconfiguration">Konfiguracja wyjścia</string>
+	<string key="ui_outputconfiguration_desc">Wybierz panoramowanie dźwięku w polu o zakresie 360 stopni dla kin domowych lub 180 stopni dla słuchawek.</string>
+	<string key="ui_texttospeech">Synteza mowy</string>
+	<string key="ui_texttospeech_desc">Włącz syntezę mowy dla wiadomości przychodzących czatu.</string>
+	<string key="ui_tts_rate">Tempo syntezy mowy</string>
+	<string key="ui_tts_rate_desc">Szybkość odtwarzania wiadomości poddanych syntezie mowy.</string>
+	<string key="ui_tts_volume">Głośność syntezy mowy</string>
+	<string key="ui_tts_volume_desc">Głośność odtwarzania wiadomości poddanych syntezie mowy.</string>
+	<string key="ui_speechtotext">Zamiana mowy na tekst</string>
+	<string key="ui_speechtotext_desc">Włącz zamianę mowy na tekst dla czatu głosowego.</string>
+	<string key="ui_enable_hudShowVitalsValues">Wyświetl wartości na wskaźnikach</string>
+	<string key="ui_enable_hudShowVitalsValues_decstription">Wyświetla wartość liczbową na pasku zdrowia i innych wskaźnikach podstawowych.</string>
+	<string key="ui_enable_hudAlwaysFade">Kontekstowe rozmycie</string>
+	<string key="ui_enable_hudAlwaysFade_description">Elementy HUD będą się rozmywać w zależności od sytuacji.</string>
+	<string key="ui_enable_hudShowAllWeapons">Zawsze pokazuj broń</string>
+	<string key="ui_enable_hudShowAllWeapons_description">Wszystkie miejsca na broń będą zawsze wyświetlane w HUD.</string>
+	<string key="ui_bandwidthmode">Szerokość pasma</string>
+	<string key="ui_bandwidthmode_desc">Zmienia szerokość pasma podczas pobierania danych z serwera. Niskie wartości mogą negatywnie wpłynąć na jakość.</string>
+	<string key="ui_analyticsenabled">Wysyłaj dane telemetryczne klienta</string>
+	<string key="ui_analyticsenabled_desc">Jeśli wyłączysz to ustawienie, przestaniesz wysyłać do zespołu New World pewne dane telemetryczne klienta związane z Twoimi doświadczeniami i ustawieniami w grze. Jeśli doświadczasz problemów sieciowych w New World, wyłączenie tego ustawienia może pomóc.</string>
+	<string key="ui_enable_camera_lock">Celowane leczenie</string>
+	<string key="ui_enable_camera_lock_description">Włącza system celowanego leczenia</string>
+	<string key="ui_enable_camera_lock_friendlies">Zablokuj kamerę na sojusznikach</string>
+	<string key="ui_enable_camera_lock_friendlies_description">Pozwala namierzać sojuszników, by następnie ich uleczyć.</string>
+	<string key="ui_enable_camera_lock_target_follow">Swobodna kamera</string>
+	<string key="ui_enable_camera_lock_target_follow_description">Umożliwia swobodne poruszanie kamerą po namierzeniu celu. Wyłącz tę opcję, by kamera podążała za aktywnym celem</string>
+	<string key="ui_enable_camera_lock_retarget">Zmiana celu kamerą</string>
+	<string key="ui_enable_camera_lock_retarget_description">Umożliwia zmianę aktywnego celu za pomocą kamery. Jest to możliwe tylko po wyłączeniu swobodnej kamery</string>
+	<string key="ui_enable_camera_lock_sticky_lock">Trwałe namierzenie</string>
+	<string key="ui_enable_camera_lock_sticky_lock_description">Umożliwia dalsze namierzanie celu po przeprowadzeniu leczenia</string>
+	<string key="ui_enable_camera_lock_manual_toggle">Ręczne namierzanie celu</string>
+	<string key="ui_enable_camera_lock_manual_toggle_description">Pozwala namierzyć cel za pomocą środkowego przycisku myszy. Nie wymaga aktywnego zaklęcia leczniczego</string>
+	<string key="ui_enable_camera_lock_group_mode">Tryb grupowy</string>
+	<string key="ui_enable_camera_lock_group_mode_description">Włącza tryb grupowy, podczas którego można się przełączać pomiędzy członkami grupy za pomocą środkowego kółka myszy</string>
+	<string key="ui_gena_escape" rel_version="Feature_GameEntryNarrationAssistance">Escape</string>
+	<string key="ui_gena" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa – uruchomienie gry</string>
+	<string key="ui_gena_title" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa – uruchomienie gry</string>
+	<string key="ui_gena_desc" rel_version="Feature_GameEntryNarrationAssistance">Włącz asystę głosową ułatwiającą uruchomienie gry.</string>
+	<string key="ui_gena_restricted" rel_version="Feature_GameEntryNarrationAssistance">Czat głosowy z pobliskimi graczami wyłączony. Twoje konto istnieje zbyt krótko lub jest zablokowane.</string>
+	<string key="ui_gena_instruction" rel_version="Feature_GameEntryNarrationAssistance">New World wspiera asystę głosową (tylko angielski), przeznaczoną dla graczy niedowidzących lub niewidomych. Możesz włączyć lub wyłączyć tę opcję w ustawieniach w dowolnej chwili.</string>
+	<string key="ui_genaprompt_genaison" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa – uruchomienie gry: włączono Naciśnij {toggleGENA}, by wyłączyć. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_genaisoff" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa – uruchomienie gry: wyłączono Naciśnij {toggleGENA}, by włączyć. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_genascreen" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa – uruchomienie gry. Naciśnij {toggleGENA}, by włączyć. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_seizurescreen" rel_version="Feature_GameEntryNarrationAssistance">Ostrzeżenie przed napadem padaczki fotogennej. Jeśli cierpisz na epilepsję lub cierpi na nią ktoś z twojej rodziny, skonsultuj się z lekarzem, zanim zaczniesz grać w New World. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_cocscreen" rel_version="Feature_GameEntryNarrationAssistance">Zasady postępowania. Zgadasz się dbać o społeczność, grać uczciwie i odnosić się do innych z szacunkiem. Naciśnij {frontEndContinue}, by zaakceptować.</string>
+	<string key="ui_genaprompt_titlescreen" rel_version="Feature_GameEntryNarrationAssistance">New World – ekran tytułowy. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_newsscreen" rel_version="Feature_GameEntryNarrationAssistance">New World – wiadomości. Naciśnij {frontEndContinue}, by kontynuować.</string>
+	<string key="ui_genaprompt_waitingpopup" rel_version="Feature_GameEntryNarrationAssistance">Oczekiwanie na zalogowanie. Proszę czekać…</string>
+	<string key="ui_genaprompt_loadingscreen" rel_version="Feature_GameEntryNarrationAssistance">Wczytywanie. Proszę czekać…</string>
+	<string key="ui_genaprompt_characterselect" rel_version="Feature_GameEntryNarrationAssistance">Ekran wyboru postaci. Naciśnij {frontEndContinue}, by wybrać {characterName}. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_worldselect" rel_version="Feature_GameEntryNarrationAssistance">Ekran wyboru świata. Naciśnij {frontEndContinue}, by wybrać {world} w {worldset}. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_worldselectconfirm" rel_version="Feature_GameEntryNarrationAssistance">{warning}. Naciśnij {frontEndContinue}, by zaakceptować. Naciśnij {toggleMenuComponent}, by wybrać inny świat.</string>
+	<string key="ui_genaprompt_basicsettings" rel_version="Feature_GameEntryNarrationAssistance">Podstawowe ustawienia. Naciśnij {frontEndContinue}, by kontynuować. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_brightnesssettings" rel_version="Feature_GameEntryNarrationAssistance">Ustawienia jasności. Naciśnij {frontEndContinue}, by kontynuować. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_introcutscene" rel_version="Feature_GameEntryNarrationAssistance">Wprowadzenie – przerywnik filmowy. Przytrzymaj dowolny klawisz, aby pominąć.</string>
+	<string key="ui_genaprompt_characterappearance" rel_version="Feature_GameEntryNarrationAssistance">Tworzenie wyglądu postaci. Naciśnij {frontEndContinue}, by kontynuować. Naciśnij {toggleMenuComponent}, by wyjść.</string>
+	<string key="ui_genaprompt_charactername" rel_version="Feature_GameEntryNarrationAssistance">Imię postaci. Wpisz imię postaci. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_nameconfirm" rel_version="Feature_GameEntryNarrationAssistance">Naciśnij {frontEndContinue}, by stworzyć postać o imieniu {characterName}. Naciśnij {toggleMenuComponent}, by wrócić.</string>
+	<string key="ui_genaprompt_nameerror" rel_version="Feature_GameEntryNarrationAssistance">{error}. Zmień imię postaci.</string>
+	<string key="ui_genaprompt_skiptutorialtitle" rel_version="Feature_GameEntryNarrationAssistance">Pomiń samouczek</string>
+	<string key="ui_genaprompt_skiptutorial" rel_version="Feature_GameEntryNarrationAssistance">Asysta głosowa nie obejmuje samouczka. Czy chcesz pominąć i przejść do New World?</string>
+	<string key="ui_genaprompt_upcomingmerge" rel_version="Feature_GameEntryNarrationAssistance">Powiadomienie o nadchodzącym połączeniu światów. Posiadasz co najmniej jedną postać w światach, które wkrótce zostaną połączone. Naciśnij {toggleMenuComponent}, by zamknąć.</string>
+	<string key="ui_genaprompt_mergecomplete" rel_version="Feature_GameEntryNarrationAssistance">Powiadomienie o połączeniu światów. Co najmniej jedna z twoich postaci została przeniesiona w wyniku połączenia światów. Naciśnij {toggleMenuComponent}, by zamknąć.</string>
+	<string key="ui_genaprompt_ingame" rel_version="Feature_GameEntryNarrationAssistance">Naciśnij {toggleChatComponent}, by otworzyć czat tekstowy i komunikować się z innymi graczami. Napisz wiadomość, a następnie naciśnij {toggleChatComponent}, by ją wysłać. Naciśnij i przytrzymaj {toggleMicrophone} podczas mówienia, by skorzystać z czatu głosowego z pobliskimi graczami.</string>
+	<string key="ui_genaprompt_popupyesno" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Naciśnij {toggleMenuComponent}, by wybrać "Nie". Naciśnij {frontEndContinue}, by wybrać "Tak".</string>
+	<string key="ui_genaprompt_popupok" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message} Naciśnij {frontEndContinue}, by zamknąć.</string>
+	<string key="ui_genaprompt_popupokcancel" rel_version="Feature_GameEntryNarrationAssistance">{title}. {message}. Naciśnij {frontEndContinue}, by potwierdzić. Naciśnij {toggleMenuComponent}, by anulować.</string>
+</resources>
+

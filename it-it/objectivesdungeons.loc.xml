@@ -1,0 +1,221 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="dungeon_amrine_title">Scavi di Amrine</string>
+	<string key="dungeon_amrine_description">Questo sito archeologico deve essere scavato!</string>
+	<string key="dungeon_amrine_required_equipment">1 bastone di Azoth</string>
+	<string key="dungeon_amrine_task_explore">Esplora lo scavo.</string>
+	<string key="dungeon_amrine_task_sealed_gate">Usa il bastone di Azoth per sciogliere il Sigillo di Azoth e sbloccare il cancello.</string>
+	<string key="dungeon_amrine_find_simons_investigation">Trova l'indagine di Simon Grey sulla tecnologia degli Antichi.</string>
+	<string key="dungeon_amrine_task_restore_bridge">Ripara il Ponte Mechana.</string>
+	<string key="dungeon_amrine_task_restore_bridge_scripts">Usa il bastone di Azoth per tradurre i testi sull'Azoth nelle Caverne dissotterrate. Nascosto nei testi sull'Azoth c'è un indizio per sbloccare il Ponte Mechana.</string>
+	<string key="dungeon_amrine_task_find_vestibule">Trova il Vestibolo spezzato. Il testo sull'Azoth indica la presenza di una fonte di energia nella camera.</string>
+	<string key="dungeon_amrine_task_restore_bridge_glyphs">Attiva il Sigillo di Azoth del Vestibolo per riparare il Ponte Mechana.</string>
+	<string key="dungeon_amrine_task_defeat_vestibule_guardians">Sconfiggi i Guardiani della camera del Vestibolo.</string>
+	<string key="dungeon_amrine_task_activate_bridge">Attiva il Ponte Mechana.</string>
+	<string key="dungeon_amrine_task_defeat_grunt">Sconfiggi l'abominio e trova la Candela consacrata.</string>
+	<string key="dungeon_amrine_task_explore_2">Continua a esplorare lo scavo.</string>
+	<string key="dungeon_amrine_task_hallowed_candle">Posiziona la Candela consacrata sul Santuario spettrale.</string>
+	<string key="dungeon_amrine_task_defeat_foreman">Sconfiggi il Capomastro Nakashima e i manovali Perduti.</string>
+	<string key="dungeon_amrine_task_find_simongrey">Trova ciò che resta di Simon Grey.</string>
+	<string key="dungeon_amrine_task_defeat_simongrey">Sconfiggi Simon Grey!</string>
+	<string key="dungeon_amrine_task_simons_discovery">Torna in superficie per perseguire la verità sulla ricerca di Simon.</string>
+	<string key="dungeon_amrine_interact_hallowed_candle">Candela consacrata</string>
+	<string key="dungeon_amrine_interact_spectral_shrine">Santuario spettrale</string>
+	<string key="dungeon_everfall_title">Tumuli di pietra stellare</string>
+	<string key="dungeon_everfall_description">Recupera il Diadema di pietra stellare da Greundgul il Reggente all'interno dei Tumuli di pietra stellare.</string>
+	<string key="dungeon_everfall_required_equipment">1 bastone di Azoth</string>
+	<string key="dungeon_everfall_task_explore">Esplora le sale per trovare un percorso verso l'Obelisco infranto.</string>
+	<string key="dungeon_everfall_task_sealedchamber">Usa il bastone di Azoth per entrare nella Camera sigillata.</string>
+	<string key="dungeon_everfall_task_sealedchamberexit">Continua a esplorare il complesso antico.</string>
+	<string key="dungeon_everfall_task_traversal">Esplora il Passaggio proibito. Ottieni Protezione dall'arcano per superare le barriere.</string>
+	<string key="dungeon_everfall_task_traversalexit">Continua a esplorare per trovare un percorso verso l'Obelisco infranto.</string>
+	<string key="dungeon_everfall_task_ampitheater">Usa il bastone di Azoth per accedere all'Obelisco infranto.</string>
+	<string key="dungeon_everfall_task_ampitheaterexit">Sconfiggi i guardiani dell'Obelisco e poi avvicinati all'Obelisco infranto.</string>
+	<string key="dungeon_everfall_task_obeliskbarrier">Cerca un modo per attraversare le barriere arcane.</string>
+	<string key="dungeon_everfall_task_obeliskstatuseffect">Ottieni Protezione dall'arcano.</string>
+	<string key="dungeon_everfall_task_obelisksearchkey">Cerca la chiave per accedere alla Cripta del reggente.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Scollega la serratura potente del Santuario antico e usalo per benedire la chiave dell'Obelisco.</string>
+	<string key="dungeon_everfall_task_obeliskusekey">Usa la chiave dell'Obelisco benedetta per accedere alla Cripta della reggente.</string>
+	<string key="dungeon_everfall_task_bossdoorenter">Procedi verso la Cripta della reggente.</string>
+	<string key="dungeon_everfall_task_bossdoorapproach">Avvicinati a Greundgul il Reggente.</string>
+	<string key="dungeon_everfall_task_boss">Sconfiggi Greundgul il Reggente.</string>
+	<string key="dungeon_everfall_task_complete">Abbandona i Tumuli di pietra stellare.</string>
+	<string key="dungeon_reekwater_title">La Strumentalità di Lazzaro</string>
+	<string key="dungeon_reekwater_description">Scopri i segreti dell'antico sito magico.</string>
+	<string key="dungeon_reekwater_required_equipment">1 bastone di Azoth</string>
+	<string key="dungeon_reekwater_task_entry_01">Scopri i segreti dell'antico sito magico.</string>
+	<string key="dungeon_reekwater_task_entry_02">Addentrati ulteriormente.</string>
+	<string key="dungeon_reekwater_task_ostium">Usa i Glifi di Azoth per sigillare i portali antichi di Azoth.</string>
+	<string key="dungeon_reekwater_task_lazarus_01">Continua a esplorare la Strumentalità di Lazzaro.</string>
+	<string key="dungeon_reekwater_task_lazarus_02">Sblocca il Sigillo di Azoth per aprire una via d'uscita.</string>
+	<string key="dungeon_reekwater_task_lazarus_03">Sconfiggi i guardiani che bloccano il percorso.</string>
+	<string key="dungeon_reekwater_task_tribute_01">Prosegui nel Tributario.</string>
+	<string key="dungeon_reekwater_task_tribute_01b">Torna su per le scale del Tributario verso le camere da bagno.</string>
+	<string key="dungeon_reekwater_task_tribute_02">Purificatevi nell'acqua impregnata di Azoth.</string>
+	<string key="dungeon_reekwater_task_tribute_03">Torna da Cilla.</string>
+	<string key="dungeon_reekwater_task_boss_naga">Sconfiggi Cilla.</string>
+	<string key="dungeon_reekwater_task_walk_01">Prosegui verso l'ultima passeggiata e inizia la prova successiva.</string>
+	<string key="dungeon_reekwater_task_walk_02">Sopravvivi fino al completamento della prova.</string>
+	<string key="dungeon_reekwater_task_control_01">Addentrati nella Strumentalità di Lazzaro.</string>
+	<string key="dungeon_reekwater_task_control_02">Sblocca il Sigillo di Azoth delle camere da bagno.</string>
+	<string key="dungeon_reekwater_task_control_03">Dirigiti verso il centro della Strumentalità di Lazzaro.</string>
+	<string key="dungeon_reekwater_task_control_04">Sconfiggi i guardiani per farti strada.</string>
+	<string key="dungeon_reekwater_task_control_05">Prosegui verso il centro della Strumentalità di Lazzaro.</string>
+	<string key="dungeon_reekwater_task_control_06">Sconfiggi l'Arcanista Khamruset</string>
+	<string key="dungeon_reekwater_task_control_07">Raccogli il cuore del Guardiano antico.</string>
+	<string key="dungeon_reekwater_task_boss_01">Porta il cuore del Guardiano antico al dispositivo al centro della Strumentalità di Lazzaro.</string>
+	<string key="dungeon_reekwater_task_boss_02">Sconfiggi Chardis.</string>
+	<string key="dungeon_reekwater_task_complete">Esci dalla Strumentalità di Lazzaro.</string>
+	<string key="dungeon_ebonscale00_title">Cantiere navale della dinastia</string>
+	<string key="dungeon_ebonscale00_description">Sventa i piani dell'Imperatrice</string>
+	<string key="dungeon_cutlasskeys00_title" rel_version="Expedition_CutlassKeys_00">Cirripedi e polvere da sparo</string>
+	<string key="dungeon_cutlasskeys00_description" rel_version="Expedition_CutlassKeys_00">Infiltrati nel nascondiglio dei pirati della Bandiera Nera e scopri cosa si celi nelle profondità sotto la baia.</string>
+	<string key="dungeon_cutlasskeys00_required_equipment" rel_version="Expedition_CutlassKeys_00">1 arma a distanza</string>
+	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Tira la leva</string>
+	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Entra nel nascondiglio dei pirati della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Parla con Antonio per scoprire di più sui pirati della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Usa la leva per aprire il cancello ed entra nel nascondiglio della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Trova l'Ammiraglio Blackpowder e il suo equipaggio.</string>
+	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Cerca una leva per aprire il cancello.</string>
+	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Trova un passaggio per scendere fino alla nave nella baia della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Cerca un'altra leva per aprire il cancello.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Percorri il Passaggio del rum secco.</string>
+	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Aggira il passaggio bloccato e cerca una miccia per innescare gli esplosivi.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Sconfiggi gli alligatori della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Attraversa il cancello aperto e continua a cercare una miccia per sbloccare il passaggio crollato.</string>
+	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Raccogli la miccia dalla cassetta degli attrezzi.</string>
+	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Porta la miccia nella sezione crollata del Passaggio del rum secco.</string>
+	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Accendi la miccia per far detonare gli esplosivi e aprire il passaggio bloccato.</string>
+	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Raggiungi la baia della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Sconfiggi i pirati della Bandiera Nera.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Usa la leva per abbassare il ponte e sali sulla nave.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Sconfiggi l'intera ciurma di pirati e il primo ufficiale Wells.</string>
+	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Trova la leva per abbassare il ponte e scendi dalla nave.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Sconfiggi l'ammiraglio Blackpowder.</string>
+	<string key="dungeon_cutlasskeys00_task_exit_pirate_cove" rel_version="Expedition_CutlassKeys_00">Fatti strada attraverso la Caverna del saccheggio proibito.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_dead_mans_retreat" rel_version="Expedition_CutlassKeys_00">Avanza verso il Rifugio dell'uomo morto</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_berserker" rel_version="Expedition_CutlassKeys_00">Sconfiggi il sergente Morris</string>
+	<string key="dungeon_cutlasskeys00_task_talk_mariner" rel_version="Expedition_CutlassKeys_00">Parla con Tye per scoprire di più sul cancello.</string>
+	<string key="dungeon_cutlasskeys00_task_open_siren_gate" rel_version="Expedition_CutlassKeys_00">Apri il cancello che conduce alle Profondità affondate.</string>
+	<string key="dungeon_cutlasskeys00_task_survive_depths" rel_version="Expedition_CutlassKeys_00">Sopravvivi alle Profondità affondate.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_siren_boss" rel_version="Expedition_CutlassKeys_00">Sconfiggi la Nereide.</string>
+	<string key="dungeon_cutlasskeys00_task_complete" rel_version="Expedition_CutlassKeys_00">Abbandona Cirripedi e polvere da sparo</string>
+	<string key="dungeon_restlessshores01_title">Le Profondità</string>
+	<string key="dungeon_restlessshores01_description">Trova ed elimina Thorpe</string>
+	<string key="dungeon_restlessshores01_task_break_in">Fai irruzione nella roccaforte del Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_find_azoth_seal">Trova il Sigillo di Azoth che blocca il Mechana Antico</string>
+	<string key="dungeon_restlessshores01_task_unlock_azoth_seal">Sblocca il Sigillo di Azoth</string>
+	<string key="dungeon_restlessshores01_task_activate_mechana">Attiva il Mechana Antico con 3 bastoni di Azoth</string>
+	<string key="dungeon_restlessshores01_task_fight_defenses">Affronta le difese del Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_unlock_sealed_door">Sblocca la porta sigillata</string>
+	<string key="dungeon_restlessshores01_task_search_thorpe">Cerca il Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_restore_bridge">Ripara il ponte antico</string>
+	<string key="dungeon_restlessshores01_task_explore_portal">Esplora il portale</string>
+	<string key="dungeon_restlessshores01_task_survive_ambush">Sopravvivi all'agguato del Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_exit_ambush_area">Usa il teletrasporto per uscire dall'area dell'agguato</string>
+	<string key="dungeon_restlessshores01_task_search_key_chamber">Cerca una chiave per aprire la camera di Thorpe</string>
+	<string key="dungeon_restlessshores01_task_unlock_mechana">Sblocca il Mechana di Azoth</string>
+	<string key="dungeon_restlessshores01_task_unseal_gate">Sblocca la porta</string>
+	<string key="dungeon_restlessshores01_task_seal_restore_bridge">Usa il Sigillo di Azoth per riparare il ponte.</string>
+	<string key="dungeon_restlessshores01_task_find_key_chamber">Trova una chiave per aprire la camera di Thorpe</string>
+	<string key="dungeon_restlessshores01_task_defeat_priest">Sconfiggi l'Arcidiacono Azamela</string>
+	<string key="dungeon_restlessshores01_task_return_chamber">Torna alla camera di Thorpe con la chiave</string>
+	<string key="dungeon_restlessshores01_task_break_in_chamber">Fai irruzione nella camera di Thorpe</string>
+	<string key="dungeon_restlessshores01_task_use_portal">Usa il portale per inseguire THORPE</string>
+	<string key="dungeon_restlessshores01_task_defeat_defenders">Sconfiggi i difensori di Thorpe</string>
+	<string key="dungeon_restlessshores01_task_get_thru_door">Attraversa la barriera con 3 bastoni di Azoth</string>
+	<string key="dungeon_restlessshores01_task_enter_arena">Entra nell'arena del Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_defeat_thorpe">Sconfiggi il Comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_return_shores">Torna a Sponda inquieta</string>
+	<string key="DungeonRestlessShores_MinorMonolith">Distruggi il monolite</string>
+	<string key="dungeon_edengrove00_title">Giardino della Genesi</string>
+	<string key="dungeon_edengrove00_description">Il Logoramento deve essere fermato!</string>
+	<string key="dungeon_edengrove00_required_equipment">1 bastone di Azoth, 1 piccozza da estrazione, 1 falcetto</string>
+	<string key="dungeon_edengrove00_task_find_source">Trova la fonte del Logoramento e scopri come purificarla.</string>
+	<string key="dungeon_edengrove00_task_explore_garden">Raccogli un campione di Logoramento concentrato. Sarà utile per capirci di più.</string>
+	<string key="dungeon_edengrove00_task_enter_nursery">Cerca una via da seguire. Le uscite inferiori del giardino sono zeppe di Logoramento concentrato.</string>
+	<string key="dungeon_edengrove00_task_defeat_taxodious">Sconfiggi Taxodius, guardiano del vivaio.</string>
+	<string key="dungeon_edengrove00_task_seek_shrine">Cerca un santuario imbevuto per purificare il Logoramento concentrato.</string>
+	<string key="dungeon_edengrove00_task_clear_hollow">Allontana i demoni dal laghetto logorato.</string>
+	<string key="dungeon_edengrove00_task_cleanse_seed">Purifica il campione di Logoramento concentrato.</string>
+	<string key="dungeon_edengrove00_task_defend_sapling">Pianta il Seme di Azoth alla fonte imbevuta e difendi il virgulto.</string>
+	<string key="dungeon_edengrove00_task_gather_sapling">Raccogli un ramo di virgulto. Ti sarà utile.</string>
+	<string key="dungeon_edengrove00_task_find_the_purifying_flame">Cerca la fiamma purificante per rimuovere il Logoramento concentrato dalle mura.</string>
+	<string key="dungeon_edengrove00_task_defeat_caretaker">Il custode si è smarrito. Sconfiggilo e cerca una fiamma purificante.</string>
+	<string key="dungeon_edengrove00_task_start_the_purifying_flame">Accendi la fiamma purificante usando il virgulto di Azoth. È stato rivelato un santuario.</string>
+	<string key="dungeon_edengrove00_task_recover_flame">Usa il tuo bastone di Azoth per portare la fiamma purificante e sgombrare il percorso.</string>
+	<string key="dungeon_edengrove00_task_locate_heart">Usa la fiamma purificante per rimuovere il Logoramento concentrato.</string>
+	<string key="dungeon_edengrove00_task_use_mapchamber">Usa la camera della mappa per individuare il Cuore della genesi logorato.</string>
+	<string key="dungeon_edengrove00_task_find_source_2">Trasporta la fiamma purificante alla serra. Difendi il portatore della fiamma.</string>
+	<string key="dungeon_edengrove00_task_defeat_fulgda">Sconfiggi l'arciere Fulg'da.</string>
+	<string key="dungeon_edengrove00_task_find_heart">Vai ora al Cuore della genesi logorato. Deve essere purificato.</string>
+	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Sconfiggi il Custode logorato.</string>
+	<string key="dungeon_edengrove00_task_use_portalstone">Torna in superficie, il Cuore della genesi logorato è stato purificato.</string>
+	<string key="DungeonUsePurifyingFlame">Serve una fiamma purificante</string>
+	<string key="DungeonDepositPurifyingFlame">Accendi con la fiamma purificante</string>
+	<string key="CarryFlame">Usa il bastone di Azoth</string>
+	<string key="BlightWall">Purifica il Logoramento concentrato</string>
+	<string key="RequiresPurifyingFlame">Serve la fiamma purificante</string>
+	<string key="ClearBlight">Elimina i demoni logoranti</string>
+	<string key="PurifyBlightedSeed">Purifica il Logoramento concentrato</string>
+	<string key="AzothSapling">Virgulto di Azoth</string>
+	<string key="ImbuedFont">Serve un seme di Azoth</string>
+	<string key="PurifyingFlame">Fiamma purificante</string>
+	<string key="ConcentratedBlight">Logoramento concentrato</string>
+	<string key="dungeon_ebonscale00_task_enter_cave">Supera le guardie e cerca di raggiungere la flotta.</string>
+	<string key="dungeon_ebonscale00_task_destroy_monolith">Sgombra la grotta e distruggi il monolite.</string>
+	<string key="dungeon_ebonscale00_task_plant_kegs">Posiziona barili di polvere da sparo sulla poppa delle navi e alla porta.</string>
+	<string key="dungeon_ebonscale00_task_place_rockets">Metti dei razzi sulla roccia per far esplodere i barili di polvere da sparo.</string>
+	<string key="dungeon_ebonscale00_task_to_courtyard">Continua in avanti in cerca di altre navi.</string>
+	<string key="dungeon_ebonscale00_task_defeat_heavy">Sconfiggi il Comandante Chen e le fanciulle.</string>
+	<string key="dungeon_ebonscale00_task_plant_keg1">Posiziona un barile di polvere da sparo sulla poppa della nave.</string>
+	<string key="dungeon_ebonscale00_task_defend_keg1">Difendi il barile di polvere da sparo.</string>
+	<string key="dungeon_ebonscale00_task_plant_keg2">Prosegui e trova la prossima nave da distruggere.</string>
+	<string key="dungeon_ebonscale00_task_defend_keg2">Difendi il barile di polvere da sparo.</string>
+	<string key="dungeon_ebonscale00_task_move_to_dock">Vai nella caserma a cercare il capitano.</string>
+	<string key="dungeon_ebonscale00_task_defeat_boss">Sconfiggi Isabella.</string>
+	<string key="dungeon_ebonscale00_task_defeat_captain">Sconfiggi il capitano del cantiere navale per procurarti le chiavi della porta.</string>
+	<string key="dungeon_ebonscale00_task_find_empress">Trova l'Imperatrice Zhou al palazzo.</string>
+	<string key="dungeon_ebonscale00_task_defeat_empress">Sconfiggi l'Imperatrice Zhou!</string>
+	<string key="dungeon_ebonscale00_task_leave_dungeon">Allontanati dal cantiere navale.</string>
+	<string key="dungeon_ebonscale_required_equipment">1 bastone di Azoth</string>
+	<string key="dungeon_restlessshores01_required_equipment">3 bastoni di Azoth</string>
+	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Cuore della Tempesta</string>
+	<string key="dungeon_shattermtn00_description" rel_version="Expedition_ShatterMtn_00">Insegui Isabella in una dimensione corrotta della realtà</string>
+	<string key="dungeon_shattermtn00_required_equipment" rel_version="Expedition_ShatterMtn_00">1 bastone di Azoth</string>
+	<string key="dungeon_shattermtn00_task_explore_entry" rel_version="Expedition_ShatterMtn_00">Discendi verso la Porta della follia</string>
+	<string key="dungeon_shattermtn00_task_open_gate_madness" rel_version="Expedition_ShatterMtn_00">Distruggi il Monolite corrotto per aprire la Porta della Follia</string>
+	<string key="dungeon_shattermtn00_task_continue_descent" rel_version="Expedition_ShatterMtn_00">Continua la discesa verso la Basilica</string>
+	<string key="dungeon_shattermtn00_task_hold_against_corrupted" rel_version="Expedition_ShatterMtn_00">Resisti ai Corrotti</string>
+	<string key="dungeon_shattermtn00_task_defeat_spriggan" rel_version="Expedition_ShatterMtn_00">Sconfiggi Ekheke</string>
+	<string key="dungeon_shattermtn00_task_ascend_watchtower" rel_version="Expedition_ShatterMtn_00">La strada per avanzare è bloccata. Cerca il modo di sbloccarla salendo le scale fino alla Torre di guardia oscura.</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_watchtower" rel_version="Expedition_ShatterMtn_00">Attraversa il portale alla base della torre di guardia oscura</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_01" rel_version="Expedition_ShatterMtn_00">Fatti strada attraverso il tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_get_cellar_key" rel_version="Expedition_ShatterMtn_00">Ottieni la chiave per il Sotterraneo della disperazione dal Forziere fatiscente</string>
+	<string key="dungeon_shattermtn00_task_exit_void_tunnel_01" rel_version="Expedition_ShatterMtn_00">Esci dal tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_use_cellar_key" rel_version="Expedition_ShatterMtn_00">Usa la chiave del sotterraneo per accedere al Sotterrano della disperazione</string>
+	<string key="dungeon_shattermtn00_task_navigate_cave" rel_version="Expedition_ShatterMtn_00">Sconfiggi Vroeg e poi procedi attraverso il Sotterraneo della disperazione</string>
+	<string key="dungeon_shattermtn00_task_continue_graveyard" rel_version="Expedition_ShatterMtn_00">Prosegui attraverso il Cimitero corrotto verso la Basilica</string>
+	<string key="dungeon_shattermtn00_task_open_gate_basilica" rel_version="Expedition_ShatterMtn_00">Procedi attraverso il cancello ed entra nella Basilica</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_basilica_entry" rel_version="Expedition_ShatterMtn_00">Sconfiggi Isabella</string>
+	<string key="dungeon_shattermtn00_task_pursue_isabella_basilica" rel_version="Expedition_ShatterMtn_00">Insegui Isabella addentrandoti nella Basilica</string>
+	<string key="dungeon_shattermtn00_task_survive_basilica" rel_version="Expedition_ShatterMtn_00">Sopravvivi all'imboscata dei Corrotti</string>
+	<string key="dungeon_shattermtn00_task_pursue_isabella_chandeliers" rel_version="Expedition_ShatterMtn_00">Insegui di nuovo Isabella verso i lampadari caduti</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_chandeliers" rel_version="Expedition_ShatterMtn_00">Sconfiggi Isabella</string>
+	<string key="dungeon_shattermtn00_task_exit_basilica" rel_version="Expedition_ShatterMtn_00">Esci dalla Basilica</string>
+	<string key="dungeon_shattermtn00_task_search_relic" rel_version="Expedition_ShatterMtn_00">Attraversa il Mare della Corruzione ed elimina il Distruttore del Vuoto che blocca il percorso</string>
+	<string key="dungeon_shattermtn00_task_use_staff_relic" rel_version="Expedition_ShatterMtn_00">Usa il bastone di Azoth per sbloccare il reliquiario</string>
+	<string key="dungeon_shattermtn00_task_cross_corrupted_sea" rel_version="Expedition_ShatterMtn_00">Porta il reliquiario attraverso il Mare della Corruzione</string>
+	<string key="dungeon_shattermtn00_task_return_relic" rel_version="Expedition_ShatterMtn_00">Restituisci il reliquiario a Isabella e ottieni l'accesso alla Città delle tenebre</string>
+	<string key="dungeon_shattermtn00_task_explore_city" rel_version="Expedition_ShatterMtn_00">Esplora la Città delle tenebre</string>
+	<string key="dungeon_shattermtn00_task_defeat_ogre" rel_version="Expedition_ShatterMtn_00">Sconfiggi i sacerdoti prima che completino il rituale e provoca un'esplosione di Corruzione</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_city" rel_version="Expedition_ShatterMtn_00">Attraversa il portale per entrare nel tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_02" rel_version="Expedition_ShatterMtn_00">Fatti strada attraverso il tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_defeat_naga" rel_version="Expedition_ShatterMtn_00">Sconfiggi Neishatun</string>
+	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Attraversa di nuovo il portale per entrare nel tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Fatti strada attraverso il tunnel del Vuoto</string>
+	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Sconfiggi Isabella</string>
+	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Esci dalla spedizione nel Cuore della Tempesta</string>
+	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Richiede il reliquiario</string>
+	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Esamina</string>
+</resources>
+

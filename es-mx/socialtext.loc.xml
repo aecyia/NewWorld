@@ -1,0 +1,633 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_addfriend">Agregar amigo</string>
+	<string key="ui_addgroup">Agregar\ngrupo</string>
+	<string key="ui_removefriend">Quitar amigo</string>
+	<string key="ui_error_chatthrottle" comment="Throttled after sending too many chat messages">Se están enviando demasiados mensajes, espera un momento y vuelve a intentarlo</string>
+	<string key="ui_error_invalidchat" comment="Sent the chat system invalid characters">El texto del chat no es válido</string>
+	<string key="ui_error_officerchat" comment="An error when you try to talk in consul chat">No tienes permiso para usar el chat de cónsul</string>
+	<string key="ui_error_groupchat" comment="An error when you try to talk in group chat">No estás en un grupo</string>
+	<string key="ui_error_muted_in_feed" comment="An error when you try to talk in a muted chat channel">El jugador {name} está silenciado en tu fuente de noticias</string>
+	<string key="ui_error_systemname" comment="Name for chat coming from System">Sistema</string>
+	<string key="ui_error_systemname_upper">SISTEMA</string>
+	<string key="ui_chat_name_global">Global</string>
+	<string key="ui_chat_name_global_upper">GLOBAL</string>
+	<string key="ui_chat_name_guild">Compañía</string>
+	<string key="ui_chat_name_guild_upper">COMPAÑÍA</string>
+	<string key="ui_chat_name_group">Grupo</string>
+	<string key="ui_chat_name_group_upper">GRUPO</string>
+	<string key="ui_chat_name_local">Área</string>
+	<string key="ui_chat_name_local_upper">ÁREA</string>
+	<string key="ui_chat_name_faction">Facción</string>
+	<string key="ui_chat_name_faction_upper">FACCIÓN</string>
+	<string key="ui_chat_name_faction_1" comment="Syndicate">Facción (sindicato)</string>
+	<string key="ui_chat_name_faction_upper_1" comment="Syndicate">FACCIÓN (SINDICATO)</string>
+	<string key="ui_chat_name_faction_2" comment="Marauders">Facción (saqueadores)</string>
+	<string key="ui_chat_name_faction_upper_2" comment="Marauders">FACCIÓN (SAQUEADORES)</string>
+	<string key="ui_chat_name_faction_3" comment="Covenant">Facción (pacto)</string>
+	<string key="ui_chat_name_faction_upper_3" comment="Covenant">FACCIÓN (PACTO)</string>
+	<string key="ui_chat_name_whisper">Mensaje directo</string>
+	<string key="ui_chat_name_whisper_upper">DIRECTO</string>
+	<string key="ui_chat_name_whisperto">Mensaje directo a</string>
+	<string key="ui_chat_name_officer">Cónsul</string>
+	<string key="ui_chat_name_officer_upper">CÓNSUL</string>
+	<string key="ui_chat_name_recruitment">Reclutamiento</string>
+	<string key="ui_chat_name_recruitment_upper">RECLUTAMIENTO</string>
+	<string key="ui_chat_name_help">Ayuda</string>
+	<string key="ui_chat_name_help_upper">AYUDA</string>
+	<string key="ui_chat_name_trading">Comerciar</string>
+	<string key="ui_chat_name_trading_upper">COMERCIAR</string>
+	<string key="ui_chat_to">PARA</string>
+	<string key="ui_chat_from">de</string>
+	<string key="ui_chat_filter_global">Mostrar chat global</string>
+	<string key="ui_chat_voiceChat">Chat de voz</string>
+	<string key="ui_chat_GameMasterTag">Director de juego</string>
+	<string key="ui_badge_gamemaster">&lt;font color="#ff9900" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Director de juego&lt;/font&gt;\nUn miembro del equipo de la comunidad de Amazon que puede ayudarte si tienes problemas.</string>
+	<string key="ui_badge_criminal">&lt;font color="#f67272" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Criminal&lt;/font&gt;\nRecientemente, este jugador cometió un crimen contra otro jugador.</string>
+	<string key="ui_cycle_channels">Presiona TAB para cambiar de canales</string>
+	<string key="ui_enter_recipient">Escribe el nombre del jugador</string>
+	<string key="ui_error_whisper_block">Desbloquear/quitar el silenciado al destinatario para enviar susurro</string>
+	<string key="ui_error_whisper_no_recipient">No se puede susurrar al destinatario</string>
+	<string key="ui_error_whisper_streamermodeblock" comment="Sent whisper to a player with streamer mode enabled">No se ha podido enviar el mensaje. {playerName} está en modo "No molestar".</string>
+	<string key="ui_invalidguildname">Nombre de compañía no válido</string>
+	<string key="ui_guildname_invalid_characters">No se puede cambiar el nombre de la compañía; contiene caracteres no válidos</string>
+	<string key="ui_guildname_too_long">No se puede cambiar el nombre de la compañía; la longitud no es válida</string>
+	<string key="ui_guildname_use_badword">No se puede cambiar el nombre de la compañía; contiene palabras ofensivas</string>
+	<string key="ui_guildname_multiple_spaces">No se puede cambiar el nombre de la compañía: contiene espacios consecutivos</string>
+	<string key="ui_createguildname_use_badword">Nombre de la compañía no válido; contiene palabras ofensivas</string>
+	<string key="ui_invalidguildmessageoftheday">Mensaje del día de la compañía no válido</string>
+	<string key="ui_guildmessageoftheday_invalid_characters">No se puede cambiar el mensaje del día de la compañía; contiene caracteres no válidos</string>
+	<string key="ui_guildmessageoftheday_too_long">No se puede cambiar el mensaje del día de la compañía; la longitud no es válida</string>
+	<string key="ui_guildmessageoftheday_use_badword">No se puede cambiar el mensaje del día de la compañía; contiene palabras ofensivas</string>
+	<string key="ui_guildmessageoftheday_multiple_spaces">No se puede cambiar el mensaje del día de la compañía: contiene espacios consecutivos</string>
+	<string key="ui_invalidguildrankname">Nombre de rango no válido</string>
+	<string key="ui_guildrankname_invalid_characters">No se puede cambiar el nombre de rango; contiene caracteres no válidos</string>
+	<string key="ui_guildrankname_too_long">No se puede cambiar el nombre de rango; la longitud no es válida</string>
+	<string key="ui_guildrankname_use_badword">No se puede cambiar el nombre de rango; contiene palabras ofensivas</string>
+	<string key="ui_voip_connected">¡VOIP conectado!</string>
+	<string key="ui_voip_connect_failed">Error en la conexión VOIP</string>
+	<string key="ui_voip_disconnected">VOIP desconectado</string>
+	<string key="ui_voip_logged_in">VOIP inició sesión</string>
+	<string key="ui_voip_logged_in_failed">Error en el inicio de sesión de VOIP</string>
+	<string key="ui_voip_channel_join_failed">Error al unirse al canal de VOIP</string>
+	<string key="ui_voip_input_device_failed">Error en el dispositivo de entrada de VOIP</string>
+	<string key="ui_voip_output_device_failed">Error en el dispositivo de salida de VOIP</string>
+	<string key="ui_voip_channel_joined">Canal para unirse a VOIP</string>
+	<string key="ui_voip_registration_restricted">VOIP por proximidad deshabilitado: cuenta demasiado nueva o bloqueada</string>
+	<string key="trade_quantity">Cantidad</string>
+	<string key="trade_title">Disponible para intercambio</string>
+	<string key="trade_total">Total</string>
+	<string key="trade_balance_when_buying">Cambio</string>
+	<string key="trade_balance_when_selling">Valor nuevo</string>
+	<string key="trade_column_type">Tipo</string>
+	<string key="trade_column_tier">Nivel</string>
+	<string key="trade_column_name">Nombre</string>
+	<string key="trade_column_inbag">Propiedad</string>
+	<string key="trade_column_quantity">Cantidad</string>
+	<string key="trade_column_purchased">Compr.</string>
+	<string key="trade_column_sold">Vend.</string>
+	<string key="trade_column_expiration">Expiración</string>
+	<string key="trade_column_inpost">Disp.</string>
+	<string key="trade_column_price">Precio</string>
+	<string key="trade_column_available">Disponible</string>
+	<string key="trade_column_expiresin">Expira en</string>
+	<string key="trade_column_location">Ubicación</string>
+	<string key="trade_column_status">Estado</string>
+	<string key="trade_column_rarity">Sing.</string>
+	<string key="trade_column_craftsmanship">Artesanía</string>
+	<string key="trade_noitemmessage">Seleccionar un objeto para visualizar</string>
+	<string key="trade_not_enough_money">No hay suficiente dinero</string>
+	<string key="trade_none_available">Agotado</string>
+	<string key="trade_none_held">No tienes</string>
+	<string key="ui_mute_player">Silenciar jugador</string>
+	<string key="ui_unmute_player">Dar voz a jugador</string>
+	<string key="ui_mute_player_pings">Silenciar sus marcadores</string>
+	<string key="ui_unmute_player_pings">Quitar silenciado\nde marcadores</string>
+	<string key="ui_block_player">Bloquear jugador</string>
+	<string key="ui_unblock_player">Desbloquear jugador</string>
+	<string key="ui_block_confirm">¿Confirmas que quieres bloquear a {playerName}?</string>
+	<string key="ui_unblock_confirm">¿Confirmas que quieres desbloquear a {playerName}?</string>
+	<string key="ui_mute_confirm">¿Confirmas que quieres silenciar a {playerName}?</string>
+	<string key="ui_unmute_confirm">¿Confirmas que quieres dar voz a {playerName}?</string>
+	<string key="ui_mute_pings_confirm">¿Confirmas que quieres silenciar los marcadores de este jugador?</string>
+	<string key="ui_unmute_pings_confirm">¿Confirmas que quieres quitar el silenciado de los marcadores de este jugador?</string>
+	<string key="ui_active">Activo</string>
+	<string key="ui_inactive">Inactivo</string>
+	<string key="ui_nearby">Cerca</string>
+	<string key="ui_group_invites">Invitaciones de grupo</string>
+	<string key="ui_friend_invites">Invitaciones de amigos</string>
+	<string key="ui_guild_invites">Invitaciones a las compañías</string>
+	<string key="ui_event_invites">Invitaciones a eventos</string>
+	<string key="ui_leave_group">Salir del grupo</string>
+	<string key="ui_voice_chat">Chat de voz</string>
+	<string key="ui_blocked">Bloqueado</string>
+	<string key="ui_blocked_player">Jugador bloqueado correctamente</string>
+	<string key="ui_unblocked_player">Jugador desbloqueado correctamente</string>
+	<string key="ui_muted">Silenciado</string>
+	<string key="ui_muted_player">Jugador silenciado correctamente</string>
+	<string key="ui_unmuted_player">Sonido de jugador reactivado correctamente</string>
+	<string key="ui_p2ptrading_initiate_trade">Intercambio</string>
+	<string key="ui_p2ptrading_trade_notification_sent">Invitación de intercambio enviada</string>
+	<string key="ui_p2ptrading_invite_notification_title">Solicitud de intercambio</string>
+	<string key="ui_p2ptrading_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; te invitó a realizar un intercambio.\n¿Quieres aceptar la invitación?</string>
+	<string key="ui_p2ptrading_failmessage_invalidname">{playerName} no es un nombre de jugador válido.</string>
+	<string key="ui_p2ptrading_failmessage_system_error">Falló la invitación de intercambio.</string>
+	<string key="ui_p2ptrading_failmessage_eligibility_failed">Ya no cumples los requisitos para aceptar esta invitación de intercambio.</string>
+	<string key="ui_p2ptrading_failmessage_cancelled">La invitación de intercambio se canceló.</string>
+	<string key="ui_p2ptrading_failmessage_blocked">No puedes enviarle invitaciones de intercambio a este jugador.</string>
+	<string key="ui_p2ptrading_failmessage_alreadyintrade">Ya hay un intercambio en curso.</string>
+	<string key="ui_p2ptrading_failmessage_dead">No puedes realizar intercambios cuando estás muerto.</string>
+	<string key="ui_p2ptrading_failmessage_pendinginvite">Ya tienes una invitación de intercambio pendiente.</string>
+	<string key="ui_p2ptrading_failmessage_sanctuary">No puedes realizar intercambios cuando estás en un santuario.</string>
+	<string key="ui_p2ptrading_failmessage_event">No puedes realizar intercambios cuando estás en medio de una guerra/invasión/lucha contra un jefe.</string>
+	<string key="ui_p2ptrading_failmessage_level">No puedes realizar intercambios hasta que hayas alcanzado el nivel {level}.</string>
+	<string key="ui_p2ptrading_failmessage_outofrange">No puedes realizar intercambios con un jugador a más de {distance} metros de distancia.</string>
+	<string key="ui_p2ptrading_failmessage_declined">La invitación de intercambio se rechazó.</string>
+	<string key="ui_p2ptrading_failmessage_fasttravelchanneling">No puedes enviar invitaciones de intercambio mientras un participante está canalizando el viaje rápido.</string>
+	<string key="ui_p2ptrading_failmessage_generic">No puedes enviar invitaciones de intercambio en este momento.</string>
+	<string key="ui_p2ptrading_failmessage_target_notonline">{playerName} no está en línea.</string>
+	<string key="ui_p2ptrading_failmessage_target_intrade">{playerName} ya está en un intercambio.</string>
+	<string key="ui_p2ptrading_failmessage_target_dead">{playerName} está muerto.</string>
+	<string key="ui_p2ptrading_failmessage_target_pendinginvite">{playerName} tiene una invitación de intercambio pendiente.</string>
+	<string key="ui_p2ptrading_failmessage_target_sanctuary">{playerName} está en un santuario.</string>
+	<string key="ui_p2ptrading_failmessage_target_event">{playerName} está en medio de una guerra/invasión/lucha contra un jefe.</string>
+	<string key="ui_p2ptrading_failmessage_target_level">{playerName} no está en el nivel {level}.</string>
+	<string key="ui_p2ptrading_failmessage_target_generic">{playerName} no puede recibir invitaciones de intercambio en este momento.</string>
+	<string key="ui_p2ptrading_failmessage_throttled">No puedes enviar una invitación de intercambio ahora mismo. Espera un momento y vuelve a intentarlo.</string>
+	<string key="ui_p2ptrading_failmessage_additem_maximum">Se excedió la cantidad máxima de objetos.</string>
+	<string key="ui_p2ptrading_failmessage_additem_restricted">No se puede comerciar con este objeto.</string>
+	<string key="ui_p2ptrading_failmessage_additem_bound">No se puede comerciar con este objeto porque está vinculado a ti.</string>
+	<string key="ui_p2ptrading_failmessage_additem_inventory_only">Solo pueden intercambiarse los objetos del inventario.</string>
+	<string key="ui_p2ptrading_failmessage_exceed_coincap">Con este intercambio, se excederá el límite de {maxAmount} monedas.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_invalidlocation">Ubicación de intercambio no válida. Busca otro sitio.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_invaliditems">Objetos no válidos.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_maxitemsexceeded">Se excedió la cantidad máxima de objetos.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_invalidcoinamount">Cantidad de dinero no válida.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_tradealreadyconfirmed">Ya se ha confirmado el intercambio.</string>
+	<string key="ui_p2ptrading_failmessage_offerupdate_cannotreceiveitems">El inventario está lleno. No puedes recibir los objetos que te ofrecen.</string>
+	<string key="ui_p2ptrading_failmessage_tradeconfirmation_bothplayersnotlockedin">Ninguno de los jugadores se ha congelado.</string>
+	<string key="ui_p2ptrading_failmessage_tradeconfirmation_confirmedtoosoon">El intercambio se confirmó demasiado pronto.</string>
+	<string key="ui_p2ptrading_failmessage_transactionfailure_bothplayersnotconfirmed">Ninguno de los jugadores ha confirmado el intercambio.</string>
+	<string key="ui_p2ptrading_failmessage_transactionfailure_notcoordinator">Se produjo un error de servidor.</string>
+	<string key="ui_p2ptrading_failmessage_transactionfailure_failedtoremoveitemsorcoin">Error al quitar objetos o dinero.</string>
+	<string key="ui_p2ptrading_failmessage_transactionfailure_transactionaborted">Transacción anulada.</string>
+	<string key="ui_p2ptrading_failmessage_transactionfailure_tradecanceled">Intercambio cancelado.</string>
+	<string key="ui_p2ptrading_failmessage_playersoutofrange">El jugador ya no está al alcance.</string>
+	<string key="ui_p2ptrading_failmessage_somethingwentwrong">Se produjo un error.</string>
+	<string key="ui_p2ptrading_failmessage_atmaxcurrency">Uno o más jugadores excederán el límite de monedas.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_level">Debes ser de nivel {level} para poder intercambiar bienes.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_probation">Debes tener una cuenta con una antigüedad superior a {time} para poder intercambiar bienes.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_free">Adquiere New World para poder intercambiar bienes.</string>
+	<string key="ui_p2ptrading_failmessage_dont_meet_requirements_generic">No puedes intercambiar bienes.</string>
+	<string key="ui_p2ptrading_trade_completed">Intercambio completado.</string>
+	<string key="ui_p2ptrading_overflow_title">Inventario lleno</string>
+	<string key="ui_p2ptrading_overflow_message">Algunos de los objetos que has recibido no cabían en tu inventario y se han dejado en el suelo.</string>
+	<string key="ui_p2ptrading_inventory_full_warning">Tu inventario está lleno o casi lleno.\nEs posible que no puedas aceptar los objetos entrantes.</string>
+	<string key="ui_failmessage_economylocked">Tu cuenta ha sido restringida, y en este momento no puedes hacer un intercambio.</string>
+	<string key="ui_failmessage_othereconomylocked">Este jugador no puede recibir objetos ni monedas en este momento.</string>
+	<string key="ui_invite_to_group">Invitar al grupo</string>
+	<string key="ui_invite_to_guild">Invitar a la compañía</string>
+	<string key="ui_acceptfriendinvite">Aceptar invitación</string>
+	<string key="ui_rejectfriendinvite">Rechazar invitación</string>
+	<string key="ui_faction_invite_error">No puedes invitar a un usuario de otra facción.</string>
+	<string key="ui_faction_invite_error_pvp_group">No puedes invitar a alguien de otra facción a un grupo PvP.</string>
+	<string key="ui_nofaction_invite_error">No puedes invitar a alguien que no pertenezca a una facción.</string>
+	<string key="ui_inguild_invite_error" comment="">No puedes invitar a un usuario de tu compañía.</string>
+	<string key="ui_cannot_interact_offline" comment="">No puedes realizar esta acción con un usuario sin conexión.</string>
+	<string key="ui_group_voice">Grupo de voz</string>
+	<string key="ui_group_voice_joining">Uniéndose</string>
+	<string key="ui_leavegroupvoip">Salir del grupo de voz</string>
+	<string key="ui_joingroupvoip">Unirse al grupo de voz</string>
+	<string key="ui_friendserrortitle">Error de amistad</string>
+	<string key="ui_friends_confirm_invite_title">Confirmar invitación de amigo</string>
+	<string key="ui_friends_invite_blocked_player">¿Seguro que quieres desbloquear a este jugador y enviarlo a una invitación de amigos?</string>
+	<string key="ui_maxfriendsreached">No puedes tener más de {maxFriends} amigos.</string>
+	<string key="ui_invalidfriend">El jugador especificado ya no es válido.</string>
+	<string key="ui_sendguildinvite">Invitar a la compañía</string>
+	<string key="ui_guild">Compañía</string>
+	<string key="ui_war_declared_chat_notification">¡{guild1} le declaró la guerra a {guild2} por el control de {territoryName}!</string>
+	<string key="ui_war_extended_chat_notification">¡Se prolongó la guerra entre {guild1} y {guild2}!</string>
+	<string key="ui_active_conquest">Conquista activa</string>
+	<string key="ui_conquest_in">La conquista se inicia en</string>
+	<string key="ui_online_num">{Num} en línea</string>
+	<string key="ui_noFriend_header">La lista de amigos está vacía.</string>
+	<string key="ui_noFriend_body">Agrega a un amigo con su nombre de jugador.</string>
+	<string key="ui_noOnline_group_header">No tienes amigos en línea para invitar al grupo.</string>
+	<string key="ui_noOnline_group_body">Puedes buscar a un jugador por su nombre de jugador.</string>
+	<string key="ui_noOnline_guild_header">No tienes amigos para invitar a la compañía.</string>
+	<string key="ui_noOnline_guild_body">Puedes buscar a un jugador por su nombre de jugador.</string>
+	<string key="ui_report_player">Denunciar jugador</string>
+	<string key="ui_report">Denunciar</string>
+	<string key="ui_reply">Responder</string>
+	<string key="ui_report_header">Denunciar: {playerName}</string>
+	<string key="ui_report_player_type">Proporciona una breve descripción de la violación (requerido)</string>
+	<string key="ui_reportreason_abusive_chat">Chat de texto abusivo</string>
+	<string key="ui_reportreason_abusive_voice_chat">Chat de voz abusivo</string>
+	<string key="ui_reportreason_cheating">Hacer trampas</string>
+	<string key="ui_reportreason_griefing">Acoso</string>
+	<string key="ui_reportreason_offensive_name">Nombre del jugador</string>
+	<string key="ui_reportreason_spam">Notificaciones masivas</string>
+	<string key="ui_reportreason_coinselling">Vender monedas</string>
+	<string key="ui_reportreason_botbehavior">Comportamiento de bots</string>
+	<string rel_version="Feature_Group_Finder" key="ui_reportreason_abusive_group_finder_listing">Descripción de sala de espera abusiva</string>
+	<string key="ui_reportreason_abusive_chat_description">Discurso de odio, insultos o crueldad dirigida a uno o más jugadores.</string>
+	<string key="ui_reportreason_abusive_voice_chat_description">Discurso de odio, insultos o crueldad dirigida a uno o más jugadores.</string>
+	<string key="ui_reportreason_cheating_description">Virus o vulnerabilidades usadas para obtener ventaja.</string>
+	<string key="ui_reportreason_griefing_description">Sabotaje o comportamiento inadecuado.</string>
+	<string key="ui_reportreason_offensive_name_description">Nombre inapropiado u ofensivo.</string>
+	<string key="ui_reportreason_spam_description">Comunicación excesiva de una frase, sin sentido o publicidad.</string>
+	<string key="ui_reportreason_coinselling_description">Adquirir objetos del juego y venderlos por dinero real.</string>
+	<string key="ui_reportreason_botbehavior_description">Juego desatendido: uso de bots, scripts, macros u otras herramientas automatizadas.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_reportreason_abusive_group_finder_listing_description">Discurso de odio, insultos o crueldad en la descripción de una sala de espera.</string>
+	<string key="ui_reportreason_select">Seleccionar un motivo…</string>
+	<string key="ui_reportreason_offensive_guild_name">Nombre de la compañía</string>
+	<string key="ui_reportreason_offensive_guild_description">El nombre de la compañía es ofensivo o poco apropiado.</string>
+	<string key="ui_reportreason_offensive_guild_description_no_guild">Este jugador no pertenece a una compañía.</string>
+	<string key="ui_reportreason_offensive_guild_description_error">No se pudo encontrar la compañía.</string>
+	<string key="ui_report_thanks">Gracias por presentar la denuncia</string>
+	<string key="ui_missing_reason_and_description">Proporciona un motivo y la descripción</string>
+	<string key="ui_missing_reason">Seleccionar un motivo</string>
+	<string key="ui_missing_description">Proporciona una descripción</string>
+	<string key="ui_twitch_login_button">Conectar cuenta de Twitch</string>
+	<string key="ui_twitch_disconnect_button">Desconectar</string>
+	<string key="ui_twitch_logout_tooltip">Desconectar cuenta de Twitch</string>
+	<string key="ui_twitch_login_tooltip">Conectar cuenta de Twitch</string>
+	<string key="ui_twitch_logged_in">Cuenta de Twitch conectada</string>
+	<string key="ui_twitch_connected_to">Conectado a:</string>
+	<string key="ui_twitch_login_popup_title">Conectar con Twitch</string>
+	<string key="ui_twitch_login_popup_message">Actualmente no has iniciado sesión en Twitch. Serás redirigido al navegador web para iniciar sesión en tu cuenta de Twitch y conectarla.</string>
+	<string key="ui_twitch_redirect_popup_title">Conectar con Twitch</string>
+	<string key="ui_twitch_redirect_popup_message">Iniciando sesión en tu cuenta de Twitch. Cuando haya terminado el proceso de inicio de sesión en el navegador web, cierra esta ventana.</string>
+	<string key="ui_twitch_logout_popup_title">Desconectar de Twitch</string>
+	<string key="ui_twitch_logout_popup_message">¿Quieres salir de tu cuenta de Twitch?</string>
+	<string key="ui_twitch_logoutfailed_popup_title">No se pudo desconectar de Twitch</string>
+	<string key="ui_twitch_logoutfailed_popup_message">Se produjo un error al salir de tu cuenta de Twitch.</string>
+	<string key="ui_twitch_validation_failed_title">No se pudo conectar a Twitch</string>
+	<string key="ui_twitch_validation_failed_message">No se pudo validar tu cuenta de Twitch, las características de Twitch no funcionarán. Intenta iniciar sesión nuevamente.</string>
+	<string key="ui_twitch_socialpane_subarmy">Ejército de suscriptores</string>
+	<string key="ui_twitch_socialpane_spotlight">Destacado</string>
+	<string key="ui_twitch_socialpane_spotlight_active">Contenido destacado de retransmisión</string>
+	<string key="ui_twitch_socialpane_spotlight_hide">Ocultar otras transmisiones</string>
+	<string key="ui_spotlight_viewer">1 espectador</string>
+	<string key="ui_spotlight_viewers">{viewers} espectadores</string>
+	<string key="ui_spotlight_failed">&lt;font color="#835acd"&gt;Estado:&lt;/font&gt; &lt;font color="#f25d5d"&gt; sin éxito&lt;/font&gt;</string>
+	<string key="ui_spotlight_notconnected">&lt;font color="#835acd"&gt;Estado:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Desconectado&lt;/font&gt;</string>
+	<string key="ui_spotlight_connecting">&lt;font color="#835acd"&gt;Estado:&lt;/font&gt; &lt;font color="#ffffff"&gt; Iniciando&lt;/font&gt;</string>
+	<string key="ui_spotlight_failed_notification_title">Error de conexión</string>
+	<string key="ui_spotlight_failed_notification_message">No se pudo iniciar Streamer Spotlight de Twitch. Asegúrate de que tu transmisión esté activa e inténtalo nuevamente.</string>
+	<string key="ui_spotlight_error">&lt;font color="#835acd"&gt;Estado:&lt;/font&gt; &lt;font color="#f25d5d"&gt; Error&lt;/font&gt;</string>
+	<string key="ui_subarmy_title">Ejército de suscriptores de Twitch</string>
+	<string key="ui_subarmy_join_desc">Únete a la sesión de ejército de suscriptores de otras transmisiones.</string>
+	<string key="ui_subarmy_tooltip">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Habilítalo&lt;/font&gt; en &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Configuración&lt;/font&gt; para crear o unirte a un ejército de suscriptores de Twitch.</string>
+	<string key="ui_subarmy_subtitle_sessions">{number} sesiones disponibles</string>
+	<string key="ui_subarmy_subtitle_requests">Unidos: {number}</string>
+	<string key="ui_subarmy_tab_join">Unirse a la sesión</string>
+	<string key="ui_subarmy_tab_create">Mi sesión</string>
+	<string key="ui_subarmy_loading_sessions">Obteniendo sesiones activas…</string>
+	<string key="ui_subarmy_no_sessions">No hay sesiones disponibles para que te unas.</string>
+	<string key="ui_subarmy_subscribed">Suscripto</string>
+	<string key="ui_subarmy_following">Siguiendo</string>
+	<string key="ui_subarmy_public">Público (DevOnly)</string>
+	<string key="ui_subarmy_request_invite">Solicitud para unirse</string>
+	<string key="ui_subarmy_request_sent">Solicitud pendiente</string>
+	<string key="ui_subarmy_request_accepted">Aceptada</string>
+	<string key="ui_subarmy_request_declined">Declinada</string>
+	<string key="ui_subarmy_request_session_full">Llena</string>
+	<string key="ui_subarmy_request_error">Error</string>
+	<string key="ui_subarmy_failed_to_send_request">No se pudo solicitar la invitación</string>
+	<string key="ui_subarmy_setup_description">Crea una sesión de ejército de suscriptores y dale a la audiencia la oportunidad de unirse a tu grupo o compañía.</string>
+	<string key="ui_subarmy_setup_options_text">Abrir sesión a</string>
+	<string key="ui_subarmy_subscribers_and_followers">Suscriptores y seguidores</string>
+	<string key="ui_subarmy_subscribers">Solo suscriptores</string>
+	<string key="ui_subarmy_followers">Solo seguidores</string>
+	<string key="ui_subarmy_anyone">Todos (Public-DevOnly)</string>
+	<string key="ui_subarmy_start_session">Iniciar la sesión</string>
+	<string key="ui_subarmy_failed_to_start">No se pudo iniciar la sesión de ejército de suscriptores</string>
+	<string key="ui_subarmy_waiting_description">Esperando jugadores…</string>
+	<string key="ui_subarmy_join_requests">SOLICITUDES DE UNIÓN</string>
+	<string key="ui_subarmy_time_remaining">TIEMPO RESTANTE</string>
+	<string key="ui_subarmy_continue_to_selection">Continuar a selección</string>
+	<string key="ui_subarmy_invite_header">Seleccionar jugadores para invitar</string>
+	<string key="ui_subarmy_invite_to_group_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Invitar al grupo</string>
+	<string key="ui_subarmy_invite_to_company_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; Invitar a la compañía</string>
+	<string key="ui_subarmy_invite_to_group">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Invitar al grupo</string>
+	<string key="ui_subarmy_invite_to_company">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; Invitar a la compañía</string>
+	<string key="ui_subarmy_invite_to_company_no_company">Debes estar en una compañía para invitar a un jugador.</string>
+	<string key="ui_subarmy_decline">Rechazar</string>
+	<string key="ui_subarmy_stop_session">Finalizar sesión</string>
+	<string key="ui_subarmy_subarmytag">Subejército de {name}</string>
+	<string key="ui_subarmy_invite_sent">Invitación enviada</string>
+	<string key="ui_subarmy_same_company">En tu compañía</string>
+	<string key="ui_subarmy_same_group">En tu grupo</string>
+	<string key="ui_subarmy_same_company_and_group">En tu compañía y tu grupo</string>
+	<string key="ui_subarmy_joined_company">Se ha unido a tu compañía</string>
+	<string key="ui_subarmy_joined_group">Se ha unido a tu grupo</string>
+	<string key="ui_subarmy_joined_company_and_group">Se ha unido a tu compañía y a tu grupo</string>
+	<string key="ui_subarmy_button_disabled_no_selection">En este momento no hay ningún jugador seleccionado.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_group">El jugador seleccionado debe ser miembro de tu facción para poder unirse a tu grupo JcJ.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_guild">El jugador seleccionado debe ser miembro de tu facción para poder unirse a tu compañía.</string>
+	<string key="ui_waypoint_set_to_ping">Se configuró el marcador para marcar</string>
+	<string key="ui_chat_name_raid">Ejército</string>
+	<string key="ui_chat_name_raid_upper">EJÉRCITO</string>
+	<string key="ui_error_raidchat" comment="An error when you try to talk in raid chat">No estás en un ejército</string>
+	<string key="ui_error_guildchat" comment="An error when you try to talk in guild chat">No formas parte de ninguna compañía</string>
+	<string key="ui_notification_pvp_enabled">PVP HABILITADO</string>
+	<string key="ui_notification_pvp_flagged">MARCADO PARA PVP</string>
+	<string key="ui_notification_pvp_disabled">PVP INHABILITADO</string>
+	<string key="ui_notification_pvp_countdown">COMENZÓ LA CUENTA REGRESIVA DE PROTECCIÓN PARA EL MODO PVP</string>
+	<string key="ui_notification_pvp_flagging_title">MARCANDO PARA PVP</string>
+	<string key="ui_notification_pvp_flagging_message">Mientras estés marcado para PvP, podrás atacar a otros jugadores marcados para PvP, pero otros jugadores marcados pueden hacerte lo mismo a ti. Recibes un &lt;font color="#ff9900"&gt;10 % de EXP de bonificación&lt;/font&gt; cuando esté activado. \n\nCuando salgas del santuario, dispondrás de &lt;font color="#ff9900"&gt;30 segundos de protección&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_track_flagging_message">Mientras estés marcado para PvP, puedes atacar y ser atacado por otros jugadores marcados para PvP. &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;Las muertes que provoques pueden darte sal de azoth y EXP de PvP.&lt;/font&gt; Recibes una &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;bonificación de EXP del 10 %&lt;/font&gt; mientras estés marcado. \n\nAl salir del santuario, tendrás &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#DDDDDD"&gt;30 segundos de protección&lt;/font&gt;.</string>
+	<string key="ui_notification_pvp_checkpoint_unlocked">Punto de control desbloqueado</string>
+	<string key="ui_notification_pvp_reward_options">Ver opciones de recompensas</string>
+	<string key="ui_pvp_rank_name_0">Reclutar</string>
+	<string key="ui_pvp_rank_name_1">Acero</string>
+	<string key="ui_pvp_rank_name_2">Bronce</string>
+	<string key="ui_pvp_rank_name_3">Plata</string>
+	<string key="ui_pvp_rank_name_4">Oro</string>
+	<string key="ui_pvp_rank_name_5">Platino</string>
+	<string key="ui_pvp_rank_name_6">Metal de estrellas</string>
+	<string key="ui_signup_selected">Seleccionado</string>
+	<string key="ui_signup_standby">En espera</string>
+	<string key="ui_signup_not_signed_up">Sin registrarse</string>
+	<string key="ui_signup_attacker" comment="You are on the Attacking Team">Atacante</string>
+	<string key="ui_signup_defender" comment="You are on the Defending Team">Defensor</string>
+	<string key="ui_signup_siege_window">Período de asedio</string>
+	<string key="ui_signup_starts_in" comment="Time until the siege starts">Comienza en</string>
+	<string key="ui_signup_your_status">Tu estado</string>
+	<string key="ui_no_permission_alert">No tienes permiso para enviar una alerta.</string>
+	<string key="ui_title_alpha">Platija</string>
+	<string key="ui_title_preorder">Primera expedición</string>
+	<string key="ui_player_levelup_chat">{playerName} ha llegado al &lt;font color="#ff9900"&gt;nivel {param0}&lt;/font&gt;</string>
+	<string key="ui_transcribed_audio_message">(Voz a texto) {transcribedMessage}</string>
+	<string key="ui_company_upkeep_due">Las bonificaciones de la compañía y la facción se han deshabilitado porque la compañía gobernante de {territoryName} no ha pagado el mantenimiento.</string>
+	<string key="ui_territory_bonus_active_buffs">Potenciaciones activas</string>
+	<string key="ui_territory_bonus_using_bonus_in">Usando bonificaciones en:</string>
+	<string key="ui_territory_bonus_title">Bonificaciones del territorio</string>
+	<string key="ui_territory_no_bonus_text">No hay bonificaciones activas.</string>
+	<string key="ui_town_project_bonus_title">Bonificaciones del proyecto del pueblo</string>
+	<string key="ui_company_bonus_title">Bonificaciones de la compañía</string>
+	<string key="ui_faction_bonus_title">Bonificaciones de la facción</string>
+	<string key="ui_equipped_item_bonus_title">Bonificaciones de objetos equipados</string>
+	<string key="ui_company_bonus_tax">Descuento impositivo</string>
+	<string key="ui_company_bonus_houseprice">Descuento para comprar casas</string>
+	<string key="ui_company_fast_travel_discount">Descuento en el viaje rápido</string>
+	<string key="ui_faction_bonus_luck">Bonificación de suerte</string>
+	<string key="ui_faction_bonus_gaathering">Bonificación de recolección</string>
+	<string key="ui_faction_fast_travel_discount">Descuento en el viaje rápido</string>
+	<string key="ui_trade_window_title">INTERCAMBIO CON {playerName}</string>
+	<string key="ui_trade_lock_in">Congelar</string>
+	<string key="ui_trade_waiting_for_lock_in">Esperando</string>
+	<string key="ui_trade_confirm_countdown">{remaining}</string>
+	<string key="ui_trade_confirm">Comerciar</string>
+	<string key="ui_trade_cancel">Cancelar</string>
+	<string key="ui_trade_cancel_popup_title">Cancelar intercambio</string>
+	<string key="ui_trade_cancel_popup_text">¿Confirmas que quieres cancelar tu intercambio con {playerName}?</string>
+	<string key="ui_trade_coincap_warning_popup_title">Límite de monedas excedido</string>
+	<string key="ui_trade_coincap_warning_popup_text">Se reembolsarán {refund} monedas a {playerName}. ¿Confirmas que quieres hacer el intercambio?</string>
+	<string key="ui_trade_confirm_currency">Confirmar</string>
+	<string key="ui_trade_item_count">&lt;font color={color}&gt;{count}&lt;/font&gt;/{total} objetos</string>
+	<string key="ui_trade_send_title">Enviar</string>
+	<string key="ui_trade_receive_title">Recibir</string>
+	<string key="ui_trade_status_not_locked_in">Preparando</string>
+	<string key="ui_trade_status_locked_in">Congelado</string>
+	<string key="ui_trade_status_confirmed">Confirmado</string>
+	<string key="ui_trade_status_confirm_in">Comerciar en {remaining}</string>
+	<string key="ui_trade_dyed_item_warning_title">Comerciar con objeto teñido</string>
+	<string key="ui_trade_dyed_item_warning">Este objeto se ha teñido y tiene colores que se perderán si lo comercias. ¿Confirmas que quieres agregar este objeto a la transacción?</string>
+	<string key="ui_trading_with">Comerciando con</string>
+	<string key="ui_drag_to_trade">Arrastra los objetos para comerciar</string>
+	<string key="ui_trade_status_empty">No hay nada con lo que comerciar.</string>
+	<string key="ui_set_mute_failed">Error al silenciar jugador.</string>
+	<string key="ui_clear_mute_failed">Error al quitar el silenciado del jugador.</string>
+	<string key="ui_request_friend_failed">No se pudo realizar la solicitud de amistad.</string>
+	<string key="ui_request_unfriend_failed">No se pudo eliminar la amistad.</string>
+	<string key="ui_social">Social</string>
+	<string key="ui_social_friends">AMIGOS</string>
+	<string key="ui_social_twitch">TWITCH</string>
+	<string key="ui_streamermode_enabled">El modo no molestar está activado</string>
+	<string key="ui_streamermode_disabled">El modo no molestar está desactivado</string>
+	<string key="ui_moderation">Moderación</string>
+	<string key="ui_group_moderation">Moderación del grupo</string>
+	<string key="ui_subarmy_join_tooltip">Envía una solicitud al streamer para unirte a su ejército de suscriptores.</string>
+	<string key="ui_subarmy_full_tooltip">El ejército de suscriptores de este streamer está lleno.</string>
+	<string key="ui_subarmy_accept_tooltip">Te han aceptado para unirte al ejército de suscriptores del streamer.</string>
+	<string key="ui_subarmy_decline_tooltip">Te han rechazado para unirte al ejército de suscriptores del streamer.</string>
+	<string key="ui_subarmy_waiting">Esperando a la aprobación del streamer...</string>
+	<string key="ui_subarmy_pending">Pendiente...</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_findtabtitle">Buscar grupo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_managetabtitle">Mi sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creategroup">Crear sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pvp_lobby">Sala de espera de PvP</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_refresh">Actualizar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_screen_header">Buscador de grupo de expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_expeditionname">Nombre de la expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_voippreference">Preferencia de VOIP</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_neededroles">Roles necesarios</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requiredgearscore">P. E. mín.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requiredlevel">Nivel mín.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_requiredearscore">Puntuación del equipo requerida: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{level}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voippreference">Chat de voz: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{preference}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voippreference_tooltip">Chat de voz: &lt;font color={color} face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{preference}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_size">Número mínimo de jugadores: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{amount}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedgearscore">Puntuación del equipo recomendada: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;600-{score}&lt;/font&gt;.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_minimum_gear_score">Puntuación del equipo mínima: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{score}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_minimum_level">Nivel mínimo: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{level}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedlevel">Nivel recomendado: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{level}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group">Actualmente no hay ninguna sala de espera para esta expedición.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_at_level">Actualmente no hay ninguna sala de espera para el nivel de dificultad {level} de esta expedición.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_manage">Actualmente no estás en una sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_group">Expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty">Dificultad {level}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_members">Miembros</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_apply">Aplicar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_only_accept">Solo aceptar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_looking_for">Buscando</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_lobby">En sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_members_in_lobby">Miembros en sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationrejected">Solicitud rechazada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_groupmembers">Miembros</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_currentmembers">En sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requests">Solicitudes</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_requeststojoin">Solicitudes</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_role">Rol</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_preferredrole">Rol preferido</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_level">Nivel</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_gearscore">Puntuación del equipo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_gearscore_short">P. E.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_stats">Estadísticas</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gearscore_average">Puntuación del equipo media</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_viewstats">Ver estadísticas</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_leavegroup">Salir</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_removefromgroup">Expulsar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite">Invitar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Invitado</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Rechazar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Rechazado</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Error de servidor</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">No se pudo encontrar la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Expiró la solicitud</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requestfailed">No se pudo realizar la solicitud</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_invalidrequest">Solicitud no válida</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Tu marca de PvP no coincide con la de la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">La facción debe ser la misma para una sala de PvP.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Cambiaron los requisitos de la sala de espera y no los cumples.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">No puedes enviar más solicitudes.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">La sala de espera está llena</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} rechazó la comprobación de preparación.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_timeout">Expiró la comprobación de preparación</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_playeroffline">No se puede invitar a {playerName} porque está sin conexión.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_expedition_lobby">Sala de espera de la expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_group_title">Crear nueva sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_edit_group_title">Editar sala</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred">Preferido</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voice_chat_preferred">Chat de voz preferido</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred_with_icon">&lt;img src="lyshineui/images/icons/misc/icon_microphone" scale="1.8" xPadding="-2" yOffset="5.0"&gt;&lt;/img&gt; Preferido</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_not_required">No requerido</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level">Nivel mínimo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score">Puntuación del equipo mínima</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement_not_met">No cumples con el requisito de nivel o de puntuación del equipo para unirte a esta sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pvp_mismatch_tooltip">Debes tener la misma marca de PvP que la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pvp_faction_mismatch_tooltip">La facción debe ser la misma para una sala de espera de PvP.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_edit_pending_group">Editar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_unlist_pending_group">Suprimir</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending">Pendiente</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accepted">Aceptado</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_apply_disabled_your_lobby">Ya estás en esta sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accepted_roles_label">Roles aceptados</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_select_role_label">Seleccionar tu rol</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_role_label">Tu rol</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_choose_role_title">Elige tu rol</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_label">Descripción</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_list_requirement">{requirement} &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{number}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_current_group_label">Invitar miembros del grupo actual</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_default">Sala de espera de {playerName}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm">Solicitud para unirse</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_cancel_pending">Cancelar solicitud pendiente</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_directinvitation">Unirse</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_tooltip">Debes seleccionar un rol.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_none_accepted_tooltip">Debes aceptar al menos 1 rol.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_button_confirm_disabled_tooltip_queue">No puedes solicitar unirte a una sala de espera mientras estás en la cola de un modo de juego.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_required_item_tooltip">Necesitas tener {quantity} {item} para crear una nueva sala de espera para esta expedición.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_roles_label">Roles actuales en este grupo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_current_role_text">&lt;img src="{icon}" scale="2.5" yOffset="8.0"&gt;&lt;/img&gt; {count} {role}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_disabled">Este rol no es necesario para esta sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_recommended_label">SE RECOMIENDA TENER:</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_tank_name">Tanque</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_tank_description">El rol del tanque en el grupo es absorber el daño y desviar la atención de los enemigos lejos de los aliados. Los tanques suelen llevar armadura pesada y tener gemas carnelianas equipadas para provocar a los enemigos. Suele tener algún tipo de control de multitudes (aturdimiento, atrapamiento, aplastamiento) para evitar que los enemigos lleguen a los aliados.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_tank_recommended">Espada y escudo, gran hacha, martillo de guerra</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_dps_name">Daño</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_dps_description">La función de este rol es infligir la mayor cantidad de daño posible a la mayor cantidad de enemigos posible. Se encarga de matar a los enemigos antes de que puedan avasallar al grupo. Los encargados de infligir daño deben invertir en habilidades y atributos que se centren en ataques que causen mucho daño y en ataques con área de efecto.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_dps_recommended">Trabuco, Arco, Bastón ígneo, Gran hacha, Hachuela, Manopla de hielo, Mosquete, Espada ropera, Lanza, Manopla de vacío</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_name">Sanador</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_description">Los sanadores se encargan de mantener al grupo con vida utilizando potenciaciones de salud y mitigación, como el fortalecimiento. También pueden encargarse de eliminar las despotenciaciones dañinas de los aliados, como el sangrado o el veneno. Los sanadores deben invertir en la estadística de concentración para maximizar la efectividad de su sanación.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_role_healer_recommended">Bastón vital, Manopla de vacío</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupcreated">Sala de espera creada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupupdated">Sala de espera actualizada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupremoved">Sala de espera eliminada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_groupunlisted">Se eliminó tu sala de espera. Se te ha expulsado de la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationsubmitted">Solicitud enviada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationremoved">Solicitud eliminada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_allapplicationsremoved">Todas las solicitudes eliminadas</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_applicationaccepted">Invitación para unirse a la sala de espera enviada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_requested">&lt;font color={color}&gt;{playername}&lt;/font&gt; ha solicitado unirse a tu sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_request_throttled">Hay demasiadas solicitudes, espera un momento y vuelve a intentarlo.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted_title">Solicitud aceptada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted">&lt;font color={creatorColor}&gt;{creator}&lt;/font&gt; te ha invitado para que seas &lt;img src="{icon}" scale="2.2" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_application_accepted_directinvitation">{creator} te invitó a unirte a:\n&lt;font color="#85e74c" &gt;[{expedition}]&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_ready_check_title">Formar grupo de expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_group_ready_check">¿Tienes todo listo para iniciar la expedición?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accept">Aceptar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Rechazar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_requirements">Requisitos</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Ordenados por</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Hora de publicación</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Abrir la expedición con tu grupo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">Tienes que desbloquear este nivel de dificultad para crear una nueva sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Rechazar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invitación aceptada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitación rechazada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invitación rechazada. El jugador ya está en la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invitación rechazada. El jugador tiene una activación de la marca de PvP incompatible.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitación rechazada. El jugador está en el límite de la mazmorra.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invitación rechazada. El jugador está en una facción diferente.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invitar a sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Solo el creador de la sala de espera puede invitar.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_already_in_group">{player} ya está en tu sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_group_full">Tu sala de espera está llena.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_pvp_wrong_faction">La facción debe ser la misma para una sala de espera de PvP.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberadded">Invitación para unirse a la sala de espera enviada</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberupdated">Miembro en la sala de espera actualizado</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberremoved_result">Miembro eliminado de la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_memberremoved">Se eliminó a &lt;font color={color}&gt;{playername}&lt;/font&gt; del grupo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Buscando más miembros...</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">No puedes registrarte mientras estás en una sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">No puedes entrar a la cola de la expedición mientras estás en una sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Grupo lleno</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Abrir expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Se requiere un mínimo de {amount} miembros para iniciar esta expedición.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_creator">Creador: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{name}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_gear_score_requirement">Requisito de puntuación del equipo: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_level_requirement">Nivel requerido: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color={scoreColor}&gt;{score}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_num_members">Jugadores: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{numMembers}&lt;/font&gt;/5</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_attribute">{name} &lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_stat_mastery">&lt;font face="lyshineui/fonts/Nimbus_Semibold.font" color="#ffffff"&gt;{value}&lt;/font&gt; {name}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_none_equipped">No hay armas equipadas</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_member_list_creator">Creador</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voice">Voz</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group">Sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_manage_group">Administrar</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_ready_title">¡Listo!</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_ready_waiting">Esperando a otros jugadores…</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_view_group">Ver</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_leave_lobby_title">Salir de la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_leave_lobby_desc">¿Confirmas la acción? Si aceptas, saldrás de tu sala de espera actual.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_leave_queue_title">Abandonar la cola</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_leave_queue_desc">¿Confirmas la acción? Si aceptas, saldrás de tu cola actual.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_rescind_applications_title">Anular solicitudes</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_popup_conflict_rescind_applications_desc">¿Confirmas la acción? Si aceptas, se anularán todas tus solicitudes de sala de espera pendientes.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_title">Salir de la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_group_desc">¿Confirmas que quieres salir de esta sala de espera?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_remove_from_group_title">Eliminar miembro</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_remove_from_group_desc">¿Confirmas que quieres expulsar a {playerName} de tu sala de espera?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_kicked_from_group">Fuiste expulsado de la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_title">Eliminar la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_unlist_group_desc">¿Confirmas que quieres eliminar tu sala de espera?\n\nTodos los miembros serán expulsados.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_lobby_leave_lobby">Debes salir de tu sala de espera actual para poder crear una nueva.\n\n¿Confirmas que quieres salir de tu sala de espera actual?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_lobby_delete_lobby">Debes eliminar tu sala de espera actual para poder crear una nueva. ¿Confirmas que quieres eliminar tu sala de espera actual?\n\nTodos los miembros serán expulsados.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_lobby_leave_queue">Debes salir de la cola del modo de juego en la que te encuentras actualmente para poder crear una nueva sala de espera.\n\n¿Confirmas que quieres salir de la cola en la que te encuentras actualmente?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_lobby_leave_lobby">Debes salir de tu sala de espera actual para poder solicitar unirte a esta.\n\n¿Confirmas que quieres salir de tu sala de espera actual?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_lobby_delete_lobby">Debes salir de tu sala de espera actual para poder solicitar unirte a esta. ¿Confirmas que quieres eliminar tu sala de espera actual?\n\nTodos los miembros serán expulsados.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_leave_and_unlist_group_desc">¿Confirmas que quieres eliminar la sala de espera?\n\nTodos los miembros serán expulsados.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invite_reject">Solo el creador de la sala de espera puede invitar miembros o rechazar solicitudes de miembro.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_invites_header">Invitaciones a salas de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description">&lt;font color="#ffea00" &gt;{creator}&lt;/font&gt; te ha invitado para que seas &lt;font color={roleColor} &gt;{role}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_group_description_directinvitation">&lt;font color="#ffea00" &gt;{creator}&lt;/font&gt; te ha invitado</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_convert_to_group">Listo para la expedición</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_start_expedition">Inicio</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_tooltip_not_enough_members">No hay miembros suficientes en la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_label">Dificultad</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_appended_difficulty">Dificultad {difficulty}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_appended_difficulty_queue_hud">Dificultad &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{difficulty}&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level_desc">Tu nivel: {level}\nEl nivel mínimo no puede superar tu nivel.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score_desc">Puntuación de tu equipo: {gearscore}\nLa puntuación del equipo mínima no puede superar la puntuación de tu equipo.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_comment_format">"{text}"</string>
+	<string rel_version="Feature_Group_Finder" key="ui_chat_name_group_finder_group">Sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_lobbies_header">Salas de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_ago">Hace {time}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_posted_time_ago">Publicado hace {time}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_chat_name_group_finder_group_upper">SALA DE ESPERA</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_button">Abrir chat de la sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_lobby">Tu sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_created_by">de {creator}</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_created">{playerName} creó la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_joined">{playerName} se unió a la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_chat_lobby_left">{playerName} abandonó la sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_error_group_finder_group_chat" comment="An error when you try to talk in group finder group chat">No estás en ninguna sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_title">No se puede crear sala de espera</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_regular">Los siguientes miembros del grupo alcanzaron su límite diario de expediciones regulares y no pueden unirse a esta sala de espera.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Se pueden unir el {date})&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_limit_desc_mutated">Los siguientes miembros del grupo alcanzaron su límite semanal de expediciones mutadas y no pueden unirse a esta sala de espera.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{characters}&lt;/font&gt;\n&lt;font color={dateColor}&gt;(Se pueden unir el {date})&lt;/font&gt;</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_limit_refresh">(Se restablece el {date})</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites_single">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;1&lt;/font&gt; invitación pendiente</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_pending_invites">&lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{amount}&lt;/font&gt; invitaciones pendientes</string>
+</resources>
+

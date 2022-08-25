@@ -1,0 +1,62 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_calendar_event_button_ok">Ok</string>
+	<string key="ui_calendar_event_button_next">Avanti</string>
+	<string key="ui_calendar_event_button_back">Indietro</string>
+	<string key="ui_calendar_event_button_go">Andiamo!</string>
+	<string key="ui_calendar_event_button_view_details">Dettagli</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_event_progress_name">Reputazione evento</string>
+	<string key="ui_event">Evento</string>
+	<string key="ui_event_rules">Punti salienti dell'evento</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Informazioni sul percorso di ricompense PvP</string>
+	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">AGGIUNTO IL NUOVO PERCORSO DI RICOMPENSE PVP</string>
+	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Il percorso di ricompense PvP contiene ricompense specifiche che si conseguono svolgendo attività PvP nel gioco. Il percorso può essere completato e ripetuto per ottenere una diversa selezione di ricompense, con ricompense più prestigiose che diventano disponibili man mano che vengono completati più percorsi.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PE PVP</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progredisci nel tuo percorso impegnandoti in missioni PvP, Guerra, Carica all'avamposto, conquista di forti, sconfitta di altri giocatori, arene 3 vs 3 e ottenendo PE con PvP attivo.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SALE DI AZOTH</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Il sale di Azoth è una valuta che ti consente di ottenere ricompense nei percorsi PvP. Puoi ottenere sale di Azoth impegnandoti in Guerra, Carica all'avamposto, arene 3 vs 3, missioni PvP, uccidendo personaggi in mondo aperto e ottenendo PE con PvP attivo.</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RICOMPENSE</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Scegli tra ricompense uniche come armature e armi prestigiose, emote, valute e consumabili.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Menestrello</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Trovatore</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bardo</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Negozio della fiera estiva</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Reputazione evento</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">INIZIA LA FIERA ESTIVA</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">L'evento inizia in data {startDate}</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">ATTIVITÀ A TEMPO LIMITATO</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Scatenati sulla pista da ballo, suona, produci un'esca fatta di insetti sdolcinati e pesca gli squisiti storioni di Aeternum per deliziare il palato dei festaioli: la fiera trabocca di attività per tutti i gusti!\n\nE ricorda di usare la postazione fabbricatrofei per realizzare souvenir dei pesci più belli che pescherai!</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">RICOMPENSE DELLA FIERA</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">La brezza estiva e gli organizzatori della fiera ti premieranno con nuove armature, skin, emote e un'infinità di oggetti d'arredamento ispirati all'entusiasmante e pittoresca fiera estiva!\n\n"Danzate e fate acquisti fino a sfinirvi!" - Sovrintendente della fiera</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">LUOGHI DELLA FIERA</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">La frizzante energia della fiera estiva si scatenerà in quattro luoghi diversi! Visitali per incontrare organizzatori, personale e partecipanti. Porta a termine le missioni che ti affideranno e diffondi la gioia in tutta Aeternum!\n(Le missioni si sbloccano al livello 20)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">PALCHI DELLA FIERA</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Celebra la fiera estiva portandone le vibrazioni positive in tutti gli insediamenti di Aeternum! Completa i progetti cittadini della fiera per migliorare il palco principale di ciascun insediamento: abbelliscilo per sbloccare ricompense giornaliere sempre più preziose!</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">OGGETTI DEL NEGOZIO A TEMA HEAVY METAL</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Dai un'occhiata al negozio per ottenere oggetti d'arredamento ed elementi estetici esclusivi a tema heavy metal!</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">GIORNATA FINALE DELLA FIERA ESTIVA</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">La fiera di quest'anno sta per concludersi. È la tua ultima occasione per ottenere il maggior numero possibile di ricompense!\n\n(I gettoni della fiera e gli altri oggetti esclusivi verranno rimossi al termine dell'evento.)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK!</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Informazioni sulla fiera estiva</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">WEEKEND DI PESCA E MUSICA CON PE RADDOPPIATI!</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Ottieni PE raddoppiati per le competenze nella pesca e con gli strumenti musicali ogni fine settimana durante l'evento Fiera estiva!</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Splendido!</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Informazioni sul weekend di pesca e musica con PE raddoppiati</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">CIRRIPEDI E POLVERE DA SPARO</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Alle Scogliere della sciabola circolano voci su un leggendario tesoro chiamato Cuore dell'Oceano, nascosto a poca distanza dalla costa. Si dice che questo tesoro possieda poteri di dominio e controllo e che potrebbe minacciare l'insediamento di Scogliere della sciabola e non solo.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Arrrgh!</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Informazioni su Cirripedi e polvere da sparo</string>
+	<string key="ui_event_weapon_xp_title">BONUS PE ARMI QUESTA SETTIMANA</string>
+	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Il bonus viene attivato:&lt;/font&gt;</string>
+	<string key="ui_event_gathering_xp_title">BONUS PE RACCOLTA QUESTA SETTIMANA</string>
+	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Il bonus viene attivato:&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">BONUS PE LIVELLO PERSONAGGIO QUESTA SETTIMANA</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Il bonus viene attivato:&lt;/font&gt;</string>
+	<string key="ui_event_refining_xp_title">BONUS PE LAVORAZIONE QUESTA SETTIMANA</string>
+	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Il bonus viene attivato:&lt;/font&gt;</string>
+	<string key="ui_event_extravaganza_title">INSOLITO BONUS PE</string>
+	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Il bonus viene attivato:&lt;/font&gt;</string>
+</resources>
+

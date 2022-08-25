@@ -1,0 +1,62 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_calendar_event_button_ok">Aceptar</string>
+	<string key="ui_calendar_event_button_next">Siguiente</string>
+	<string key="ui_calendar_event_button_back">Atrás</string>
+	<string key="ui_calendar_event_button_go">¡Vamos!</string>
+	<string key="ui_calendar_event_button_view_details">Ver detalles</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_event_progress_name">Reputación del evento</string>
+	<string key="ui_event">Evento</string>
+	<string key="ui_event_rules">Destacados del evento</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Sobre el seguimiento de recompensas JcJ</string>
+	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NUEVO SEGUIMIENTO DE RECOMPENSAS JCJ AÑADIDO</string>
+	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">El seguimiento de recompensas JcJ contiene recompensas específicas de JcJ por realizar actividades JCJ en el juego. El seguimiento se puede completar y rellenar de nuevo para conseguir una selección diferente de recompensas, con regalos más prestigiosos disponibles cuantas más completes.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP JCJ</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Para avanzar en tu seguimiento, participa en misiones JcJ, guerras y asaltos a puestos remotos, captura fuertes, derrota a otros jugadores, lucha en arenas de 3 contra 3 y gana EXP con el JcJ activado.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SAL DE AZOTH</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">La sal de Azoth es una divisa que te permite adquirir recompensas del seguimiento JcJ. Para ganar sal de Azoth, participa en guerras, asaltos a puestos remotos, arenas de 3 contra 3, misiones JcJ, mata a jugadores en el mundo abierto y gana EXP con el JcJ activado.</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Elige entre distintas recompensas únicas como armaduras y armas prestigiosas, gestos, monedas y consumibles.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Trovador</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Juglar</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Bardo</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuoso</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Tienda de la Feria Musical de verano</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Reputación del evento</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">HA LLEGADO LA FERIA MUSICAL DE VERANO</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">El evento empieza el {startDate}</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">ACTIVIDADES CON TIEMPO LIMITADO</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Ve a la pista de baile, toca música, consigue cebo de bichos sensibleros y pesca los excepcionales esturiones de Aetérnum para alimentar a la gente del festival; ¡la Feria Musical tiene actividades para todos!\n\n¡No te olvides de visitar la estación de trofeos de pesca para crear recuerdos de tus mejores pescas!</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">RECOMPENSAS DE LA FERIA MUSICAL</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">¡La brisa veraniega y el Maestro de la Feria Musical traen con ellos nuevas armaduras, diseños, gestos y una gran cantidad de objetos decorativos coloridos con la temática de la Feria Musical de verano!\n\n«¡Compra y baila hasta reventar!», el Maestro de la Feria Musical</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">LUGARES DE LA FERIA MUSICAL</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">¡El Maestro de la Feria Musical ha creado cuatro lugares para llenarlos de la energía de la Feria Musical de verano! Visita estas ubicaciones para conocer a su anfitrión, trabajadores y huéspedes. ¡Completa sus misiones veraniegas y extiende la alegría en Aetérnum!\n(Las misiones se desbloquean a nivel 20)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">MANITAS DE LA FERIA MUSICAL</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">¡Celebra la Feria Musical de verano en Aetérnum llevando las emociones festivaleras a todos los asentamientos! ¡Completa los proyectos de pueblo de la Feria Musical para mejorar el escenario central de cada asentamiento y así maximizar su belleza y desbloquear recompensas diarias cada vez más valiosas!</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">OBJETOS DE TIENDA HEAVY METAL</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">¡Visita la tienda y encontrarás objetos decorativos y cosméticos heavy metal exclusivos!</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">DÍA FINAL DE LA FERIA MUSICAL DE VERANO</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">La Feria Musical de este año está a punto de terminar. ¡Es tu última oportunidad de obtener las recompensas de la Feria Musical!\n\n(Las fichas de la Feria Musical y otros objetos limitados desaparecerán tras finalizar el evento)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">¡OK!</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Información sobre la Feria Musical de verano</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">¡FINES DE SEMANA ESPECIALES: DOBLE EXP POR PESCA Y MÚSICA!</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">¡Disfruta del doble de EXP con las habilidades de oficio de pesca e instrumentos musicales cada fin de semana durante el evento de la Feria Musical de verano!</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">¡Genial!</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Sobre Pesca y música de EXP doble</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">PERCEBES Y PÓLVORA NEGRA</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">En Cayos del Alfanje se oyen rumores de un tesoro legendario llamado el Corazón del Océano, oculto justo en la costa. Se dice que este tesoro porta los poderes de la dominación y el control y que podría amenazar mucho más que el asentamiento de Cayos del Alfanje.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">¡Arrr!</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Sobre Percebes y pólvora negra</string>
+	<string key="ui_event_weapon_xp_title">BONIFICACIÓN DE EXP DE ARMAS ESTA SEMANA</string>
+	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa en:&lt;/font&gt;</string>
+	<string key="ui_event_gathering_xp_title">BONIFICACIÓN DE EXP DE RECOLECCIÓN ESTA SEMANA</string>
+	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa en:&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">BONIFICACIÓN DE EXP DE NIVEL DEL PERSONAJE ESTA SEMANA</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa en:&lt;/font&gt;</string>
+	<string key="ui_event_refining_xp_title">BONIFICACIÓN DE EXP DE REFINADO ESTA SEMANA</string>
+	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa en:&lt;/font&gt;</string>
+	<string key="ui_event_extravaganza_title">ESPECTÁCULO DE BONIFICACIÓN DE EXP</string>
+	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa en:&lt;/font&gt;</string>
+</resources>
+

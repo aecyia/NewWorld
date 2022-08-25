@@ -1,0 +1,9 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0223_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt">"Mi potresti spiegare i punti di pesca?"</string>
+	<string key="0223_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet">Un punto di pesca è attivo quando ci sono pesci che guizzano fuori dall’acqua.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nLancia la lenza nel punto di pesca mentre è attivo per pescare più rapidamente e catturare pesci più rari. Quando la lenza è posizionata correttamente, verrà visualizzato un piccolo messaggio indicante che hai centrato il punto di pesca.\n\nDopo aver pescato abbastanza pesci, il punto di pesca si esaurirà. Un punto di pesca è esaurito quando non ci sono più pesci che guizzano fuori dall’acqua.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;\nIl punto di pesca esaurito tornerà attivo dopo un determinato periodo di tempo.\n\nCon il miglioramento delle tue abilità di pesca, riuscirai a trovare sempre più punti di pesca, e di miglior qualità.</string>
+	<string key="0241_Prometheo_Topic1_Prompt" speaker="UI - player prompt">"Tu chi sei?"</string>
+	<string key="0241_Prometheo_Topic1_Response" speaker="PrometheoVane" name="Prometheo Vane">Chi sono io? Chi sono io?!\n\nNon sono mai stato così insultato in tutta la mia vita. Sono Prometheo Vane, il mago del fuoco più potente che sia mai esistito!</string>
+	<string key="0241_Prometheo_Topic2_Prompt" speaker="UI - player prompt">"Cos'hai in mente?"</string>
+	<string key="0241_Prometheo_Topic2_Response" speaker="PrometheoVane" name="Prometheo Vane">La Cucina di Navarro e gli Scavi del profanatore bruceranno! Mostrerò a tutti la potenza del mio amore e della mia magia, così potremo finalmente stare insieme.</string>
+</resources>
+

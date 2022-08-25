@@ -1,0 +1,62 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_calendar_event_button_ok">OK</string>
+	<string key="ui_calendar_event_button_next">Weiter</string>
+	<string key="ui_calendar_event_button_back">Zurück</string>
+	<string key="ui_calendar_event_button_go">Los geht’s!</string>
+	<string key="ui_calendar_event_button_view_details">Details ansehen</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_event_progress_name">Ereignis-Ansehen</string>
+	<string key="ui_event">Ereignis</string>
+	<string key="ui_event_rules">Besondere Ereignisse</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Über PvP-Belohnungsserien</string>
+	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NEUE PVP-BELOHNUNGSSERIEN VERFÜGBAR</string>
+	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Die PvP-Belohnungsserien enthalten PvP-spezifische Belohnungen für PvP-Aktivitäten im Spiel. Du kannst die Belohnungsserien abschließen und erneut angehen, um andere Belohnungen zu erhalten. Je mehr Belohnungsserien du absolvierst, desto hochwertiger werden die Belohnungen.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PVP-EP</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, an 3-gg-3-Arenen teilnimmst und EP dazugewinnst, während du markiert bist.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTH-SALZ</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Das Azoth-Salz ist eine Währung, mit der du Belohnungen in der PvP-Serie erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen und an PvP-Missionen beteiligst oder in der offenen Welt Spieler tötest und EP dazugewinnst, während du markiert bist.</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">BELOHNUNGEN</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Wähle aus einzigartigen Belohnungen aus, darunter prestigeträchtige Rüstungen und Waffen, Emotes, Währung und Verbrauchsgegenstände.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Minnesänger</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Barde</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuose</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Sommer-Medleyfaire-Laden</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Ereignis-Ansehen</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">DAS SOMMERFEST MEDLEYFAIRE HAT BEGONNEN</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">Das Ereignis beginnt am {startDate}.</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">BEFRISTETE AKTIVITÄTEN</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Tanze, was das Zeug hält, spiele Musik, besorge dir Schafgarbenkäfer-Köder und fange die außergewöhnlich leckeren Aeternum-Störe für die Festivalküche. Auf dem Medleyfaire gibt es für alle tolle Aktivitäten.\n\nGehe auf jeden Fall zur Anglertrophäen-Werkstelle, um dir Andenken an deine größten Fänge zu bauen.</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE-BELOHNUNGEN</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">Das laue Sommerlüftchen und der Medleyfaire-Maestro bringen neue Rüstungen, Skins, Emotes und ganz viele Dekorationen mit, deren Farben und Designs wunderbar zum lebendigen Sommer-Medleyfaire passen!\n\n"Tanze und handle bis zum Umfallen" – Medleyfaire-Maestro</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE-ORTE</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">Der Medleyfaire-Maestro hat vier Orte eingerichtet, um die überschäumende Energie des Sommer-Medleyfaires zu bändigen. Besuche die Orte und triff Gastgeber, Mitarbeitende und Gäste. Absolviere ihre Feiertagsaufgaben und verbreite Freude auf ganz Aeternum!\n(Aufgabenreihe wird ab Stufe 20 freigeschaltet.)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">MEDLEYFAIRE-BÜHNENGEHILFEN</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Feiere auf dem Sommer-Medleyfaire auf Aeternum und verbreite festliche Stimmung in den Siedlungen. Schließe die Medleyfaire-Stadtprojekte ab, um die Hauptattraktion der Medleyfaire-Bühne in jeder Siedlung zu verschönern und zunehmend wertvollere tägliche Belohnungen freizuschalten!</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">SHOP-GEGENSTÄNDE IM HEAVY-METAL-DESIGN</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Sieh dir im Shop die exklusiven kosmetischen und Dekorationsgegenstände im Heavy-Metal-Design an!</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">LETZTER TAG DES SOMMER-MEDLEYFAIRE</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">Der diesjährige Sommer-Medleyfaire geht zu Ende. Das ist deine letzte Chance, um so viele Medleyfaire-Belohnungen wie möglich zu bekommen!\n\n(Medleyfaire-Marken und andere limitierte Ereignisgegenstände werden nach dem Ende des Ereignisses entfernt.)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Über das Sommerfest Medleyfaire</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">DOPPEL-EP-WOCHENENDE FÜR MUSIK UND ANGELN!</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Viel Spaß bei den Doppel-EP-Wochenenden für Angel- und Musikinstrumente-Fähigkeiten, die jedes Wochenende während des Sommer-Medleyfaire-Ereignisses stattfinden.</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Prima!</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Über Doppel-EP für Musik und Angeln</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">SEEPOCKEN UND SCHWARZPULVER</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Gerüchte über das "Herz der Ozeane", einen legendären Schatz, der sich vor der Küste befinden soll, machen in Entermesserriff die Runde. Der Schatz soll angeblich über beherrschende und kontrollierende Kräfte verfügen, die eine Gefahr für die Siedlung Entermesserriff und bis weit darüber hinaus darstellen könnten.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Yarrr!</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Über Seepocken und Schwarzpulver</string>
+	<string key="ui_event_weapon_xp_title">DIESE WOCHE: WAFFEN-EP-BONUS</string>
+	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_gathering_xp_title">DIESE WOCHE: SAMMEL-EP-BONUS</string>
+	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">DIESE WOCHE: CHARAKTER-EP-BONUS</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_refining_xp_title">DIESE WOCHE: VEREDELUNG-EP-BONUS</string>
+	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_extravaganza_title">EP-BONUS EXTRAVAGANZA!</string>
+	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+</resources>
+

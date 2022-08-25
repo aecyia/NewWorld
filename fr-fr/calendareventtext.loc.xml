@@ -1,0 +1,62 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_calendar_event_button_ok">OK</string>
+	<string key="ui_calendar_event_button_next">Suivant</string>
+	<string key="ui_calendar_event_button_back">Retour</string>
+	<string key="ui_calendar_event_button_go">C'est parti !</string>
+	<string key="ui_calendar_event_button_view_details">Afficher les détails</string>
+	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_event_progress_name">Réputation de l'événement</string>
+	<string key="ui_event">Événement</string>
+	<string key="ui_event_rules">Temps forts de l'événement</string>
+	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos des chaînes de récompenses JcJ</string>
+	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NOUVELLE CHAÎNE DE RÉCOMPENSES JCJ AJOUTÉE</string>
+	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Une chaîne de récompenses JcJ contient des récompenses liées au JcJ obtenues en accomplissant des activités JcJ en jeu. Une chaîne peut être terminée et recommencée pour obtenir une sélection de récompenses différente. Plus vous terminez de chaînes, meilleures sont les récompenses proposées.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP JCJ</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs, en participant aux arènes 3 contre 3 et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SEL D'AZOTH</string>
+	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Le sel d'Azoth est la monnaie vous permettant d'acquérir des récompenses de la chaîne JcJ. Vous pouvez obtenir du sel d'Azoth en menant des guerres, en vous battant en Déferlante, en participant aux arènes 3 contre 3, en accomplissant des missions JcJ, en tuant des joueurs dans le monde ouvert et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RÉCOMPENSES</string>
+	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choisissez entre des récompenses uniques telles que des armures et des armes de prestige, des émotes, de la monnaie et des consommables.</string>
+	<string key="ui_event_summer_rank_0" rel_version="Event_Summer_Temp">Ménestrel</string>
+	<string key="ui_event_summer_rank_1" rel_version="Event_Summer_Temp">Troubadour</string>
+	<string key="ui_event_summer_rank_2" rel_version="Event_Summer_Temp">Barde</string>
+	<string key="ui_event_summer_rank_3" rel_version="Event_Summer_Temp">Virtuose</string>
+	<string key="ui_event_summer_rank_4" rel_version="Event_Summer_Temp">Maestro</string>
+	<string key="ui_event_summer_shop_header" rel_version="Event_Summer_Temp">Boutique des Mélégies estivales</string>
+	<string key="ui_event_summer_progress_name" rel_version="Event_Summer_Temp">Réputation de l'événement</string>
+	<string key="ui_event_summer_panel1_title" rel_version="Event_Summer_Temp">LES MÉLÉGIES ESTIVALES ONT COMMENCÉ !</string>
+	<string key="ui_event_summer_panel1_subtitle" rel_version="Event_Summer_Temp">L'événement commence le {startDate}</string>
+	<string key="ui_event_summer_panel1_bullet1_title" rel_version="Event_Summer_Temp">DES ACTIVITÉS À DURÉE LIMITÉE</string>
+	<string key="ui_event_summer_panel1_bullet1_text" rel_version="Event_Summer_Temp">Enflammez la piste de danse, jouez de la musique, attrapez des larminsectes pour en faire des appâts et pêchez de délicieux esturgeons d'Aeternum afin de nourrir les participants du festival ; les Mélégies regorgent d'activités pour tous !\n\nAssurez-vous de faire un tour au poste de taxidermie pour fabriquer des souvenirs de vos meilleures prises !</string>
+	<string key="ui_event_summer_panel1_bullet2_title" rel_version="Event_Summer_Temp">RÉCOMPENSES DES MÉLÉGIES</string>
+	<string key="ui_event_summer_panel1_bullet2_text" rel_version="Event_Summer_Temp">Une brise estivale souffle et le maestro des Mélégies apporte avec lui de nouvelles armures, apparences et émotes ainsi que moults objets de décor multicolores ayant pour thème les Mélégies estivales !\n\n« Dansez et achetez tout votre soûl ! » – Maestro des Mélégies</string>
+	<string key="ui_event_summer_panel1_bullet3_title" rel_version="Event_Summer_Temp">SITES DES MÉLÉGIES</string>
+	<string key="ui_event_summer_panel1_bullet3_text" rel_version="Event_Summer_Temp">Le maestro des Mélégies a aménagé quatre sites pour accueillir l'énergie bouillonnante des Mélégies estivales ! Visitez ces sites pour rencontrer l'organisateur, ses collaborateurs et les invités. Entreprenez les quêtes des vacances et répandez la joie à travers Aeternum !\n(La série de quêtes est déverrouillée au niveau 20)</string>
+	<string key="ui_event_summer_panel2_title" rel_version="Event_Summer_Temp">RÉGISSEURS DES MÉLÉGIES</string>
+	<string key="ui_event_summer_panel2_subtitle" rel_version="Event_Summer_Temp">Célébrez les Mélégies estivales en Aeternum en répandant l'esprit du festival dans les colonies ! Terminez les projets urbains des Mélégies en améliorant la scène des Mélégies de chaque colonie en les embellissant et déverrouillez des récompenses quotidiennes toujours plus précieuses !</string>
+	<string key="ui_event_summer_panel3_title" rel_version="Event_Summer_Temp">DES OBJETS DE LA BOUTIQUE SUR LE THÈME HEAVY METAL</string>
+	<string key="ui_event_summer_panel3_subtitle" rel_version="Event_Summer_Temp">Consultez la boutique pour y trouver des objets cosmétiques et de décor sur le thème du heavy metal !</string>
+	<string key="ui_event_summer_lastday_panel1_title" rel_version="Event_Summer_Temp">DERNIER JOUR DES MÉLÉGIES ESTIVALES</string>
+	<string key="ui_event_summer_lastday_panel1_subtitle" rel_version="Event_Summer_Temp">Les Mélégies de cette année sont sur le point de se terminer. Dernière chance pour gagner autant de récompenses des Mélégies que possible !\n\n(Les jetons des Mélégies et autres objets réservés à l'événement seront supprimés à la fin de l'événement.)</string>
+	<string key="ui_event_summer_lastday_ending_button" rel_version="Event_Summer_Temp">OK !</string>
+	<string key="ui_event_summer_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;Au sujet des Mélégies estivales</string>
+	<string key="ui_event_2xfishing_panel1_title" rel_version="Event_Summer_Temp">WEEK-END EXP DOUBLÉE POUR LA PÊCHE ET LA MUSIQUE !</string>
+	<string key="ui_event_2xfishing_panel1_subtitle" rel_version="Event_Summer_Temp">Gagnez deux fois plus d'expérience pour les compétences de métier de pêche et d'instruments de musique chaque week-end lors de l'événement des Mélégies estivales !</string>
+	<string key="ui_event_2xfishing_ending_button" rel_version="Event_Summer_Temp">Sympa !</string>
+	<string key="ui_event_2xfishing_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos de l'EXP doublée pour la pêche et la musique</string>
+	<string key="ui_event_barnacles_panel1_title" rel_version="Event_Summer_Temp">BERNACLES ET POUDRE NOIRE</string>
+	<string key="ui_event_barnacles_panel1_subtitle" rel_version="Event_Summer_Temp">Des rumeurs concernant un légendaire trésor caché au large de la côte, le Cœur de l'Océan, vont bon train aux Îles des Lames. On raconte que ce trésor renferme des pouvoirs de domination et de contrôle, et pourrait menacer la colonie des Îles des Lames et au-delà.</string>
+	<string key="ui_event_barnacles_ending_button" rel_version="Event_Summer_Temp">Yarrr !</string>
+	<string key="ui_event_barnacles_calendar_event_button_about" rel_version="Event_Summer_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos des Bernacles et Poudre noire</string>
+	<string key="ui_event_weapon_xp_title">SEMAINE BONUS D'EXP D'ARMES</string>
+	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_gathering_xp_title">SEMAINE BONUS D'EXP DE RÉCOLTE</string>
+	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">SEMAINE BONUS D'EXP DE NIVEAU DE PERSONNAGE</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_refining_xp_title">SEMAINE BONUS D'EXP DE TRANSFORMATION</string>
+	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_extravaganza_title">LA FÊTE DES BONUS D'EXP</string>
+	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+</resources>
+

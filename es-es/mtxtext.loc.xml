@@ -1,0 +1,842 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_go_to_store" rel_version="Feature_MTX">Tienda de New World</string>
+	<string key="ui_browse_shop" rel_version="Feature_MTX">Explorar la tienda</string>
+	<string key="product_purchased" rel_version="Feature_MTX">Comprado</string>
+	<string key="marketing_new" rel_version="Feature_MTX">¡Nuevo!</string>
+	<string key="marketing_sale" rel_version="Feature_MTX">¡Oferta!</string>
+	<string key="ui_credits_purchase" rel_version="Feature_MTX">Comprar créditos</string>
+	<string key="ui_credit_purchase_suggest" rel_version="Feature_MTX">Necesitas &lt;font color="#ffae00"&gt;{amount} marcas de fortuna&lt;/font&gt; para adquirir: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{product}&lt;/font&gt;.</string>
+	<string key="ui_featureddeals" rel_version="Feature_MTX">Ofertas destacadas</string>
+	<string key="ui_consumables" rel_version="Feature_MTX">Consumibles</string>
+	<string key="ui_armorskins" rel_version="Feature_MTX">Diseños de armadura</string>
+	<string key="ui_weaponskins" rel_version="Feature_MTX">Diseños de armas</string>
+	<string key="ui_toolskins" rel_version="Feature_MTX">Diseños de herramientas</string>
+	<string key="ui_housingitems" rel_version="Feature_MTX">Objetos para casas</string>
+	<string key="ui_world_transfer_mtx" rel_version="Feature_MTX">Transferencia de personaje</string>
+	<string key="ui_guildcrestcolors" rel_version="Feature_MTX">Blasones de compañías</string>
+	<string key="ui_bundles" rel_version="Feature_MTX">Lotes</string>
+	<string key="ui_orderhistory" rel_version="Feature_MTX">Objetos desbloqueados</string>
+	<string key="ui_store" rel_version="Feature_MTX">Tienda</string>
+	<string key="ui_bundle" rel_version="Feature_MTX">Lote</string>
+	<string key="ui_credit_purchase" rel_version="Feature_MTX">Comprar créditos</string>
+	<string key="ui_reward_count" rel_version="Feature_MTX">{total} recompensa(s)</string>
+	<string key="ui_reward_package_info" rel_version="Feature_MTX">Hay {total} recompensa(s) en este paquete.</string>
+	<string key="ui_reward_filtered_info" rel_version="Feature_MTX">Hay {included} recompensa(s) que coinciden con «{filter}» de un total de {total} recompensas en este paquete.</string>
+	<string key="ui_purchases_title" rel_version="Feature_MTX">Compras y contenido descargable</string>
+	<string key="ui_purchases_button" rel_version="Feature_MTX">Compras y contenido descargable</string>
+	<string key="ui_purchases_desc" rel_version="Feature_MTX">Todo el contenido descargable está disponible para todos los personajes de tu cuenta.</string>
+	<string key="ui_featured">Ofertas destacadas</string>
+	<string key="ui_show_purchased">Mostrar desbloqueados</string>
+	<string key="ui_sort_by">Ordenar por:</string>
+	<string key="ui_item_claim">Reclamar objeto</string>
+	<string key="ui_claim_button">Reclamar</string>
+	<string key="ui_preview">Vista previa</string>
+	<string key="ui_item_already_claimed">Ya se ha reclamado el objeto.</string>
+	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Añadir más &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="ui_discount_off">{number} &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;no&lt;/font&gt;</string>
+	<string key="ui_discount_off_bold">{number} &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;no&lt;/font&gt;</string>
+	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marcas de fortuna</string>
+	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Saldo actual: {balance}</string>
+	<string key="ui_dye_number" rel_version="Feature_MTX">Tinte n.º {rewardId}</string>
+	<string key="ui_unlock" rel_version="Feature_MTX">Desbloquear</string>
+	<string key="ui_unlock_bundle" rel_version="Feature_MTX">Desbloquear lote</string>
+	<string key="ui_purchase" rel_version="Feature_MTX">Comprar</string>
+	<string key="ui_confirm_purchase" rel_version="Feature_MTX">Confirmar desbloqueo</string>
+	<string key="ui_credit_balance" rel_version="Feature_MTX">Saldo de crédito: {balance}</string>
+	<string key="ui_get_credits" rel_version="Feature_MTX">Obtener marcas de fortuna</string>
+	<string key="reward_type_emote" rel_version="Feature_MTX">Gesto</string>
+	<string key="reward_type_itemskin" rel_version="Feature_MTX">Diseño</string>
+	<string key="reward_type_itemdye" rel_version="Feature_MTX">Tinte</string>
+	<string key="reward_type_armorskin" rel_version="Feature_MTX">Diseño de armadura</string>
+	<string key="reward_type_toolskin" rel_version="Feature_MTX">Diseño de herramienta</string>
+	<string key="url_worldtransfer">https://www.newworld.com/forward-link?id=server-transfer-details</string>
+	<string key="reward_type_weaponskin" rel_version="Feature_MTX">Diseño de arma</string>
+	<string key="reward_type_guildcrest" rel_version="Feature_MTX">Blasón de compañía</string>
+	<string key="reward_type_guildcrest_fg" rel_version="Feature_MTX">Color de blasón</string>
+	<string key="reward_type_guildcrest_bg" rel_version="Feature_MTX">Color de blasón</string>
+	<string key="reward_type_housing_item" rel_version="Feature_MTX">Objeto para casas</string>
+	<string key="reward_type_player_title" rel_version="Feature_MTX">Título</string>
+	<string key="reward_type_inventory_item" rel_version="Feature_MTX">Objeto</string>
+	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
+	<string key="reward_type_entitlement" rel_version="Feature_MTX">DERECHO</string>
+	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marcas de fortuna</string>
+	<string key="reward_type_service" rel_version="Feature_MTX">Transferencia de mundo o región (uso único)</string>
+	<string key="entitlement_included" rel_version="Feature_MTX">Incluido</string>
+	<string key="ui_account_bound" rel_version="Feature_MTX">Todos los objetos están vinculados a la cuenta (no son intercambiables) y no son reembolsables.</string>
+	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">Todos los objetos están vinculados a la cuenta (puedes usarlos con todos tus personajes) y no se pueden descartar, intercambiar ni vender en el puesto comercial. Además, los objetos no son reembolsables.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Objetos consumibles: &lt;/font&gt; el uso de estos objetos está limitado y al usar uno en un personaje específico se reduce la cantidad de unidades para toda la cuenta. Por ejemplo, si tienes cinco tintes y utilizas uno en un personaje, solo te quedarán cuatro, incluso aunque inicies sesión con otro personaje en la misma cuenta.</string>
+	<string key="ui_unlock_for" rel_version="Feature_MTX">Desbloquear por &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{amount}&lt;/font&gt;&lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.5" yOffset="10"&gt;&lt;/img&gt;</string>
+	<string key="ui_unlock_with_icon" rel_version="Feature_MTX">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_purchase" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Desbloquear</string>
+	<string key="ui_bundle_with_icon" rel_version="Feature_MTX">&lt;img src="lyshineui/images/icons/tooltip/icon_tooltip_bundle" scale="1.75" yOffset="3.5"&gt;&lt;/img&gt; Lote de contenido descargable</string>
+	<string key="ui_currency_price_big" rel_version="Feature_MTX">{number} &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="1.8" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="ui_do_not_own" rel_version="Feature_MTX">No tienes este objeto.</string>
+	<string key="ui_housing_tooltip_noitem">No tienes este objeto.</string>
+	<string key="ui_housing_tooltip_not_entitled">No tienes este objeto.</string>
+	<string key="ui_itemskin_tooltip_not_entitled">No tienes este objeto.</string>
+	<string key="ui_twitch_item" rel_version="Feature_MTX">Twitch</string>
+	<string key="ui_prime_gaming_item" rel_version="Feature_MTX">Prime Gaming</string>
+	<string key="ui_pre_order_item" rel_version="Feature_MTX">Reservar</string>
+	<string key="ui_mtx_disclaimer" rel_version="Feature_MTX">Este objeto es válido para toda tu cuenta (se puede usar en cualquiera de tus personajes).</string>
+	<string key="ui_emote_description_default" rel_version="Feature_MTX">Este gesto no tiene descripción. ¡Añádela!</string>
+	<string key="ui_crest_emblem_description_default" rel_version="Feature_MTX">Emblema del blasón.</string>
+	<string key="ui_crest_color_description_default" rel_version="Feature_MTX">Color de blasón.</string>
+	<string key="ui_refund_policy" rel_version="Feature_MTX">Política de reembolsos</string>
+	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Apariencia fija</string>
+	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;diseños&lt;/font&gt; se aplican al personaje y a cualquier objeto equipado en la misma ranura hasta que se eliminen o se cambie de apariencia.\n\nLos &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;diseños&lt;/font&gt; no se pueden teñir.</string>
+	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Requisitos de transferencia</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Para transferirte a un nuevo mundo:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Para transferirte a una nueva región:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Debes estar en un santuario (asentamiento, puesto remoto, santuario espiritual o atalaya) antes de transferirte a otro mundo</string>
+	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">No puedes pertenecer a una compañía antes de transferirte a otro mundo</string>
+	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">No puedes tener ofertas de compraventa activas en el puesto comercial antes de transferirte a otro mundo</string>
+	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Tienes que haber alcanzado el nivel {level} antes de transferirte</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">No debes poseer ninguna casa antes de transferirte</string>
+	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Debes esperar a que termine la recarga antes de volver a transferirte entre mundos o regiones.</string>
+	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_item_restrictions" rel_version="Feature_MTX">Limitaciones de objetos</string>
+	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">Para que los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;diseños&lt;/font&gt; sean visibles, es necesario tener equipado el objeto base. Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;diseños&lt;/font&gt; no se pueden teñir.</string>
+	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;blasones de compañía&lt;/font&gt; solo se pueden usar si eres el gobernador (creador) de una compañía.</string>
+	<string key="ui_item_restrictions_housing_items" rel_version="Feature_MTX">Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;objetos para casas&lt;/font&gt; solo pueden usarse cuando se hayan desbloqueado las casas y tengas una.\n\nEn una casa puedes exponer en cualquier momento un número limitado de &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;objetos de iluminación y animados&lt;/font&gt;.</string>
+	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;tintes&lt;/font&gt; solo pueden aplicarse a la armadura. Si se intercambia o se vende la armadura, el tinte se eliminará y no se devolverá. No se pueden aplicar tintes a los diseños.</string>
+	<string key="ui_item_restrictions_camp_skins" rel_version="Feature_Camp_Skins">Los &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;diseños de campamento&lt;/font&gt; requieren haber desbloqueado los campamentos.</string>
+	<string key="ui_non_returnable" rel_version="Feature_MTX">El objeto no se reembolsa.</string>
+	<string key="ui_order_history_dec" rel_version="Feature_MTX">Muestra los 10 objetos desbloqueados más recientemente en la tienda.</string>
+	<string key="ui_expand_bundle" rel_version="Feature_MTX">Lote (clic para expandir)</string>
+	<string key="ui_collapse_bundle" rel_version="Feature_MTX">Lote (clic para contraer)</string>
+	<string key="ui_type_none" rel_version="Feature_MTX">Datos de ningún tipo</string>
+	<string key="ui_mtx_unavailable" rel_version="Feature_MTX">Producto no disponible</string>
+	<string key="ui_mtx_dye_description_default" rel_version="Feature_MTX">Se usa para teñir ropa y armaduras.</string>
+	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">Este producto es un lote.</string>
+	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GESTOS&lt;/font&gt;: Puedes usar un gesto en el menú de gestos. Pulsa [{hintText}] para abrir el menú de gestos.</string>
+	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DISEÑOS DE OBJETO&lt;/font&gt;: Puedes aplicar un diseño haciendo clic en la armadura, las herramientas y las armas de tu inventario, y después en «Cambiar diseño».</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DISEÑOS DEL CAMPAMENTO&lt;/font&gt;: Puedes aplicar un diseño haciendo clic en tu campamento desde tu inventario, y después en «Cambiar diseño».</string>
+	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TINTES&lt;/font&gt;: Puedes utilizar un tinte haciendo clic en una armadura de tu inventario y después en «Teñir armadura».</string>
+	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BLASONES&lt;/font&gt;: Puedes aplicar blasones en la pantalla de la compañía.</string>
+	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;OBJETOS PARA CASAS&lt;/font&gt;: Puedes colocar objetos para casas en el modo de decoración de casas cuando estés en tu hogar.</string>
+	<string key="reward_type_tooltip_player_title" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TÍTULOS&lt;/font&gt;: Puedes aplicar un título en la pestaña Bio del menú Personajes y después en «Cambiar título».</string>
+	<string key="reward_type_tooltip_inventory_item" rel_version="Feature_MTX">Usa este objeto en el inventario.</string>
+	<string key="reward_type_tooltip_extra" rel_version="Feature_MTX">Este es un producto adicional.</string>
+	<string key="reward_type_tooltip_entitlement" rel_version="Feature_MTX">Este producto es un derecho.</string>
+	<string key="reward_type_tooltip_marks_of_fortune" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;MARCAS DE FORTUNA&lt;/font&gt;: Puedes usar esta divisa en la tienda para adquirir productos.</string>
+	<string key="reward_type_tooltip_service" rel_version="Feature_MTX">Puedes usar este servicio en el menú de la tienda. Selecciona el producto «Transferencia de mundo» en la tienda.</string>
+	<string key="ui_crest_disclaimer" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Aviso:&lt;/font&gt; Los blasones de compañía solo se pueden usar si eres el gobernador (creador) de la compañía.</string>
+	<string key="ui_disabled_default_title" rel_version="Feature_MTX">Contenido no disponible</string>
+	<string key="ui_disabled_default_description" rel_version="Feature_MTX">Este contenido no está disponible actualmente.</string>
+	<string key="ui_disabled_freeplayer_description" rel_version="Feature_MTX">Compra New World para acceder a la tienda.</string>
+	<string key="ui_preview_emote">Vista previa de gesto</string>
+	<string key="ui_preview_skin">Vista previa de diseño</string>
+	<string key="ui_end_preview">Finalizar vista previa</string>
+	<string key="ui_preview_item_withname">Vista previa de {itemName}</string>
+	<string key="ui_limited_time">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Tiempo limitado&lt;/font&gt;</string>
+	<string key="ui_release_date">Fecha de lanzamiento</string>
+	<string key="ui_price">Precio</string>
+	<string key="store_tree_splitter_name">Talador</string>
+	<string key="store_tree_splitter_description">«Ni el árbol más poderoso puede resistirse a tu hacha». Conjunto de diseños de prendas</string>
+	<string key="ui_leaves_store" rel_version="Feature_MTX">Sale de la tienda:</string>
+	<string key="ui_discount_end" rel_version="Feature_MTX">El descuento termina:</string>
+	<string key="ui_show_available">Mostrar solo disponibles</string>
+	<string key="ui_show_purchasable" rel_version="Feature_MTX">Disponible y que se puede comprar</string>
+	<string key="ui_show_all">Mostrar todo</string>
+	<string key="ui_skin_applied">Diseño aplicado a objeto</string>
+	<string key="ui_skins_applied">Diseño aplicado a objetos</string>
+	<string key="ui_purchase_skin">Ver diseño</string>
+	<string key="ui_shop_tier">CLASE &lt;font face="lyshineui/fonts/Pica_Italic.font"&gt;&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_mtx_coming_soon">¡Próximamente!</string>
+	<string key="ui_button_disabled_dead">No puedes realizar esta acción si estás muerto.</string>
+	<string key="url_refundpolicy_US" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_GB" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/en-us/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_FR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/fr-fr/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_IT" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/it-it/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_ES" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/es-es/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_DE" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/de-de/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_PL" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/pl-pl/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_MX" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/es-mx/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="url_refundpolicy_BR" comment="This does not need to be translated. It will be the same in all languages so that we can use the right region regardless of language set.">https://www.amazongames.com/pt-br/support/new-world/articles/amazon-games-refund-policy</string>
+	<string key="ui_transaction_status">Estado de la transacción</string>
+	<string key="ui_transaction_in_progress">Transacción en progreso...</string>
+	<string key="ui_transaction_failed_code">Transacción fallida con código de error {error}.</string>
+	<string key="ui_transaction_failed">Error en la transacción.</string>
+	<string key="ui_transaction_timed_out">Se ha agotado el tiempo de espera de la transacción. ¿Reintentar?</string>
+	<string key="ui_transaction_timeout_overlay">Se ha agotado el tiempo de espera de la transacción.\nAsegúrate de que el menú superpuesto de Steam esté habilitado.</string>
+	<string key="ui_bonus_marks">(+{bonus} marcas)</string>
+	<string key="ui_bonus_percent">{bonusPct} % de bonificación</string>
+	<string key="ui_how_to_use">Cómo se usa</string>
+	<string key="ui_notification_unlock_desc">Se han añadido objetos a tu cuenta.</string>
+	<string key="ui_notification_unlock_title">Desbloqueado</string>
+	<string key="ui_view_item">Ver objetos</string>
+	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE">Entitlement isn't tied to an Achievement! Failed to claim item.</string>
+	<string key="ui_claim_fail_alreadyunlocked">Ya has reclamado este derecho.</string>
+	<string key="ui_claim_fail_inventoryfull">No puedes reclamar este derecho con el inventario lleno. Libera algo de espacio y vuelve a intentarlo.</string>
+	<string key="ui_claim_fail_transactionerror">Error en la transacción. Inténtalo de nuevo.</string>
+	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Escarlata ardiente</string>
+	<string key="runic_jackal_name" rel_version="Apparel_RunicJackal">Chacal rúnico</string>
+	<string key="crescent_fang_name" rel_version="Weapon_CrescentFang">Colmillo creciente</string>
+	<string key="arm_flex_name" rel_version="New_World_Launch">Flexión de brazo</string>
+	<string key="sublimebone_dye_name" rel_version="MTX_October_Skins">Hueso sublime</string>
+	<string key="greengrass_dye_name" rel_version="Entitlements_December">Verde hierba</string>
+	<string key="Icon_Crest_Pack_Merriment_name" rel_version="New_World_Launch">Paquete de blasones jubilosos</string>
+	<string key="EntitlementSkin_Medium_Angel_name" rel_version="AngelsDemonsWeapons">Égida de la Providencia</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_name" rel_version="AngelsDemonsWeapons">Ira del destructor</string>
+	<string key="galaxy_rabbit_name" rel_version="New_World_Launch">Liebre celestial</string>
+	<string key="eyesonyou_name" rel_version="New_World_Launch">Te estoy mirando</string>
+	<string key="rouge_dye_name" rel_version="Entitlements_December">Rouge</string>
+	<string key="hiddenstream_dye_name" rel_version="Entitlements_November">Arroyo oculto</string>
+	<string key="Icon_Crest_Pack_Smugglers_name" rel_version="New_World_Launch">Paquete de blasones de contrabandistas</string>
+	<string key="butterflywing_dye_name" rel_version="Entitlements_February_2022">Ala de mariposa</string>
+	<string key="smolderingscarlet_dye_description" rel_version="Dye_SmolderingScarlet">Paquete de tintes consumibles</string>
+	<string key="runic_jackal_description" rel_version="Apparel_RunicJackal">«Algunos cuernos sirven para beber; otros, para llevarlos puestos. Es necesario tener ambos».</string>
+	<string key="crescent_fang_description" rel_version="Weapon_CrescentFang">«Con una mordedura tan temible como la de la serpiente del mundo».</string>
+	<string key="arm_flex_description" rel_version="New_World_Launch">«Exhibe tu fuerza».</string>
+	<string key="sublimebone_dye_description" rel_version="MTX_October_Skins">Paquete de tintes consumibles</string>
+	<string key="greengrass_dye_description" rel_version="Entitlements_December">Paquete de tintes consumibles</string>
+	<string key="Icon_Crest_Pack_Merriment_description" rel_version="New_World_Launch">«¡Un brindis por tus valerosos compañeros!».</string>
+	<string key="EntitlementSkin_Medium_Angel_description" rel_version="AngelsDemonsWeapons">«Erradica el mal con una furia y una luz de carácter divino».</string>
+	<string key="EntitlementSkin_AnglesDemon_WarHammer_description" rel_version="AngelsDemonsWeapons">«Siembras una venganza maldita a tu paso».</string>
+	<string key="galaxy_rabbit_description" rel_version="New_World_Launch">«La inmensidad del universo es sobrecogedora y reside en el pelaje de este conejo. Si lo acaricias, puede que la sientas».</string>
+	<string key="eyesonyou_description" rel_version="New_World_Launch">«Vigilancia eterna».</string>
+	<string key="rouge_dye_description" rel_version="Entitlements_December">Paquete de tintes consumibles</string>
+	<string key="hiddenstream_dye_description" rel_version="Entitlements_November">Paquete de tintes consumibles</string>
+	<string key="Icon_Crest_Pack_Smugglers_description" rel_version="New_World_Launch">«La oscuridad envuelve las más lucrativas de nuestras empresas».</string>
+	<string key="butterflywing_dye_description" rel_version="Entitlements_February_2022">Paquete de tintes consumibles</string>
+	<string key="ui_store_unavailable">Lo sentimos, pero la tienda está inactiva por mantenimiento en este momento. Inténtalo de nuevo más adelante.</string>
+	<string key="fenrirsfury_name" rel_version="New_World_Launch">Furia de Fenrir</string>
+	<string key="fenrirsfury_description" rel_version="New_World_Launch">«Un merecido homenaje a la bestia masacradora».</string>
+	<string key="ageless_bronze_dye_name" rel_version="Entitlements_January_2022">Bronce intemporal</string>
+	<string key="ageless_bronze_description" rel_version="Entitlements_January_2022">Paquete de tintes consumibles</string>
+	<string key="EntitlementSkin_Light_Demon_name" rel_version="AngelsDemonsWeapons">Carcasa de cambión</string>
+	<string key="twitch_pirate_itemskin_name" rel_version="Apparel_Pirate">Aventurero</string>
+	<string key="EntitlementSkin_Heavy_Angel_name" rel_version="AngelsDemonsWeapons">Guardián justo</string>
+	<string key="twitch_robinhood_itemskin_name" rel_version="Apparel_Robin_Hood">Robin Hood</string>
+	<string key="runic_bear_name" rel_version="Apparel_RunicBear">Oso rúnico</string>
+	<string key="runic_fox_name" rel_version="Apparel_RunicFox">Zorro rúnico</string>
+	<string key="EntitlementSkin_SpecialCorruptedVar1_name" rel_version="New_World_Launch">Ira áurea</string>
+	<string key="Icon_Crest_Pack_AnimalHead_name" rel_version="New_World_Launch">Paquete de blasones de cabeza de animal</string>
+	<string key="Icon_Crest_Pack_FullDeck_name" rel_version="New_World_Launch">Paquete de blasones de palos de la baraja</string>
+	<string key="Icon_Crest_Pack_Gesture_name" rel_version="New_World_Launch">Paquete de blasones de gestos</string>
+	<string key="twitch_pirate_crestpack_name" rel_version="New_World_Launch">Paquete de blasones piratas</string>
+	<string key="Icon_Crest_Pack_RobinHood_name" rel_version="New_World_Launch">Paquete de blasones de Robin Hood</string>
+	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Paquete de blasones de actor</string>
+	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Paquete de blasones de maestro de armas</string>
+	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Azul Prime Gaming</string>
+	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Naranja Amazon</string>
+	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Violeta Twitch</string>
+	<string key="shipgray_dye_name" rel_version="Entitlements_November">Gris naval</string>
+	<string key="softcoal_dye_name" rel_version="Entitlements_February_2022">Carbón suave</string>
+	<string key="blemishedpearl_dye_name" rel_version="Entitlements_February_2022">Perla impura</string>
+	<string key="sandalwood_dye_name" rel_version="Entitlements_January_2022">Sándalo</string>
+	<string key="bleached_cofee_dye_name" rel_version="Dyes_Launch">Café descolorido</string>
+	<string key="blood_dye_name" rel_version="MTX_October_Skins">Sangre</string>
+	<string key="viola_dye_name" rel_version="Dyes_Launch">Viola</string>
+	<string key="burntsienna_dye_name" rel_version="MTX_October_Skins">Siena quemado</string>
+	<string key="silt_dye_name" rel_version="Entitlements_November">Cieno</string>
+	<string key="blond_dye_name" rel_version="Entitlements_February_2022">Rubio</string>
+	<string key="sushigreen_dye_name" rel_version="Entitlements_February_2022">Verde sushi</string>
+	<string key="keylime_dye_name" rel_version="Entitlements_November">Verde lima</string>
+	<string key="forestgreen_dye_name" rel_version="Dyes_Launch">Verde bosque</string>
+	<string key="mantis_dye_name" rel_version="Entitlements_January_2022">Mantis</string>
+	<string key="angelicsatin_dye_name" rel_version="Entitlements_December">Satén celestial</string>
+	<string key="tradewind_dye_name" rel_version="Dyes_Launch">Vientos alisios</string>
+	<string key="bluedsteel_dye_name" rel_version="MTX_October_Skins">Acero azulado</string>
+	<string key="supremesaphire_dye_name" rel_version="Entitlements_January_2022">Zafiro supremo</string>
+	<string key="fiercecobalt_dye_name" rel_version="Entitlements_December">Cobalto intenso</string>
+	<string key="springgrape_dye_name" rel_version="MTX_October_Skins">Uva primaveral</string>
+	<string key="tranquilblossom_dye_name" rel_version="Entitlements_January_2022">Flor apacible</string>
+	<string key="deepvelvet_dye_name" rel_version="Entitlements_November">Terciopelo intenso</string>
+	<string key="crushedberry_dye_name" rel_version="Entitlements_December">Frutos del bosque</string>
+	<string key="lavender_dye_name" rel_version="Dyes_Launch">Lavanda</string>
+	<string key="twitch_robinhood_emote_blowkiss_name" rel_version="New_World_Launch">Lanzar un beso</string>
+	<string key="coin_toss_name" rel_version="New_World_Launch">Moneda al aire</string>
+	<string key="applause_name" rel_version="New_World_Launch">Aplauso cortés</string>
+	<string key="twitch_robinhood_emote_fingerwag_name" rel_version="New_World_Launch">Negar con el dedo</string>
+	<string key="twitch_pirate_emote_piratestance_name" rel_version="New_World_Launch">Postura de pirata</string>
+	<string key="twitch_pirate_emote_throat_name" rel_version="New_World_Launch">Cortar el gaznate</string>
+	<string key="thumbs_name" rel_version="New_World_Launch">Pulgares hacia arriba, hacia abajo, hacia los lados</string>
+	<string key="dragons_coil_name" rel_version="Weapon_DragonsCoil">Espiral dragontina</string>
+	<string key="EntitlementSkin_AnglesDemon_Spear_name" rel_version="AngelsDemonsWeapons">Venganza divina</string>
+	<string key="EntitlementSkin_AnglesDemon_FireStaff_name" rel_version="AngelsDemonsWeapons">Fuego y azufre</string>
+	<string key="twitch_pirate_weapon_sword_name" rel_version="New_World_Launch">Lápida de estaca</string>
+	<string key="EntitlementSkin_AnglesDemon_LifeStaff_name" rel_version="AngelsDemonsWeapons">Restauración armónica</string>
+	<string key="howl_at_dawn_name" rel_version="Weapon_HowlAtDawn">Aullido al alba</string>
+	<string key="twin_wolves_name" rel_version="Weapon_TwinWolves">Lobos gemelos</string>
+	<string key="silver_dye_name" rel_version="Entitlements_November">Plata nítido</string>
+	<string key="Bundle_Starter_name" rel_version="Bundle_Starter">Lote de inicio</string>
+	<string key="Bundle_Weapon_Runic_name" rel_version="Bundle_Weapon_Runic">Lote de diseños de armas rúnicas</string>
+	<string key="Bundle_Armor_Runic_name" rel_version="Bundle_Apparel_Runic">Lote de diseños de prendas rúnicas</string>
+	<string key="Bundle_Weapon_Good_Evil_name" rel_version="Bundle_Weapon_AngelsDemons">Lote de diseños de armas de ángeles y demonios</string>
+	<string key="Bundle_Armor_Good_Evil_name" rel_version="Bundle_Apparel_AngelsDemons">Lote de diseños de prendas de ángeles y demonios</string>
+	<string key="Bundle_Decor_Pirate_name" rel_version="New_World_Launch">Lote de decoración para casas piratas</string>
+	<string key="Bundle_Emote_Launch_name" rel_version="Bundle_LaunchSet_Emote">Lote de gestos exprésate tú mismo</string>
+	<string key="EntitlementSkin_Light_Demon_description" rel_version="AngelsDemonsWeapons">«Artículo forjado a partir de la unión infernal de un humano y un demonio».</string>
+	<string key="twitch_pirate_itemskin_description" rel_version="New_World_Launch">«Si los muertos no cuentan cuentos, ¿quién hablará de tu gloria?».</string>
+	<string key="EntitlementSkin_Heavy_Angel_description" rel_version="AngelsDemonsWeapons">«Se abate sobre el enemigo como un castigo divino».</string>
+	<string key="twitch_robinhood_itemskin_description" rel_version="New_World_Launch">«Una última cosa antes de que te vayas... tu bolsa».</string>
+	<string key="runic_bear_description" rel_version="Apparel_RunicBear">«Viste el manto del poderoso oso de las cavernas».</string>
+	<string key="runic_fox_description" rel_version="Apparel_RunicFox">«Al zorro le siguen las zorrerías».</string>
+	<string key="EntitlementSkin_SpecialCorruptedVar1_description" rel_version="New_World_Launch">«Esta encarnación del odio, forjada en las ardientes fraguas de la Gran Grieta, se alza dorada y resplandeciente».</string>
+	<string key="Icon_Crest_Pack_AnimalHead_description" rel_version="New_World_Launch">«Déjate llevar por el espíritu animal».</string>
+	<string key="Icon_Crest_Pack_FullDeck_description" rel_version="New_World_Launch">«Nunca reveles tu mano hasta que el oro esté sobre la mesa».</string>
+	<string key="Icon_Crest_Pack_Gesture_description" rel_version="New_World_Launch">«Dices tantas cosas cuando cierras el pico...».</string>
+	<string key="twitch_pirate_crestpack_description" rel_version="New_World_Launch">«¡Arriad la mesana, marineros de agua dulce!».</string>
+	<string key="Icon_Crest_Pack_RobinHood_description" rel_version="New_World_Launch">«El bosque pertenece a tus alegres bandoleros».</string>
+	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Blasones de actor</string>
+	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">«¿Espada o arco, hacha o mosquete? El veterano sobrevive; el maestro florece».</string>
+	<string key="primeblue_dye_description" rel_version="New_World_Launch">Paquete de tintes consumibles</string>
+	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Paquete de tintes consumibles</string>
+	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Paquete de tintes consumibles</string>
+	<string key="softcoal_dye_description" rel_version="Entitlements_February_2022">Paquete de tintes consumibles</string>
+	<string key="blemishedpearl_dye_description" rel_version="Entitlements_February_2022">Paquete de tintes consumibles</string>
+	<string key="sandalwood_dye_description" rel_version="Entitlements_January_2022">Paquete de tintes consumibles</string>
+	<string key="bleached_cofee_dye_description" rel_version="Dyes_Launch">Paquete de tintes consumibles</string>
+	<string key="blood_dye_description" rel_version="MTX_October_Skins">Paquete de tintes consumibles</string>
+	<string key="viola_dye_description" rel_version="Dyes_Launch">Paquete de tintes consumibles</string>
+	<string key="burntsienna_dye_description" rel_version="MTX_October_Skins">Paquete de tintes consumibles</string>
+	<string key="silt_dye_description" rel_version="Entitlements_November">Paquete de tintes consumibles</string>
+	<string key="blond_dye_description" rel_version="Entitlements_February_2022">Paquete de tintes consumibles</string>
+	<string key="sushigreen_dye_description" rel_version="Entitlements_February_2022">Paquete de tintes consumibles</string>
+	<string key="keylime_dye_description" rel_version="Entitlements_November">Paquete de tintes consumibles</string>
+	<string key="forestgreen_dye_description" rel_version="Dyes_Launch">Paquete de tintes consumibles</string>
+	<string key="mantis_dye_description" rel_version="Entitlements_January_2022">Paquete de tintes consumibles</string>
+	<string key="angelicsatin_dye_description" rel_version="Entitlements_December">Paquete de tintes consumibles</string>
+	<string key="tradewind_dye_description" rel_version="Dyes_Launch">Paquete de tintes consumibles</string>
+	<string key="bluedsteel_dye_description" rel_version="MTX_October_Skins">Paquete de tintes consumibles</string>
+	<string key="supremesaphire_dye_description" rel_version="Entitlements_January_2022">Paquete de tintes consumibles</string>
+	<string key="fiercecobalt_dye_description" rel_version="Entitlements_December">Paquete de tintes consumibles</string>
+	<string key="springgrape_dye_description" rel_version="MTX_October_Skins">Paquete de tintes consumibles</string>
+	<string key="tranquilblossom_dye_description" rel_version="Entitlements_January_2022">Paquete de tintes consumibles</string>
+	<string key="deepvelvet_dye_description" rel_version="Entitlements_November">Paquete de tintes consumibles</string>
+	<string key="crushedberry_dye_description" rel_version="Entitlements_December">Paquete de tintes consumibles</string>
+	<string key="lavender_dye_description" rel_version="Dyes_Launch">Paquete de tintes consumibles</string>
+	<string key="twitch_robinhood_emote_blowkiss_description" rel_version="New_World_Launch">«Un gesto de amor cortés».</string>
+	<string key="coin_toss_description" rel_version="New_World_Launch">«A cara o cruz».</string>
+	<string key="applause_description" rel_version="New_World_Launch">«¡Buen trabajo!».</string>
+	<string key="twitch_robinhood_emote_fingerwag_description" rel_version="New_World_Launch">«No, no, no... ¡No lo sueñes!».</string>
+	<string key="twitch_pirate_emote_piratestance_description" rel_version="New_World_Launch">«Tus flotas del tesoro no tardarán en ser mías».</string>
+	<string key="twitch_pirate_emote_throat_description" rel_version="New_World_Launch">«La marca del bandolero».</string>
+	<string key="thumbs_description" rel_version="New_World_Launch">«Aprobación, desaprobación, abstención de emitir juicio». Incluye tres gestos diferentes: pulgares hacia arriba, hacia abajo y hacia los lados.</string>
+	<string key="dragons_coil_description" rel_version="Weapon_DragonsCoil">«Las serpientes de antaño se arrastran eternamente con escamas de acero».</string>
+	<string key="EntitlementSkin_AnglesDemon_Spear_description" rel_version="AngelsDemonsWeapons">«Una lanza bendecida para mantener el equilibrio entre la luz y la oscuridad».</string>
+	<string key="EntitlementSkin_AnglesDemon_FireStaff_description" rel_version="AngelsDemonsWeapons">«En su interior chisporrotea un tormentoso fuego infernal».</string>
+	<string key="twitch_pirate_weapon_sword_description" rel_version="New_World_Launch">«Cuando te lo juegas todo... hasta tu alma».</string>
+	<string key="EntitlementSkin_AnglesDemon_LifeStaff_description" rel_version="AngelsDemonsWeapons">«Un báculo imbuido con fuerzas restauradoras primordiales».</string>
+	<string key="howl_at_dawn_description" rel_version="Weapon_HowlAtDawn">«Un grito en la hora de las brujas».</string>
+	<string key="twin_wolves_description" rel_version="Weapon_TwinWolves">«Su aullido se acerca cada vez más».</string>
+	<string key="silver_dye_description" rel_version="Entitlements_November">Paquete de tintes consumibles</string>
+	<string key="Bundle_Starter_description" rel_version="Bundle_Starter">«Un conjunto de elementos esenciales que te ayudarán a sobrevivir con estilo en Aetérnum».</string>
+	<string key="Bundle_Weapon_Runic_description" rel_version="Bundle_Weapon_Runic">«Armas grabadas con las runas místicas de una temible cultura guerrera».</string>
+	<string key="Bundle_Armor_Runic_description" rel_version="Bundle_Apparel_Runic">«Cuando aparecen los saqueadores en la costa, tanto las almas buenas como las malas tiemblan de miedo».</string>
+	<string key="Bundle_Weapon_Good_Evil_description" rel_version="Bundle_Weapon_AngelsDemons">«¿Elegirás armas imbuidas de luz divina o aquellas sacadas del caos del infierno?»</string>
+	<string key="Bundle_Armor_Good_Evil_description" rel_version="Bundle_Apparel_AngelsDemons">«En Aetérnum, el bien y el mal, lo santo y lo profano, están entretejidos como enredaderas».</string>
+	<string key="Bundle_Decor_Pirate_description" rel_version="New_World_Launch">«Las aguas traicioneras pueden albergar enormes tesoros».</string>
+	<string key="Bundle_Emote_Launch_description" rel_version="Bundle_LaunchSet_Emote">«Los gestos vitales se entienden en todos los idiomas».</string>
+	<string key="ui_no_featured_deal">No hay ninguna oferta destacada.\n\n&lt;font face="lyshineui/fonts/Pica_Regular.font"&gt;&lt;font color="#ffffff"&gt;EXPLORAR LA TIENDA&lt;/font&gt;&lt;/font&gt;</string>
+	<string key="ui_no_featured_deal_store">No hay ninguna oferta destacada en este momento.\n¡Explora la tienda utilizando las pestañas de la izquierda!</string>
+	<string key="Marks_Of_Fortune_5000_name" rel_version="New_World_Launch">Bolsa de marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_11000_name" rel_version="New_World_Launch">Montón de marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_23000_name" rel_version="New_World_Launch">Pila de marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_40250_name" rel_version="New_World_Launch">Monedero de marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_60000_name" rel_version="New_World_Launch">Cofre de marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_5000_description" rel_version="New_World_Launch">Paquete de moneda con marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_11000_description" rel_version="New_World_Launch">Paquete de moneda con marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_23000_description" rel_version="New_World_Launch">Paquete de moneda con marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_40250_description" rel_version="New_World_Launch">Paquete de moneda con marcas de fortuna</string>
+	<string key="Marks_Of_Fortune_60000_description" rel_version="New_World_Launch">Paquete de moneda con marcas de fortuna</string>
+	<string key="ui_crestforeground_08" rel_version="New_World_Launch">Cabeza de lobo</string>
+	<string key="ui_crestforeground_23" rel_version="New_World_Launch">Jarra helada</string>
+	<string key="ui_crestforeground_35" rel_version="New_World_Launch">Cabeza de toro</string>
+	<string key="ui_crestforeground_42" rel_version="New_World_Launch">Brindis</string>
+	<string key="ui_crestforeground_53" rel_version="New_World_Launch">Corazones</string>
+	<string key="ui_crestforeground_54" rel_version="New_World_Launch">Picas</string>
+	<string key="ui_crestforeground_55" rel_version="New_World_Launch">Tréboles</string>
+	<string key="ui_crestforeground_56" rel_version="New_World_Launch">Diamantes</string>
+	<string key="ui_crestforeground_90" rel_version="New_World_Launch">Pistolas cruzadas</string>
+	<string key="ui_crestforeground_96" rel_version="Apparel_Thespian">Cartel</string>
+	<string key="ui_crestforeground_97" rel_version="Apparel_Thespian">Utilería</string>
+	<string key="ui_crestforeground_98" rel_version="Apparel_Thespian">La pluma poderosa</string>
+	<string key="ui_crestforeground_99" rel_version="New_World_Launch">Pavo para cenar</string>
+	<string key="ui_crestforeground_100" rel_version="New_World_Launch">Sombrero de peregrino</string>
+	<string key="ui_crestforeground_101" rel_version="New_World_Launch">Hacha x mosquete</string>
+	<string key="ui_crestforeground_102" rel_version="New_World_Launch">Rosa de los vientos</string>
+	<string key="ui_crestforeground_103" rel_version="New_World_Launch">Ancla de navío</string>
+	<string key="ui_crestforeground_104" rel_version="New_World_Launch">Bucanero</string>
+	<string key="ui_crestforeground_142" rel_version="New_World_Launch">Bandido</string>
+	<string key="ui_crestforeground_144" rel_version="New_World_Launch">Blasón de contrabandista</string>
+	<string key="ui_crestforeground_145" rel_version="New_World_Launch">Sombrero de chef</string>
+	<string key="ui_crestforeground_149" rel_version="New_World_Launch">Cérvido real</string>
+	<string key="ui_crestforeground_155" rel_version="New_World_Launch">Escudo heráldico</string>
+	<string key="ui_crestforeground_157" rel_version="New_World_Launch">Rico y pobre</string>
+	<string key="ui_crestforeground_160" rel_version="New_World_Launch">Cabeza de oso</string>
+	<string key="ui_crestforeground_162" rel_version="New_World_Launch">Cabeza de león</string>
+	<string key="ui_crestforeground_170" rel_version="New_World_Launch">Cabeza de serpiente</string>
+	<string key="ui_crestforeground_171" rel_version="Crest_Pack_Lunar">Tigre rampante</string>
+	<string key="ui_crestforeground_172" rel_version="Crest_Pack_Lunar">Cabeza de tigre</string>
+	<string key="ui_crestforeground_178" rel_version="New_World_Launch">Catapum</string>
+	<string key="ui_crestforeground_179" rel_version="New_World_Launch">Marca del mercader</string>
+	<string key="ui_crestforeground_184" rel_version="New_World_Launch">Cuernos de rock</string>
+	<string key="ui_crestforeground_187" rel_version="New_World_Launch">Manos de corazón</string>
+	<string key="ui_crestforeground_191" rel_version="New_World_Launch">L de Love</string>
+	<string key="ui_crestforeground_200" rel_version="New_World_Launch">Maestría en arquería</string>
+	<string key="ui_crestforeground_201" rel_version="New_World_Launch">Maestría con báculo ígneo</string>
+	<string key="ui_crestforeground_202" rel_version="New_World_Launch">Maestría con hacha de batalla</string>
+	<string key="ui_crestforeground_203" rel_version="New_World_Launch">Maestría con destrales</string>
+	<string key="ui_crestforeground_204" rel_version="New_World_Launch">Maestría con báculo de vida</string>
+	<string key="ui_crestforeground_205" rel_version="New_World_Launch">Maestría con mosquetes</string>
+	<string key="ui_crestforeground_206" rel_version="New_World_Launch">Fortaleza</string>
+	<string key="ui_crestforeground_207" rel_version="New_World_Launch">Maestría con lanzas</string>
+	<string key="ui_crestforeground_208" rel_version="New_World_Launch">Maestría con martillos de guerra</string>
+	<string key="Bundle_Decor_Spooky2021_name" rel_version="New_World_Launch">Lote de decoración de casa encantada</string>
+	<string key="Bundle_Decor_Spooky2021_description" rel_version="New_World_Launch">«Como si los corruptos no fueran lo bastante espeluznantes…».</string>
+	<string key="Pet_Ghost_Dog_name" rel_version="New_World_Launch">Poltercan</string>
+	<string key="Pet_Ghost_Dog_description" rel_version="New_World_Launch">«Un perro tan fiel que no necesita tener forma física para estar a tu lado. ¡No provoca alergia ni suelta pelo!»</string>
+	<string key="Pet_BlackTiger_name" rel_version="New_World_Launch">Tigre ceniciento</string>
+	<string key="Pet_BlackTiger_description" rel_version="New_World_Launch">«Ni la luz ni el color pueden salvarse de la oscuridad insondable de su pelaje. ¿Pero sabes algo que sí puede? ¡El amor! Y este gatito descomunal necesita mucho».</string>
+	<string key="Monster_GreatAxe_name" rel_version="New_World_Launch">Maldición del faraón</string>
+	<string key="Monster_GreatAxe_description" rel_version="New_World_Launch">«Tras eones perdida entre las arenas del desierto, ahora es libre para desatar el caos».</string>
+	<string key="Monster_LifeStaff_name" rel_version="New_World_Launch">Báculo de viuda negra</string>
+	<string key="Monster_LifeStaff_description" rel_version="New_World_Launch">«Su beso te otorga la vida, su aguijón te la arrebata».</string>
+	<string key="Monster_WarHammer_name" rel_version="New_World_Launch">Martillo de Frankenstein</string>
+	<string key="Monster_WarHammer_description" rel_version="New_World_Launch">«La chispa de la vida desciende de los cielos».</string>
+	<string key="Monster_Musket_name" rel_version="New_World_Launch">Dentellada carmesí</string>
+	<string key="Monster_Musket_description" rel_version="New_World_Launch">«Su mordisco es más terrible que su ladrido».</string>
+	<string key="Monster_Rapier_name" rel_version="New_World_Launch">Estoque esquelético</string>
+	<string key="Monster_Rapier_description" rel_version="New_World_Launch">«Una bestia temible, devorada por el tiempo, donó los huesos que dan forma a esta insidiosa hoja».</string>
+	<string key="Monster_VoidGauntlet_name" rel_version="Weapon_Void_Gauntlet">Profundidades turbulentas</string>
+	<string key="Monster_VoidGauntlet_description" rel_version="Weapon_Void_Gauntlet">«En sus profundidades turbulentas anidan los retazos de la oscuridad primordial».</string>
+	<string key="Mask_AngryEarth_name" rel_version="New_World_Launch">Máscara elemental</string>
+	<string key="Mask_AngryEarth_description" rel_version="New_World_Launch">«Las corrientes de energía atraviesan esta máscara y dan al portador la apariencia de ser un poco más mágico de lo que es realmente».</string>
+	<string key="Mask_Demon_name" rel_version="New_World_Launch">Máscara demoníaca</string>
+	<string key="Mask_Demon_description" rel_version="New_World_Launch">«Aunque esté hecha de madera, esta máscara te hace pensar en la piedra…».</string>
+	<string key="Mask_PlagueDoctor_name" rel_version="New_World_Launch">Máscara de médico de la peste</string>
+	<string key="Mask_PlagueDoctor_description" rel_version="New_World_Launch">«Cuando el miedo asola la región, sus servicios no alcanzan parangón».</string>
+	<string key="Mask_HalfWooden_name" rel_version="New_World_Launch">Máscara del ente elusivo</string>
+	<string key="Mask_HalfWooden_description" rel_version="New_World_Launch">«El desconocido misterioso, a quien pocas veces se ve, mas nunca se le olvida».</string>
+	<string key="Apparel_Monster_Vampire_name" rel_version="New_World_Launch">Conde sanguinario</string>
+	<string key="Apparel_Monster_Vampire_description" rel_version="New_World_Launch">«Es más fácil ocultar las manchas de sangre al vestir de rojo, amigo mío».</string>
+	<string key="Apparel_Monster_Mummy_name" rel_version="New_World_Launch">Sudario del faraón</string>
+	<string key="Apparel_Monster_Mummy_description" rel_version="New_World_Launch">«Para ser una reliquia mohosa que lleva sepultada miles de años, no huele tan mal como creía».</string>
+	<string key="Apparel_Monster_Skeleton_name" rel_version="New_World_Launch">Caballero esqueleto</string>
+	<string key="Apparel_Monster_Skeleton_description" rel_version="New_World_Launch">«Siniestro y sepulcral, a su llamada acude un gran ejército de huesos».</string>
+	<string key="Emote_Whistle_name" rel_version="Emote_Whistle">Silbido</string>
+	<string key="Emote_Whistle_description" rel_version="Emote_Whistle">«Para llamar a los perros, a tus acompañantes, o a una combinación de ambas cosas».</string>
+	<string key="Emote_Pray_name" rel_version="Emote_Pray">Rezo</string>
+	<string key="Emote_Pray_description" rel_version="Emote_Pray">«Arrodíllate ante un poder superior».</string>
+	<string key="Weapon_Golden_Colt_name" rel_version="RoyalCourtSkins">Potro dorado</string>
+	<string key="Weapon_Golden_Colt_description" rel_version="RoyalCourtSkins">«Golpea con la fuerza de un caballo de guerra a todo galope… y además está en llamas».</string>
+	<string key="Weapon_Wicked_Tyrant_name" rel_version="RoyalCourtSkins">Tirano maléfico</string>
+	<string key="Weapon_Wicked_Tyrant_description" rel_version="RoyalCourtSkins">«El poder corrompe. La tiranía malévola te da ese tipo de poder».</string>
+	<string key="Weapon_Crest_of_the_Allsight_name" rel_version="RoyalCourtSkins">Blasón del omnisciente</string>
+	<string key="Weapon_Crest_of_the_Allsight_description" rel_version="RoyalCourtSkins">«Muéstrales tu lealtad, lúcelo en combate, golpéales en la cara con él de vez en cuando si es necesario. Deja claro que eres un enemigo temible».</string>
+	<string key="Weapon_Gallantry_name" rel_version="RoyalCourtSkins">Galantería</string>
+	<string key="Weapon_Gallantry_description" rel_version="RoyalCourtSkins">«Una espada para el valiente, el refinado, el más galante de nuestros caballeros».</string>
+	<string key="Weapon_Monarchs_Might_name" rel_version="RoyalCourtSkins">Poder del monarca</string>
+	<string key="Weapon_Monarchs_Might_description" rel_version="RoyalCourtSkins">«¿Cuál es su verdadera fuerza? ¿El poder de tomar decisiones que determinen la vida de otros? ¿O simplemente la fuerza necesaria para matar?».</string>
+	<string key="Weapon_RoyalCourt_IceGauntlet_name" rel_version="Weapon_IceGauntlet_RoyalCourt">Presión de la realeza</string>
+	<string key="Weapon_RoyalCourt_IceGauntlet_description" rel_version="Weapon_IceGauntlet_RoyalCourt">«Nadie debe cuestionarse quién es su gobernante a no ser que quiera sentir una mano helada cerrándose alrededor de su pescuezo traicionero».</string>
+	<string key="Armor_Suncourt_Regalia_name" rel_version="RoyalCourtSkins">Atavío formal de la Corte del Sol</string>
+	<string key="Armor_Suncourt_Regalia_description" rel_version="RoyalCourtSkins">«Es prudente cubrirse los ojos al contemplar todo su glorioso resplandor».</string>
+	<string key="Armor_Jesters_Delight_name" rel_version="RoyalCourtSkins">Gozo del bufón</string>
+	<string key="Armor_Jesters_Delight_description" rel_version="RoyalCourtSkins">«En el país de los ciegos, el tuerto es rey».</string>
+	<string key="Armor_Deaths_Coronation_name" rel_version="RoyalCourtSkins">Coronación de la muerte</string>
+	<string key="Armor_Deaths_Coronation_description" rel_version="RoyalCourtSkins">«El rey de los muertos sigue siendo un rey, en todos los aspectos».</string>
+	<string key="server_transfer_name" rel_version="Feature_Server_Transfer">Transferencia de personaje</string>
+	<string key="character_rename" rel_version="MTX_October_Skins">Cambio de nombre de personaje (un uso)</string>
+	<string key="character_rename_description" rel_version="MTX_October_Skins">Te permite cambiar el nombre del personaje.\nSolo puede usarse una vez.</string>
+	<string key="ui_character_world_transfer" rel_version="Feature_Server_Transfer">Transferencia de personaje a otro mundo</string>
+	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Transferencia de personaje a otra región</string>
+	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Te permite transferir este personaje a otro mundo o región.</string>
+	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Te permite transferir este personaje a otro mundo dentro de la región actual.</string>
+	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">En tu cuenta puedes tener una transferencia de mundo o región gratis. Una vez que la utilices con un personaje, ya no estará disponible para los demás.</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transfiriendo a &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; a: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; {WorldSetName}</string>
+	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUISITOS</string>
+	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">QUÉ NO SE TRANSFIERE</string>
+	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">POLÍTICA DE REEMBOLSOS</string>
+	<string key="server_transfer_cooldown" rel_version="Feature_Server_Transfer">TIEMPO DE RECARGA</string>
+	<string key="server_transfer_requirements_detail1" rel_version="Feature_Server_Transfer">No puedes pertenecer a una compañía antes de transferirte a otro mundo</string>
+	<string key="server_transfer_requirements_detail2" rel_version="Feature_Server_Transfer">No puedes tener ofertas de compraventa activas en el puesto comercial antes de transferirte a otro mundo</string>
+	<string key="server_transfer_requirements_detail3" rel_version="Feature_Server_Transfer">Debes estar en un Santuario (asentamiento, puesto remoto, santuario espiritual o atalaya) antes de transferirte a otro mundo</string>
+	<string key="server_transfer_requirements_detail_player_level" rel_version="Feature_Server_Transfer">Tienes que haber alcanzado el nivel {level} como mínimo para la transferencia entre regiones.</string>
+	<string key="server_transfer_requirements_detail_housing" rel_version="Feature_Server_Transfer">No debes poseer ninguna casa para la transferencia entre regiones.</string>
+	<string key="server_transfer_not_transfer_detail1" rel_version="Feature_Server_Transfer">Se eliminará tu lista de amigos y no se transferirá</string>
+	<string key="server_transfer_not_transfer_detail2" rel_version="Feature_Server_Transfer">Las misiones activas de proyectos de pueblo no se transferirán</string>
+	<string key="server_transfer_not_transfer_detail3" rel_version="Feature_Server_Transfer">Las misiones activas de facción no se transferirán</string>
+	<string key="server_tranfer_refund_policy_not_refundable" rel_version="Feature_Server_Transfer">Este producto no es reembolsable.</string>
+	<string key="server_tranfer_cooldown_detail" rel_version="Feature_Server_Transfer">El tiempo de recarga entre transferencias de región es de {cooldownDuration}.</string>
+	<string key="server_transfer_unavailable_raidid" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás en una guerra.</string>
+	<string key="server_transfer_unavailable_group" rel_version="Feature_Server_Transfer">Tienes que salir del grupo para poder hacer la transferencia.</string>
+	<string key="server_transfer_unavailable_dungeon" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás en una expedición.</string>
+	<string key="server_transfer_unavailable_arena" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás en una arena.</string>
+	<string key="server_transfer_unavailable_duel" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás en un duelo.</string>
+	<string key="server_transfer_unavailable_outpost_rush" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás en Asalto a puesto remoto.</string>
+	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás a la cola en Asalto a puesto remoto.</string>
+	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">La lista de transferencia de esta región está llena, inténtalo de nuevo en unas horas.</string>
+	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Todas las ranuras de personaje de esta región están llenas. Tienes que borrar o transferir un personaje existente en esta región para poder transferir otro.</string>
+	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Para ver más detalles, consulta</string>
+	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Preguntas frecuentes sobre la transferencia entre regiones</string>
+	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Al confirmar la transferencia, se te desconectará y pasarás a la pantalla de selección de personaje.</string>
+	<string key="server_transfer_final_details_purchase" rel_version="Feature_Server_Transfer">Tras la compra, se te desconectará y pasarás a la pantalla de selección de personaje.</string>
+	<string key="server_transfer_change_world" rel_version="Feature_Server_Transfer">Cambiar de mundo</string>
+	<string key="server_transfer_select_world" rel_version="Feature_Server_Transfer">Seleccionar mundo</string>
+	<string key="server_transfer_select_region" rel_version="Feature_Server_Transfer">Seleccionar región</string>
+	<string key="server_transfer_change_world_tooltip" rel_version="Feature_Server_Transfer">Puedes cambiar de mundo iniciando sesión con tu personaje y accediendo a la tienda de «Transferencia de mundo».</string>
+	<string key="server_transfer_maintenance" rel_version="Feature_Server_Transfer">No puedes transferirte a un mundo mientras esté en mantenimiento.</string>
+	<string key="server_transfer_requirements_company" rel_version="Feature_Server_Transfer">No puedes pertenecer a una compañía o tener invitaciones pendientes de una antes de transferirte a otro mundo.</string>
+	<string key="server_transfer_requirements_tradingPost" rel_version="Feature_Server_Transfer">No puedes tener ofertas de compraventa activas en el puesto comercial antes de transferirte a otro mundo.</string>
+	<string key="server_transfer_requirements_sanctuary" rel_version="Feature_Server_Transfer">Debes estar en un Santuario (asentamiento, puesto remoto, santuario espiritual o atalaya) antes de transferirte a otro mundo.</string>
+	<string key="server_transfer_requirements_tradingPost_unknown" rel_version="Feature_Server_Transfer">Comprobando transacciones del puesto comercial…</string>
+	<string key="server_transfer_requirements_player_level" rel_version="Feature_Server_Transfer">Tienes que haber alcanzado el nivel {level} como mínimo para la transferencia entre regiones.</string>
+	<string key="server_transfer_requirements_housing" rel_version="Feature_Server_Transfer">No debes poseer ninguna casa para la transferencia entre regiones.</string>
+	<string key="server_transfer_confirm_world_transfer" rel_version="Feature_Server_Transfer">CONFIRMAR TRANSFERENCIA DE MUNDO</string>
+	<string key="server_transfer_confirm_region_transfer" rel_version="Feature_Server_Transfer">CONFIRMAR TRANSFERENCIA DE REGIÓN</string>
+	<string key="server_transfer_confirm_button" rel_version="Feature_Server_Transfer">Confirmar transferencia</string>
+	<string key="server_transfer_confirm_purchase_world_transfer" rel_version="Feature_Server_Transfer">COMPRAR TRANSFERENCIA DE MUNDO</string>
+	<string key="server_transfer_confirm_purchase_region_transfer" rel_version="Feature_Server_Transfer">COMPRAR TRANSFERENCIA DE REGIÓN</string>
+	<string key="server_transfer_confirm_button_purchase" rel_version="Feature_Server_Transfer">Comprar transferencia</string>
+	<string key="server_transfer_select_world_fail" rel_version="Feature_Server_Transfer">Primero tienes que seleccionar un mundo válido.</string>
+	<string key="server_transfer_select_world_fail_same" rel_version="Feature_Server_Transfer">El personaje ya está en este mundo. Selecciona otro.</string>
+	<string key="server_transfer_current_world" rel_version="Feature_Server_Transfer">Mundo de origen: {worldName}</string>
+	<string key="server_transfer_home_world" rel_version="Feature_Server_Transfer">Mundo de origen:</string>
+	<string key="server_transfer_step_1" rel_version="Feature_Server_Transfer">Paso 1 de 2</string>
+	<string key="server_transfer_step_2" rel_version="Feature_Server_Transfer">Paso 2 de 2</string>
+	<string key="server_transfer_failed" rel_version="Feature_Server_Transfer">Error de solicitud de transferencia de mundo</string>
+	<string key="server_transfer_disabled" rel_version="Feature_Server_Transfer">Las transferencias de mundos están desactivadas.</string>
+	<string key="server_transfer_region_disabled" rel_version="Feature_Server_Transfer">Las transferencias de regiones están desactivadas en este momento</string>
+	<string key="rename_extra_detail" rel_version="MTX_October_Skins">En tu cuenta dispones de un cambio de nombre gratis. Una vez que lo utilices con un personaje, ya no estará disponible para los demás.</string>
+	<string key="Housing_Happy_Pumpkin_description" rel_version="MTX_October_Skins">«El incorregible sinvergüenza estaba felizmente condenado y condenadamente feliz. ¡Tú también sonreirías si hubieras engañado al mismísimo diablo!»</string>
+	<string key="Housing_Happy_Pumpkin_name" rel_version="MTX_October_Skins">Calabaza risueña de Jack el Buscalíos</string>
+	<string key="Tool_AzothStaff_Monster_name" rel_version="Tool_AzothStaff_Monster">El Ojo</string>
+	<string key="Tool_AzothStaff_Monster_description" rel_version="Tool_AzothStaff_Monster">«Es capaz de detectar una grieta a 10 pasos. Puede que necesite gafas...». Diseño de herramienta de báculo de Azoth</string>
+	<string key="Tool_FishingPole_Monster_name" rel_version="Tool_FishingPole_Monster">Mirada de la serpiente</string>
+	<string key="Tool_FishingPole_Monster_description" rel_version="Tool_FishingPole_Monster">«Domina a peces legendarios blandiendo una caña de pescar con la apariencia de sus enemigos subacuáticos». Diseño de herramienta de caña de pescar</string>
+	<string key="Tool_LoggingAxe_Monster_name" rel_version="Tool_LoggingAxe_Monster">Hacha de kraken</string>
+	<string key="Tool_LoggingAxe_Monster_description" rel_version="Tool_LoggingAxe_Monster">«Con este hacha, puedes jurar que el sonido del árbol cayendo casi parece el de una ola cuando llega a su punto más alto». Diseño de herramienta de hacha de tala</string>
+	<string key="Tool_PickAxe_Monster_name" rel_version="Tool_PickAxe_Monster">Piqueta de gárgola</string>
+	<string key="Tool_PickAxe_Monster_description" rel_version="Tool_PickAxe_Monster">«¡Protege tu pico contra los espíritus malignos hoy mismo!». Diseño de herramienta de piqueta</string>
+	<string key="Tool_Sickle_Monster_name" rel_version="Tool_Sickle_Monster">La garra desdichada</string>
+	<string key="Tool_Sickle_Monster_description" rel_version="Tool_Sickle_Monster">«Las olas trajeron hasta la orilla a un ave gigantesca. No sé qué animal es, pero tiene unas garras afiladísimas». Diseño de herramienta de hoz</string>
+	<string key="Tool_SkinningKnife_Monster_name" rel_version="Tool_SkinningKnife_Monster">Cuchillo de desuello demoníaco</string>
+	<string key="Tool_SkinningKnife_Monster_description" rel_version="Tool_SkinningKnife_Monster">«¿Por qué parece tan... hambriento?». Diseño de herramienta de cuchillo de desuello</string>
+	<string key="Tool_AzothStaff_LegendaryAzoth_name" rel_version="Tool_AzothStaff_LegendaryAzoth">Báculo de Azoth y aleación de Azoth</string>
+	<string key="Tool_AzothStaff_LegendaryAzoth_description" rel_version="Tool_AzothStaff_LegendaryAzoth">«Se ha ido fortaleciendo a base de cerrar muchas grietas». Diseño de herramienta de báculo de Azoth</string>
+	<string key="Tool_FishingPole_LegendaryAzoth_name" rel_version="Tool_FishingPole_LegendaryAzoth">Caña de pescar de aleación de Azoth</string>
+	<string key="Tool_FishingPole_LegendaryAzoth_description" rel_version="Tool_FishingPole_LegendaryAzoth">«Menea el anzuelo un poquito usando magia. A los peces parece que les encanta». Diseño de herramienta de caña de pescar</string>
+	<string key="Tool_LoggingAxe_LegendaryAzoth_name" rel_version="Tool_LoggingAxe_LegendaryAzoth">Hacha de tala de aleación de Azoth</string>
+	<string key="Tool_LoggingAxe_LegendaryAzoth_description" rel_version="Tool_LoggingAxe_LegendaryAzoth">«Nunca he fabricado una aleación a partir de Azoth, pero sí, lo puedo intentar». Diseño de herramienta de hacha de tala</string>
+	<string key="Tool_PickAxe_LegendaryAzoth_name" rel_version="Tool_PickAxe_LegendaryAzoth">Pico de aleación de Azoth</string>
+	<string key="Tool_PickAxe_LegendaryAzoth_description" rel_version="Tool_PickAxe_LegendaryAzoth">«Puede que no lo parezca, pero en el interior de esta herramienta fluye magia». Diseño de herramienta de piqueta</string>
+	<string key="Tool_Sickle_LegendaryAzoth_name" rel_version="Tool_Sickle_LegendaryAzoth">Hoz de aleación de Azoth</string>
+	<string key="Tool_Sickle_LegendaryAzoth_description" rel_version="Tool_Sickle_LegendaryAzoth">«Su delicado resplandor azul hará que te sientas como si estuvieras en un bosque mágico». Diseño de herramienta de hoz</string>
+	<string key="Tool_SkinningKnife_LegendaryAzoth_name" rel_version="Tool_SkinningKnife_LegendaryAzoth">Cuchillo de desuello de aleación de Azoth</string>
+	<string key="Tool_SkinningKnife_LegendaryAzoth_description" rel_version="Tool_SkinningKnife_LegendaryAzoth">«Te encargué un cuchillo de desuello, no el cuchillo de un asesino». Diseño de herramienta de cuchillo de desuello</string>
+	<string key="Tool_AzothStaff_LegendaryStrength_name" rel_version="Tool_AzothStaff_LegendaryStrength">Báculo de Azoth y acero al carbono</string>
+	<string key="Tool_AzothStaff_LegendaryStrength_description" rel_version="Tool_AzothStaff_LegendaryStrength">«Tan resistente que se puede emplear incluso en las grietas más peligrosas». Diseño de herramienta de báculo de Azoth</string>
+	<string key="Tool_FishingPole_LegendaryStrength_name" rel_version="Tool_FishingPole_LegendaryStrength">Caña de pescar de acero al carbono</string>
+	<string key="Tool_FishingPole_LegendaryStrength_description" rel_version="Tool_FishingPole_LegendaryStrength">«Con los refuerzos adicionales que tiene, no tendrás que preocuparte nunca de que se te rompa la caña». Diseño de herramienta de caña de pescar</string>
+	<string key="Tool_LoggingAxe_LegendaryStrength_name" rel_version="Tool_LoggingAxe_LegendaryStrength">Hacha de tala de acero al carbono</string>
+	<string key="Tool_LoggingAxe_LegendaryStrength_description" rel_version="Tool_LoggingAxe_LegendaryStrength">«Es necesario cuidar de las herramientas, pero si están fabricadas con el material adecuado no tendrás que preocuparte de ello durante mucho tiempo». Diseño de herramienta de hacha de tala</string>
+	<string key="Tool_PickAxe_LegendaryStrength_name" rel_version="Tool_PickAxe_LegendaryStrength">Pico de acero al carbono</string>
+	<string key="Tool_PickAxe_LegendaryStrength_description" rel_version="Tool_PickAxe_LegendaryStrength">«Lo suficientemente duro para que puedas extraer cualquier cosa que necesites en Aetérnum». Diseño de herramienta de piqueta</string>
+	<string key="Tool_Sickle_LegendaryStrength_name" rel_version="Tool_Sickle_LegendaryStrength">Hoz de acero al carbono</string>
+	<string key="Tool_Sickle_LegendaryStrength_description" rel_version="Tool_Sickle_LegendaryStrength">«Esta hoz es la mar de práctica porque su hoja se mantiene afilada durante mucho tiempo». Diseño de herramienta de hoz</string>
+	<string key="Tool_SkinningKnife_LegendaryStrength_name" rel_version="Tool_SkinningKnife_LegendaryStrength">Cuchillo de desuello de acero al carbono</string>
+	<string key="Tool_SkinningKnife_LegendaryStrength_description" rel_version="Tool_SkinningKnife_LegendaryStrength">«Lo bastante resistente como para cortar incluso el pellejo de un yeti». Diseño de herramienta de cuchillo de desuello</string>
+	<string key="Emote_ChestPound_name" rel_version="Emote_ChestPound">Golpes de pecho</string>
+	<string key="Emote_Impatient_name" rel_version="Emote_Impatient">Impacientarse</string>
+	<string key="Emote_Cry_name" rel_version="Emote_Cry">Llorar</string>
+	<string key="Emote_ChestPound_description" rel_version="Emote_ChestPound">«Un alarde de dominio».</string>
+	<string key="Emote_Impatient_description" rel_version="Emote_Impatient">«No puedo esperar eternamente... Miento, sí que puedo».</string>
+	<string key="Emote_Cry_description" rel_version="Emote_Cry">«Riega las plantas con tus lágrimas».</string>
+	<string key="Apparel_WarSpecial_name" rel_version="Apparel_War_Special">Guerrero macabro </string>
+	<string key="Apparel_ClassicRPGWizard_name" rel_version="Apparel_RPG_Wizard">Galas de hechicero</string>
+	<string key="Apparel_ClassicRPGBard_name" rel_version="Apparel_RPG_Bard">Galas del armonizador</string>
+	<string key="Apparel_ClassicRPGRogue_name" rel_version="Apparel_RPG_Rogue">Charlatán encapuchado </string>
+	<string key="Apparel_RoyalCourt_Crown_name" rel_version="Apparel_Helmet_Crown">Corona de la potestad</string>
+	<string key="Apparel_RoyalCourt_Tiara_name" rel_version="Apparel_Helmet_Tiara">Tiara de la potestad </string>
+	<string key="Apparel_WarSpecial_description" rel_version="Apparel_War_Special">«El uniforme reluciente de la mismísima Muerte, quien, según los rumores, acecha en cada campo de batalla de Aetérnum, maldiciendo las resurrecciones de la isla».</string>
+	<string key="Apparel_ClassicRPGWizard_description" rel_version="Apparel_RPG_Wizard">«El atuendo bordado de quienes buscan dominar las fuerzas arcanas de Aetérnum».</string>
+	<string key="Apparel_ClassicRPGBard_description" rel_version="Apparel_RPG_Bard">«Quien lleva esta prenda pone el mismo empeño en sus canciones que en su apariencia, justo como le gusta».</string>
+	<string key="Apparel_ClassicRPGRogue_description" rel_version="Apparel_RPG_Rogue">«En Aetérnum, si tienes un ingenio tan afilado como tus hojas, puedes conseguir lo que te plazca».</string>
+	<string key="Apparel_RoyalCourt_Crown_description" rel_version="Apparel_Helmet_Crown">«Aetérnum sostiene una corona por encima de la cabeza de todos los viajeros; solo tienen que elevarse para llegar a ella».</string>
+	<string key="Apparel_RoyalCourt_Tiara_description" rel_version="Apparel_Helmet_Tiara">«Ni siquiera la agreste naturaleza de Aetérnum puede evitar que una persona de sangre real luzca lo más digna posible».</string>
+	<string key="Weapon_Bow_RoyalCourt_name" rel_version="Weapon_Bow_RoyalCourt">Filigrana de arquero</string>
+	<string key="Tool_AzothStaff_RoyalCourt_name" rel_version="Tool_AzothStaff_RoyalCourt">El misterio de Margrave</string>
+	<string key="Tool_FishingPole_RoyalCourt_name" rel_version="Tool_FishingPole_RoyalCourt">Sedal áureo</string>
+	<string key="Tool_LoggingAxe_RoyalCourt_name" rel_version="Tool_LoggingAxe_RoyalCourt">Majestad arbórea</string>
+	<string key="Tool_PickAxe_RoyalCourt_name" rel_version="Tool_PickAxe_RoyalCourt">Desmenuzador imperial</string>
+	<string key="Tool_Sickle_RoyalCourt_name" rel_version="Tool_Sickle_RoyalCourt">Eminencia leonada</string>
+	<string key="Tool_SkinningKnife_RoyalCourt_name" rel_version="Tool_SkinningKnife_RoyalCourt">Filo nobiliario</string>
+	<string key="Weapon_Bow_RoyalCourt_description" rel_version="Weapon_Bow_RoyalCourt">«Una flecha con muescas disparada con un arco de oro y esmeralda daña tanto el ego como el cuerpo».</string>
+	<string key="Tool_AzothStaff_RoyalCourt_description" rel_version="Tool_AzothStaff_RoyalCourt">«La aventurera avanza hacia el portal corrupto y golpea su cetro contra el suelo al tiempo que exige su derrota». Diseño de herramienta de báculo de Azoth</string>
+	<string key="Tool_FishingPole_RoyalCourt_description" rel_version="Tool_FishingPole_RoyalCourt">«Bajo el agua, esta caña da la impresión de ser tan brillante e inofensiva como el reflejo del sol. Los peces se percatarán pronto de la horrible verdad». Diseño de herramienta de caña de pescar</string>
+	<string key="Tool_LoggingAxe_RoyalCourt_description" rel_version="Tool_LoggingAxe_RoyalCourt">«Con hacer una floritura llena de luz cegadora, el bosque cae a tus pies». Diseño de herramienta de hacha de tala</string>
+	<string key="Tool_PickAxe_RoyalCourt_description" rel_version="Tool_PickAxe_RoyalCourt">«Ordena tanto a piedras como a menas que se hagan añicos». Diseño de herramienta de piqueta</string>
+	<string key="Tool_Sickle_RoyalCourt_description" rel_version="Tool_Sickle_RoyalCourt">«Cuando se emplea en terrenos silvestres, el brillo de esta herramienta atrae a más de un par de ojos codiciosos». Diseño de herramienta de hoz</string>
+	<string key="Tool_SkinningKnife_RoyalCourt_description" rel_version="Tool_SkinningKnife_RoyalCourt">«También sirve como abrecartas para todas las misivas reales que recibes». Diseño de herramienta de cuchillo de desuello</string>
+	<string key="Bundle_Decor_RoyalCourt_name" rel_version="Housing_Royal_MTX_Pack_2021">Lote de decoración de la corte real</string>
+	<string key="Bundle_Decor_RoyalCourt_description" rel_version="Housing_Royal_MTX_Pack_2021">«Esplendor real digno de la nobleza, viva o corrupta».</string>
+	<string key="Bundle_Tool_LegendaryAzoth_name" rel_version="MTX_Tool_Skins_LegendaryAzoth">Herramientas de Azoth legendarias</string>
+	<string key="Bundle_Tool_LegendaryStrength_name" rel_version="MTX_Tool_Skins_LegendaryStrength">Herramientas de fuerza legendaria</string>
+	<string key="Bundle_Tool_ClassicMonster_name" rel_version="MTX_Tool_Skins_Monster">Instrumentos monstruosos</string>
+	<string key="Bundle_Tool_RoyalCourt_name" rel_version="MTX_Tool_Skins_RoyalCourt">Opulencia real</string>
+	<string key="Bundle_Tool_LegendaryAzoth_description" rel_version="MTX_Tool_Skins_LegendaryAzoth">«Un toque de magia va bien con cualquier tarea, incluida la de conseguir lo necesario para sobrevivir».</string>
+	<string key="Bundle_Tool_LegendaryStrength_description" rel_version="MTX_Tool_Skins_LegendaryStrength">«La fuerza bruta bien puede ser la mejor forma de revertir los recursos de Aetérnum a su esencia natural».</string>
+	<string key="Bundle_Tool_ClassicMonster_description" rel_version="MTX_Tool_Skins_Monster">«Conjunto de temibles herramientas malditas que penetran en la mismísima psique de su usuario para arrebatarle la fuerza».</string>
+	<string key="Bundle_Tool_RoyalCourt_description" rel_version="MTX_Tool_Skins_RoyalCourt">«Estas herramientas brillan para que todo el mundo sepa quién blande el poder áureo en Aetérnum».</string>
+	<string key="Apparel_WinterOutfit01_name" rel_version="Apparel_Winter_MTX_1">Majestad invernal</string>
+	<string key="Apparel_WinterOutfit01_description" rel_version="Apparel_Winter_MTX_1">«Con el brillo de la bisutería, el porte de las pieles y la coquetería del colorido, uno se deleita y lucha contra el frío de las noches más oscuras del año».</string>
+	<string key="Apparel_WinterOutfit02_name" rel_version="Apparel_Winter_MTX_2">Celebración hibernal del cazador</string>
+	<string key="Apparel_WinterOutfit02_description" rel_version="Apparel_Winter_MTX_2">«En lo más crudo del invierno, hasta el cazador más pragmático se pone sus mejores galas antes de buscar la luz y el calor de la celebración de la estación».</string>
+	<string key="Apparel_WinterOutfit03_name" rel_version="Apparel_Winter_MTX_3">Espíritu de la estación</string>
+	<string key="Apparel_WinterOutfit03_description" rel_version="Apparel_Winter_MTX_3">«La melancolía de la estación otorga una silueta especial a quienes se reúnen para las procesiones festivas».</string>
+	<string key="Bundle_Tool_LegendaryTech_name" rel_version="MTX_Tool_Skins_LegendaryTech">El aparato celestial</string>
+	<string key="Weapon_Rapier_Dec21_name" rel_version="Weapon_Rapier_Winter_MTX">Cuchilla juerguista</string>
+	<string key="Weapon_Spear_Dec21_name" rel_version="Weapon_Spear_Winter_MTX">Brocheta de Saturnalia</string>
+	<string key="Weapon_Bow_Dec21_name" rel_version="Weapon_Bow_Winter_MTX">Lazo de muérdago</string>
+	<string key="Weapon_Hatchet_Dec21_name" rel_version="Weapon_Hatchet_Winter_MTX">Filo festivo</string>
+	<string key="Weapon_IceGauntlet_Dec21_name" rel_version="Weapon_IceGauntlet_Winter_MTX">Mitones de Padre Invierno</string>
+	<string key="Weapon_Lifestaff_Dec21_name" rel_version="Weapon_LifeStaff_Winter_MTX">Caña navideña</string>
+	<string key="Bundle_Tool_LegendaryTech_description" rel_version="MTX_Tool_Skins_LegendaryTech">«Estos instrumentos maravillosos representan una tecnología perdida más allá de la ciencia de cualquier erudito que conozcas».</string>
+	<string key="Weapon_Rapier_Dec21_description" rel_version="Weapon_Rapier_Winter_MTX">«Canciones antiguas y villancicos llenan la cabeza de quien porte esta arma, y a menudo las cantará durante la danza de la batalla. ¡Ponche! ¡Fiesta!».</string>
+	<string key="Weapon_Spear_Dec21_description" rel_version="Weapon_Spear_Winter_MTX">«Cada muerte parece una ofrenda a las fuerzas cthonianas que esperan bajo la superficie en estas felices fiestas llenas de algarabía».</string>
+	<string key="Weapon_Bow_Dec21_description" rel_version="Weapon_Bow_Winter_MTX">«Engalana a tu presa con flechas festivas y decora el lugar con tus trofeos».</string>
+	<string key="Weapon_Hatchet_Dec21_description" rel_version="Weapon_Hatchet_Winter_MTX">«Este destral dorado destella y deslumbra con la dicha de la estación».</string>
+	<string key="Weapon_IceGauntlet_Dec21_description" rel_version="Weapon_IceGauntlet_Winter_MTX">«En las grietas del hielo naciente se puede oír la carcajada festiva de un dandi demonio».</string>
+	<string key="Weapon_Lifestaff_Dec21_description" rel_version="Weapon_LifeStaff_Winter_MTX">«Grabado durante el invierno y endurecido en los troncos navideños ardientes, la energía de este báculo te llena con el calor de un hogar acogedor».</string>
+	<string key="Bundle_Tool_Winter21_name" rel_version="MTX_Tool_Skins_Winter">Cosechadores hibernales</string>
+	<string key="Apparel_Abyssal_name" rel_version="Apparel_Abyssal_Costume">Armadura de influjo abismal</string>
+	<string key="Apparel_Vogue_name" rel_version="Apparel_Vogue">Moda cortesana</string>
+	<string key="Apparel_AutumnKing_name" rel_version="Apparel_AutumnKing">Lord otoñal</string>
+	<string key="Bundle_Tool_Winter21_description" rel_version="MTX_Tool_Skins_Winter"> «Recolectar recursos en lo más crudo del invierno puede ser un empeño funesto y fatídico. ¿Por qué no calentar el corazón con brillo y oropel?».</string>
+	<string key="Apparel_Abyssal_description" rel_version="Apparel_Abyssal_Costume">«Bebe del poder del vacío».</string>
+	<string key="Apparel_Vogue_description" rel_version="Apparel_Vogue">«El verdadero arte nunca es comprendido en su tiempo».</string>
+	<string key="Apparel_AutumnKing_description" rel_version="Apparel_AutumnKing">«El ciclo de la vida continúa».</string>
+	<string key="Bundle_WarSpecial_Promo_name" rel_version="Bundle_Promo_BlackFriday">Lote del guerrero macabro</string>
+	<string key="Bundle_WarSpecial_Promo_description" rel_version="Bundle_Promo_BlackFriday">«Viste el uniforme reluciente de la mismísima Muerte, quien, según los rumores, acecha en cada campo de batalla de Aetérnum. Añádele un tinte gris oscuro para quitarle aún más luz al mundo».</string>
+	<string key="Bundle_Vogue_Promo_name" rel_version="Bundle_Promo_DecHoliday">Lote de moda cortesana</string>
+	<string key="Bundle_Vogue_Promo_description" rel_version="Bundle_Promo_DecHoliday">«El verdadero arte nunca es comprendido en su tiempo. Acicálate adecuadamente».</string>
+	<string key="Emote_Shiver_name" rel_version="Emote_Shiver">Escalofrío</string>
+	<string key="Emote_Shiver_description" rel_version="Emote_Shiver">«¡Si tengo tanto frío ahora, imagina cómo estaríamos en el Invierno Eterno!».</string>
+	<string key="Emote_LegKickDance_name" rel_version="Emote_Leg_Kick_Dance">Baile de la patada</string>
+	<string key="Emote_BellyLaugh_name" rel_version="Emote_BellyLaugh">Carcajada</string>
+	<string key="Emote_LegKickDance_description" rel_version="Emote_Leg_Kick_Dance">«Un baile tradicional».</string>
+	<string key="Emote_BellyLaugh_description" rel_version="Emote_BellyLaugh">«¡Una sonora carcajada!».</string>
+	<string key="Bundle_Decor_Winter21_name" rel_version="Housing_Winter_MTX_Pack_2021">Lote de decoración de la Convergencia Invernal</string>
+	<string key="Pet_RednoseDeer_name" rel_version="Housing_Winter_MTX_Pack_2021">Reno festivo</string>
+	<string key="Bundle_Decor_Winter21_description" rel_version="Housing_Winter_MTX_Pack_2021">«Da la bienvenida a tus invitados en tu casa durante la Convergencia Invernal, un momento alegre y aterrador en Aetérnum».</string>
+	<string key="Pet_RednoseDeer_description" rel_version="Housing_Winter_MTX_Pack_2021">«Completo con su propia bufanda para mantener el calor ante el Invierno Eterno».</string>
+	<string key="CampSkin_Winter2_name" rel_version="CampSkin_Winter2">Estrella invernal</string>
+	<string key="CampSkin_Winter3_name" rel_version="CampSkin_Winter3">Opulencia invernal</string>
+	<string key="CampSkin_Winter2_description" rel_version="CampSkin_Winter2">«Protégete del gélido invierno de Aetérnum en una tienda de campaña».</string>
+	<string key="CampSkin_Winter3_description" rel_version="CampSkin_Winter3">«Disfruta de la vista en una tienda elegante».</string>
+	<string key="Weapon_Shield_Lunar_name" rel_version="Weapon_TowerShield_LunarNewYear_MTX">El rugido del tigre</string>
+	<string key="Weapon_Shield_Lunar_description" rel_version="Weapon_TowerShield_LunarNewYear_MTX">«Cada golpe bloqueado parece encabritar aún más al animal esculpido en el escudo, aumentando el brillo de sus dientes».</string>
+	<string key="Weapon_Firestaff_Lunar_name" rel_version="Weapon_FireStaff_LunarNewYear_MTX">Llama eterna</string>
+	<string key="Weapon_Firestaff_Lunar_description" rel_version="Weapon_FireStaff_LunarNewYear_MTX">«El orbe que hay sobre este pilar de fuego está esculpido en la más exquisita jadeíta de Aetérnum».</string>
+	<string key="Weapon_Sword_Lunar_name" rel_version="Weapon_LongSword_LunarNewYear_MTX">El poderío del general</string>
+	<string key="Weapon_Sword_Lunar_description" rel_version="Weapon_LongSword_LunarNewYear_MTX">«Siente el poderío de los generales de antaño corriendo por tus venas al blandirla».</string>
+	<string key="Weapon_Musket_Lunar_name" rel_version="Weapon_Musket_LunarNewYear_MTX">Rugido penetrante</string>
+	<string key="Weapon_Musket_Lunar_description" rel_version="Weapon_Musket_LunarNewYear_MTX">«De las fauces de la gran bestia surge la bala hasta hundirse en las carnes de su desafortunado objetivo».</string>
+	<string key="Weapon_VoidGauntlet_Lunar_name" rel_version="Weapon_VoidGauntlet_LunarNewYear_MTX">Toque dorado del vacío</string>
+	<string key="Weapon_VoidGauntlet_Lunar_description" rel_version="Weapon_VoidGauntlet_LunarNewYear_MTX">«En el brillo dorado subyace cierta oscuridad».</string>
+	<string key="Weapon_Blunderbuss_Lunar_name" rel_version="Weapon_Blunderbuss_LunarNewYear_MTX">Dispersora de traca</string>
+	<string key="Weapon_Blunderbuss_Lunar_description" rel_version="Weapon_Blunderbuss_LunarNewYear_MTX">«Esta pistola ornamentada, rápida y ruidosa como una traca, esconde mucho más de lo que uno cree».</string>
+	<string key="Apparel_Lunar_1_name" rel_version="Apparel_LunarNewYear_MTX_1">Dragón de jadeíta</string>
+	<string key="Apparel_Lunar_1_description" rel_version="Apparel_LunarNewYear_MTX_1">«Suelta un rugido que haga que se tambaleen los cimientos de Aetérnum».</string>
+	<string key="Apparel_Lunar_2_name" rel_version="Apparel_LunarNewYear_MTX_2">Asesino de jadeíta</string>
+	<string key="Apparel_Lunar_2_description" rel_version="Apparel_LunarNewYear_MTX_2">«La armadura parece haberse esculpido sobre el cuerpo de quien la porta, como una segunda piel, para lograr el máximo sigilo».</string>
+	<string key="Bundle_Tool_Lunar_name" rel_version="MTX_Tool_Skins_LunarNewYear">El ciclo de la luna</string>
+	<string key="Bundle_Tool_Lunar_description" rel_version="MTX_Tool_Skins_LunarNewYear">«Estas herramientas pueden ayudarte a encontrar la fortuna en el año próximo».</string>
+	<string key="Apparel_Stormbound_name" rel_version="Apparel_Stormbound_Costume">Tormentoso</string>
+	<string key="Apparel_Stormbound_description" rel_version="Apparel_Stormbound_Costume">«Arrastrado por la tormenta que te trajo a Aetérnum, te has forjado un nombre en la isla».</string>
+	<string key="Apparel_Miner_name" rel_version="Apparel_Miner_Achv">Maestría minera</string>
+	<string key="Apparel_Miner_description" rel_version="Apparel_Miner_Achv">«Para quienes no temen ensuciarse los guantes con la sal de la tierra».</string>
+	<string key="Emote_RoyalWave_name" rel_version="Emote_Queen_Wave">Saludo de reina</string>
+	<string key="Emote_RoyalWave_description" rel_version="Emote_Queen_Wave">«Saluda como la realeza».</string>
+	<string key="Emote_Pushups_name" rel_version="Emote_Pushups">Flexiones</string>
+	<string key="Emote_Autograph_name" rel_version="Emote_Autograph">Autógrafo</string>
+	<string key="Emote_SnowAngel_name" rel_version="Emote_SnowAngel">Ángel de nieve</string>
+	<string key="Emote_Pushups_description" rel_version="Emote_Pushups">«¿Acaso le gusta levantar pesas?».</string>
+	<string key="Emote_Autograph_description" rel_version="Emote_Autograph">«Garabatea tu autógrafo. Seguro que tus fans están desesperados por tenerlo».</string>
+	<string key="Emote_SnowAngel_description" rel_version="Emote_SnowAngel">«En Aetérnum, los ángeles son un bien escaso. Haz más. Pero procura no congelarte».</string>
+	<string key="url_twitchdrop">https://www.newworld.com/es-es/twitch-drops</string>
+	<string key="url_primegaming">https://gaming.amazon.com/loot/newworld</string>
+	<string key="ui_open_link">Abrir enlace</string>
+	<string key="Bundle_Decor_Lunar_name" rel_version="Housing_LunarNewYear_MTX_Pack_2022">Lote de decoración del Año Nuevo Lunar</string>
+	<string key="Bundle_Decor_Lunar_description" rel_version="Housing_LunarNewYear_MTX_Pack_2022">«¡Bienvenido, año nuevo!».</string>
+	<string key="Pet_LunarTiger_name" rel_version="Housing_LunarNewYear_MTX_Pack_2022">Tigre lunar</string>
+	<string key="Pet_LunarTiger_description" rel_version="Housing_LunarNewYear_MTX_Pack_2022">«Un ser místico que te ha bendecido con su presencia y su protección».</string>
+	<string key="Bundle_Crest_Lunar_name" rel_version="Crest_Pack_Lunar">Paquete de blasones del Año Nuevo Lunar</string>
+	<string key="Bundle_Crest_Lunar_description" rel_version="Crest_Pack_Lunar">«El signo del tigre».</string>
+	<string key="Marks_Of_Fortune_120000_name" rel_version="Marks_Sku_99">Bote de marcas</string>
+	<string key="Marks_Of_Fortune_120000_description" rel_version="Marks_Sku_99">Paquete de moneda con marcas de fortuna</string>
+	<string key="Bundle_FestiveDeer_Promo_name" rel_version="Housing_Winter_MTX_Pack_2021">Lote de reno festivo</string>
+	<string key="Bundle_FestiveDeer_Promo_description" rel_version="Housing_Winter_MTX_Pack_2021">«Un reno con bufanda para mantenerse abrigado contra la amenaza del Invierno Eterno». Y, además, algunos tintes para añadir colores festivos a tus atuendos».</string>
+	<string key="reward_type_campskin" rel_version="Feature_Camp_Skins">Diseño del campamento</string>
+	<string key="Bundle_PR_Megapack_Runic_name" rel_version="Bundle_MegaPack_Runic">Superlote rúnico</string>
+	<string key="Bundle_PR_Megapack_AngelsDemons_name" rel_version="Bundle_MegaPack_AngelsDemons">Superlote de ángeles y demonios</string>
+	<string key="Bundle_PR_Weapon_RoyalCourt_name" rel_version="Bundle_Weapon_RoyalCourt">Lote de diseños de armas de la corte real</string>
+	<string key="Bundle_PR_Apparel_RoyalCourt_name" rel_version="Bundle_Apparel_RoyalCourt">Lote de diseños de prendas de la corte real</string>
+	<string key="Bundle_PR_Megapack_RoyalCourt_name" rel_version="Bundle_MegaPack_RoyalCourt">Superlote de la corte real</string>
+	<string key="Bundle_PR_Megapack_Runic_description" rel_version="Bundle_MegaPack_Runic">¡Consigue todas las prendas y diseños de armas rúnicos! El barco vikingo y la sed de sangre no están incluidos.</string>
+	<string key="Bundle_PR_Megapack_AngelsDemons_description" rel_version="Bundle_MegaPack_AngelsDemons">¡Consigue todas las prendas y diseños de armas de ángeles y demonios! Una muestra de la dualidad del mundo.</string>
+	<string key="Bundle_PR_Weapon_RoyalCourt_description" rel_version="Bundle_Weapon_RoyalCourt">«Una selección de armas dignas del gobernante más poderoso».</string>
+	<string key="Bundle_PR_Apparel_RoyalCourt_description" rel_version="Bundle_Apparel_RoyalCourt">«Al estar entre la realeza, hay que vestirse para la ocasión».</string>
+	<string key="Bundle_PR_Megapack_RoyalCourt_description" rel_version="Bundle_MegaPack_RoyalCourt">¡Consigue todos los diseños de la corte real para prendas, herramientas y armas! Independientemente de que gobiernes con benevolencia o con mano de hierro, encontrarás un estilo que se adapte a ti.</string>
+	<string key="Bundle_PR_Weapon_Lunar_name" rel_version="Bundle_Weapon_Lunar">Lote de diseños de armas del Año Nuevo Lunar</string>
+	<string key="Bundle_PR_Apparel_Lunar_name" rel_version="Bundle_Apparel_Lunar">Lote de diseños de prendas del Año Nuevo Lunar</string>
+	<string key="Bundle_PR_MegaPack_Lunar_name" rel_version="Bundle_MegaPack_Lunar">Superlote del Año Nuevo Lunar</string>
+	<string key="Bundle_PR_Weapon_Lunar_description" rel_version="Bundle_Weapon_Lunar">«Celebra el año nuevo con un rugido aterrador y un zarpazo temible».</string>
+	<string key="Bundle_PR_Apparel_Lunar_description" rel_version="Bundle_Apparel_Lunar">«Cumple tu propósito de conquistar a todos tus enemigos de Aetérnum».</string>
+	<string key="Bundle_PR_MegaPack_Lunar_description" rel_version="Bundle_MegaPack_Lunar">¡Consigue todos los diseños del Año Nuevo Lunar para prendas, herramientas y armas! Que la fortuna te sonría este año y haga que tus esfuerzos en Aetérnum lleguen a buen puerto.</string>
+	<string key="reward_type_Weaponskin_Bow" rel_version="New_World_Launch">Diseño de arco</string>
+	<string key="reward_type_Weaponskin_Hatchet" rel_version="New_World_Launch">Diseño de destral</string>
+	<string key="reward_type_Weaponskin_Musket" rel_version="New_World_Launch">Diseño de mosquete</string>
+	<string key="reward_type_Weaponskin_FireStaff" rel_version="New_World_Launch">Diseño de báculo ígneo</string>
+	<string key="reward_type_Weaponskin_LifeStaff" rel_version="New_World_Launch">Diseño de báculo de vida</string>
+	<string key="reward_type_Weaponskin_Warhammer" rel_version="New_World_Launch">Diseño de martillo de guerra</string>
+	<string key="reward_type_Weaponskin_Rapier" rel_version="New_World_Launch">Diseño de estoque</string>
+	<string key="reward_type_Weaponskin_Sword" rel_version="New_World_Launch">Diseño de espada</string>
+	<string key="reward_type_Weaponskin_Shield" rel_version="New_World_Launch">Diseño de escudo</string>
+	<string key="reward_type_Weaponskin_GreatAxe" rel_version="New_World_Launch">Diseño de gran hacha</string>
+	<string key="reward_type_Weaponskin_IceGauntlet" rel_version="New_World_Launch">Diseño de manopla de hielo</string>
+	<string key="reward_type_Weaponskin_VoidGauntlet" rel_version="Weapon_Void_Gauntlet">Diseño de manopla de vacío</string>
+	<string key="reward_type_Weaponskin_Blunderbuss" rel_version="Weapon_Blunderbuss">Diseño de trabuco</string>
+	<string key="reward_type_Apparelskin" rel_version="New_World_Launch">Diseño de prendas</string>
+	<string key="reward_type_Weaponskin_Spear" rel_version="New_World_Launch">Diseño de lanza</string>
+	<string key="reward_type_house_pet" rel_version="New_World_Launch">Mascota</string>
+	<string key="reward_type_itemdye_pack" rel_version="New_World_Launch">Paquete de tintes</string>
+	<string key="reward_type_guildcrest_pack" rel_version="New_World_Launch">Conjunto de blasones de compañía</string>
+	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Conjunto de diseños de prendas</string>
+	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Conjunto de diseños de herramientas</string>
+	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Conjunto de decoraciones para casa</string>
+	<string key="Weapon_Bow_CorruptedLove_name" rel_version="Weapon_Bow_February_MTX">Arco de Cupido</string>
+	<string key="Weapon_FireStaff_CorruptedLove_name" rel_version="Weapon_FireStaff_February_MTX">Admiración resplandeciente</string>
+	<string key="Weapon_IceGauntlet_CorruptedLove_name" rel_version="Weapon_IceGauntlet_February_MTX">Abrazo frío del amor</string>
+	<string key="Weapon_Musket_CorruptedLove_name" rel_version="Weapon_Musket_February_MTX">Belleza penetrante</string>
+	<string key="Weapon_Rapier_CorruptedLove_name" rel_version="Weapon_Rapier_February_MTX">Ensartacorazones</string>
+	<string key="Weapon_WarHammer_CorruptedLove_name" rel_version="Weapon_Warhammer_February_MTX">Amor aplastante</string>
+	<string key="Weapon_Bow_CorruptedLove_description" rel_version="Weapon_Bow_February_MTX">«Estas flechas hallan un hogar en el corazón de un enemigo y dejan una marca que jamás se borra».</string>
+	<string key="Weapon_FireStaff_CorruptedLove_description" rel_version="Weapon_FireStaff_February_MTX">«Las llamas de mi afecto no se pueden domar».</string>
+	<string key="Weapon_IceGauntlet_CorruptedLove_description" rel_version="Weapon_IceGauntlet_February_MTX">«No todas las formas de amor requieren las llamas de la pasión».</string>
+	<string key="Weapon_Musket_CorruptedLove_description" rel_version="Weapon_Musket_February_MTX">«Si las miradas mataran, no necesitarías esta arma».</string>
+	<string key="Weapon_Rapier_CorruptedLove_description" rel_version="Weapon_Rapier_February_MTX">«Al igual que una flecha de Cupido, su punta ahonda en el corazón y permanece para siempre en él».</string>
+	<string key="Weapon_WarHammer_CorruptedLove_description" rel_version="Weapon_Warhammer_February_MTX">«Esa sensación... ¿se debe a que has visto a tu ser amado? ¿O quizás es por el martillo que te aplasta el pecho?».</string>
+	<string key="Emote_CoconutHorse_name" rel_version="Emote_Coconut_Horse">Galope</string>
+	<string key="Apparel_Valentines_1_name" rel_version="Apparel_Valentines_MTX_1">Enamoradizo</string>
+	<string key="Apparel_Valentines_2_name" rel_version="Apparel_Valentines_MTX_2">Caballero de la devoción</string>
+	<string key="Bundle_Tool_Valentines_name" rel_version="MTX_Tool_Skins_Valentine">Obra de amor</string>
+	<string key="Apparel_Waveborne_name" rel_version="Apparel_Waveborne_Costume">Porteado por las olas</string>
+	<string key="Weapon_Musket_AngelsDemons_name" rel_version="Weapon_Musket_AngelsDemons_MTX">Cañón aleluya</string>
+	<string key="Weapon_Blunderbuss_AngelsDemons_name" rel_version="Weapon_Blunderbuss_AngelsDemons_MTX">Trabuco de azufre</string>
+	<string key="Weapon_TowerShield_AngelsDemons_name" rel_version="Weapon_TowerShield_AngelsDemons_MTX">Broquel angelical</string>
+	<string key="Weapon_Rapier_AngelsDemons_name" rel_version="Weapon_Rapier_AngelsDemons_MTX">Chispa de luz</string>
+	<string key="Weapon_VoidGauntlet_AngelsDemons_name" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">Caída de Moloch</string>
+	<string key="Emote_CoconutHorse_description" rel_version="Emote_Coconut_Horse">«Cabalga en tu corcel de confianza».</string>
+	<string key="Apparel_Valentines_1_description" rel_version="Apparel_Valentines_MTX_1">«Para quienes suelen perderse en ataques de admiración y desmayos».</string>
+	<string key="Apparel_Valentines_2_description" rel_version="Apparel_Valentines_MTX_2">«Al ponerte esta armadura, se te hincha el pecho de ganas de proteger a los inocentes, a los desvalidos y a los amantes del mundo».</string>
+	<string key="Bundle_Tool_Valentines_description" rel_version="MTX_Tool_Skins_Valentine">«Los grandes esfuerzos benefician al amor…, así como la acumulación de recursos».</string>
+	<string key="Apparel_Waveborne_description" rel_version="Apparel_Waveborne_Costume">«Alzándose del mar oscuro y revuelto, una ola letal se estrella contra la costa».</string>
+	<string key="Weapon_Musket_AngelsDemons_description" rel_version="Weapon_Musket_AngelsDemons_MTX">«Y las montañas retumbaron al grito de "¡aleluya!"».</string>
+	<string key="Weapon_Blunderbuss_AngelsDemons_description" rel_version="Weapon_Blunderbuss_AngelsDemons_MTX">«Es cálido al tacto y late con una especie de calor opresivo que casi huele a sulfuro».</string>
+	<string key="Weapon_TowerShield_AngelsDemons_description" rel_version="Weapon_TowerShield_AngelsDemons_MTX">«Es necesario tener un escudo de verdad para defenderse de la maldad y proteger la pureza».</string>
+	<string key="Weapon_Rapier_AngelsDemons_description" rel_version="Weapon_Rapier_AngelsDemons_MTX">«Un faro con el que atravesar la oscuridad y levantar los ánimos de quienes lo vean en manos de un campeón de la luz».</string>
+	<string key="Weapon_VoidGauntlet_AngelsDemons_description" rel_version="Weapon_VoidGauntlet_AngelsDemons_MTX">«Un ángel caído es un portador de sacrificio de lo más monstruoso».</string>
+	<string key="Emote_Swoon_name" rel_version="Emote_Swoon">Desmayo</string>
+	<string key="Emote_GiveFlower_name" rel_version="Emote_GiveFlower">Dar flor</string>
+	<string key="Emote_Swoon_description" rel_version="Emote_Swoon">«La euforia del amor verdadero e inmortal que te deja sin aliento. Inmortal de verdad».</string>
+	<string key="Emote_GiveFlower_description" rel_version="Emote_GiveFlower">«¿Quién no se rendiría ante unos pétalos tan coloridos y de fragancia tan dulce?».</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Uróboro</string>
+	<string key="Bundle_Decor_Love2022_name" rel_version="Housing_Love_MTX_Pack_2022">Lote de decoración de amor corrupto</string>
+	<string key="Bundle_Decor_Love2022_description" rel_version="Housing_Love_MTX_Pack_2022">«Mobiliario ideal para una velada romántica, o para que te atrape la eternidad solitaria de Aetérnum».</string>
+	<string key="prorated_discount">Se ha ajustado el precio en base a los objetos desbloqueados</string>
+	<string key="Bundle_Decor_Floral_name" rel_version="Housing_Spring_MTX_Pack_2022">Lote de decoración Primavera en flor</string>
+	<string key="Bundle_Decor_Floral_description" rel_version="Housing_Spring_MTX_Pack_2022">«Dale la bienvenida a una nueva estación con el color y la frescura de las mejores flores de Aetérnum».</string>
+	<string key="Apparel_Malachite_L_name" rel_version="Apparel_Malachite_L">Señor de los líquenes</string>
+	<string key="Apparel_Malachite_M_name" rel_version="Apparel_Malachite_M">Gran tetrarca</string>
+	<string key="Apparel_Malachite_H_name" rel_version="Apparel_Malachite_H">Corteza de piedra</string>
+	<string key="Apparel_Wicked_name" rel_version="Apparel_Wicked_Costume">Caperucita rojo sangre</string>
+	<string key="Apparel_Malachite_L_description" rel_version="Apparel_Malachite_L">«Las venas de plantas desconocidas se aferran a esta armadura, palpitando con vida».</string>
+	<string key="Apparel_Malachite_M_description" rel_version="Apparel_Malachite_M">«Conviértete en el gobernante de todas las cosas verdes y de las raíces con este conjunto».</string>
+	<string key="Apparel_Malachite_H_description" rel_version="Apparel_Malachite_H">«Una corteza tan gruesa y pesada como la piedra descansa sobre la piel del portador, otorgándole una inmunidad superior».</string>
+	<string key="Apparel_Wicked_description" rel_version="Apparel_Wicked_Costume">«Ningún lobo se atreve a desafiarte a ti o a la abuelita».</string>
+	<string key="Apparel_FateFortune_FortuneTellerL_name" rel_version="Apparel_Fortune_1">Lunacido</string>
+	<string key="Apparel_FateFortune_FortuneTellerL_description" rel_version="Apparel_Fortune_1">«Embebido con los poderes brillantes de la luna creciente, ilumina Aetérnum igual que la Luna por la noche».</string>
+	<string key="Bundle_Tool_FateFortune_name" rel_version="MTX_Tool_Skins_Fortune">Engaño del destino</string>
+	<string key="Bundle_Tool_FateFortune_description" rel_version="MTX_Tool_Skins_Fortune">«La riqueza y los recursos no garantizan un destino glorioso».</string>
+	<string key="Bundle_Decor_FateFortune_name" rel_version="Housing_FateFortune_MTX_Pack_2022">Lote de decoración del hogar Destino y Fortuna</string>
+	<string key="Bundle_Decor_FateFortune_description" rel_version="Housing_FateFortune_MTX_Pack_2022">«Una organización de tus muebles concienzuda puede ayudarte a formar una comunión más profunda con los espíritus que vagan por Aetérnum».</string>
+	<string key="Apparel_FateFortune_SteampunkH_name" rel_version="Apparel_Fortune_2">Acatastros</string>
+	<string key="Apparel_FateFortune_SteampunkH_description" rel_version="Apparel_Fortune_2">«La estrella brilla, bañando en Aetérnum con la luz dorada de la redención».</string>
+	<string key="Apparel_ClassicRPG_1_name" rel_version="Apparel_ClassicRPG_1">Matón bárbaro</string>
+	<string key="Apparel_ClassicRPG_2_name" rel_version="Apparel_ClassicRPG_2">Atuendo del montaraz</string>
+	<string key="Apparel_ClassicRPG_3_name" rel_version="Apparel_ClassicRPG_3">El caballero alado</string>
+	<string key="Apparel_ClassicRPG_1_description" rel_version="Apparel_ClassicRPG_1">«Libera la ira que arde en lo más hondo de tu corazón».</string>
+	<string key="Apparel_ClassicRPG_2_description" rel_version="Apparel_ClassicRPG_2">«Elaborado con la lana de mayor calidad del Valle del Pesar, este juego de túnica y capa revolotea silenciosamente alrededor del montaraz que acecha en las tierras salvajes».</string>
+	<string key="Apparel_ClassicRPG_3_description" rel_version="Apparel_ClassicRPG_3">«Vuela hacia la batalla para proteger lo que te pertenece».</string>
+	<string key="Weapon_ClassicRPG_Sword_name" rel_version="Weapon_Sword_ClassicRPG_MTX">Espada de dragón</string>
+	<string key="Weapon_ClassicRPG_ShieldK_name" rel_version="Weapon_KShield_ClassicRPG_MTX">Defensa de Leviatán</string>
+	<string key="Weapon_ClassicRPG_Greataxe_name" rel_version="Weapon_GreatAxe_ClassicRPG_MTX">Filo dragontino</string>
+	<string key="Weapon_ClassicRPG_Warhammer_name" rel_version="Weapon_Warhammer_ClassicRPG_MTX">Bestias gemelas</string>
+	<string key="Weapon_ClassicRPG_FireStaff_name" rel_version="Weapon_FireStaff_ClassicRPG_MTX">Hálito de fuego</string>
+	<string key="Weapon_ClassicRPG_Bow_name" rel_version="Weapon_Bow_ClassicRPG_MTX">Arco recurvo de estragón</string>
+	<string key="Weapon_ClassicRPG_Sword_description" rel_version="Weapon_Sword_ClassicRPG_MTX">«Los dragones son buenos amigos con los que contar, y enemigos peligrosos a los que enfrenarse».</string>
+	<string key="Weapon_ClassicRPG_ShieldK_description" rel_version="Weapon_KShield_ClassicRPG_MTX">«Nunca subestimes el poder de un dragón».</string>
+	<string key="Weapon_ClassicRPG_Greataxe_description" rel_version="Weapon_GreatAxe_ClassicRPG_MTX">«Ataca con ferocidad, como si tuvieras una bestia mítica cubriéndote las espaldas».</string>
+	<string key="Weapon_ClassicRPG_Warhammer_description" rel_version="Weapon_Warhammer_ClassicRPG_MTX">«Estas dos serpientes, siempre unidas, enseñan los dientes a su próxima comida».</string>
+	<string key="Weapon_ClassicRPG_FireStaff_description" rel_version="Weapon_FireStaff_ClassicRPG_MTX">«Lanzar llamas y quemar a los enemigos es tan natural como respirar cuando se emplea este báculo».</string>
+	<string key="Weapon_ClassicRPG_Bow_description" rel_version="Weapon_Bow_ClassicRPG_MTX">«Apunta sin miedo, pues te acompaña el poder del dragón».</string>
+	<string key="Bundle_PR_RPG_Apparel_name" rel_version="MTX_ClassicRPG_Weapon_Skins">Lote de prendas del tesoro del dragón</string>
+	<string key="Bundle_PR_RPG_Weapons_name" rel_version="MTX_ClassicRPG_Weapon_Skins">Lote de armas del tesoro del dragón</string>
+	<string key="Bundle_PR_RPG_Apparel_description" rel_version="MTX_ClassicRPG_Weapon_Skins">«Las prendas perfectas para explorar bosques primigenios y mazmorras abisales».</string>
+	<string key="Bundle_PR_RPG_Weapons_description" rel_version="MTX_ClassicRPG_Weapon_Skins">«Armas que han pasado largo tiempo durmiendo en la guardia de un gusano malvado, pero que permanecen afiladas y listas para el combate».</string>
+	<string key="Bundle_Crest_Plants_name" rel_version="Crest_Pack_Plants">Paquete de blasones de plantas</string>
+	<string key="Bundle_Crest_Plants_description" rel_version="Crest_Pack_Plants">«El sueño hecho realidad de cualquier recolector».</string>
+	<string key="ui_crestforeground_213" rel_version="Crest_Pack_Plants">Puñado de plantas</string>
+	<string key="ui_crestforeground_214" rel_version="Crest_Pack_Plants">Hoja de cáñamo</string>
+	<string key="ui_crestforeground_215" rel_version="Crest_Pack_Plants">Planta de cáñamo</string>
+	<string key="Bundle_PR_SilentDeath_Apparel_name" rel_version="Bundle_Apparel_SilentDeath">Lote de prendas Susurro del asesino</string>
+	<string key="Bundle_PR_SilentDeath_Weapons_name" rel_version="Bundle_Weapons_SilentDeath">Lote de armas Susurro del asesino</string>
+	<string key="Bundle_PR_LaunchPets_name" rel_version="Bundle_Pets_LaunchPets">Amigos peludos</string>
+	<string key="Bundle_PR_LegendaryToolsets_name" rel_version="Bundle_Toolsets_Legendary">Herramientas de leyenda</string>
+	<string key="Bundle_PR_SilentDeath_Apparel_description" rel_version="Bundle_Apparel_SilentDeath">«Acecha a tus enemigos con confianza, sabiendo que, para cuando descubran tu presencia..., será demasiado tarde».</string>
+	<string key="Bundle_PR_SilentDeath_Weapons_description" rel_version="Bundle_Weapons_SilentDeath">«Las herramientas de alguien que se ha dedicado fanáticamente a quitar vidas».</string>
+	<string key="Bundle_PR_LaunchPets_description" rel_version="Bundle_Pets_LaunchPets">«Todos necesitan compañía en esta isla retorcida y cruel. Invita a tus amigos de cuatro patas a tu hogar».</string>
+	<string key="Bundle_PR_LegendaryToolsets_description" rel_version="Bundle_Toolsets_Legendary">«Herramientas hechas con maestría para mostrar tu estilo cuando trabajas duramente para construir tu fortuna».</string>
+	<string key="Apparel_SilentDeath_L_name" rel_version="Apparel_SilentDeath_L">Acechador tachonado</string>
+	<string key="Apparel_SilentDeath_L_description" rel_version="Apparel_SilentDeath_L">«Hecha del mejor cuero tachonado de Aetérnum, que protege y permite un movimiento silencioso».</string>
+	<string key="Apparel_SilentDeath_M_name" rel_version="Apparel_SilentDeath_M">Cuervo de metal</string>
+	<string key="Apparel_SilentDeath_M_description" rel_version="Apparel_SilentDeath_M">«Lo que al principio parece una enorme ave lanzándose hacia ti es en realidad tu muerte».</string>
+	<string key="Apparel_SilentDeath_H_name" rel_version="Apparel_SilentDeath_H">Miedos de bronce</string>
+	<string key="Apparel_SilentDeath_H_description" rel_version="Apparel_SilentDeath_H">«Tu peor pesadilla cobra vida para acechar los campos de batalla de Aetérnum».</string>
+	<string key="Bundle_Tool_SilentDeath_name" rel_version="ToolSkins_SilentDeath_MTX">Herramientas del asesino</string>
+	<string key="Bundle_Tool_SilentDeath_description" rel_version="ToolSkins_SilentDeath_MTX">«Para los que se dedican a oficios oscuros, hasta la recolección de recursos se hace en la oscuridad de la noche».</string>
+	<string key="Bundle_Decor_ClassicRPG_name" rel_version="Housing_RPG_MTX_Pack_2022">Lote de decoración del tesoro del dragón</string>
+	<string key="Bundle_Decor_ClassicRPG_description" rel_version="Housing_RPG_MTX_Pack_2022">«Un botín dentro del hogar, recuerdos de una gloriosa vida de aventuras».</string>
+	<string key="Apparel_Metal_L_name" rel_version="Apparel_Metal_L">Recubrimiento de pinchos</string>
+	<string key="Apparel_Metal_L_description" rel_version="Apparel_Metal_L">«Dale duro y vive al límite».</string>
+	<string key="Apparel_Metal_M_name" rel_version="Apparel_Metal_M">Héroe con cuernos</string>
+	<string key="Apparel_Metal_M_description" rel_version="Apparel_Metal_M">«El heroísmo ha llegado a la Feria Musical con este estilo que no dejará a nadie indiferente».</string>
+	<string key="Apparel_Metal_H_name" rel_version="Apparel_Metal_H">El diablo en Aetérnum</string>
+	<string key="Apparel_Metal_H_description" rel_version="Apparel_Metal_H">«Prueba de que has ganado al mismísimo diablo en un concurso de violín».</string>
+	<string key="Bundle_Tool_Metal_name" rel_version="ToolSkins_Metal_MTX">Herramientas de metal pesado</string>
+	<string key="Bundle_Tool_Metal_description" rel_version="ToolSkins_Metal_MTX">«Para aquellos que descubren las melodías más duras en las tareas más sencillas».</string>
+	<string key="Bundle_Decor_Metal_name" rel_version="Housing_Metal_MTX_Pack_2022">Lote de decoración de heavy metal</string>
+	<string key="Bundle_Decor_Metal_description" rel_version="Housing_Metal_MTX_Pack_2022">«Esta casa se vendrá tan arriba como tú».</string>
+	<string key="reward_type_Instrumentskin_Flute" rel_version="Instrument_Flute_Metal_MTX">Diseño de flauta de Azoth</string>
+	<string key="reward_type_Instrumentskin_Drum" rel_version="Instrument_Drums_Metal_MTX">Diseño de batería</string>
+	<string key="reward_type_Instrumentskin_Guitar" rel_version="Instrument_Guitar_Metal_MTX">Diseño de guitarra</string>
+	<string key="reward_type_Instrumentskin_UprightBass" rel_version="Instrument_Bass_Metal_MTX">Diseño de contrabajo</string>
+	<string key="reward_type_Instrumentskin_Mandolin" rel_version="Instrument_Mandolin_Metal_MTX">Diseño de mandolina</string>
+	<string key="Bundle_PR_Metal_Instruments_name" rel_version="Entitlements_July_2022">Lote de instrumentos de heavy metal</string>
+	<string key="Bundle_PR_Metal_Instruments_description" rel_version="Entitlements_July_2022">«Pon a prueba tu alma de metal».</string>
+	<string key="Bundle_PR_Metal_Megapack_name" rel_version="Entitlements_July_2022">Megalote de heavy metal</string>
+	<string key="Bundle_PR_Metal_Megapack_description" rel_version="Entitlements_July_2022">«Come cadenas, caga metal».</string>
+	<string key="Bundle_Decor_Phoenix_name" rel_version="Housing_Phoenix_MTX_Pack_2022">Lote de decoración del vuelo del fénix</string>
+	<string key="Bundle_Decor_Phoenix_description" rel_version="Housing_Phoenix_MTX_Pack_2022">«Puede que un fénix resurja de las cenizas, mas no prendas fuego a tu casa para probarlo».</string>
+	<string key="Apparel_Phoenix_L_name" rel_version="Apparel_Phoenix_L">Ceniza del fénix</string>
+	<string key="Apparel_Phoenix_L_description" rel_version="Apparel_Phoenix_L">«Como dicen, el ave fénix siempre resurge de las cenizas».</string>
+	<string key="Apparel_Phoenix_M_name" rel_version="Apparel_Phoenix_M">Danzar de las llamas</string>
+	<string key="Apparel_Phoenix_M_description" rel_version="Apparel_Phoenix_M">«Cuanto más alto arde la pira, con más fervor ruge el espíritu de la batalla en su interior».</string>
+	<string key="Apparel_Phoenix_H_name" rel_version="Apparel_Phoenix_H">Solsticio</string>
+	<string key="Apparel_Phoenix_H_description" rel_version="Apparel_Phoenix_H">«Que tus enemigos se postren ante tu belleza y sabiduría».</string>
+	<string key="Bundle_Tool_Phoenix_name" rel_version="ToolSkins_Phoenix_MTX">Conjunto de herramientas de alas en llamas</string>
+	<string key="Bundle_Tool_Phoenix_description" rel_version="ToolSkins_Phoenix_MTX">«De trazos ligeros para que portes tus riquezas con más facilidad».</string>
+</resources>
+

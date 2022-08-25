@@ -1,0 +1,9 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0223_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt">“Pode me explicar sobre os Locais de Pesca?”</string>
+	<string key="0223_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet">Você saberá que um Local de Pesca está ativo quando vir peixes pulando nele.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nEnquanto estiver ativo, lançar sua isca no Local de Pesca resultará em fisgadas mais rápidas e peixes mais raros. Ao colocar sua linha corretamente, você verá um pequeno alerta informando que atingiu o Local de Pesca.\n\nApós capturar peixes suficientes em um Local de Pesca, ele se esgotará. Você saberá que um Local de Pesca está esgotado quando não houver mais peixes pulando.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;\nUm Local de Pesca esgotado ficará ativo novamente após algum tempo.\n\nConforme sua habilidade de pesca melhora, você será capaz de encontrar mais e melhores Locais de Pesca.</string>
+	<string key="0241_Prometheo_Topic1_Prompt" speaker="UI - player prompt">“Quem é você?”</string>
+	<string key="0241_Prometheo_Topic1_Response" speaker="PrometheoVane" name="Prometheo Vane">Quem sou eu? Quem sou eu?!\n\nNunca fui tão insultado em toda a minha vida. Sou Prometheo Vane, o maior Mago de Fogo que já existiu!</string>
+	<string key="0241_Prometheo_Topic2_Prompt" speaker="UI - player prompt">“O que está planejando?”</string>
+	<string key="0241_Prometheo_Topic2_Response" speaker="PrometheoVane" name="Prometheo Vane">A Cozinha de Navarro, depois a Escavação do Profanador — ambas queimarão em chamas! Vou mostrar a ela o poder do meu amor e da minha magia, para que possamos finalmente ficar juntos.</string>
+</resources>
+

@@ -1,0 +1,291 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="emote_2fingers">{playerName} mostra dois dedos</string>
+	<string key="emote_2thumbsup">{playerName} faz um joinha</string>
+	<string key="emote_bow" rel_version="Emote_Bow">{playerName} curva-se</string>
+	<string key="emote_cheer">{playerName} vibra</string>
+	<string key="emote_chestpound" rel_version="Emote_ChestPound">{playerName} bate no próprio peito para demonstrar predominância</string>
+	<string key="emote_chestpound_SHE" rel_version="Emote_ChestPound">{playerName} bate no próprio peito para demonstrar predominância</string>
+	<string key="emote_chestpound_THEY" rel_version="Emote_ChestPound">{playerName} bate no próprio peito para demonstrar predominância</string>
+	<string key="emote_coin_heads" comment="The top side of a coin">cara</string>
+	<string key="emote_coin_tails" comment="The bottom side of a coin">coroa</string>
+	<string key="emote_cointoss" comment="{coinResult} will be replaced with the tag emote_coin_heads or emote_coin_tails. They are also defined in this file." rel_version="MTX_October_Skins">{playerName} jogou uma moeda e tirou {coinResult}</string>
+	<string key="emote_cry1" rel_version="Emote_Cry">{playerName} começa a chorar</string>
+	<string key="emote_dance1">{playerName} dança</string>
+	<string key="emote_diceroll" comment="{diceResult} is a number from 1 to 6">{playerName} tira um {diceResult}</string>
+	<string key="emote_eyesonyou" rel_version="New_World_Launch">{playerName} está olhando para você</string>
+	<string key="emote_eyesonyou_SHE" rel_version="New_World_Launch">{playerName} está olhando para você</string>
+	<string key="emote_eyesonyou_THEY" rel_version="New_World_Launch">{playerName} está olhando para você</string>
+	<string key="emote_farmerblow" rel_version="Emote_Noseblow">{playerName} assoa o nariz</string>
+	<string key="emote_farmerblow_SHE" rel_version="Emote_Noseblow">{playerName} assoa o nariz</string>
+	<string key="emote_farmerblow_THEY" rel_version="Emote_Noseblow">{playerName} assoa o nariz</string>
+	<string key="emote_fistbump" rel_version="New_World_Launch">{playerName} dá um soquinho</string>
+	<string key="emote_fistbump_SHE" rel_version="New_World_Launch">{playerName} dá um soquinho</string>
+	<string key="emote_fistbump_THEY" rel_version="New_World_Launch">{playerName} dá um soquinho</string>
+	<string key="emote_fistshake" rel_version="Emote_Fistshake">{playerName} sacode os punhos</string>
+	<string key="emote_fistshake_SHE" rel_version="Emote_Fistshake">{playerName} sacode os punhos</string>
+	<string key="emote_fistshake_THEY" rel_version="Emote_Fistshake">{playerName} sacode os punhos</string>
+	<string key="emote_flex1">{playerName} flexiona-se</string>
+	<string key="emote_flex2">{playerName} flexiona-se</string>
+	<string key="emote_flex3" rel_version="New_World_Launch">{playerName} quer que você olhe para seus braços. Não são grandes?</string>
+	<string key="emote_flex3_SHE" rel_version="New_World_Launch">{playerName} quer que você olhe para seus braços. Não são grandes?</string>
+	<string key="emote_flex3_THEY" rel_version="New_World_Launch">{playerName} quer que você olhe para seus braços. Não são grandes?</string>
+	<string key="emote_forearmjerk">{playerName} não está feliz</string>
+	<string key="emote_golfclap" rel_version="MTX_October_Skins">{playerName} aplaude de forma cortês</string>
+	<string key="emote_impatient" rel_version="Emote_Impatient">{playerName} fica impaciente</string>
+	<string key="emote_loudpoint">{playerName} aponta para lá</string>
+	<string key="emote_nodeal">{playerName} não gostou disso</string>
+	<string key="emote_overhere">{playerName} quer que você venha aqui</string>
+	<string key="emote_pray" rel_version="Emote_Pray">{playerName} reza</string>
+	<string key="emote_pushups" rel_version="Emote_Pushups">{playerName} cai e começa a fazer flexões</string>
+	<string key="emote_rockpaperscissors" rel_version="New_World_Launch">{playerName} joga pedra, papel ou tesoura</string>
+	<string key="emote_shhh" rel_version="Emote_Shhh">{playerName} faz xiu</string>
+	<string key="emote_sit" comment="comment">{playerName} senta-se</string>
+	<string key="emote_throatslit" rel_version="New_World_Launch">{playerName} faz um movimento ameaçador</string>
+	<string key="emote_thumbsdown" rel_version="New_World_Launch">{playerName} faz um sinal de desaprovação</string>
+	<string key="emote_thumbsside" rel_version="New_World_Launch">{playerName} não consegue se decidir</string>
+	<string key="emote_thumbsup" rel_version="New_World_Launch">{playerName} faz um joinha</string>
+	<string key="emote_wave">{playerName} acena</string>
+	<string key="emote_whistle" rel_version="Emote_Whistle">{playerName} faz um assovio longo e grave</string>
+	<string key="emote_firework1" rel_version="Entitlements_November">{playerName} acendeu um Foguete de Crisântemo</string>
+	<string key="emote_firework2" rel_version="Entitlements_November">{playerName} acendeu um Foguete 2</string>
+	<string key="emote_firework3" rel_version="Entitlements_November">{playerName} acendeu um Foguete 3</string>
+	<string key="emote_firework4" rel_version="Entitlements_November">{playerName} acendeu um Foguete 4</string>
+	<string key="emote_firework5" rel_version="Entitlements_November">{playerName} acendeu um Foguete 5</string>
+	<string key="emote_blowkiss" rel_version="New_World_Launch">{playerName} manda um beijo</string>
+	<string key="emote_ahoy" rel_version="New_World_Launch">{playerName} faz uma pose</string>
+	<string key="emote_fingerwag" rel_version="New_World_Launch">{playerName} diz “não, não, não”</string>
+	<string key="emote_RussianDance" rel_version="Emote_Leg_Kick_Dance">{playerName} performa uma dança tradicional</string>
+	<string key="ui_emote">Gesto</string>
+	<string key="ui_emotes">Gestos</string>
+	<string key="ui_emote_unavailable_reason">Este gesto só está disponível para {entitlementRequirements}.</string>
+	<string key="ui_emote_unavailable">&lt;font color="#f25d5d"&gt;Este gesto não está disponível.&lt;/font&gt;</string>
+	<string key="ui_emote_BlowKiss">Mandar Beijo</string>
+	<string key="ui_emote_PiratePose">Postura de Pirata</string>
+	<string key="ui_emote_FingerWag">Sacudir o Dedo</string>
+	<string key="ui_emote_BlowKiss_description">“Um gesto de amor cortês.”</string>
+	<string key="ui_emote_PiratePose_description">“Suas frotas de tesouros em breve serão minhas.”</string>
+	<string key="ui_emote_FingerWag_description">“Não, não, não, hoje não!”</string>
+	<string key="ui_emote_Cry_1" rel_version="Emote_Cry">Choro</string>
+	<string key="ui_emote_Cry_1_description" rel_version="Emote_Cry">“Regue a terra com suas lágrimas.”</string>
+	<string key="ui_emote_Chest_Pound" rel_version="Emote_ChestPound">Bater no Peito</string>
+	<string key="ui_emote_Chest_Pound_description" rel_version="Emote_ChestPound">“Uma demonstração de predominância.”</string>
+	<string key="ui_emote_Impatient" rel_version="Emote_Impatient">Aguardando</string>
+	<string key="ui_emote_Impatient_description" rel_version="Emote_Impatient">“Não temos toda a eternidade... ou temos?”</string>
+	<string key="ui_emote_Whistle" rel_version="Emote_Whistle">Assoviar</string>
+	<string key="ui_emote_Whistle_description" rel_version="Emote_Whistle">“Para invocar cães, companheiros ou qualquer combinação deles.”</string>
+	<string key="ui_emote_Noseblow" rel_version="Emote_Noseblow">Assoar Nariz</string>
+	<string key="ui_emote_Noseblow_description" rel_version="Emote_Noseblow">“Mantenha seu fluido fleumático em equilíbrio.”</string>
+	<string key="ui_emote_Fist_Shake" rel_version="Emote_Fistshake">Sacudir Punhos</string>
+	<string key="ui_emote_Fist_Shake_description" rel_version="Emote_Fistshake">“Maldito seja, patife!”</string>
+	<string key="ui_emote_Bow" rel_version="Emote_Bow">Curvar-se</string>
+	<string key="ui_emote_Bow_description" rel_version="Emote_Bow">“Expresse deferência educadamente.”</string>
+	<string key="ui_emote_shhh" rel_version="Emote_Shhh">Shhh</string>
+	<string key="ui_emote_shhh_description" rel_version="Emote_Shhh">“Silêncio, por favor!”</string>
+	<string key="ui_emote_sit">Sentar</string>
+	<string key="ui_emote_flex">Flexionar</string>
+	<string key="ui_emote_flex2">Flexionar</string>
+	<string key="ui_emote_go">Vai</string>
+	<string key="ui_emote_here">Aqui</string>
+	<string key="ui_emote_wave">Acenar</string>
+	<string key="ui_emote_nono">Recusar</string>
+	<string key="ui_emote_cheer">Torcer</string>
+	<string key="ui_emote_Dice">Dados</string>
+	<string key="ui_emote_thumbs">Joinha</string>
+	<string key="ui_emote_dance1">Dançar</string>
+	<string key="ui_emote_kill">Cortar Garganta</string>
+	<string key="ui_emote_Watching">De Olho em Você</string>
+	<string key="ui_emote_No">Não</string>
+	<string key="ui_emote_Clap">Aplaudir</string>
+	<string key="ui_emote_surrender">Render-se</string>
+	<string key="ui_emote_pray" rel_version="Emote_Pray">Rezar</string>
+	<string key="ui_emote_nope">Jamais</string>
+	<string key="ui_emote_Beckon">Chamar</string>
+	<string key="ui_emote_RockPaperScissors">Pedra, Papel e Tesoura</string>
+	<string key="ui_emote_FistBump">Soquinho</string>
+	<string key="ui_emote_Revel">Deleitar-se</string>
+	<string key="ui_emote_Hi">Olá</string>
+	<string key="ui_emote_GoodBye">Tchau</string>
+	<string key="ui_emote_Apologize">Desculpar-se</string>
+	<string key="ui_emote_Thumbs_Sideways">Polegar pro Lado</string>
+	<string key="ui_emote_Thumbs_Up">Polegar pra Cima</string>
+	<string key="ui_emote_Thumbs_Down">Polegar pra Baixo</string>
+	<string key="ui_emote_High_Five">Toca Aqui</string>
+	<string key="ui_emote_Slow_Clap">Aplauso Lento</string>
+	<string key="ui_emote_Laugh_1">Risada 1</string>
+	<string key="ui_emote_Laugh_2">Risada 2</string>
+	<string key="ui_emote_Cry_3">Choro 3</string>
+	<string key="ui_emote_Coin_Toss">Lançar Moeda</string>
+	<string key="ui_emote_Chin_Scrape">Coçar o Queixo</string>
+	<string key="ui_emote_Push_Ups" rel_version="Emote_Pushups">Flexões</string>
+	<string key="ui_emote_Flex_3">Flexionar Braço</string>
+	<string key="ui_emote_Golf_Clap">Aplauso Cortês</string>
+	<string key="ui_emote_sit_description">Descrição do Gesto de Sentar</string>
+	<string key="ui_emote_flex_description">Descrição do Gesto de Flexionar</string>
+	<string key="ui_emote_flex2_description">Descrição do Gesto de Flexionar</string>
+	<string key="ui_emote_go_description">Descrição do Gesto de Vai</string>
+	<string key="ui_emote_here_description">Descrição do Gesto de Aqui</string>
+	<string key="ui_emote_wave_description">Descrição do Gesto de Acenar</string>
+	<string key="ui_emote_nono_description">Descrição do Gesto de Recusar</string>
+	<string key="ui_emote_cheer_description">Descrição do Gesto de Torcer</string>
+	<string key="ui_emote_Dice_description">Descrição do Gesto de Dados</string>
+	<string key="ui_emote_thumbs_description">Descrição do Gesto de Joinha</string>
+	<string key="ui_emote_dance1_description">Descrição do Gesto de Dançar</string>
+	<string key="ui_emote_kill_description">“A marca do salteador.”</string>
+	<string key="ui_emote_Watching_description">“Vigilância eterna.”</string>
+	<string key="ui_emote_No_description">Descrição do Gesto de Não</string>
+	<string key="ui_emote_Clap_description">Descrição do Gesto de Aplaudir</string>
+	<string key="ui_emote_surrender_description">Descrição do Gesto de Render-se</string>
+	<string key="ui_emote_pray_description" rel_version="Emote_Pray">“Prostre-se diante de um poder superior.”</string>
+	<string key="ui_emote_nope_description">Descrição do Gesto de Jamais</string>
+	<string key="ui_emote_Beckon_description">Descrição do Gesto de Chamar</string>
+	<string key="ui_emote_RockPaperScissors_description">“Somente um de nós vencerá. A menos que empatemos.”</string>
+	<string key="ui_emote_FistBump_description">Descrição do Gesto de Soquinho</string>
+	<string key="ui_emote_Revel_description">Descrição do Gesto de Deleitar-se</string>
+	<string key="ui_emote_Hi_description">Descrição do Gesto de Olá</string>
+	<string key="ui_emote_GoodBye_description">Descrição do Gesto de Tchau</string>
+	<string key="ui_emote_Apologize_description">Descrição do Gesto de Desculpar-se</string>
+	<string key="ui_emote_Thumbs_Sideways_description">“Nem um, nem outro.”</string>
+	<string key="ui_emote_Thumbs_Up_description">“Afirmativo.”</string>
+	<string key="ui_emote_Thumbs_Down_description">“Negativo.”</string>
+	<string key="ui_emote_High_Five_description">Descrição do Gesto de Toca Aqui</string>
+	<string key="ui_emote_Slow_Clap_description">Descrição do Gesto de Aplauso Lento</string>
+	<string key="ui_emote_Laugh_1_description">Descrição do Gesto de Risada 1</string>
+	<string key="ui_emote_Laugh_2_description">Descrição do Gesto de Risada 2</string>
+	<string key="ui_emote_Cry_3_description">Descrição do Gesto de Choro 3</string>
+	<string key="ui_emote_Coin_Toss_description">“O lançar da moeda.”</string>
+	<string key="ui_emote_Chin_Scrape_description">Descrição do Gesto de Coçar o Queixo</string>
+	<string key="ui_emote_Push_Ups_description" rel_version="Emote_Pushups">“Você ao menos levanta, irmão?”</string>
+	<string key="ui_emote_Flex_3_description">“Mostre sua força.”</string>
+	<string key="ui_emote_Golf_Clap_description">“Um trabalho bem-feito!”</string>
+	<string key="UI_emote_RussianDance_name" rel_version="Emote_Leg_Kick_Dance">Dança dos Chutes</string>
+	<string key="UI_emote_RussianDance_description" rel_version="Emote_Leg_Kick_Dance">“Uma dança tradicional.”</string>
+	<string key="emote_Shiver" rel_version="Emote_Shiver">{playerName} sente um arrepio violento. Brrr!</string>
+	<string key="ui_emote_Shiver_name" rel_version="Emote_Shiver">Arrepio</string>
+	<string key="ui_emote_Shiver_description" rel_version="Emote_Shiver">“Se já estou quase congelando, imagine como deve ser frio o Inverno Eterno!”</string>
+	<string key="emote_BellyLaugh" rel_version="Emote_BellyLaugh">{playerName} solta uma gargalhada contagiante.</string>
+	<string key="ui_emote_BellyLaugh_name" rel_version="Emote_BellyLaugh">Gargalhada</string>
+	<string key="ui_emote_GivePresent_name" rel_version="Emote_GivePresent">Dar Presente</string>
+	<string key="ui_emote_BellyLaugh_description" rel_version="Emote_BellyLaugh">“Uma gargalhada contagiante!”</string>
+	<string key="ui_emote_GivePresent_description" rel_version="Emote_GivePresent">“O presente que você nunca esquece.”</string>
+	<string key="emote_GivePresent" rel_version="Emote_GivePresent">{playerName} oferece um presente.</string>
+	<string key="emote_RoyalWave" rel_version="Emote_Queen_Wave">{playerName} acena como alguém da realeza.</string>
+	<string key="ui_emote_RoyalWave_name" rel_version="Emote_Queen_Wave">Aceno da Rainha</string>
+	<string key="ui_emote_RoyalWave_description" rel_version="Emote_Queen_Wave">“Acene como alguém da realeza.”</string>
+	<string key="ui_emote_SnowAngel_name" rel_version="Emote_SnowAngel">Anjo de Neve</string>
+	<string key="ui_emote_SnowAngel_description" rel_version="Emote_SnowAngel">“Os anjos estão em falta em Aeternum. Faça mais deles. Só não deixe a neve te queimar.”</string>
+	<string key="emote_SnowAngel" rel_version="Emote_SnowAngel">{playerName} faz um anjo de neve.</string>
+	<string key="ui_emote_Autograph_name" rel_version="Emote_Autograph">Autógrafo</string>
+	<string key="ui_emote_Autograph_description" rel_version="Emote_Autograph">“Rabisque seu autógrafo. Seus fãs com certeza estão desesperados por ele.”</string>
+	<string key="emote_Autograph" rel_version="Emote_Autograph">{playerName} dá um autógrafo.</string>
+	<string key="emote_Autograph_SHE" rel_version="Emote_Autograph">{playerName} dá um autógrafo.</string>
+	<string key="emote_Autograph_THEY" rel_version="Emote_Autograph">{playerName} dá um autógrafo.</string>
+	<string key="emote_Coconut_Horse" rel_version="Emote_Coconut_Horse">{playerName} está andando a cavalo.</string>
+	<string key="ui_emote_Coconut_Horse_name" rel_version="Emote_Coconut_Horse">Galope</string>
+	<string key="ui_emote_Coconut_Horse_description" rel_version="Emote_Coconut_Horse">“Cavalgue em seu corcel de confiança.”</string>
+	<string key="ui_emote_Swoon_name" rel_version="Emote_Swoon">Desfalecer</string>
+	<string key="ui_emote_Swoon_description" rel_version="Emote_Swoon">“A euforia sem fôlego do amor verdadeiro e eterno. Literalmente imortal.”</string>
+	<string key="emote_Swoon" rel_version="Emote_Swoon">{playerName} desfalece.</string>
+	<string key="ui_emote_GiveFlower_name" rel_version="Emote_GiveFlower">Dar uma Flor</string>
+	<string key="ui_emote_GiveFlower_description" rel_version="Emote_GiveFlower">“Quem não seria cortejado por pétalas tão brilhantes e fragrâncias tão doces?”</string>
+	<string key="emote_GiveFlower" rel_version="Emote_GiveFlower">{playerName} dá uma flor.</string>
+	<string key="ui_emote_Disco_name" rel_version="Emote_DiscoDance">Dança de Discoteca</string>
+	<string key="ui_emote_Curtsy_name" rel_version="Emote_Curtsy">Reverência</string>
+	<string key="ui_emote_Yoga_TreePose_name" rel_version="Emote_YogaPoses">Pose de Árvore</string>
+	<string key="ui_emote_Disco_description" rel_version="Emote_DiscoDance">“Impressione a multidão no seu próximo baile com esta dança futurista.”</string>
+	<string key="ui_emote_Curtsy_description" rel_version="Emote_Curtsy">“Ofereça cumprimentos educados.”</string>
+	<string key="ui_emote_Yoga_TreePose_description" rel_version="Emote_YogaPoses">“Alongue a mente e o corpo com esta postura rejuvenescedora.”</string>
+	<string key="emote_Disco" rel_version="Emote_DiscoDance">{playerName} faz uma dança futurística.</string>
+	<string key="emote_Curtsy" rel_version="Emote_Curtsy">{playerName} faz uma reverência educada.</string>
+	<string key="emote_Yoga_TreePose" rel_version="Emote_YogaPoses">{playerName} quer estar em harmonia com o universo.</string>
+	<string key="ui_emote_RoastMarshmallow_name" rel_version="Emote_ToastingMarshmallows">Marshmallows Assados</string>
+	<string key="ui_emote_HotFan_name" rel_version="Emote_HotFanning">Aliviando o Calor</string>
+	<string key="ui_emote_RightBackAtYa_name" rel_version="Emote_BackAtYa">Toma!</string>
+	<string key="ui_emote_RoastMarshmallow_description" rel_version="Emote_ToastingMarshmallows">“Depois de um dia lutando por sua vida na ilha, sente-se ao lado da fogueira e prepare um deleite clássico e delicioso.”</string>
+	<string key="ui_emote_HotFan_description" rel_version="Emote_HotFanning">“Refresque-se!”</string>
+	<string key="ui_emote_RightBackAtYa_description" rel_version="Emote_BackAtYa">“Toma!”</string>
+	<string key="emote_RoastMarshmallow" rel_version="Emote_ToastingMarshmallows">{playerName} tosta alguns marshmallows deliciosos.</string>
+	<string key="emote_HotFan" rel_version="Emote_HotFanning">{playerName} começa a se abanar para aliviar o calor.</string>
+	<string key="emote_HotFan_SHE" rel_version="Emote_HotFanning">{playerName} começa a se abanar para aliviar o calor.</string>
+	<string key="emote_HotFan_THEY" rel_version="Emote_HotFanning">{playerName} começa a se abanar para aliviar o calor.</string>
+	<string key="emote_RightBackAtYa" rel_version="Emote_BackAtYa">{playerName} aponta os dedos para imitar duas armas atirando.</string>
+	<string key="emote_RightBackAtYa_SHE" rel_version="Emote_BackAtYa">{playerName} aponta os dedos para imitar duas armas atirando.</string>
+	<string key="emote_RightBackAtYa_THEY" rel_version="Emote_BackAtYa">{playerName} aponta os dedos para imitar duas armas atirando.</string>
+	<string key="ui_emote_Ballerina_name" rel_version="Emote_Ballerina">Bailarina</string>
+	<string key="ui_emote_Ballerina_description" rel_version="Emote_Ballerina">“Deslumbre como uma diva, exibindo sua pose e elegância refinadas.”</string>
+	<string key="emote_Ballerina" rel_version="Emote_Ballerina">{playerName} dança como uma bailarina principal.</string>
+	<string key="ui_emote_BreakItUp_name" rel_version="Emote_BreakItUp">Separando a Briga</string>
+	<string key="ui_emote_BreakItUp_description" rel_version="Emote_BreakItUp">“Ok, vamos parar por aqui!”</string>
+	<string key="emote_BreakItUp" rel_version="Emote_BreakItUp">{playerName} tenta acabar com a briga.</string>
+	<string key="ui_emote_Frustrated_name" rel_version="Emote_Frustrated">Frustração</string>
+	<string key="ui_emote_Frustrated_description" rel_version="Emote_Frustrated">“Às vezes as coisas não acontecem como você quer.”</string>
+	<string key="emote_Frustrated" rel_version="Emote_Frustrated">{playerName} se frustra.</string>
+	<string key="ui_emote_ImmatureTaunt_name" rel_version="Emote_ImmatureTaunt">Provocação Infantil</string>
+	<string key="ui_emote_ImmatureTaunt_description" rel_version="Emote_ImmatureTaunt">“Quando não há palavras, gestos mais básicos podem funcionar.”</string>
+	<string key="emote_ImmatureTaunt" rel_version="Emote_ImmatureTaunt">{playerName} diz na-na-na-na-na.</string>
+	<string key="ui_emote_MimeInBox_name" rel_version="Emote_MimeInBox">Mímica em uma Caixa</string>
+	<string key="ui_emote_MimeInBox_description" rel_version="Emote_MimeInBox">“A maioria dos estudiosos respeitáveis acredita que eles merecem esse título.”</string>
+	<string key="emote_MimeInBox" rel_version="Emote_MimeInBox">{playerName} está obviamente dentro de uma caixa.</string>
+	<string key="ui_emote_Pondering_name" rel_version="Emote_Pondering">Refletir</string>
+	<string key="ui_emote_Pondering_description" rel_version="Emote_Pondering">“Imagine os muitos mistérios que você poderia resolver com uma contemplação pensativa.”</string>
+	<string key="emote_Pondering" rel_version="Emote_Pondering">{playerName} reflete profundamente.</string>
+	<string key="ui_emote_PutUpDukes_name" rel_version="Emote_PutUpDukes">Manda Ver!</string>
+	<string key="ui_emote_PutUpDukes_description" rel_version="Emote_PutUpDukes">“Resolveremos isso de maneira civilizada, com espancamento organizado.”</string>
+	<string key="emote_PutUpDukes" rel_version="Emote_PutUpDukes">{playerName} desafia você para uma briga.</string>
+	<string key="ui_emote_Umpire_name" rel_version="Emote_Umpire">Comandante</string>
+	<string key="ui_emote_Umpire_description" rel_version="Emote_Umpire">“Alguém tem que tomar uma decisão.”</string>
+	<string key="emote_Umpire" rel_version="Emote_Umpire">{playerName} manda você sair daqui!</string>
+	<string key="ui_emote_TalkToHand_name" rel_version="Emote_TalkToHand">Fale com a Minha Mão</string>
+	<string key="ui_emote_TalkToHand_description" rel_version="Emote_TalkToHand">“Confie em mim, ela é toda ouvidos.”</string>
+	<string key="emote_TalkToHand" rel_version="Emote_TalkToHand">{playerName} faz você falar com sua mão.</string>
+	<string key="ui_emote_BaladiDance_name" rel_version="Emote_BaladiDance">Dança Baladi</string>
+	<string key="ui_emote_BaladiDance_description" rel_version="Emote_BaladiDance">“Uma combinação hábil e sensual de movimentos.”</string>
+	<string key="emote_BaladiDance" rel_version="Emote_BaladiDance">{playerName} rodopia no ritmo da dança.</string>
+	<string key="ui_emote_PinCount_name" rel_version="Emote_PinCount">Contagem do Árbitro</string>
+	<string key="ui_emote_Plotting_name" rel_version="Emote_Plotting">Conspirando</string>
+	<string key="ui_emote_RobotDance_name" rel_version="Emote_RobotDance">O Autômato</string>
+	<string key="ui_emote_Headbang_name" rel_version="Emote_HeadBanging">Bate-cabeça</string>
+	<string key="ui_emote_SparklerDance_name" rel_version="Emote_SparklerDance">Dança da Faísca</string>
+	<string key="ui_emote_TugOfWar_name" rel_version="Emote_TugOfWar">Cabo-de-guerra</string>
+	<string key="ui_emote_PinCount_description" rel_version="Emote_PinCount">“O juiz procura os ombros presos ao chão, depois ratifica a dominância indiscutível do desafiante.”</string>
+	<string key="ui_emote_Plotting_description" rel_version="Emote_Plotting">“Desconfie profundamente de alguém que esteja tramando com intenções claramente malignas.”</string>
+	<string key="ui_emote_RobotDance_description" rel_version="Emote_RobotDance">“Alguma nova possessão está se espalhando por Aeternum? Uma que produz esses movimentos estranhos e mecânicos?”</string>
+	<string key="ui_emote_Headbang_description" rel_version="Emote_HeadBanging">“Para quando o espírito da música nos consome completamente.”</string>
+	<string key="ui_emote_SparklerDance_description" rel_version="Emote_SparklerDance">“Dance a dança da faísca comigo.”</string>
+	<string key="ui_emote_TugOfWar_description" rel_version="Emote_TugOfWar">“Puxe com toda sua força! Puxe como se estivesse de volta ao mar, levantando a vela grande.”</string>
+	<string key="emote_PinCount" rel_version="Emote_PinCount">{playerName} conta e… decide que é um pin!</string>
+	<string key="emote_Plotting" rel_version="Emote_Plotting">{playerName} conspira algo sinistro.</string>
+	<string key="emote_RobotDance" rel_version="Emote_RobotDance">{playerName} faz uma dança mecânica.</string>
+	<string key="emote_Headbang" rel_version="Emote_HeadBanging">{playerName} balança a cabeça para cima e para baixo.</string>
+	<string key="emote_Headbang_SHE" rel_version="Emote_HeadBanging">{playerName} balança a cabeça para cima e para baixo.</string>
+	<string key="emote_Headbang_THEY" rel_version="Emote_HeadBanging">{playerName} balança a cabeça para cima e para baixo.</string>
+	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dança com faíscas.</string>
+	<string key="emote_TugOfWar" rel_version="Emote_TugOfWar">{playerName} faz a mímica de um laço e cabo de guerra.</string>
+	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Armas com os Dedos</string>
+	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">“Acerte-os com seu melhor disparo.”</string>
+	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} faz um sinal de arma com os dedos.</string>
+	<string key="ui_emote_AirGuitar_name" rel_version="Emote_AirGuitar">Fritação de Guitarra</string>
+	<string key="ui_emote_AirViolin_name" rel_version="Emote_AirViolin">Violino Triste</string>
+	<string key="ui_emote_AirGuitar_description" rel_version="Emote_AirGuitar">“Demonstre seu valor para subir na pirâmide dos heróis da guitarra.”</string>
+	<string key="ui_emote_AirViolin_description" rel_version="Emote_AirViolin">“O virtuosismo é entendido em todas as línguas, embora não necessariamente apreciado.”</string>
+	<string key="emote_AirGuitar" rel_version="Emote_AirGuitar">{playerName} finge tocar um solo maneiro.</string>
+	<string key="emote_AirViolin" rel_version="Emote_AirViolin">{playerName} toca uma música triste no menor violino do mundo.</string>
+	<string key="ui_emote_RunningMan_name" rel_version="Emote_RunningMan">Passo da Feira de Variedades</string>
+	<string key="ui_emote_RunningMan_description" rel_version="Emote_RunningMan">“Você não vai fugir. Só está demonstrando o que seria uma fuga, caso precise fazer isso algum dia.”</string>
+	<string key="emote_RunningMan" rel_version="Emote_RunningMan">{playerName} faz uma dança de corrida.</string>
+	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Dança da Moleza</string>
+	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">“Em uma ilha repleta de horrores, às vezes é importante dar uma relaxada no seu corpo.”</string>
+	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} relaxa o corpo.</string>
+	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Um Brinde!</string>
+	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">“Beba pela saúde de seus caros companheiros.”</string>
+	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} brinda em nome da saúde.</string>
+	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Virar a Mesa</string>
+	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Sapateado Selvagem</string>
+	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Caminhada de Meliante</string>
+	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">“Quando sua raiva passa dos limites, a mesa paga o preço.”</string>
+	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">“Tap tap tap tap tap tap tap.”</string>
+	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">“Você pode não ter muita coisa, mas tem esse jeito de caminhar.”</string>
+	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} vira uma mesa.</string>
+	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} começa um sapateado selvagem.</string>
+	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} faz uma caminhada engraçada com uma bengala.</string>
+</resources>
+

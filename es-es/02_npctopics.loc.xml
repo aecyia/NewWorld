@@ -1,0 +1,9 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0223_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt">«¿Puedes explicar las zonas de pesca?».</string>
+	<string key="0223_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet">Se sabe que una zona de pesca está activa cuando se ven peces saltando fuera de ella.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="188"&gt;&lt;/img&gt;\nSi lanzas la caña en una zona de pesca activa, los peces picarán más rápido y serán más raros. Cuando coloques tu sedal correctamente, verás una pequeña alerta que te indicará que has dado con la zona de pesca.\n\nTras la captura de un número determinado de peces en una zona de pesca, esta se agotará. Se sabe que una zona de pesca está agotada cuando no hay peces saltando.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="188"&gt;&lt;/img&gt;\nUna zona de pesca agotada volverá a activarse cuando haya pasado un tiempo.\n\nA medida que tu habilidad de pesca mejore, encontrarás más y mejores puntos de pesca.</string>
+	<string key="0241_Prometheo_Topic1_Prompt" speaker="UI - player prompt">«¿Quién eres?».</string>
+	<string key="0241_Prometheo_Topic1_Response" speaker="PrometheoVane" name="Prometheo Vane">¿Quién soy? ¡¿Que quién soy?!\n\nNunca en mi vida me habían insultado tanto. ¡Soy Prometheo Vane, el mago de fuego más grande de la historia!</string>
+	<string key="0241_Prometheo_Topic2_Prompt" speaker="UI - player prompt">«¿Qué planeas?».</string>
+	<string key="0241_Prometheo_Topic2_Response" speaker="PrometheoVane" name="Prometheo Vane">¡La cocina de Navarro y la excavación profanadora arderán! Le mostraré el poder de mi amor y de mi magia para que por fin podamos estar juntos.</string>
+</resources>
+
