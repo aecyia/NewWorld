@@ -1,0 +1,52 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_pvp_3v3_arena_signup_title" rel_version="Feature_PVP_Arenas">Arena 3 contra 3</string>
+	<string key="ui_pvp_3v3_arena_queue_title" rel_version="Feature_PVP_Arenas">Arena &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3 contra 3&lt;/font&gt;</string>
+	<string key="ui_pvp_3v3_arena_leave_queue_title" rel_version="Feature_PVP_Arenas">¿Salir de la cola de la arena 3 contra 3?</string>
+	<string key="ui_pvp_3v3_arena_leave_desc" rel_version="Feature_PVP_Arenas">¿Seguro que quieres salir de la cola de la arena 3 contra 3?</string>
+	<string key="ui_pvp_3v3_arena_queue_group_removed" rel_version="Feature_PVP_Arenas">Tu grupo ha sido eliminado de la cola de la arena 3 contra 3.</string>
+	<string key="ui_pvp_3v3_arena_queue_left_desc" rel_version="Feature_PVP_Arenas">Abandonado</string>
+	<string key="ui_pvp_3v3_arena_queue_left_reason" rel_version="Feature_PVP_Arenas">Cancelado por {player}</string>
+	<string key="ui_pvp_3v3_arena_queue_left_reason_placeholder_player" rel_version="Feature_PVP_Arenas">miembro del grupo</string>
+	<string key="ui_pvp_3v3_arena_requeue_as_solo" rel_version="Feature_PVP_Arenas">Volver en solitario a la cola</string>
+	<string key="ui_pvp_3v3_arena_requeue_as_group" rel_version="Feature_PVP_Arenas">Volver como grupo a la cola</string>
+	<string key="ui_pvp_3v3_arena_requeue_as_solo_warning" rel_version="Feature_PVP_Arenas">Si escoges volver a entrar en solitario en la cola, saldrás de tu grupo.\n\n¿Seguro que quieres hacerlo?</string>
+	<string key="ui_pvp_3v3_arena_invite_notification_title" rel_version="Feature_PVP_Arenas">Invitación a la Arena 3 contra 3</string>
+	<string key="ui_pvp_3v3_arena_invite_notification_text" rel_version="Feature_PVP_Arenas">¡Te han invitado a la Arena &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3 contra 3&lt;/font&gt;!</string>
+	<string key="ui_pvparenas_roundswon" rel_version="Feature_PVP_Arenas">Rondas ganadas</string>
+	<string key="ui_pvparenas_title_join" rel_version="Feature_PVP_Arenas">Unirse a las arenas 3 contra 3</string>
+	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">Arenas &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3 contra 3&lt;/font&gt;</string>
+	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">En las &lt;font color="#ffe940"&gt;arenas 3 contra 3&lt;/font&gt; dos equipos se enfrentan para sobrevivir. Haz que tu equipo sea el último en quedar en pie para tener una oportunidad de recibir recompensas únicas.</string>
+	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Gana 3 rondas para ganar el combate</string>
+	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">Cuando se acabe el tiempo, el fuego envolverá completamente la Arena.</string>
+	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">Tu curación se irá reduciendo progresivamente a medida que avance la ronda.</string>
+	<string key="ui_pvparenas_leave_queue_title" rel_version="Feature_PVP_Arenas">¿Salir de la cola de la arena 3 contra 3?</string>
+	<string key="ui_pvparenas_leave_queue_desc" rel_version="Feature_PVP_Arenas">¿Seguro que quieres salir de la cola de la arena 3 contra 3?</string>
+	<string key="ui_pvparenas_requeue" rel_version="Feature_PVP_Arenas">Volver a la cola</string>
+	<string key="ui_pvparenas_exit_match" rel_version="Feature_PVP_Arenas">Abandonar el combate</string>
+	<string key="ui_pvparenas_eliminated_enemy" rel_version="Feature_PVP_Arenas">Eliminado: &lt;font color="#ff2e2e"&gt;{enemy}&lt;/font&gt;</string>
+	<string key="ui_pvparenas_ally_killed_enemy" rel_version="Feature_PVP_Arenas">&lt;font color={allyColor}&gt;{ally}&lt;/font&gt; ha matado a &lt;font color={enemyColor}&gt;{enemy}&lt;/font&gt;</string>
+	<string key="ui_pvparenas_enemy_killed_ally" rel_version="Feature_PVP_Arenas">&lt;font color={enemyColor}&gt;{enemy}&lt;/font&gt; ha matado a &lt;font color={allyColor}&gt;{ally}&lt;/font&gt;</string>
+	<string key="ui_pvparenas_ringoffire_killed_player" rel_version="Feature_PVP_Arenas">El anillo de fuego ha acabado con &lt;font color={playerColor}&gt;{playerName}&lt;/font&gt;</string>
+	<string key="ui_pvparenas_player_disconnected" rel_version="Feature_PVP_Arenas">&lt;font color={teamColor}&gt;{player}&lt;/font&gt; ha abandonado el combate</string>
+	<string key="ui_pvparenas_queue_for_bracket" rel_version="Feature_PVP_Arenas">Cola para los niveles {bracketLevels}.</string>
+	<string key="ui_pvparenas_queue_as_group_warning" rel_version="Feature_PVP_Arenas">Los grupos hacen cola para la categoría de niveles del miembro con el nivel más alto. Uno o más miembros del grupo están por debajo de esta categoría de niveles.</string>
+	<string key="ui_pvparenas_group_ineligible" rel_version="Feature_PVP_Arenas">Hay miembros del grupo que no llegan al nivel mínimo de {levelRequirement}.</string>
+	<string key="ui_pvparenas_failgrouppenalty" rel_version="Feature_PVP_Arenas">Uno o más miembros del grupo tienen una penalización de tiempo por haber abandonado un enfrentamiento de una arena de 3 contra 3.</string>
+	<string key="ui_pvparenas_group_too_large" rel_version="Feature_PVP_Arenas">El grupo es demasiado grande.</string>
+	<string key="ui_pvparenas_group_too_large_tooltip" rel_version="Feature_PVP_Arenas">Para poder unirte, el tamaño del grupo debe ser de {groupSizeRequirement} o menos.</string>
+	<string key="ui_pvparenas_too_many_items" rel_version="Feature_PVP_Arenas">Tienes demasiados objetos únicos en tu inventario para entrar en este modo de juego.</string>
+	<string key="ui_pvparenas_too_many_items_tooltip" rel_version="Feature_PVP_Arenas">Reduce tu inventario en {numItemsToRemove} objeto(s)</string>
+	<string key="ui_pvparenas_cannotleavegroup_in_arena" rel_version="Feature_PVP_Arenas">No puedes dejar el grupo mientras estás en una arena de 3 contra 3.</string>
+	<string key="ui_pvp_arena_leave" rel_version="Feature_PVP_Arenas">Salir de la arena de 3 contra 3</string>
+	<string key="ui_pvp_arena_leave_desc" rel_version="Feature_PVP_Arenas">¿Seguro que quieres salir de la arena de 3 contra 3?</string>
+	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">¿Seguro que quieres salir de la arena de 3 contra3?\nNo podrás volver a hacer cola para la arena de 3 contra 3 durante &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_pvp_arena_leave_title" rel_version="Feature_PVP_Arenas">¿Salir de la arena de 3 contra 3?</string>
+	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">No puedes usar el viaje rápido mientras estás en la arena de 3 contra 3</string>
+	<string key="ui_pvparenas_cannot_use_item" rel_version="Feature_PVP_Arenas">No puedes utilizar este objeto en arenas 3 contra 3</string>
+	<string key="ui_pvparenas_equip_items_title" rel_version="Feature_PVP_Arenas">Termina los preparativos</string>
+	<string key="ui_pvparenas_equip_items_desc" rel_version="Feature_PVP_Arenas">Comprueba el equipo y los consumibles</string>
+	<string key="ui_pvparenas_waiting_for_players" rel_version="Feature_PVP_Arenas">Esperando jugadores</string>
+	<string key="ui_pvparenas_waiting_for_players_queue_hud" rel_version="Feature_PVP_Arenas">Esperando jugadores ({numAccepted} de {numTotal})</string>
+	<string key="ui_pvparenas_time_remaining" rel_version="Feature_PVP_Arenas">Tiempo restante: {seconds}</string>
+</resources>
+

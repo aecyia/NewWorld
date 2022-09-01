@@ -344,7 +344,7 @@
 	<string key="1033_0202_trailofthemisanthrope_complete_prompt" speaker="UI – Player Prompt">"Co zrobisz ze swoją częścią?"</string>
 	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">Kupię za nią dom, który będzie moją bazą wypadową. Jeśli chodzi o poszukiwanie skarbów, to dopiero się rozkręcam! \n\nPytanie tylko, gdzie go kupić… Mogłabym kupić jakiś dom tutaj, ale słyszałam, że w Cuchnącej Wodzie też jest pełno pirackich skarbów.</string>
 	<string key="1034_0201_d_01_gotoPOI" speaker="UI – Tracker Text">Udaj się do Płycizn Potępieńców i przeszukaj Burzyka, by odzyskać sekstans Billiama</string>
-	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Pokonaj duchy dawnej załogi Billiama</string>
+	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Pokonaj duchy dawnej załogi Billiama na Polach Błyskawic</string>
 	<string key="1034_0201_d_03_have_item" speaker="UI – Tracker Text">Zabierz: {itemName} ze skrzyni na Burzyku, który znajduje się na Płyciznach Potępieńców</string>
 	<string key="1034_0201_motherocean_title" speaker="UI - Quest Title">Matka Ocean</string>
 	<string key="1034_0201_motherocean_description" speaker="UI – Quest Description">Odzyskaj sekstans Billiama z wraku Burzyka, który znajduje się na Płyciznach Potępieńców. Przynieś sekstans Tęsknemu Billiamowi z Wysp Kordelasowych.</string>
@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Zamaskowane kroki</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Zdobądź wymoczoną naszywkę ze skóry w Pokrowcu, tłumiące podbicie z mokradeł w Karburgu oraz esencję cienia w Jaskini Bandytów. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć buty Niejasnych Zamiarów.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Przekazano schemat.</string>
-	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Udaj się do: {POITags} na Wyspach Kordelasowych, by zdobyć wymoczoną naszywkę ze skóry</string>
-	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Udaj się do: {POITags} na Tkackich Mokradłach, by zdobyć tłumiące podbicie z mokradeł</string>
-	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć esencję cienia</string>
+	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Udaj się do: {POITags} na Wyspach Kordelasowych, by zdobyć wymoczoną naszywkę ze skóry</string>
+	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Udaj się do: {POITags} na Tkackich Mokradłach, by zdobyć tłumiące podbicie z mokradeł</string>
+	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć esencję cienia</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Idź do stanowiska krawieckiego</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Wytwórz: {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Spowity ciemnością</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Zdobądź strzępy żagla sztormowego w Spustoszonym Wraku, smołę zmory zarazy w Zemście Płotki oraz rekinie zapinki myśliwego w Rekinie Łupieżcy. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć płaszcz Niejasnych Zamiarów.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Przekazano schemat.</string>
-	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć strzępy żagla sztormowego</string>
-	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć smołę zmory zarazy</string>
-	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć rekinie zapinki myśliwego</string>
+	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć strzępy żagla sztormowego</string>
+	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć smołę zmory zarazy</string>
+	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć rekinie zapinki myśliwego</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Idź do stanowiska krawieckiego</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Wytwórz: {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Okryty mrokiem</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Zdobądź ekstrakt z ciemnego mchu w Piecu, takielunek rozbitka na Brzegach Rozbitków oraz odłamek kamienia nocy w Haedusie. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć nogawice Niejasnych Zamiarów.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Przekazano schemat.</string>
-	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć ekstrakt z ciemnego mchu</string>
-	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Udaj się do: {POITags} w Żałobnicy, by zdobyć takielunek rozbitka</string>
-	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Udaj się do: {POITags} w Żałobnicy, by zdobyć odłamek kamienia nocy</string>
+	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć ekstrakt z ciemnego mchu</string>
+	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć takielunek rozbitka</string>
+	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć odłamek kamienia nocy</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Idź do stanowiska krawieckiego</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Wytwórz: {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Chwytanie cieni</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Zdobądź zbitą skórę strażnika w Subrze, wyssany zmrok w Litheltop oraz barwnik półmroku na Górze Przepraw. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć rękawice Niejasnych Zamiarów.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Przekazano schemat.</string>
-	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Udaj się do: {POITags} w Żałobnicy, by zdobyć zbitą skórę strażnika</string>
-	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć wyssany zmrok</string>
-	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Udaj się do: {POITags} w Żałobnicy, by zdobyć barwnik półmroku</string>
+	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć zbitą skórę strażnika</string>
+	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć wyssany zmrok</string>
+	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć barwnik półmroku</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Idź do stanowiska krawieckiego</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Wytwórz: {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">W cieniu nocy</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Zdobądź nasyconą nić z orichalcum w dolnej kopalni żużlu, zasmolone pióra w Genezie Mściwości oraz cieniową tkaninę w Jeżynowym Klifie. Następnie idź do stanowiska krawieckiego klasy 3, by wytworzyć kapelusz Niejasnych Zamiarów.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Przekazano schemat.</string>
-	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć nasyconą nić z orichalcum</string>
-	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć zasmolone pióra</string>
-	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć cieniową tkaninę</string>
+	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć nasyconą nić z orichalcum</string>
+	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć zasmolone pióra</string>
+	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Udaj się do: {POITags} w Rajskim Gaju, by zdobyć cieniową tkaninę</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Idź do stanowiska krawieckiego</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Wytwórz: {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Zagorzałość</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">Ostrzenie klingi na kamieniu szlifierskim to sztuka sama w sobie.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Zdobądź olej, by zahartować bestię – od wody pojawiłyby się na ostrzu nierówności.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">Dobrze wykonane ostrze jest najlepszym przyjacielem każdego kapitana, niezależnie od zasad, którymi się kieruje.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć skórę na rękojeść</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Udaj się do: {POITags} w Wielkiej Wyrwie, by zdobyć kamień szlifierski</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Zdobądź: {itemName} od wrogów: {targetName}</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Udaj się do: {POITags} w Żałobnicy, by zdobyć olej do hartowania</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Zdobądź: {itemName} od wrogów: {targetName} i ze skrzyń</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Udaj się do: {POITags} w Żałobnicy, by zdobyć miecz l'Olonnoisa</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Zdobądź: {itemName} od: {targetName}</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Udaj się do: {POITags} na Niespokojnych Brzegach, by zdobyć skórę na rękojeść</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Zdobądź: {itemName} od wrogów: {targetName}</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Udaj się do: {POITags} w Wielkiej Wyrwie, by zdobyć kamień szlifierski</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Zdobądź: {itemName} od wrogów: {targetName}</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć olej do hartowania</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Zdobądź: {itemName} od wrogów: {targetName} i ze skrzyń</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Udaj się do: {POITags} w Żałobnicy, by zdobyć miecz l'Olonnoisa</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Zdobądź: {itemName} od: {targetName}</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Przekazano schemat.</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Idź do kuźni</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Stwórz: {itemName}</string>

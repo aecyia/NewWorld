@@ -1091,6 +1091,8 @@
 	<string key="GauntletIce_GroupName">Gantel. de glace</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Des gantelets qui consomment du mana pour affaiblir les ennemis et renforcer les alliés. Spécialisés dans les améliorations à faible portée et les dégâts sur la durée ou les affaiblissements à moyenne portée et les soins, les gantelets du néant sont particulièrement dangereux lorsqu'ils sont utilisés dans un groupe.\n\n•Attaque légère : Inflige {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]} % de dégâts de néant.\n•Attaque lourde : Inflige {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]} % de dégâts de néant et vous soigne à hauteur de {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]} % des dégâts infligés.\n•Essence de récolte (maintenir la garde) : Convertit progressivement votre santé en mana. Le taux varie en fonction des dégâts de l'arme.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Gantel. du néant</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Inflige {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]} % de dégâts de taille.\n•Attaque légère 3 : Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Inflige {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]} % de dégâts de taille.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Épées longues</string>
 	<string key="GemAmbe_CategoryName">Ambres</string>
 	<string key="GemAmet_CategoryName">Améthystes</string>
 	<string key="GemAqua_CategoryName">Aigues-marines</string>
@@ -1854,11 +1856,6 @@
 	<string key="SalvageResearch">Rechercher</string>
 	<string key="SalvageCondense">Condenser</string>
 	<string key="AlchemyCritters_GroupName">Créatures d'alchimie</string>
-	<string key="SummerMemento" rel_version="Event_Summer_Temp">Souvenirs estivaux</string>
-	<string key="MementoStand" rel_version="Event_Summer_Temp">Supports de souvenir</string>
-	<string key="SmallMemento" rel_version="Event_Summer_Temp">Souvenirs de petits poissons</string>
-	<string key="MediumMemento" rel_version="Event_Summer_Temp">Souvenirs de poissons moyens</string>
-	<string key="LargeMemento" rel_version="Event_Summer_Temp">Souvenirs de grands poissons</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Parties d'instrument</string>

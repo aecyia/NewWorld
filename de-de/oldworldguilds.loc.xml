@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Schlaue Jünger, die gerissen für Wahrheit und Fortschritt kämpfen.</string>
 	<string key="ui_faction_desc2">Stolze Krieger, die ehrenhaft um Ruhm und Selbstverbesserung kämpfen.</string>
 	<string key="ui_faction_desc3">Göttliche Recken, die voller Überzeugung für Rechtschaffenheit und Gerechtigkeit eintreten.</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Keine</string>
 	<string key="ui_faction_name1">Das Syndikat</string>
 	<string key="ui_faction_name2">Die Marodeure</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Festliche Steinmetze gesucht</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Festliche Zimmermänner gesucht</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Festliche Weber gesucht</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Festliche Metallbauer gesucht</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Festliche Erntearbeiter gesucht</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Festliche Köche gesucht</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Festliche Alchemisten gesucht</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Festliche Vorräte gesucht</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Festliche Holzfäller gesucht</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Festliche Jäger gesucht</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Festliche Gerber gesucht</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einem Steinmetztisch.</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Festliche Maler gesucht</string>
 </resources>
 

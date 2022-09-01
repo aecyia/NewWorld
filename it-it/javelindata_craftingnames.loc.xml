@@ -79,6 +79,12 @@
 	<string key="PotionFamilyWardBeastT3">Pozione di protezione dalle bestie potente</string>
 	<string key="PotionFamilyWardBeastT4">Pozione di protezione dalle bestie formidabile</string>
 	<string key="PotionFamilyWardBeastT5">Pozione di protezione dalle bestie impregnata</string>
+	<string key="Procedural_AlkahestT1">Alkahest debole</string>
+	<string key="Procedural_AlkahestT2">Alkahest comune</string>
+	<string key="Procedural_AlkahestT3">Alkahest forte</string>
+	<string key="Procedural_AlkahestT4">Alkahest potente</string>
+	<string key="Procedural_AlkahestT5">Alkahest impregnato</string>
+	<string key="AmpouleT5">Ampolla</string>
 	<string key="Procedural_AmuletDiamondT2">Amuleto con diamante imperfetto</string>
 	<string key="Procedural_AmuletDiamondT3">Amuleto con diamante</string>
 	<string key="Procedural_AmuletDiamondT4">Amuleto con diamante brillante</string>
@@ -442,6 +448,11 @@
 	<string key="Procedural_PotionHealthT3">Pozione della salute potente</string>
 	<string key="Procedural_PotionHealthT4">Pozione della salute formidabile</string>
 	<string key="Procedural_PotionHealthT5">Pozione della salute impregnata</string>
+	<string key="PotionReflexiveHealthT5">Pozione della salute riflessiva</string>
+	<string key="PotionReflexiveManaT5">Pozione del mana riflessiva</string>
+	<string key="PotionReflexiveRegenT5">Pozione rigenerante riflessiva</string>
+	<string key="PotionReflexiveCTinctureT5">Elisir anti-corruzione riflessivo</string>
+	<string key="PotionReflexiveBTinctureT5">Elisir anti-logoramento riflessivo</string>
 	<string key="Procedural_PotionManaT1">Pozione del mana debole</string>
 	<string key="Procedural_PotionManaT2">Pozione del mana comune</string>
 	<string key="Procedural_PotionManaT3">Pozione del mana potente</string>
@@ -1890,9 +1901,6 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Ombra amara</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Ombra amara</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Ombra amara</string>
-	<string key="FiletToken" rel_version="Event_Summer_Temp">Gettone della fiera - Filetto</string>
-	<string key="ScaleToken" rel_version="Event_Summer_Temp">Gettone della fiera - Squama</string>
-	<string key="DustToken" rel_version="Event_Summer_Temp">Gettone della fiera - Polvere di dolcinsetti</string>
 	<string key="ScrapExtractMetalT2">Ricava metallo - Ferro</string>
 	<string key="ScrapExtractMetalT3">Ricava metallo - Acciaio</string>
 	<string key="ScrapExtractMetalT4">Ricava metallo - Metallo stellare</string>
@@ -1950,5 +1958,9 @@
 	<string key="GypsumOrbOrange">Sfera di gesso - Citrino</string>
 	<string key="GypsumOrbPurple">Sfera di gesso - Ametista</string>
 	<string key="GypsumOrbWhite">Sfera di gesso - Diamante</string>
+	<string key="Procedural_2hGreatSwordT2">Spadone di ferro</string>
+	<string key="Procedural_2hGreatSwordT3">Spadone di acciaio</string>
+	<string key="Procedural_2hGreatSwordT4">Spadone di metallo stellare</string>
+	<string key="Procedural_2hGreatSwordT5">Spadone di oricalco</string>
 </resources>
 

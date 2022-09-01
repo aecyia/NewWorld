@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Mobília</string>
 	<string key="inv_outpostrush">Investida do Posto Avançado</string>
 	<string key="inv_pvparenas">Arenas PvP</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runas</string>
 	<string key="inv_crafting_modifiers">Confecção</string>
 	<string key="inv_repair_kit_count">{count} Kit de Reparo</string>
 	<string key="inv_repair_kits">Kits de Reparo</string>
@@ -68,17 +69,17 @@
 	<string key="inv_equipLoadFastTooltip">Ao usar armaduras leves, você se esquiva rolando rapidamente por uma longa distância e consome {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} de vigor. Você causa {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% de dano de bônus e tem 30% de cura de bônus. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s após receber um golpe corpo a corpo, a distância de esquiva é reduzida em 20% e você não pode correr.</string>
 	<string key="inv_equipLoadNormalTooltip">Ao usar armaduras de peso médio, você se esquiva com um salto rápido que consome {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} de vigor. Os debuffs de controle que você aplica duram 10% a mais. Você causa {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% de dano de bônus. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s após receber um golpe corpo a corpo, a distância de esquiva é reduzida em 20% e você não pode correr.</string>
 	<string key="inv_equipLoadSlowTooltip">Ao usar armaduras pesadas, você se esquiva dando passos direcionados e consome {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} de vigor. Sua estabilidade de bloqueio é aumentada em 15% e os debuffs de controle que você aplica duram 20% mais. Sua cura é reduzida em 30%. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s após receber um golpe corpo a corpo, você não pode correr.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">Quando ultrapassa seu limite máximo de Carga Equipada, você não pode esquivar, correr ou usar habilidades. É bom desequipar alguns itens.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Você está carregando coisas demais no inventário. Ao ficar sobrecarregado, sua Carga Equipada não importa. Você não pode correr ou se esquivar e perde mais vigor ao bloquear. É bom remover alguns itens de sua bolsa.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">Quando ultrapassa seu limite máximo de Carga Equipada, você não pode se esquivar, nem correr, nem usar habilidades. É bom desequipar alguns itens.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Você está carregando coisas demais no inventário. Ao ficar sobrecarregado, sua Carga Equipada não importa. Você não pode correr nem se esquivar e perde mais vigor ao bloquear. É bom remover alguns itens de sua bolsa.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Você equipou mais do que a sua carga equipada suporta. Você não pode se esquivar nem correr, e sofrerá uma penalidade significativa na Regeneração de Vigor. É bom desequipar alguns itens.</string>
 	<string key="inv_equipLoadFastNotification">A Carga Equipada agora é Leve</string>
 	<string key="inv_equipLoadNormalNotification">A Carga Equipada agora é Média</string>
 	<string key="inv_equipLoadSlowNotification">A Carga Equipada agora é Pesada</string>
-	<string key="inv_equipLoadOverburdenedNotification">Excesso de Equipamento — Não é possível se esquivar ou correr</string>
-	<string key="inv_equipLoadEncumberedNotification">Sobrecarregado — Não é possível se esquivar, saltar ou correr</string>
+	<string key="inv_equipLoadOverburdenedNotification">Excesso de Equipamento — Não é possível se esquivar nem correr</string>
+	<string key="inv_equipLoadEncumberedNotification">Sobrecarregado — Não é possível se esquivar, nem saltar, nem correr</string>
 	<string key="inv_encumbranceTooltip">Sua carga é o peso total de tudo que está em sua bolsa. Itens equipados não a afetam. É possível aumentar sua carga máxima equipando bolsas.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Ao carregar menos do que seu limite de peso, sua carga não lhe afeta em nada.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Ao carregar coisas demais no inventário, não é possível esquivar, andar rápido, nem correr. Ao atingir o máximo de carga, você não poderá mais se mover ou atacar. É bom remover alguns itens de sua bolsa.</string>
+	<string key="inv_encumbranceEncumberedTooltip">Ao carregar coisas demais no inventário, não é possível se esquivar nem correr. Ao atingir o máximo de carga, você não poderá mais se mover ou atacar. É bom remover alguns itens de sua bolsa.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Atributos insuficientes</string>
 	<string key="inv_encumbranceAttackNotification">Sobrecarregado demais para atacar</string>
 	<string key="inv_insufficientManaNotification">Mana Insuficiente</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Sucatear este item fornecerá entre {min} e {max} {itemName} e &lt;font color="#f25d5d"&gt;{numRepairParts} Peças de Reparos.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Sucatear este item fornecerá {numRepairParts} Peças de Reparos.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Sucatear este item fornecerá {numRepairParts} Peças de Reparos e {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Você atingiu seu Limite de Moedas.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Obteve {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obteve {entry1} e {entry2}</string>
 	<string key="salvage_notification_obtained_3">Obteve {entry1}, {entry2} e {entry3}</string>
@@ -184,6 +186,6 @@
 	<string key="inv_TargetDeathDoorNotification">O Alvo está À Beira da Morte</string>
 	<string key="inv_TargetDeadNotification">O Alvo Morreu</string>
 	<string key="inv_TargetOutsideLos">Não Há como Ver o Alvo</string>
-	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; Itens A Mais</string>
+	<string key="inv_moreItems">&lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{value}&lt;/font&gt; Itens a Mais</string>
 </resources>
 

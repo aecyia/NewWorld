@@ -95,9 +95,9 @@
 	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_notification_tip_donated" rel_version="Feature_MusicalPerformances">Gorjeta Dada</string>
 	<string key="ui_any_song_gather">[{keybind}] Interprete qualquer música para Coletar</string>
-	<string key="ui_song_gather">[{keybind}] Interprete para Coletar</string>
-	<string key="ui_restriction_learn_song"/>
-	<string key="ui_restriction_equip_instrument"/>
+	<string key="ui_song_gather">[{keybind}] Interprete {songName} para Coletar</string>
+	<string key="ui_restriction_learn_song">Aprenda {songName} para Coletar</string>
+	<string key="ui_restriction_equip_instrument">Equipe o instrumento para Coletar</string>
 	<string key="ui_reset_available_in">Disponível em {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Use o Gesto de {tagName} para Coletar</string>
 	<string key="ui_emotetag_dance">Dançar</string>

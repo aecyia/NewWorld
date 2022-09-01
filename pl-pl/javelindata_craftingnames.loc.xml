@@ -79,6 +79,12 @@
 	<string key="PotionFamilyWardBeastT3">Silny eliksir ochrony przed bestiami</string>
 	<string key="PotionFamilyWardBeastT4">Potężny eliksir ochrony przed bestiami</string>
 	<string key="PotionFamilyWardBeastT5">Nasycony eliksir ochrony przed bestiami</string>
+	<string key="Procedural_AlkahestT1">Słaby alkahest</string>
+	<string key="Procedural_AlkahestT2">Pospolity alkahest</string>
+	<string key="Procedural_AlkahestT3">Silny alkahest</string>
+	<string key="Procedural_AlkahestT4">Potężny alkahest</string>
+	<string key="Procedural_AlkahestT5">Nasycony alkahest</string>
+	<string key="AmpouleT5">Ampułka</string>
 	<string key="Procedural_AmuletDiamondT2">Amulet z diamentem ze skazą</string>
 	<string key="Procedural_AmuletDiamondT3">Amulet z diamentem</string>
 	<string key="Procedural_AmuletDiamondT4">Amulet z doskonałym diamentem</string>
@@ -442,6 +448,11 @@
 	<string key="Procedural_PotionHealthT3">Silny eliksir leczniczy</string>
 	<string key="Procedural_PotionHealthT4">Potężny eliksir leczniczy</string>
 	<string key="Procedural_PotionHealthT5">Nasycony eliksir leczniczy</string>
+	<string key="PotionReflexiveHealthT5">Przywracający eliksir leczniczy</string>
+	<string key="PotionReflexiveManaT5">Przywracający eliksir many</string>
+	<string key="PotionReflexiveRegenT5">Przywracający eliksir regeneracji</string>
+	<string key="PotionReflexiveCTinctureT5">Przywracający eliksir skażenia</string>
+	<string key="PotionReflexiveBTinctureT5">Przywracający eliksir zarazy</string>
 	<string key="Procedural_PotionManaT1">Słaby eliksir many</string>
 	<string key="Procedural_PotionManaT2">Pospolity eliksir many</string>
 	<string key="Procedural_PotionManaT3">Silny eliksir many</string>
@@ -1890,9 +1901,6 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Gorzki Cień</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Gorzki Cień</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Gorzki Cień</string>
-	<string key="FiletToken" rel_version="Event_Summer_Temp">Festiwalowy żeton – filet</string>
-	<string key="ScaleToken" rel_version="Event_Summer_Temp">Festiwalowy żeton – łuska</string>
-	<string key="DustToken" rel_version="Event_Summer_Temp">Festiwalowy żeton – ckliwy pył</string>
 	<string key="ScrapExtractMetalT2">Odzyskany metal – żelazo</string>
 	<string key="ScrapExtractMetalT3">Odzyskany metal – stal</string>
 	<string key="ScrapExtractMetalT4">Odzyskany metal – gwiezdny metal</string>
@@ -1950,5 +1958,9 @@
 	<string key="GypsumOrbOrange">Gipsowa kula – cytryn</string>
 	<string key="GypsumOrbPurple">Gipsowa kula – ametyst</string>
 	<string key="GypsumOrbWhite">Gipsowa kula – diament</string>
+	<string key="Procedural_2hGreatSwordT2">Żelazny miecz dwuręczny</string>
+	<string key="Procedural_2hGreatSwordT3">Stalowy miecz dwuręczny</string>
+	<string key="Procedural_2hGreatSwordT4">Miecz dwuręczny z gwiezdnego metalu</string>
+	<string key="Procedural_2hGreatSwordT5">Miecz dwuręczny z orichalcum</string>
 </resources>
 

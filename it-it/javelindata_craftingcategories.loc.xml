@@ -1091,6 +1091,8 @@
 	<string key="GauntletIce_GroupName">Guanti di ghiaccio</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Guanto che consuma mana per indebolire i nemici e rafforzare gli alleati. Specializzato nei danni nel tempo e nei potenziamenti a distanza ravvicinata, oppure nelle cure e nei depotenziamenti a distanza media, il Guanto del Vuoto è particolarmente pericoloso se usato in gruppo.\n\n• Attacco leggero: Infligge un {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% di danni da Vuoto.\n•Attacco pesante: Infligge un {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% di danni da Vuoto e curi te stesso per un {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% dei danni inflitti.\n•Essenza del raccolto (tieni premuto "Blocco"): Converte gradualmente la tua salute in mana. La velocità aumenta in base ai danni da arma.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Guanti del Vuoto</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Infligge un {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% di danni da fendente.\n•Attacco leggero 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Infligge un {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% di danni da fendente.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Spadoni</string>
 	<string key="GemAmbe_CategoryName">Pietre d'ambra</string>
 	<string key="GemAmet_CategoryName">Pietre di ametista</string>
 	<string key="GemAqua_CategoryName">Pietre di acquamarina</string>
@@ -1854,11 +1856,6 @@
 	<string key="SalvageResearch">Ricerca</string>
 	<string key="SalvageCondense">Condensa</string>
 	<string key="AlchemyCritters_GroupName">Creature per alchimia</string>
-	<string key="SummerMemento" rel_version="Event_Summer_Temp">Souvenir estivi</string>
-	<string key="MementoStand" rel_version="Event_Summer_Temp">Bancarelle di souvenir</string>
-	<string key="SmallMemento" rel_version="Event_Summer_Temp">Souvenir pesci piccoli</string>
-	<string key="MediumMemento" rel_version="Event_Summer_Temp">Souvenir pesci medi</string>
-	<string key="LargeMemento" rel_version="Event_Summer_Temp">Souvenir pesci grandi</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Strumenti</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Strumenti</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Parti di strumento</string>

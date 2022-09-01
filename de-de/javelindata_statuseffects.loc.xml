@@ -494,8 +494,8 @@
 	<string key="Mut_Ice_CloseZone_2_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Zittern II</string>
 	<string key="Mut_Ice_CloseZone_1_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Beißende Kälte I</string>
 	<string key="Mut_Ice_CloseZone_2_Damage_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Beißende Kälte II</string>
-	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Erleidet alle {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.TickRate]} Sekunden Eisschaden in Höhe von {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.HealthModifierDamageBased * -100]} % des Basisschadens + {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.HealthModifierPercent * -100]} % des Gesundheitsgrundwerts.</string>
-	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Erleidet alle {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.TickRate]} Sekunden Eisschaden in Höhe von {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.HealthModifierDamageBased * -100]} % des Basisschadens + {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.HealthModifierPercent * -100]} % des Gesundheitsgrundwerts.</string>
+	<string key="Mut_Ice_CloseZone_1_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Verursacht alle {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.TickRate]} Sekunden Eisschaden in Höhe von {[Type_StatusEffectData.Mut_Ice_CloseZone_1_Damage.HealthModifierDamageBased * -100]} % des Basis-Eisschadens.</string>
+	<string key="Mut_Ice_CloseZone_2_Damage_ToolTip" rel_version="Feature_Dungeon_Mutators_pt3">Verursacht alle {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.TickRate]} Sekunden Basis-Eisschaden in Höhe von {[Type_StatusEffectData.Mut_Ice_CloseZone_2_Damage.HealthModifierDamageBased * -100]} %.</string>
 	<string key="Mut_Ice_Death_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Gletscher</string>
 	<string key="Mut_Ice_DeathFreeze_Buff_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Gletscher</string>
 	<string key="Mut_Ice_DeathFreeze_Slow_DisplayName" rel_version="Feature_Dungeon_Mutators_pt3">Frostige Verlangsamung</string>
@@ -620,6 +620,11 @@
 	<string key="BruteBlast_Description">Verursacht {[Type_StatusEffectData.PirateBrute_Blast.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.PirateBrute_Blast.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.PirateBrute_Blast.HealthModifierDamageBased * -100]} % des Basisschadens.</string>
 	<string key="UndeadBrute_Consume_DisplayName">Voller Magen</string>
 	<string key="UndeadBrute_Consume_Description">Heilt alle {[Type_StatusEffectData.UndeadBrute_Consume.TickRate]} Sekunden {[Type_StatusEffectData.UndeadBrute_Consume.HealthModifierPercent * 100]} % der Grundgesundheit und erhöht den Basisschaden für {[Type_StatusEffectData.UndeadBrute_Consume.BaseDuration]} Sekunden um {[Type_StatusEffectData.UndeadBrute_Consume.DMGStandard]}.</string>
+	<string key="Legion_Inspire_Buff" rel_version="Territory_Brimstone_Sands">Inspiriert</string>
+	<string key="Legion_HeroOfLegion_Buff" rel_version="Territory_Brimstone_Sands">Held der Legion</string>
+	<string key="Legion_HeroOfLegion_Crassus_Buff" rel_version="Territory_Brimstone_Sands">Helden der Legion</string>
+	<string key="LegionBurn_DisplayName" rel_version="Territory_Brimstone_Sands">Verbrennung</string>
+	<string key="LegionBurn_Description" rel_version="Territory_Brimstone_Sands">Verursacht {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.HealthModifierDamageBased * -100]} % des Basisschadens. {[Type_StatusEffectData.Legion_FireRainBurn_Debuff.StackMax]}-mal stapelbar.</string>
 	<string key="WitheredMinionFrenzy_DisplayName">Raserei</string>
 	<string key="WitheredMinionFrenzy_Description">Erhöht den Basisschaden für {[Type_StatusEffectData.WitheredMinionFrenzy.BaseDuration]} Sekunden um {[Type_StatusEffectData.WitheredMinionFrenzy.DMGStandard]}.</string>
 	<string key="BogMonsterPowerSpore_DisplayName">Ermächtigende Sporen</string>
@@ -653,6 +658,9 @@
 	<string key="AI_Slime_Buff_DisplayName">Schleimig</string>
 	<string key="AI_Slime_Slow_DisplayName">Klebrig</string>
 	<string key="AI_Slime_Slow_Tooltip">Bewegungstempo um {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Aufdringlich</string>
+	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Vergiftet</string>
+	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Verursacht alle {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate]} Sekunden Basis-Naturschaden in Höhe von {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]} %.</string>
 	<string key="AI_SpiderBite_Tooltip">Verursacht {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.AI_SpiderBite.TickRate]} Sekunden Giftschaden in Höhe von {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]} % des Basis-Naturschadens.</string>
 	<string key="AI_SpiderVenom_Tooltip">Rüstung ist {[Type_StatusEffectData.AI_SpiderVenom.ABSStandard * -100]} % weniger effektiv.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Giftig</string>
@@ -690,7 +698,9 @@
 	<string key="AI_Snare_6sec_DisplayName">Gefangen</string>
 	<string key="AI_Snare_6sec_Tooltip">Bewegungstempo wird {[Type_StatusEffectData.AI_Snare_6sec.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]} % verringert.</string>
 	<string key="AI_Snare_4sec_DisplayName">Gefangen</string>
-	<string key="AI_Snare_4sec_Tooltip">Bewegungstempo wird {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_Snare_6sec.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="AI_Snare_4sec_Tooltip">Bewegungstempo wird {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_Snare_4sec.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="AI_Snare_2sec_DisplayName" rel_version="Territory_Brimstone_Sands">Gefangen</string>
+	<string key="AI_Snare_2sec_Tooltip" rel_version="Territory_Brimstone_Sands">Bewegungstempo wird {[Type_StatusEffectData.AI_Snare_4sec.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_Snare_2sec.MoveSpeedMod * -100]} % verringert.</string>
 	<string key="AI_Snare_30percent_3sec_DisplayName">Gefangen</string>
 	<string key="AI_Snare_30percent_3sec_Tooltip">Bewegungstempo wird {[Type_StatusEffectData.AI_Snare_30percent_3sec.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_Snare_30percent_3sec.MoveSpeedMod * -100]} % verringert.</string>
 	<string key="AI_Stun_2sec_DisplayName">Betäubt</string>
@@ -747,6 +757,24 @@
 	<string key="AI_IceDryad_Frostfang_Buff_Empower_Tooltip" rel_version="Event_WinterConvergence_Perm">{[Type_StatusEffectData.Type_StatusEffectData.AI_IceDryad_Frostfang_Buff_Empower.BaseDuration * 100]} Sekunden lang erhöhter Schaden bestimmter Typen.</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_DisplayName" rel_version="Event_WinterConvergence_Perm">Schwach</string>
 	<string key="AI_IceDryad_Frostfang_Debuff_Weaken_Tooltip" rel_version="Event_WinterConvergence_Perm">Verursachter Schaden der meisten Typen wird {[Type_StatusEffectData.AI_IceDryad_Frostfang_Debuff_Weaken.BaseDuration]} Sekunden lang verringert.</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_DisplayName" rel_version="Territory_Brimstone_Sands">Sandteufel</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Cyclone_Tooltip" rel_version="Territory_Brimstone_Sands">{[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.TickRate]} Sekunden physischer Schaden in Höhe von {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Cyclone.HealthModifierPercent * -100]} % des Gesundheitsgrundwerts durch Blutung.</string>
+	<string key="AI_DPTank_WorldSplitter_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Sandsturm</string>
+	<string key="AI_DPTank_WorldSplitter_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">{[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.TickRate]} Sekunden physischer Schaden in Höhe von {[Type_StatusEffectData.AI_DPTank_WorldSplitter_Bleed_Axe.HealthModifierPercent * -100]} % des Gesundheitsgrundwerts durch Blutung.</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Axe_DisplayName" rel_version="Territory_Brimstone_Sands">Blutender Sand</string>
+	<string key="AI_DPTank_SandDevil_Bleed_Axe_Tooltip" rel_version="Territory_Brimstone_Sands">{[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.TickRate]} Sekunden physischer Schaden in Höhe von {[Type_StatusEffectData.AI_DPTank_SandDevil_Bleed_Axe.HealthModifierPercent * -100]} % des Gesundheitsgrundwerts durch Blutung.</string>
+	<string key="AI_DPTank_Fortify_Limited_DisplayName" rel_version="Territory_Brimstone_Sands">Verstärkung</string>
+	<string key="AI_DPTank_Fortify_Limited_Tooltip" rel_version="Territory_Brimstone_Sands">{[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Fortify_Limited.BaseDuration * 100]} Sekunden lang erhöhte Schadensabsorption gegen bestimmte Typen.</string>
+	<string key="AI_DPTank_Empower_Unlimited_DisplayName" rel_version="Territory_Brimstone_Sands">Ermächtigung</string>
+	<string key="AI_DPTank_Empower_Unlimited_Tooltip" rel_version="Territory_Brimstone_Sands">{[Type_StatusEffectData.Type_StatusEffectData.AI_DPTank_Empower_Unlimited.BaseDuration * 100]} Sekunden lang erhöhter Schaden bestimmter Typen.</string>
+	<string key="AI_SandElementalHeavy_AoESlow_T2_DisplayName" rel_version="Territory_Brimstone_Sands">Gefangen</string>
+	<string key="AI_SandElementalHeavy_AoESlow_T2_Tooltip" rel_version="Territory_Brimstone_Sands">Bewegungstempo wird {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T2.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="AI_SandElementalHeavy_AoESlow_T3_DisplayName" rel_version="Territory_Brimstone_Sands">Gefangen</string>
+	<string key="AI_SandElementalHeavy_AoESlow_T3_Tooltip" rel_version="Territory_Brimstone_Sands">Bewegungstempo wird {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T3.BaseDuration]} Sekunden lang um {[Type_StatusEffectData.AI_SandElementalHeavy_AoESlow_T3.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="AI_SandElementalHeavy_Exhaust_T2_DisplayName" rel_version="Territory_Brimstone_Sands">Erschöpft</string>
+	<string key="AI_SandElementalHeavy_Exhaust_T2_ToolTip" rel_version="Territory_Brimstone_Sands">Ausdauerregeneration wird um {[Type_StatusEffectData.AI_SandElementalHeavy_Exhaust_T2.StaminaRate * -100]} % verringert.</string>
+	<string key="AI_SandElemental_Soldier_Vengeance_Rend_DisplayName" rel_version="Territory_Brimstone_Sands">Aufgerissen</string>
+	<string key="AI_SandElemental_Soldier_Vengeance_Rend_Tooltip" rel_version="Territory_Brimstone_Sands">Du erleidest {[Type_StatusEffectData.AI_SandElemental_Soldier_Vengeance_Rend.BaseDuration]} Sekunden lang {[Type_StatusEffectData.AI_SandElemental_Soldier_Vengeance_Rend.ABSStandard * -100]} % mehr Schaden von allen Schadensquellen.</string>
 	<string key="AI_AdmiralBrute_Blackpowder_DisplayName" rel_version="Expedition_CutlassKeys_00">Schwarzpulver</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Tooltip" rel_version="Expedition_CutlassKeys_00">Du bist mit Schwarzpulver überzogen. Wenn du durch einen Gegner Feuerschaden erleidest, entzündet sich das Pulver und verursacht eine Verbrennung!</string>
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_DisplayName" rel_version="Expedition_CutlassKeys_00">Schwarzpulverbrand</string>
@@ -1030,7 +1058,7 @@
 	<string key="status_hpregen400_Tooltip">Wenn du dich ausruhst, erhöht sich deine Gesundheits- und Manaregenerationsrate massiv.</string>
 	<string key="GA_WarCry_DisplayName">Kriegsschrei</string>
 	<string key="GA_WarCry_Description">Erhöht den Schaden für 20 Sekunden um 15 %.</string>
-	<string key="Sword_LastStand_DisplayName">Trotzhaltung</string>
+	<string key="Sword_LastStand_DisplayName">Entschlossenheit des Verteidigers</string>
 	<string key="Sword_LastStand_Description">Verringert den erlittenen Schaden für 10 Sekunden um bis zu 80 %.</string>
 	<string key="Sword_LastStand5_Description">Verringert den erlittenen Schaden für 15 Sekunden um bis zu 80 %.</string>
 	<string key="Sword_ShieldBash_DisplayName">Schildschmetterer</string>
@@ -1154,7 +1182,7 @@
 	<string key="Cleanse_DisplayName">Läuterung</string>
 	<string key="Cleanse_Tooltip">Entfernt und bietet Immunität gegen Schwächungen.</string>
 	<string key="HasteElixir_DisplayName">Elixier der Hast</string>
-	<string key="HasteElixir_Tooltip">Erhöht die Sprintgeschwindigkeit um 100 %. Endet, wenn du getroffen wirst oder eine beliebige Kampfaktion ausführst.</string>
+	<string key="HasteElixir_Tooltip">Erhöht die Sprintgeschwindigkeit um {[Type_StatusEffectData.PotionHaste.SprintSpeedMod * 100]} %. Endet, wenn du getroffen wirst oder eine beliebige Kampfaktion ausführst.</string>
 	<string key="WeaponCoatingEffect_DisplayName">Waffenbeschichtung</string>
 	<string key="WeaponCoatingEffect_Description">Waffenbeschichtungsstatus deiner aktiven Waffe.</string>
 	<string key="WeaponCoatingEffect_T2_Beasts_DisplayName">Gewöhnliche Bestien-Waffenbeschichtung</string>
@@ -1343,7 +1371,6 @@
 	<string key="WarHammer_CrowdCrusher_ArmorNearbyEnemy_description">Du erhältst Schadensresistenz, weil du umzingelt bist.</string>
 	<string key="Musket_Trap_Root_DisplayName">Gefangen</string>
 	<string key="Musket_Trap_Root_Description">Bewegungsunfähig für {[Type_StatusEffectData.Musket_Trap_Root.BaseDuration]} Sekunden.</string>
-	<string key="Musket_Trap_Root_DMG_Description">{[Type_StatusEffectData.Musket_Trap_Root.BaseDuration]} Sekunden lang bewegungsunfähig und du erleidest 20 % erhöhten Schaden.</string>
 	<string key="Musket_Sticky_Slow_DisplayName">Klebrige Langsamkeit</string>
 	<string key="Musket_Sticky_Slow_Description">Dein Bewegungstempo wird um {[Type_StatusEffectData.Musket_Sticky_Slow.MoveSpeedMod * -100]} % verringert.</string>
 	<string key="Status_PowerShot_Empower_Description">Für {[Type_StatusEffectData.Musket_PowerShot_Empower.BaseDuration]} Sekunden {[Type_StatusEffectData.Musket_PowerShot_Empower.DMGStandard * 100]} % mehr Schaden.</string>
@@ -1453,7 +1480,16 @@
 	<string key="Dungeon_CursedTreasure_Description" rel_version="Expedition_CutlassKeys_00">Verfluchter Schatz verringert dein Bewegungstempo und du erleidest regelmäßig Schaden.</string>
 	<string key="Dungeon_SirenOffering_DisplayName" rel_version="Expedition_CutlassKeys_00">Nereides Opfergabe</string>
 	<string key="Dungeon_SirenOffering_Description" rel_version="Expedition_CutlassKeys_00">Entbiete diese Opfergabe einer der nahegelegenen leeren Quellen.</string>
+	<string key="AI_AnubianGuardian_BruteBoss_DivineAnguish_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Göttliche Ahnenwächter-Qual</string>
+	<string key="AI_AnubianGuardian_BruteBoss_DivineRage_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Göttlicher Ahnenwächter-Zorn</string>
+	<string key="AI_AnubianGuardian_HorusBoss_DivineAnguish_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Göttliche Ahnenwächter-Qual</string>
+	<string key="AI_AnubianGuardian_HorusBoss_DivineRage_DamageBuff_DisplayName" rel_version="Territory_Brimstone_Sands">Göttlicher Ahnenwächter-Zorn</string>
+	<string key="AI_Anubian_Sunspots_Burn_DisplayName" rel_version="Territory_Brimstone_Sands">Sonnenbrand der Ahnen</string>
+	<string key="AI_Anubian_Sunspots_Burn_Description" rel_version="Territory_Brimstone_Sands">Fügt alle {[Type_StatusEffectData.AI_Anubian_Sunspots_Burn.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.AI_Anubian_Sunspots_Burn.HealthModifierPercent * -100]} % des Basisschadens zu.</string>
+	<string key="AI_Anubian_Burn_9_DisplayName" rel_version="Territory_Brimstone_Sands">Sonnenbrand der Ahnen</string>
+	<string key="AI_Anubian_Burn_9_Tooltip" rel_version="Territory_Brimstone_Sands">Fügt alle {[Type_StatusEffectData.AI_Anubian_Burn_9.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.AI_Anubian_Burn_9.HealthModifierDamageBased * -100]} % des Basisschadens zu.</string>
 	<string key="Immune_To_Damage">Immun</string>
+	<string key="HealthMin_Immortal_Damage">Unsterblich</string>
 	<string key="TauntAI_DisplayName">Provoziert</string>
 	<string key="Block_Broken_DisplayName">Zerbrochenes Blocken</string>
 	<string key="Block_Broken_Description">Du kannst nicht blocken, ausweichen oder rennen.</string>
@@ -1461,6 +1497,8 @@
 	<string key="Musket_DodgeReload_Description">Nach Ablauf des Timers kannst du "Taktisches Nachladen" erneut einsetzen.</string>
 	<string key="MeteorShowerDamage_DisplayName">Meteoritenschauer</string>
 	<string key="MeteorShowerDamage_Description">Du erleidest regelmäßigen Schaden durch einen "Meteoritenschauer".</string>
+	<string key="Doomfist_Exhaust_T5_Description" rel_version="Territory_Brimstone_Sands">Ausdauerregeneration wird für {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.BaseDuration]} Sekunden um {[Type_StatusEffectData.CorruptedLegion_Cyclops_ExhaustT5_Doomfist.StaminaRate * -100]} % verringert.</string>
+	<string key="CorruptedLegion_Cyclops_Rend_BloodShot_Tooltip" rel_version="Territory_Brimstone_Sands">Du erleidest {[Type_StatusEffectData.CorruptedLegion_Cyclops_Rend_BloodShot.BaseDuration]} Sekunden lang {[Type_StatusEffectData.CorruptedLegion_Cyclops_Rend_BloodShot.ABSStandard * -100]} % mehr Schaden von allen Schadensquellen und wirst markiert.</string>
 	<string key="ArcticBreath_Tooltip" rel_version="Event_WinterConvergence_Perm">Du erleidest {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.TickRate]} Sekunden Schaden in Höhe von {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.HealthModifierPercent * -100]} % und wirst um {[Type_StatusEffectData.Yeti_Arctic_Breath_Slow_6sec.MoveSpeedMod * -100]} % verlangsamt.</string>
 	<string key="ArcticBreath_DisplayName" rel_version="Event_WinterConvergence_Perm">Arktisodem</string>
 	<string key="Status_Timer_FireAttunement_Description" rel_version="Feature_Dungeon_Mutators">Sobald dies endet, kannst du den Effekt Flammeneinstimmung erneut auslösen.</string>
@@ -1535,54 +1573,54 @@
 	<string key="Status_CleanseBuffs_Crits_Timer_Description" rel_version="PvP_Rewards_Track">Sobald dies endet, kannst du den Effekt "Kritische Läuterung" erneut auslösen.</string>
 	<string key="Status_EmpowerTilDeath" rel_version="PvP_Rewards_Track">Sterbliche Ermächtigung</string>
 	<string key="Status_EmpowerTilDeath_Description" rel_version="PvP_Rewards_Track">Schaden wird um {[Type_StatusEffectData.Status_PvP_Perk_OnKill_EmpowerTilDeath.DMGStandard * 100]} % je Stapel "Sterbliche Ermächtigung" erhöht.</string>
-	<string key="MusicBuff_PlayerEncumbrance_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Lied im Schritt IV</string>
-	<string key="MusicBuff_PlayerEncumbrance_Amazing_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T4_Amazing.Encumbrance / 10]} %.</string>
-	<string key="MusicBuff_PlayerEncumbrance_Great_DisplayName" rel_version="Feature_MusicalPerformances">Lied im Schritt III</string>
-	<string key="MusicBuff_PlayerEncumbrance_Great_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T3_Great.Encumbrance / 10]} %.</string>
-	<string key="MusicBuff_PlayerEncumbrance_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Lied im Schritt II</string>
-	<string key="MusicBuff_PlayerEncumbrance_Okay_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T2_Okay.Encumbrance / 10]} %.</string>
-	<string key="MusicBuff_PlayerEncumbrance_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Lied im Schritt I</string>
-	<string key="MusicBuff_PlayerEncumbrance_Bad_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T1_Bad.BaseDuration]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T1_Bad.Encumbrance / 10]} %.</string>
+	<string key="MusicBuff_PlayerEncumbrance_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Ein Lied auf den Lippen IV</string>
+	<string key="MusicBuff_PlayerEncumbrance_Amazing_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit wird um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T4_Amazing.Encumbrance / 10]} für {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T4_Amazing.BaseDuration / 60]} Minuten erhöht.</string>
+	<string key="MusicBuff_PlayerEncumbrance_Great_DisplayName" rel_version="Feature_MusicalPerformances">Ein Lied auf den Lippen III</string>
+	<string key="MusicBuff_PlayerEncumbrance_Great_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit wird um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T3_Great.Encumbrance / 10]} für {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T3_Great.BaseDuration / 60]} Minuten erhöht.</string>
+	<string key="MusicBuff_PlayerEncumbrance_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Ein Lied auf den Lippen II</string>
+	<string key="MusicBuff_PlayerEncumbrance_Okay_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit wird um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T2_Okay.Encumbrance / 10]} für {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T2_Okay.BaseDuration / 60]} Minuten erhöht.</string>
+	<string key="MusicBuff_PlayerEncumbrance_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Ein Lied auf den Lippen I</string>
+	<string key="MusicBuff_PlayerEncumbrance_Bad_Description" rel_version="Feature_MusicalPerformances">Maximale Belastbarkeit wird um {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T1_Bad.Encumbrance / 10]} für {[Type_StatusEffectData.MusicBuff_PlayerEncumbrance_T1_Bad.BaseDuration]} Sekunden erhöht.</string>
 	<string key="MusicBuff_GatheringYield_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd IV</string>
-	<string key="MusicBuff_GatheringYield_Amazing_Description" rel_version="Feature_MusicalPerformances">Sammelertrag steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringYield_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringYield_T4_Amazing.MULTLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringYield_Amazing_Description" rel_version="Feature_MusicalPerformances">Sammelertrag erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringYield_T4_Amazing.MULTLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringYield_T4_Amazing.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringYield_Great_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd III</string>
-	<string key="MusicBuff_GatheringYield_Great_Description" rel_version="Feature_MusicalPerformances">Sammelertrag steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringYield_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringYield_T3_Great.MULTLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringYield_Great_Description" rel_version="Feature_MusicalPerformances">Sammelertrag erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringYield_T3_Great.MULTLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringYield_T3_Great.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringYield_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd II</string>
-	<string key="MusicBuff_GatheringYield_Okay_Description" rel_version="Feature_MusicalPerformances">Sammelertrag steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringYield_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringYield_T2_Okay.MULTLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringYield_Okay_Description" rel_version="Feature_MusicalPerformances">Sammelertrag erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringYield_T2_Okay.MULTLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringYield_T2_Okay.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringYield_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd I</string>
-	<string key="MusicBuff_GatheringYield_Bad_Description" rel_version="Feature_MusicalPerformances">Sammelertrag steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringYield_T1_Bad.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringYield_T1 _Bad.MULTLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringYield_Bad_Description" rel_version="Feature_MusicalPerformances">Sammelertrag erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringYield_T1_Bad.MULTLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringYield_T1_Bad.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringSpeed_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Flinke Finger IV</string>
-	<string key="MusicBuff_GatheringSpeed_Amazing_Description" rel_version="Feature_MusicalPerformances">Basis-Sammelgeschwindigkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T4_Amazing.EFFLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringSpeed_Amazing_Description" rel_version="Feature_MusicalPerformances">Sammelgeschwindigkeits-Grundwert erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T4_Amazing.EFFLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T4_Amazing.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringSpeed_Great_DisplayName" rel_version="Feature_MusicalPerformances">Flinke Finger III</string>
-	<string key="MusicBuff_GatheringSpeed_Great_Description" rel_version="Feature_MusicalPerformances">Basis-Sammelgeschwindigkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T3_Great.EFFLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringSpeed_Great_Description" rel_version="Feature_MusicalPerformances">Sammelgeschwindigkeits-Grundwert erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T3_Great.EFFLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T3_Great.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringSpeed_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Flinke Finger II</string>
-	<string key="MusicBuff_GatheringSpeed_Okay_Description" rel_version="Feature_MusicalPerformances">Basis-Sammelgeschwindigkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T2_Okay.EFFLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringSpeed_Okay_Description" rel_version="Feature_MusicalPerformances">Sammelgeschwindigkeits-Grundwert erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T2_Okay.EFFLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T2_Okay.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringSpeed_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Flinke Finger I</string>
-	<string key="MusicBuff_GatheringSpeed_Bad_Description" rel_version="Feature_MusicalPerformances">Basis-Sammelgeschwindigkeit steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T1_Bad.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T1_Bad.EFFLogging * 100]} %.</string>
+	<string key="MusicBuff_GatheringSpeed_Bad_Description" rel_version="Feature_MusicalPerformances">Sammelgeschwindigkeits-Grundwert erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T1_Bad.EFFLogging * 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringSpeed_T1_Bad.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringLuck_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd IV</string>
-	<string key="MusicBuff_GatheringLuck_Amazing_Description" rel_version="Feature_MusicalPerformances">Sammlerglück steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringLuck_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T4_Amazing.ROLLogging / 100]} %.</string>
+	<string key="MusicBuff_GatheringLuck_Amazing_Description" rel_version="Feature_MusicalPerformances">Sammlerglück erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T4_Amazing.ROLLogging / 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringLuck_T4_Amazing.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringLuck_Great_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd III</string>
-	<string key="MusicBuff_GatheringLuck_Great_Description" rel_version="Feature_MusicalPerformances">Sammlerglück steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringLuck_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T3_Great.ROLLogging / 100]} %.</string>
+	<string key="MusicBuff_GatheringLuck_Great_Description" rel_version="Feature_MusicalPerformances">Sammlerglück erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T3_Great.ROLLogging / 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringLuck_T3_Great.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringLuck_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd II</string>
-	<string key="MusicBuff_GatheringLuck_Okay_Description" rel_version="Feature_MusicalPerformances">Sammlerglück steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringLuck_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T2_Okay.ROLLogging / 100]} %.</string>
+	<string key="MusicBuff_GatheringLuck_Okay_Description" rel_version="Feature_MusicalPerformances">Sammlerglück erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T2_Okay.ROLLogging / 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringLuck_T2_Okay.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GatheringLuck_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Glücksjagd I</string>
-	<string key="MusicBuff_GatheringLuck_Bad_Description" rel_version="Feature_MusicalPerformances">Sammlerglück steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GatheringLuck_T1_Bad.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T1_Bad.ROLLogging / 100]} %.</string>
+	<string key="MusicBuff_GatheringLuck_Bad_Description" rel_version="Feature_MusicalPerformances">Sammlerglück erhöht sich um {[Type_StatusEffectData.MusicBuff_GatheringLuck_T1_Bad.ROLLogging / 100]} % für {[Type_StatusEffectData.MusicBuff_GatheringLuck_T1_Bad.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GroupXPSharing_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Jetzt alle zusammen IV</string>
-	<string key="MusicBuff_GroupXPSharing_Amazing_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T4_Amazing.XPIncreasesTooltip * 100]} %.</string>
+	<string key="MusicBuff_GroupXPSharing_Amazing_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T4_Amazing.XPIncreasesTooltip * 100]} % für {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T4_Amazing.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GroupXPSharing_Great_DisplayName" rel_version="Feature_MusicalPerformances">Jetzt alle zusammen III</string>
-	<string key="MusicBuff_GroupXPSharing_Great_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T3_Great.XPIncreasesTooltip * 100]} %.</string>
+	<string key="MusicBuff_GroupXPSharing_Great_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T3_Great.XPIncreasesTooltip * 100]} % für {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T3_Great.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GroupXPSharing_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Jetzt alle zusammen II</string>
-	<string key="MusicBuff_GroupXPSharing_Okay_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T2_Okay.XPIncreasesTooltip * 100]} %.</string>
+	<string key="MusicBuff_GroupXPSharing_Okay_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T2_Okay.XPIncreasesTooltip * 100]} % für {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T2_Okay.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_GroupXPSharing_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Jetzt alle zusammen I</string>
-	<string key="MusicBuff_GroupXPSharing_Bad_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T1_Bad.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T1_Bad.XPIncreasesTooltip * 100]} %.</string>
+	<string key="MusicBuff_GroupXPSharing_Bad_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-EP-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T1_Bad.XPIncreasesTooltip * 100]} % für {[Type_StatusEffectData.MusicBuff_GroupXPSharing_T1_Bad.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_TerritoryStanding_Amazing_DisplayName" rel_version="Feature_MusicalPerformances">Gebietstriumph IV</string>
-	<string key="MusicBuff_TerritoryStanding_Amazing_Description" rel_version="Feature_MusicalPerformances">Gebietsruf-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T4_Amazing.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T4_Amazing.TerritoryStandingMod * 100]} %.</string>
+	<string key="MusicBuff_TerritoryStanding_Amazing_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-Gebietsruf-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T4_Amazing.TerritoryStandingMod * 100]} % für {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T4_Amazing.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_TerritoryStanding_Great_DisplayName" rel_version="Feature_MusicalPerformances">Gebietstriumph III</string>
-	<string key="MusicBuff_TerritoryStanding_Great_Description" rel_version="Feature_MusicalPerformances">Gebietsruf-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T3_Great.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T3_Great.TerritoryStandingMod * 100]} %.</string>
+	<string key="MusicBuff_TerritoryStanding_Great_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-Gebietsruf-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T3_Great.TerritoryStandingMod * 100]} % für {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T3_Great.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_TerritoryStanding_Okay_DisplayName" rel_version="Feature_MusicalPerformances">Gebietstriumph II</string>
-	<string key="MusicBuff_TerritoryStanding_Okay_Description" rel_version="Feature_MusicalPerformances">Gebietsruf-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.TerritoryStandingMod * 100]} %.</string>
+	<string key="MusicBuff_TerritoryStanding_Okay_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-Gebietsruf-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.TerritoryStandingMod * 100]} % für {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T2_Okay.BaseDuration / 60]} Minuten.</string>
 	<string key="MusicBuff_TerritoryStanding_Bad_DisplayName" rel_version="Feature_MusicalPerformances">Gebietstriumph I</string>
-	<string key="MusicBuff_TerritoryStanding_Bad_Description" rel_version="Feature_MusicalPerformances">Gebietsruf-Zugewinn steigt im Abstand von bis zu {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.BaseDuration / 60]} m zu einer Musikvorführung um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.TerritoryStandingMod * 100]} %.</string>
+	<string key="MusicBuff_TerritoryStanding_Bad_Description" rel_version="Feature_MusicalPerformances">Gruppenbeitrags-Gebietsruf-Zugewinn steigt um {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.TerritoryStandingMod * 100]} % für {[Type_StatusEffectData.MusicBuff_TerritoryStanding_T1_Bad.BaseDuration / 60]} Minuten.</string>
 	<string key="PvPArena_GrandPotionRegen_DisplayName">Erstklassige Gesundheitsregeneration</string>
 	<string key="PvPArena_GrandPotionRegen_Tooltip">Stellt kontinuierlich eine erhebliche Menge Gesundheit und Mana her.</string>
 	<string key="PvPArena_GrandPotionFocus_DisplayName">Erstklassige Manaregeneration</string>
@@ -1606,9 +1644,25 @@
 	<string key="PvPArena_FoodFOCT3_Tooltip">Erhöht Konzentration um 20 Attributspunkte. Dieser Effekt endet, wenn du die Arena verlässt.</string>
 	<string key="PvPArena_FoodFOCT4_Tooltip">Erhöht Konzentration um 30 Attributspunkte. Dieser Effekt endet, wenn du die Arena verlässt.</string>
 	<string key="PvPArena_FoodFOCT5_Tooltip">Erhöht Konzentration um 40 Attributspunkte. Dieser Effekt endet, wenn du die Arena verlässt.</string>
-	<string key="Status_Beacon_Description">Erhöht die kritische Trefferchance um {[Type_StatusEffectData.Status_Perk_LifeStaff_Beacon_HealMod.CritChanceModifier * 100 * {perkMultiplier}]} %.</string>
+	<string key="Status_Beacon_Description">Erhöht die kritische Trefferchance</string>
 	<string key="Status_Beacon_Name">Wild</string>
 	<string key="StatusTestCrafting_DisplayName">Test-Herstellung</string>
-	<string key="StatusTestCrafting_Description">Test-Buff, der das Herstellen von Kleidung, Ohrringen, Lifestyle-Boni, Trophäen und Essen simuliert</string>
+	<string key="Status_Rune_StoneForm">Steinform</string>
+	<string key="Status_Rune_StoneForm_Desc">Immun gegen jegliche Massenkontrolle</string>
+	<string key="Status_Rune_StoneForm_Major_Desc">Immun gegen jegliche Massenkontrolle und Schadensabsorption wird erhöht um {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]} %.</string>
+	<string key="Status_Rune_StoneForm_Survivor_Desc">Immun gegen jegliche Massenkontrolle und heilt {[Type_StatusEffectData.Rune_StoneForm_Survivor.HealthModifierDamageBased * 100]} % des Runenschadens pro Sekunde.</string>
+	<string key="Status_Rune_StoneForm_Greater_Desc">Erhöht die Schadensabsorption um {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]} %.</string>
+	<string key="Status_Rune_CannonBlast_Major_Desc">Brennt für {[Type_StatusEffectData.Rune_CannonBlast_Burn.HealthModifierDamageBased * -100]} % Runenschaden pro Sekunde.</string>
+	<string key="Status_Rune_Detonate">Explodieren</string>
+	<string key="Status_Rune_Detonate_Desc">Lade dich für {[Type_StatusEffectData.Rune_Detonate.BaseDuration]} Sekunden auf und sprenge dich dann, um verheerenden Runenschaden in einem Radius von {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m anzurichten.</string>
+	<string key="Status_Rune_Detonate_Major_Desc">Lade dich für {[Type_StatusEffectData.Rune_Detonate_Major.BaseDuration]} Sekunden auf, erhalte {[Type_StatusEffectData.Rune_Detonate_Major.MoveSpeedMod * 100]} % Bewegungstempo und sprenge dich dann, um verheerenden Runenschaden in einem Radius von {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m anzurichten.</string>
+	<string key="Status_Rune_Detonate_Greater_Desc">Lade dich für {[Type_StatusEffectData.Rune_Detonate_Greater.BaseDuration]} Sekunden auf, erhalte {[Type_StatusEffectData.Rune_Detonate_Greater.MoveSpeedMod * 100]} % Bewegungstempo und {[Type_StatusEffectData.Rune_Detonate_Greater.DMGStandard * 100]} % erhöhten Schaden und sprenge dich dann, um verringerten Schaden in einem Radius von {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m anzurichten.</string>
+	<string key="Status_Rune_Detonate_Dominator_Desc">Lade dich für {[Type_StatusEffectData.Rune_Detonate_Greater.BaseDuration]} Sekunden auf, erhalte {[Type_StatusEffectData.Rune_Detonate_Greater.MoveSpeedMod * 100]} % Bewegungstempo, aber erleide {[Type_StatusEffectData.Rune_Detonate_Dominator.ABSStandard * -100]} % mehr Schaden und sprenge dich dann, um gewaltigen Runenschaden in einem Radius von {[SpellDataTable_Runes.Rune_Detonate_AoE.Radius]} m anzurichten.</string>
+	<string key="Status_Rune_GraspingVines_Major_Desc">Ausgeteilter Schaden um {[Type_StatusEffectData.Rune_GraspingVines_Major.DMGStandard * -100]} % verringert.</string>
+	<string key="Status_Rune_GraspingVines_Survivor_Desc">Schadensabsorption um {[Type_StatusEffectData.Rune_GraspingVines_Survivor.ABSStandard * 100]} % erhöht.</string>
+	<string key="Status_Rune_GraspingVines_Dominator_Rend_Desc">Schadensabsorption um {[Type_StatusEffectData.Rune_GraspingVines_Dominator_Rend.ABSStandard * -100]} % verringert.</string>
+	<string key="Status_Rune_GraspingVines_Dominator_ReducedStamRegen_Desc">Ausdauerregeneration um {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.StaminaRate * -100]} % verringert.</string>
+	<string key="Status_Rune_HereticsFall_Greater_Desc">Bewegungstempo um {[Type_StatusEffectData.Rune_HereticsFall_Greater.MoveSpeedMod * -100]} % verringert.</string>
+	<string key="Status_Rune_HereticsFall_Survivor_Desc">Schadensabsorption um {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]} % erhöht, aber ausgehender Schaden ist um {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]} % verringert.</string>
 </resources>
 

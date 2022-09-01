@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Des disciples éclairés qui luttent de façon rusée pour le bien de la vérité et du progrès</string>
 	<string key="ui_faction_desc2">De fiers guerriers qui combattent avec honneur pour la gloire et le développement personnel</string>
 	<string key="ui_faction_desc3">Des champions divins qui luttent avec conviction pour la droiture et la justice</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Aucune</string>
 	<string key="ui_faction_name1">Ombre</string>
 	<string key="ui_faction_name2">Maraudeurs</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Depuis un atelier de menuiserie, obtenir et apporter &lt;font color="#eaeaea"&gt;{itemAmount} x {itemName}&lt;/font&gt;</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Depuis un poste d'équipement, obtenir et apporter : &lt;font color="#eaeaea"&gt;{itemName} x {itemAmount}&lt;/font&gt;.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Depuis un atelier, obtenir et apporter &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Tailleurs de pierre festifs requis</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Charpentiers festifs requis</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Tisseurs festifs requis</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Forgerons festifs requis</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Cueilleurs festifs requis</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Cuisiniers festifs requis</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Alchimistes festifs requis</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Matériel festif requis</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Bûcherons festifs requis</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Chasseurs festifs requis</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Tanneurs festifs requis</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Depuis une table de tailleur de pierre, obtenir et apporter : &lt;font color="#eaeaea"&gt;{itemAmount} x {itemName}&lt;/font&gt;</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Depuis un atelier de menuiserie, obtenir et apporter &lt;font color="#eaeaea"&gt;{itemAmount} x {itemName}&lt;/font&gt;</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Depuis un poste d'équipement, obtenir et apporter : &lt;font color="#eaeaea"&gt;{itemName} x {itemAmount}&lt;/font&gt;.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Depuis un atelier, obtenir et apporter &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Recherche : peintres du festival</string>
 </resources>
 

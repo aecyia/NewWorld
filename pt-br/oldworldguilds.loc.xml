@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Discípulos espertos que lutam com Astúcia pelo bem da Verdade e do Progresso</string>
 	<string key="ui_faction_desc2">Guerreiros orgulhosos que lutam com Honra pela Glória e aprimoramento próprio</string>
 	<string key="ui_faction_desc3">Campeões divinos que lutam com Convicção pela Retidão e Justiça</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Nenhuma</string>
 	<string key="ui_faction_name1">Sindicato</string>
 	<string key="ui_faction_name2">Saqueadores</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Canteiros Festivos</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Carpinteiros Festivos</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Tecelões Festivos</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Ferreiros Festivos</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Colhedores Festivos</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Cozinheiros Festivos</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Alquimistas Festivos</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Suprimentos Festivos</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Lenhadores Festivos</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Caçadores Festivos</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Curtidores Festivos</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Mesa de Cantaria.</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Precisa-se de Pintores Festivos</string>
 </resources>
 

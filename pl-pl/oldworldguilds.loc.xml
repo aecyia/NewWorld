@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Sprytni badacze, używający swego intelektu do walki o wiedzę i postęp</string>
 	<string key="ui_faction_desc2">Dumni, nieustannie samodoskonalący się wojownicy, walczący z honorem o chwałę</string>
 	<string key="ui_faction_desc3">Uduchowieni czempioni, żarliwie walczący o prawość i sprawiedliwość</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Brak</string>
 	<string key="ui_faction_name1">Syndykat</string>
 	<string key="ui_faction_name2">Maruderzy</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stolarni.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; z warsztatu.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni kamieniarze</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni cieśle</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni tkacze</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni hutnicy</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni żniwiarze</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni kucharze</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni alchemicy</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Potrzebne świąteczne zapasy</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni drwale</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni łowcy</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Potrzebni świąteczni garbarze</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stołu kamieniarskiego.</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stolarni.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; z warsztatu.</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Potrzebni festiwalowi malarze</string>
 </resources>
 

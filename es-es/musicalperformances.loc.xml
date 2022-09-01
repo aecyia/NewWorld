@@ -1,0 +1,200 @@
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="ui_musical_performances_equip_music_sheet" rel_version="Feature_MusicalPerformances">Equipar partitura</string>
+	<string key="ui_musical_performances_start_performance" rel_version="Feature_MusicalPerformances">Empezar actuación</string>
+	<string key="ui_musical_performances_song_selection" rel_version="Feature_MusicalPerformances">Selección de canción</string>
+	<string key="ui_musical_performances_exit_performance" rel_version="Feature_MusicalPerformances">Salir de la actuación</string>
+	<string key="ui_musical_performances_equip_instrument" rel_version="Feature_MusicalPerformances">Equipar instrumento</string>
+	<string key="ui_musical_performances_group_performance" rel_version="Feature_MusicalPerformances">Actuación grupal</string>
+	<string key="ui_musical_performances_select_instrument" rel_version="Feature_MusicalPerformances">Seleccionar instrumento</string>
+	<string key="ui_musical_performances_quit_performance_title" rel_version="Feature_MusicalPerformances">Finalizar actuación</string>
+	<string key="ui_musical_performances_quit_performance_text" rel_version="Feature_MusicalPerformances">¿Seguro?</string>
+	<string key="ui_musical_performances_cant_start" rel_version="Feature_MusicalPerformances">Todavía no se puede iniciar la actuación. Inténtalo de nuevo más tarde.</string>
+	<string key="ui_musical_performances_failed_create_performance" rel_version="Feature_MusicalPerformances">No has podido crear la actuación.</string>
+	<string key="ui_musical_performances_selected_performance" rel_version="Feature_MusicalPerformances">Actuación seleccionada</string>
+	<string key="ui_musical_performances_selected_reward" rel_version="Feature_MusicalPerformances">Recompensa seleccionada</string>
+	<string key="ui_musical_performances_group_instructions" rel_version="Feature_MusicalPerformances">Selecciona una partitura para unirte y espera a que el líder inicie la actuación.</string>
+	<string key="ui_musical_performances_incooldown" rel_version="Feature_MusicalPerformances">No puedes colocar otra zona de actuación durante {time}.</string>
+	<string key="ui_musical_performances_recently_selected_sheet" rel_version="Feature_MusicalPerformances">Debes esperar 2 segundos antes de elegir un nuevo instrumento.</string>
+	<string key="ui_musical_performances_restrictedarea" rel_version="Feature_MusicalPerformances">Estás demasiado cerca de otra zona de actuación.</string>
+	<string key="ui_musical_performances_instrument_required_to_create" rel_version="Feature_MusicalPerformances">Debes llevar equipado un instrumento para actuar.</string>
+	<string key="ui_musical_performances_instrument_broken" rel_version="Feature_MusicalPerformances">El instrumento equipado está roto.</string>
+	<string key="ui_musical_performances_instrument_not_equipped" rel_version="Feature_MusicalPerformances">No hay ningún instrumento equipado.</string>
+	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Debes seleccionar al menos 2 partes para actuar.</string>
+	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Tu actuación ha caducado debido a la inactividad.</string>
+	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">No puedes colocar una actuación aquí: demasiado cerca de una zona restringida.</string>
+	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">No has seleccionado ninguna parte.</string>
+	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">Partitura de {instrument}</string>
+	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Recoge las páginas para completar la partitura de cada instrumento.</string>
+	<string key="ui_musical_performances_tooltip_pages_found" rel_version="Feature_MusicalPerformances">Mis páginas encontradas:</string>
+	<string key="ui_musical_performances_tooltip_owned" rel_version="Feature_MusicalPerformances">En propiedad</string>
+	<string key="ui_musical_performances_perk_applied" rel_version="Feature_MusicalPerformances">Ventaja: {perkName} {count}</string>
+	<string key="ui_musical_performances_timeout_title" rel_version="Feature_MusicalPerformances">Tiempo de espera de la actuación musical</string>
+	<string key="ui_musical_performances_message_performer_selected_sheet" rel_version="Feature_MusicalPerformances">{performer} ha elegido {sheet}</string>
+	<string key="ui_musical_performances_message_performer_added" rel_version="Feature_MusicalPerformances">{performer} se ha añadido a la actuación</string>
+	<string key="ui_musical_performances_music_rank" rel_version="Feature_MusicalPerformances">Rango musical</string>
+	<string key="ui_musical_performances_performance" rel_version="Feature_MusicalPerformances">Actuación</string>
+	<string key="ui_musical_performances_instrument" rel_version="Feature_MusicalPerformances">Instrumento: {instrument}</string>
+	<string key="ui_musical_performances_rank_description" rel_version="Feature_MusicalPerformances">Nivel {currentRank} / {maxRank}</string>
+	<string key="ui_musical_performances_xp_to_next_level" rel_version="Feature_MusicalPerformances">{xpToNextLevel} para el nivel {nextRank}</string>
+	<string key="ui_musical_performances_duration" rel_version="Feature_MusicalPerformances">Duración: {duration}</string>
+	<string key="ui_musical_performances_easy" rel_version="Feature_MusicalPerformances">Actuaciones principiantes</string>
+	<string key="ui_musical_performances_medium" rel_version="Feature_MusicalPerformances">Actuaciones avanzadas</string>
+	<string key="ui_musical_performances_hard" rel_version="Feature_MusicalPerformances">Actuaciones expertas</string>
+	<string key="ui_musical_performances_difficulty_easy" rel_version="Feature_MusicalPerformances">Principiante</string>
+	<string key="ui_musical_performances_difficulty_medium" rel_version="Feature_MusicalPerformances">Avanzado</string>
+	<string key="ui_musical_performances_difficulty_hard" rel_version="Feature_MusicalPerformances">Experto</string>
+	<string key="ui_musical_performances_sheet_select_error" rel_version="Feature_MusicalPerformances">Error al seleccionar la partitura</string>
+	<string key="ui_musical_performances_sheet_select_error_message" rel_version="Feature_MusicalPerformances">No se puede seleccionar la partitura</string>
+	<string key="ui_musical_performances_instrument_select_error_message" rel_version="Feature_MusicalPerformances">Ya se ha seleccionado este instrumento</string>
+	<string key="ui_musical_performances_instrument_not_available_message" rel_version="Feature_MusicalPerformances">Este instrumento no está disponible</string>
+	<string key="ui_musical_performances_sheet_select_warning" rel_version="Feature_MusicalPerformances">Aviso de selección de partitura</string>
+	<string key="ui_musical_performances_sheet_select_warning_message" rel_version="Feature_MusicalPerformances">Se debe seleccionar una partitura</string>
+	<string key="ui_musical_performances_song_warning" rel_version="Feature_MusicalPerformances">Aviso de canción</string>
+	<string key="ui_musical_performances_unavailable_song_warning_message" rel_version="Feature_MusicalPerformances">La canción seleccionada ya no está disponible. Elige otra canción</string>
+	<string key="ui_musical_performances_cantselect_song_warning_message" rel_version="Feature_MusicalPerformances">No se ha podido seleccionar la canción. Elige otra canción</string>
+	<string key="ui_musical_performances_reward_select_error" rel_version="Feature_MusicalPerformances">Error al seleccionar la recompensa</string>
+	<string key="ui_musical_performances_reward_select_error_message" rel_version="Feature_MusicalPerformances">No se puede seleccionar la recompensa</string>
+	<string key="ui_musical_performances_difficulty" rel_version="Feature_MusicalPerformances">dificultad: {difficulty}</string>
+	<string key="ui_musical_performances_reward" rel_version="Feature_MusicalPerformances">recompensa: {reward}</string>
+	<string key="ui_musical_performances_score" rel_version="Feature_MusicalPerformances">puntuación:</string>
+	<string key="ui_musical_performances_max" rel_version="Feature_MusicalPerformances">¡Máxima!</string>
+	<string key="ui_musical_performances_music_rank_label" rel_version="Feature_MusicalPerformances">Rango musical: {rank}</string>
+	<string key="ui_musical_performances_buff_dropdown" rel_version="Feature_MusicalPerformances">Seleccionar potenciador</string>
+	<string key="ui_musical_performances_reward_dropdown" rel_version="Feature_MusicalPerformances">Seleccionar recompensa</string>
+	<string key="ui_musical_performances_difficulty_dropdown" rel_version="Feature_MusicalPerformances">Elige la dificultad</string>
+	<string key="ui_musical_performances_filter_checkbox" rel_version="Feature_MusicalPerformances">Filtro de canciones</string>
+	<string key="ui_musical_performances_filter_checkbox_label" rel_version="Feature_MusicalPerformances">Reproducible</string>
+	<string key="ui_musical_performances_select_song_message" rel_version="Feature_MusicalPerformances">Elige una canción</string>
+	<string key="ui_musical_performances_input_result_perfect" rel_version="Feature_MusicalPerformances">PERFECTO</string>
+	<string key="ui_musical_performances_input_result_great" rel_version="Feature_MusicalPerformances">GENIAL</string>
+	<string key="ui_musical_performances_input_result_missed" rel_version="Feature_MusicalPerformances">FALLO</string>
+	<string key="ui_musical_performances_pending" rel_version="Feature_MusicalPerformances">A LA ESPERA DE LA ACTUACIÓN</string>
+	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">TEMPORIZADOR DE PROPINAS</string>
+	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">ESPERANDO PROPINAS...</string>
+	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Finalizar ahora y recibir propinas</string>
+	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">¡ACTUACIÓN\nCOMPLETADA!</string>
+	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">¡Increíble!</string>
+	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">¡Genial!</string>
+	<string key="ui_musical_performances_score_02" rel_version="Feature_MusicalPerformances">Aceptable</string>
+	<string key="ui_musical_performances_score_03" rel_version="Feature_MusicalPerformances">Mal</string>
+	<string key="ui_musical_performance_invite_text" rel_version="Feature_MusicalPerformances">Invitación de música</string>
+	<string key="ui_musical_performance_invite_popup_title" rel_version="Feature_MusicalPerformances">Invitar a una actuación</string>
+	<string key="ui_musical_performance_invite_popup_message" rel_version="Feature_MusicalPerformances">¡Te han invitado a una actuación musical! ¿Quieres unirte?</string>
+	<string key="ui_musical_performance_invite_action_text" rel_version="Feature_MusicalPerformances">Invitar a {player}</string>
+	<string key="ui_musical_performance_invite_prompt_text" rel_version="Feature_MusicalPerformances">Invitar a actuar</string>
+	<string key="ui_musical_performance_invite_action_alt_text" rel_version="Feature_MusicalPerformances">Invitar a actuar a {player}</string>
+	<string key="ui_musical_performance_invite_group_full" rel_version="Feature_MusicalPerformances">Tu grupo de actuación está lleno.</string>
+	<string key="ui_musical_performance_invite_target_player" rel_version="Feature_MusicalPerformances">Elige un jugador para invitarlo a tu actuación.</string>
+	<string key="ui_musical_performance_invite_not_leader" rel_version="Feature_MusicalPerformances">Tienes que ser el líder de la actuación para invitar a miembros de la banda.</string>
+	<string key="ui_musical_performance_invite_player_not_eligible" rel_version="Feature_MusicalPerformances">Este jugador no es apto.</string>
+	<string key="ui_musical_performance_invite_performance_full" rel_version="Feature_MusicalPerformances">Tu grupo de actuación está lleno.</string>
+	<string key="ui_musical_performance_failmessage_eligibility_failed" rel_version="Feature_MusicalPerformances">Este jugador no es apto.</string>
+	<string key="ui_musical_performance_failmessage_system_error" rel_version="Feature_MusicalPerformances">Se produjo un error desconocido al invitar al jugador.</string>
+	<string key="ui_musical_performance_failmessage_cancelled" rel_version="Feature_MusicalPerformances">Se ha cancelado la invitación.</string>
+	<string key="ui_musical_performance_failmessage_blocked" rel_version="Feature_MusicalPerformances">El jugador está bloqueado.</string>
+	<string key="ui_musical_performance_failmessage_fasttravelchanneling" rel_version="Feature_MusicalPerformances">No puedes invitar a un jugador que esté canalizando el viaje rápido.</string>
+	<string key="ui_musical_performance_failmessage_declined" rel_version="Feature_MusicalPerformances">El jugador ha rechazado tu invitación.</string>
+	<string key="ui_musical_performance_failmessage_throttled" rel_version="Feature_MusicalPerformances">Se ha restringido tu invitación.</string>
+	<string key="ui_musical_performance_invite_sent" rel_version="Feature_MusicalPerformances">Invitación a actuación musical enviada</string>
+	<string key="ui_musical_performance_invite_notification_title">Invitación a actuación musical</string>
+	<string key="ui_musical_performance_invite_notification_text">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; te invita a una actuación musical.\n¿Aceptas?</string>
+	<string key="ui_musical_performance_failmessage_generic">Ahora no puedes tocar música.</string>
+	<string key="ui_musical_performance_failmessage_dead">Has muerto.</string>
+	<string key="ui_musical_performance_failmessage_pendinginvite">Ya tienes una invitación a actuación musical pendiente.</string>
+	<string key="ui_musical_performance_failmessage_event">No puedes tocar música mientras estás en una guerra, en una invasión o en una batalla contra un jefe.</string>
+	<string key="ui_musical_performance_failmessage_level">No puedes tocar música hasta que llegues al nivel {level}.</string>
+	<string key="ui_musical_performance_failmessage_outofrange">Tienes que estar a {distance} metros o menos de distancia para actuar.</string>
+	<string key="ui_musical_performance_failmessage_target_generic">{playerName} no puede recibir ninguna invitación a actuaciones musicales en este momento.</string>
+	<string key="ui_musical_performance_failmessage_target_dead">{playerName} ha muerto.</string>
+	<string key="ui_musical_performance_failmessage_target_pendinginvite">{playerName} tiene una invitación a una actuación musical pendiente.</string>
+	<string key="ui_musical_performance_failmessage_target_event">{playerName} está participando en un evento.</string>
+	<string key="ui_musical_performance_failmessage_target_level">{playerName} no ha llegado al nivel {level}.</string>
+	<string key="ui_musical_performance_failmessage_target_outofrange">{playername} tiene que estar a {distance} metros de distancia o menos para invitar a una actuación musical.</string>
+	<string key="ui_musical_performance_page_unlocked">{songname} ({difficulty}) - {sheetname} página recogida {count}/{max}</string>
+	<string key="MusicBuff_SongInYourStep_Name" rel_version="Feature_MusicalPerformances">Paso cantarín</string>
+	<string key="MusicBuff_TerritorialTriumph_Name" rel_version="Feature_MusicalPerformances">Triunfo territorial</string>
+	<string key="MusicBuff_AllTogetherNow_Name" rel_version="Feature_MusicalPerformances">Trabajando juntos</string>
+	<string key="MusicBuff_FortunesFavor_Name" rel_version="Feature_MusicalPerformances">Favor de la fortuna</string>
+	<string key="MusicBuff_LucksLabor_Name" rel_version="Feature_MusicalPerformances">Fortuna laboriosa</string>
+	<string key="MusicBuff_DecidedlyDexterous_Name" rel_version="Feature_MusicalPerformances">Decididamente diestro</string>
+	<string key="MusicBuff_SongInYourStep_Desc" rel_version="Feature_MusicalPerformances">Reduce la carga del jugador.</string>
+	<string key="MusicBuff_TerritorialTriumph_Desc" rel_version="Feature_MusicalPerformances">Aumenta la bonificación del estatus en el territorio.</string>
+	<string key="MusicBuff_AllTogetherNow_Desc" rel_version="Feature_MusicalPerformances">Aumenta la bonificación de reparto de EXP grupal.</string>
+	<string key="MusicBuff_FortunesFavor_Desc" rel_version="Feature_MusicalPerformances">Aumenta el rendimiento al recolectar.</string>
+	<string key="MusicBuff_LucksLabor_Desc" rel_version="Feature_MusicalPerformances">Aumenta la suerte al recolectar.</string>
+	<string key="MusicBuff_DecidedlyDexterous_Desc" rel_version="Feature_MusicalPerformances">Aumenta la velocidad al recolectar.</string>
+	<string key="ui_casual" rel_version="Feature_MusicalPerformances">Informal</string>
+	<string key="ui_music" rel_version="Feature_MusicalPerformances">Música:</string>
+	<string key="ui_unlocked_at" rel_version="Feature_MusicalPerformances">Se desbloquea en</string>
+	<string key="ui_musicinstrument" rel_version="Feature_MusicalPerformances">Instrumento musical</string>
+	<string key="MusicBuff_Maudlinbug_Waltz_Name" rel_version="Feature_MusicalPerformances">Neblina de bicho sensiblero</string>
+	<string key="MusicBuff_Maudlinbug_Waltz_Desc" rel_version="Feature_MusicalPerformances">Una melodía cautivadora con la capacidad de embelesar y atrapar a los bichos sensibleros.</string>
+	<string key="MusicBuff_NoReward_Name" rel_version="Feature_MusicalPerformances">Sin efecto</string>
+	<string key="MusicBuff_NoReward_Desc" rel_version="Feature_MusicalPerformances">No se ha seleccionado ninguna recompensa.</string>
+	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Name" rel_version="Feature_MusicalPerformances">Acto inaugural</string>
+	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Name" rel_version="Feature_MusicalPerformances">Segunda oportunidad</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Name" rel_version="Feature_MusicalPerformances">Bendición del músico callejero</string>
+	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Name" rel_version="Feature_MusicalPerformances">Fanfarria</string>
+	<string key="PerkID_MusicalInstrument_GroupXPBonus_Name" rel_version="Feature_MusicalPerformances">Banda de música</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Name" rel_version="Feature_MusicalPerformances">Centro de atención</string>
+	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">Las tres primeras notas son siempre perfectas.</string>
+	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">Cometer un error en la primera nota no tiene importancia.</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">El grupo de actuación recibirá ahora toda la propina.</string>
+	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar la última nota perfectamente otorga al jugador un 10 % de mejora de EXP musical.</string>
+	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en un grupo otorga al jugador un 10 % de mejora de EXP musical.</string>
+	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en solitario otorga al jugador un 10 % de mejora de EXP musical.</string>
+	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitarra (parte 1)</string>
+	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitarra (parte 2)</string>
+	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flauta (parte 1)</string>
+	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flauta (parte 2)</string>
+	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Contrabajo (parte 1)</string>
+	<string key="ui_music_ubass_part_2" rel_version="Feature_MusicalPerformances">Contrabajo (parte 2)</string>
+	<string key="ui_music_drums_part_1" rel_version="Feature_MusicalPerformances">Batería (parte 1)</string>
+	<string key="ui_music_drums_part_2" rel_version="Feature_MusicalPerformances">Batería (parte 2)</string>
+	<string key="ui_music_mandolin_part_1" rel_version="Feature_MusicalPerformances">Mandolina (parte 1)</string>
+	<string key="ui_music_mandolin_part_2" rel_version="Feature_MusicalPerformances">Mandolina (parte 2)</string>
+	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">No puedes usar el viaje rápido mientras estás en una actuación musical.</string>
+	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">No puedes acceder a la tienda mientras estás en una actuación musical.</string>
+	<string key="songtitle_Maudlinbug_Waltz" rel_version="Feature_MusicalPerformances">Neblina de bicho sensiblero</string>
+	<string key="songtitle_Traveling_Aeternum" rel_version="Feature_MusicalPerformances">El camino menos transitado</string>
+	<string key="songtitle_Windsward_Inn" rel_version="Feature_MusicalPerformances">Posada de Guardaelviento</string>
+	<string key="songtitle_Honey_N_Biscuits" rel_version="Feature_MusicalPerformances">Miel y galletas</string>
+	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Claves valientes</string>
+	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Viaje de los guardianes del alma</string>
+	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">La mariposa</string>
+	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Huesos viejos</string>
+	<string key="songtitle_Young_King_Stanley" rel_version="Feature_MusicalPerformances">El joven rey Stanley</string>
+	<string key="songtitle_Ancient" rel_version="Feature_MusicalPerformances">La llamada de los antiguos</string>
+	<string key="songtitle_Breathe" rel_version="Feature_MusicalPerformances">Canción de cuna de las olas</string>
+	<string key="songtitle_Flourish" rel_version="Feature_MusicalPerformances">Mi nuevo hogar</string>
+	<string key="songtitle_Fog" rel_version="Feature_MusicalPerformances">El lamento del pescador</string>
+	<string key="songtitle_Grow" rel_version="Feature_MusicalPerformances">Son de la lluvia</string>
+	<string key="songtitle_Chases_Ranch" rel_version="Feature_MusicalPerformances">Tareas matinales</string>
+	<string key="songtitle_Gift" rel_version="Feature_MusicalPerformances">Vientos otoñales</string>
+	<string key="songtitle_Harvest" rel_version="Feature_MusicalPerformances">Mañana primaveral</string>
+	<string key="songtitle_Midnight_Harmony" rel_version="Feature_MusicalPerformances">Armonía de medianoche</string>
+	<string key="songtitle_Ponder" rel_version="Feature_MusicalPerformances">Luna sobre Escamanegra</string>
+	<string key="songtitle_Winds_Of_Brightwood" rel_version="Feature_MusicalPerformances">El peso de la gema del alma</string>
+	<string key="songtitle_Bloom_And_Breathe" rel_version="Feature_MusicalPerformances">Florecer y respirar</string>
+	<string key="songtitle_Potters_Sprint" rel_version="Feature_MusicalPerformances">La carrera del alfarero</string>
+	<string key="songtitle_Blacksmith_Arm" rel_version="Feature_MusicalPerformances">El brazo del herrero</string>
+	<string key="songtitle_Dear_Mr_Harrison" rel_version="Feature_MusicalPerformances">Querido señor Harrison</string>
+	<string key="songtitle_Salty_Barnacle_Crust" rel_version="Feature_MusicalPerformances">Cuco el Contrabandista</string>
+	<string key="songtitle_Moonlit_Shadows" rel_version="Feature_MusicalPerformances">Sombras lunares</string>
+	<string key="songtitle_Aeternum_Arrival" rel_version="Feature_MusicalPerformances">El pasado de la tormenta</string>
+	<string key="songtitle_Pyre" rel_version="Feature_MusicalPerformances">Los sueños de los perdidos</string>
+	<string key="songtitle_Rise" rel_version="Feature_MusicalPerformances">Ocaso y alba</string>
+	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Prado salvaje</string>
+	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Antes de la tormenta</string>
+	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Luz menguante</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Hojas de fierro</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Compañeros de Guardaelviento</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">Mena-moré de ti</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">Mi campamento</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">Mi hogar</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Hojas del sino</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">El tañer de las campanas</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">La red de tejedora</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">El niño en la montaña</string>
+</resources>
+

@@ -1091,6 +1091,8 @@
 	<string key="GauntletIce_GroupName">Manoplas de hielo</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Manopla que consume maná para debilitar a los enemigos y fortalecer a los aliados. La manopla de vacío, especializada en potenciadores de corto alcance y en infligir daño con el tiempo, o estados negativos de medio alcance y curación, es especialmente peligrosa si se usa en un grupo.\n\n•Ataque ligero: Inflige un {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]} % de daño de vacío.\n•Ataque pesado: Inflige un {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]} % de daño de vacío y cura a quien lo usa un {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]} % del daño infligido.\n•Cosechar esencia (mantener pulsado «Bloquear»): Convierte tu salud en maná a lo largo del tiempo. La velocidad aumenta con el daño de arma.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Manopla de vacío</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Inflige un {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]} % de daño de corte.\n•Ataque ligero 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Inflige un {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]} % de daño de corte.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Espadones</string>
 	<string key="GemAmbe_CategoryName">Gemas ámbares</string>
 	<string key="GemAmet_CategoryName">Gemas de amatista</string>
 	<string key="GemAqua_CategoryName">Gemas de aguamarina</string>
@@ -1854,11 +1856,6 @@
 	<string key="SalvageResearch">Investigar</string>
 	<string key="SalvageCondense">Condensar</string>
 	<string key="AlchemyCritters_GroupName">Criaturas de la alquimia</string>
-	<string key="SummerMemento" rel_version="Event_Summer_Temp">Recuerdos de verano</string>
-	<string key="MementoStand" rel_version="Event_Summer_Temp">Bases para recuerdos</string>
-	<string key="SmallMemento" rel_version="Event_Summer_Temp">Recuerdos pequeños de peces</string>
-	<string key="MediumMemento" rel_version="Event_Summer_Temp">Recuerdos medianos de peces</string>
-	<string key="LargeMemento" rel_version="Event_Summer_Temp">Recuerdos grandes de peces</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instrumentos</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instrumentos</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Partes de instrumento</string>

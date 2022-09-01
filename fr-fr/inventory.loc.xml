@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Meubles</string>
 	<string key="inv_outpostrush">Déferlante</string>
 	<string key="inv_pvparenas">Arènes JcJ</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runes</string>
 	<string key="inv_crafting_modifiers">Mods</string>
 	<string key="inv_repair_kit_count">{count} nécessaire(s) de réparation</string>
 	<string key="inv_repair_kits">Nécessaires de réparation</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Recycler cet objet vous permettra de récupérer {min}-{max} {itemName}et &lt;font color="#f25d5d"&gt;{numRepairParts} pièce(s) de réparation.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Recycler cet objet vous permettra de récupérer {numRepairParts} pièce(s) de réparation.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Recycler cet objet vous permettra de récupérer {numRepairParts} pièces de réparation et {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Vous avez atteint votre limite de pièces.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Obtenu : {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obtenu : {entry1} et {entry2}</string>
 	<string key="salvage_notification_obtained_3">Obtenu : {entry1}, {entry2} et {entry3}</string>

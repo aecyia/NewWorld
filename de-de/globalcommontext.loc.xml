@@ -74,7 +74,6 @@
 	<string key="inv_rarity_salvage_confirm">Du bist dabei, einen mächtigen Gegenstand zu zerlegen. Trotzdem fortfahren?</string>
 	<string key="inv_cannotsalvage_equipped">Du kannst keine ausgerüsteten Gegenstände zerlegen.</string>
 	<string key="inv_cannotsalvage_full">Zerlegen nicht möglich. Dein Inventar ist voll.</string>
-	<string key="inv_cannotsalvage_currencyfull">Zerlegen nicht möglich. Max. Kapazität für {currency} erreicht.</string>
 	<string key="ui_move_hint">Bewegen</string>
 	<string key="ui_link_to_chat_hint">Mit Chat verknüpfen</string>
 	<string key="ui_split_stack_hint">Stapel teilen</string>
@@ -623,18 +622,18 @@
 	<string key="ui_quickslot2">Schnellleiste #2</string>
 	<string key="ui_quickslot3">Schnellleiste #3</string>
 	<string key="ui_quickslot4">Schnellleiste #4</string>
-	<string key="ui_head_slot_tooltip">Kopf-Platz.</string>
-	<string key="ui_chest_slot_tooltip">Brust-Platz.</string>
-	<string key="ui_hands_slot_tooltip">Hand-Platz.</string>
-	<string key="ui_legs_slot_tooltip">Bein-Platz.</string>
-	<string key="ui_feet_slot_tooltip">Fuß-Platz.</string>
-	<string key="ui_amulet_slot_tooltip">Amulett-Platz.</string>
-	<string key="ui_token_slot_tooltip">Marken-Platz.</string>
-	<string key="ui_ring_slot_tooltip">Ring-Platz.</string>
-	<string key="ui_bag_slot_tooltip">Taschen-Platz.</string>
-	<string key="ui_arrow_slot_tooltip">Pfeil-Platz.</string>
-	<string key="ui_cartridge_slot_tooltip">Patronen-Platz.</string>
-	<string key="ui_shield_slot_tooltip">Schild-Platz.</string>
+	<string key="ui_head_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kopfplatz&lt;/font&gt;</string>
+	<string key="ui_chest_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Brustplatz&lt;/font&gt;</string>
+	<string key="ui_hands_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Handplatz&lt;/font&gt;</string>
+	<string key="ui_legs_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Beinplatz&lt;/font&gt;</string>
+	<string key="ui_feet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Fußplatz&lt;/font&gt;</string>
+	<string key="ui_amulet_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Amulettplatz&lt;/font&gt;</string>
+	<string key="ui_token_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Markenplatz&lt;/font&gt;</string>
+	<string key="ui_ring_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ringplatz&lt;/font&gt;</string>
+	<string key="ui_bag_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Taschenplatz&lt;/font&gt;</string>
+	<string key="ui_arrow_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Pfeilplatz&lt;/font&gt;</string>
+	<string key="ui_cartridge_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Patronenplatz&lt;/font&gt;</string>
+	<string key="ui_shield_slot_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Schildplatz&lt;/font&gt;</string>
 	<string key="ui_lifestaff_combat">Lebensstabkampf</string>
 	<string key="ui_target_self">Selbst anvisieren</string>
 	<string key="ui_exit_auto_target">Autom. Zielerfassung verlassen</string>
@@ -648,24 +647,28 @@
 	<string key="ui_target_groupmode_toggle">Gruppenmodus ein-/ausschalten</string>
 	<string key="ui_slot_unlock_at">Freigeschaltet ab St. {level}</string>
 	<string key="ui_slot_unlock_at_abbr">St. {level}</string>
-	<string key="ui_quickslot_mainhand_tooltip">Haupthandplatz\n\nZu einer auf diesen Platz gelegten Waffe kann mit der entsprechenden Taste gewechselt werden.</string>
-	<string key="ui_quickslot_consumable_tooltip">Platz für Verbrauchsgegenstände\n\nEin auf diesem Platz befindlicher Gegenstand kann mit der entsprechenden Taste verwendet werden.</string>
-	<string key="ui_quickslot_sickle_tooltip">Erntesichelplatz</string>
-	<string key="ui_quickslot_fishing_tooltip">Angelplatz</string>
-	<string key="ui_quickslot_logging_tooltip">Holzfälleraxtplatz</string>
-	<string key="ui_quickslot_skinning_tooltip">Häutemesserplatz</string>
-	<string key="ui_quickslot_pickaxe_tooltip">Bergbauhackeplatz</string>
-	<string key="ui_quickslot_azoth_tooltip">Azoth-Stab-Platz</string>
-	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">Flötenplatz</string>
-	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">Gitarrenplatz</string>
-	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">Mandolinenplatz</string>
-	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">Kontrabassplatz</string>
-	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">Trommelplatz</string>
+	<string key="ui_quickslot_mainhand_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Haupthandplatz&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Zu einer auf diesen Platz gelegten Waffe kann mit der entsprechenden Taste gewechselt werden.&lt;/font&gt;</string>
+	<string key="ui_quickslot_consumable_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Platz für Verbrauchsgegenstände&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ein auf diesem Platz befindlicher Gegenstand kann mit der entsprechenden Taste verwendet werden.&lt;/font&gt;</string>
+	<string key="ui_quickslot_sickle_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Erntesichelplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_fishing_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Angelplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_logging_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Holzfälleraxtplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_skinning_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Häutemesserplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_pickaxe_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Bergbauhackeplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_azoth_tooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Azoth-Stab-Platz&lt;/font&gt;</string>
+	<string key="ui_quickslot_flute_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Flötenplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_guitar_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Gitarrenplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_mandolin_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Mandolinenplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_bass_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Kontrabassplatz&lt;/font&gt;</string>
+	<string key="ui_quickslot_drums_tooltip" rel_version="Feature_MusicalPerformances">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Trommelplatz&lt;/font&gt;</string>
 	<string key="ui_instrument-flute-slot_name" rel_version="Feature_MusicalPerformances">Flöte</string>
 	<string key="ui_instrument-guitar-slot_name" rel_version="Feature_MusicalPerformances">Gitarre</string>
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandoline</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Kontrabass</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Trommeln</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Herzjuwelplatz&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Ein auf diesen Platz gelegter Gegenstand aktiviert die Runenfertigkeit.\n\nWird nach Abschluss der Runenaufgabe freigeschaltet. (Verfügbar ab Stufe 60)&lt;/font&gt;</string>
+	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Das Herzjuwel erhält Aufladung, indem bestimmte Kampfaktionen ausgeführt werden:\n\n Schaden zufügen (einschließlich abgewehrter Treffer)\n\n Schaden erleiden (einschließlich abgewehrter Treffer)\n\n Boni (einschließlich Heilung) und Schwächungen auslösen</string>
+	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Runenfertigkeit</string>
+	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Runenfertigkeit stillgelegt</string>
 	<string key="ui_buildmode_grid">Baumodusgitter</string>
 	<string key="ui_wave">Winken</string>
 	<string key="ui_inspect_player">Soziale Interaktionen</string>
@@ -969,6 +972,7 @@
 	<string key="ui_glory_to_level">&lt;font color="#ffffff"&gt;{xp} EP&lt;/font&gt; bis St. {level}</string>
 	<string key="ui_glory_tooltip">Du hast unverteilte Attributs- oder Fähigkeitenpunkte. Drücke [{keyName}], um den Fortschrittsbildschirm zu öffnen und deine Fähigkeiten zu verbessern.</string>
 	<string key="ui_coin">Taler</string>
+	<string key="ui_coin">Taler</string>
 	<string key="ui_coin_desc">Deine Primärwährung, mit der du in Handelsposten und im Fraktionsladen Gegenstände kaufen kannst.\nTalerguthaben ist begrenzt auf max. &lt;font color="#ffffff"&gt;{amount}&lt;/font&gt;.\n\n&lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#aaaaaa"&gt;Herkunft:&lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_medium.font" color="#ffffff"&gt; Missionen abschließen, Gegner töten, Teilnahme an Ereignissen&lt;/font&gt;</string>
 	<string key="ui_coin_max">Max. Taler</string>
 	<string key="ui_coin_icon">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -1074,7 +1078,7 @@
 	<string key="ui_defense">Verteidigung</string>
 	<string key="ui_standard">Standard</string>
 	<string key="ui_slash">Schnitt</string>
-	<string key="ui_magic">Magie</string>
+	<string key="ui_magic">Magisch</string>
 	<string key="ui_fire">Feuer</string>
 	<string key="ui_thrust">Stich</string>
 	<string key="ui_strike">Schlag</string>
@@ -1102,8 +1106,8 @@
 	<string key="ui_intelligence_description">(Magiefokussiert)</string>
 	<string key="ui_focus_description">(Heilungsfokussiert)</string>
 	<string key="ui_constitution_tooltip">Primärattribut für die Gesamtgesundheit.</string>
-	<string key="ui_strength_tooltip">Primärattribut für Kriegshammer, Streitaxt, Schwert, Beil und Donnerbüchse.\n\nSekundärattribut für Speer.</string>
-	<string key="ui_dexterity_tooltip">Primärattribut für Bogen, Rapier, Speer und Muskete.\n\nSekundärattribut für Schwert und Beil.</string>
+	<string key="ui_strength_tooltip">Primärattribut für Kriegshammer, Streitaxt, Schwert, Beil und Donnerbüchse.\n\nSekundärattribut für Speer.\n\nDas Großschwert skaliert gleichmäßig mit dem Attribut und Geschick.</string>
+	<string key="ui_dexterity_tooltip">Primärattribut für Bogen, Rapier, Speer und Muskete.\n\nSekundärattribut für Schwert und Beil.\n\nDas Großschwert skaliert gleichmäßig mit dem Attribut und Stärke.</string>
 	<string key="ui_intelligence_tooltip">Primärattribut für Feuerstab, Eisstulpen und Unheilsstulpen.\n\nSekundärattribut für Rapier, Donnerbüchse und Muskete.</string>
 	<string key="ui_focus_tooltip">Primärattribut für Lebensstab.\n\nSekundärattribut für Unheilsstulpen.</string>
 	<string key="ui_spirit_tooltip">GLAUBE\n\nIn Glaube investierte Punkte erhöhen:\n\n-- Gesamtwert an Mana\n-- Verteidigung gegen Unheilsschaden\n-- Verderbnisresistenz\n\n-- Zauberstärke der Himmlischen Zauberstulpen\n</string>
@@ -1592,6 +1596,7 @@
 	<string key="ui_tooltip_refinedat">Veredelt in:</string>
 	<string key="ui_tooltip_derivedfrom">Erhalten von:</string>
 	<string key="ui_tooltip_repair_requires">Reparieren mit:</string>
+	<string key="ui_tooltip_cannot_use_in_battle">Kann im Kampf nicht verwendet werden.</string>
 	<string key="ui_tooltip_clickToLock">Zum Sperren auf den Gegenstand klicken</string>
 	<string key="ui_siege_damage_needed">Belagerungswaffe notwendig</string>
 	<string key="ui_tooltip_gatherspeed">Sammeltempo</string>
@@ -1702,7 +1707,6 @@
 	<string key="ui_unstuck_request_denied_no_breadcrumbs">Du musst dich bewegen, um diese Anfrage zu stellen.</string>
 	<string key="ui_unstuck_request_denied_too_frequent">Anfrage zu oft gestellt.</string>
 	<string key="ui_unstuck_request_denied_teleport_failed">Teleportation in freies Gelände nicht möglich.</string>
-	<string key="ui_unstuck_request_denied_in_musical_performance">Befreien nicht möglich, während du eine Vorführung gibst.</string>
 	<string key="ui_unstuck_request_accepted">Teleportation in %d Sekunden.</string>
 	<string key="ui_generator_time_to_generate_item">Zeit bis zur Herstellung von {quantity}x {item}.</string>
 	<string key="ui_quantitywithx">x{quantity}</string>
@@ -1806,10 +1810,14 @@
 	<string key="ui_arena_required_item_disabled">Erforderlicher Gegenstand vorübergehend deaktiviert</string>
 	<string key="spriggan_name">Zygoramet</string>
 	<string key="ui_exit_dungeon_title">Expedition verlassen?</string>
+	<string key="ui_exit_dungeon_title_solo">Seelenprüfung verlassen?</string>
 	<string key="ui_dungeon_exit">Expeditionausgangsportal</string>
+	<string key="ui_dungeon_exit_solo">Seelenprüfungsausgangsportal</string>
 	<string key="ui_exit_dungeon_desc">Du wirst aus der Expedition herausteleportiert.\nDu kannst sie erneut betreten, bis sie geschlossen wird.</string>
 	<string key="ui_exit_dungeon_will_close_desc">Du wirst aus der Expedition herausteleportiert.\nHat deine gesamte Gruppe die Expedition verlassen, wird sie geschlossen.</string>
+	<string key="ui_exit_dungeon_will_close_desc_solo">Du wirst aus der Seelenprüfung herausteleportiert und sie wird geschlossen.</string>
 	<string key="ui_exit_dungeon_incombat">Wenn du einen Kampf gerade erst beendet hast, kannst du eine Expedition nicht verlassen. \nVerlassen möglich in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
+	<string key="ui_exit_dungeon_incombat_solo">Wenn du einen Kampf gerade erst beendet hast, kannst du eine Seelenprüfung nicht verlassen. \nVerlassen möglich in &lt;font color="#ffd45f"&gt;[{timeremaining}]&lt;/font&gt;</string>
 	<string key="ui_enable_newDamageNumbers">Schwebende Schadenszahlen</string>
 	<string key="ui_enable_newDamageNumbers_description">Wenn aus, werden die Schadenszahlen an die Gesundheitsanzeige des Gegners angehängt.</string>
 	<string key="ui_accept_duel_invites">Duelleinladungen zulassen</string>
@@ -1876,6 +1884,7 @@
 	<string key="ui_ability1">Waffenfähigkeit 1</string>
 	<string key="ui_ability2">Waffenfähigkeit 2</string>
 	<string key="ui_ability3">Waffenfähigkeit 3</string>
+	<string key="ui_ability_heartgem">Herzjuwelfähigkeit</string>
 	<string key="ui_pending_afk_disconnect">Spielst du noch?</string>
 	<string key="ui_pending_afk_disconnect_description">Bei dir wurde Inaktivität festgestellt und du wirst automatisch aus dem Spiel geworfen. Wenn du noch spielst, bewege deinen Charakter.</string>
 	<string key="ui_pending_freeweekend_session_ending_title">Gratissitzung endet demnächst</string>
@@ -1980,7 +1989,7 @@
 	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Zeltlager-Skin</string>
 	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skin wird auf dein nächstes Zeltlager angewendet.</string>
 	<string key="ui_all_level_milestones">Alle Stufenbelohnungen</string>
-	<string key="ui_unlock_token_slot">Ohrringplatz</string>
+	<string key="ui_unlock_token_slot">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ohrringplatz&lt;/font&gt;</string>
 	<string key="ui_unlock_ring_slot">Ring-Slot</string>
 	<string key="ui_unlock_second_weapon_slot">Zweitwaffen-Slot</string>
 	<string key="ui_unlock_third_weapon_slot">Drittwaffen-Slot</string>
@@ -2031,6 +2040,10 @@
 	<string key="ui_straightsword_mastery">Gerades-Schwert-Meisterschaft</string>
 	<string key="ui_greataxe">Streitaxt</string>
 	<string key="ui_greataxe_mastery">Streitaxtmeisterschaft</string>
+	<string key="ui_greatsword" rel_version="Weapon_GreatSword">Großschwert</string>
+	<string key="ui_greatsword_mastery" rel_version="Weapon_GreatSword">Großschwertmeisterschaft</string>
+	<string key="ui_greatsword_tree1" rel_version="Weapon_GreatSword">Gemetzel</string>
+	<string key="ui_greatsword_tree2" rel_version="Weapon_GreatSword">Trotz</string>
 	<string key="ui_greataxe_tree1">Schnitter</string>
 	<string key="ui_greataxe_tree2">Schläger</string>
 	<string key="ui_juggernaut">Moloch</string>
@@ -2257,6 +2270,7 @@
 	<string key="ui_fishing_divert_level_green">Fischbestand: Normal</string>
 	<string key="ui_fishing_divert_level_yellow">Fischbestand: Schwindend!</string>
 	<string key="ui_fishing_divert_level_red">Fischbestand: Kritisch!</string>
+	<string key="fishing_hotspot_name">{displayName}\n({territory})</string>
 	<string key="ui_change_faction_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_change_faction_azoth_required">Erfordert &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
 	<string key="ui_faction_cant_pvp">Während du dich für PvP angemeldet hast, ist kein Fraktionswechsel möglich.</string>
@@ -2267,9 +2281,13 @@
 	<string key="ui_faction_cant_cooldown">Fraktionswechsel während der Abklingzeit nicht möglich.\n{cooldown}</string>
 	<string key="ui_change_faction_warning">Nach dem Fraktionswechsel kannst du sie 60 Tage lang nicht mehr wechseln. Bei einem Fraktionswechseln werden Fraktionsrang und -marken zurückgesetzt.</string>
 	<string key="ui_change_faction">Fraktionswechsel</string>
+	<string key="ui_select_faction" rel_version="Feature_Faction_Selection">Wähle eine Fraktion aus</string>
 	<string key="ui_change_faction_cooldown">Fraktionswechsel\n{cooldown}</string>
 	<string key="ui_change_faction_azoth_cost">Fraktionswechsel {azothcost}</string>
 	<string key="ui_change_faction_desc">Möchtest du wirklich zur Fraktion {factionname} wechseln?\nDurch den Fraktionswechsel werden dein Fraktionsrang sowie deine Fraktionsmarken zurückgesetzt.\n\nNach dem Wechseln kannst du deine Fraktion 60 Tage lang nicht mehr wechseln.</string>
+	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">Möchtest du wirklich zur Fraktion {factionname} wechseln?\nDurch den Fraktionswechsel werden dein Fraktionsrang sowie deine Fraktionsmarken zurückgesetzt.\n\nNach dem Wechseln kannst du deine Fraktion 60 Tage lang nicht mehr wechseln.\n\nFalls du Mitglied einer Kompanie bist, wirst du damit aus dieser entfernt.</string>
+	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Einführungsaufgaben noch nicht abgeschlossen.</string>
+	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Fraktionsvertreter besuchen zum Wechseln</string>
 	<string key="ui_current_faction">Deine derzeitige Fraktion: {factionname}</string>
 	<string key="ui_dropconfirm_title">Wegwerf-Bestätigung</string>
 	<string key="ui_dropconfirm_msg">Diese Gegenstände wegwerfen?</string>
@@ -2279,6 +2297,11 @@
 	<string key="ui_tip_performers" rel_version="Feature_MusicalPerformances">Trinkgeldkünstler</string>
 	<string key="ui_performance_area" rel_version="Feature_MusicalPerformances">Trinkgeld zum Erhalten eines Bonus</string>
 	<string key="ui_performance_area_desc" rel_version="Feature_MusicalPerformances">Trinkgeldkünstler verdienen am Ende ihrer Vorführung Taler und erhalten einen Bonus.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_level">Du musst mindestens Stufe {level} erreicht haben, um Künstlern Trinkgeld zu geben.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_probation">Um Künstlern Trinkgeld geben zu können, muss dein Konto älter als {accountProbationTimeRequired} sein und\neine Mindestspielzeit von {characterProbationTimeRequired} vorweisen.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_free">Kaufe New World, um Künstlern Trinkgeld geben zu können.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_ftue">Du kannst Künstlern in der Einführung kein Trinkgeld geben.</string>
+	<string key="ui_tipping_failmessage_dont_meet_requirements_generic">Du kannst Künstlern kein Trinkgeld geben.</string>
 	<string key="Siren_Name">die Sirenenkönigin</string>
 	<string key="Protector_Name">Gierschlund</string>
 	<string key="ui_gather_faction_mismatch">Du kannst dies nicht an dich nehmen, da du nicht zur Fraktion {factionName} gehörst.</string>
@@ -2359,6 +2382,7 @@
 	<string key="ui_itemtypedescription_bow">Bogen</string>
 	<string key="ui_itemtypedescription_musket">Muskete</string>
 	<string key="ui_itemtypedescription_blunderbuss" rel_version="Weapon_Blunderbuss">Donnerbüchse</string>
+	<string key="ui_itemtypedescription_greatsword" rel_version="Weapon_GreatSword">Großschwert</string>
 	<string key="ui_itemtypedescription_pistol">Pistole</string>
 	<string key="ui_itemtypedescription_lifestaff">Lebensstab</string>
 	<string key="ui_itemtypedescription_firestaff">Feuerstab</string>
@@ -2404,6 +2428,12 @@
 	<string key="ui_itemtypedescription_furniture">Möbel</string>
 	<string key="ui_itemtypedescription_bait">Köder</string>
 	<string key="ui_itemtypedescription_outpostrush">Außenpostensturm-Rohstoff</string>
+	<string key="ui_itemtypedescription_heartgem_rune" rel_version="Feature_Heartgems">Herzjuwelrune</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_stone_form" rel_version="Feature_Heartgems">Steinform</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_detonate" rel_version="Feature_Heartgems">Explodieren</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_grasping_vines" rel_version="Feature_Heartgems">Windende Reben</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_heretics_fall" rel_version="Feature_Heartgems">Ketzerfall</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_cannon_blast" rel_version="Feature_Heartgems">Kanonenschuss</string>
 	<string key="ui_cannot_perform_action_at_this_time">Diese Aktion kannst du gerade nicht durchführen.</string>
 	<string key="ui_cannot_use_shield_abilities">Kein Schild ausgerüstet</string>
 	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Effektdauer</string>
@@ -2462,6 +2492,25 @@
 	<string key="ui_fishing_hotspot_active">Aktive Angelstelle</string>
 	<string key="ui_fishing_hotspot_depleted_body">Nachdem an einer Angelstelle eine bestimmte Menge Fische gefangen wurde, ist sie erschöpft. Eine erschöpfte Angelstelle erkennt man daran, dass dort keine Fische aus dem Wasser springen. Eine erschöpfte Angelstelle wird nach einiger Zeit wieder aktiv.</string>
 	<string key="ui_fishing_hotspot_active_body">Eine aktive Angelstelle erkennst du daran, dass Fische aus dem Wasser hochspringen. Triff eine aktive Angelstelle mit deiner Angel, um Fische schneller und häufiger seltenere Fische zu fangen. Platzierst du deine Schnur richtig, gibt dir ein kleiner Alarm zu erkennen, dass du die Angelstelle getroffen hast.</string>
+	<string key="ui_endgame_activities">Endgame-Aktivitäten</string>
+	<string key="ui_endgame_guide_title1">Endgame-Aktivitäten</string>
+	<string key="ui_endgame_guide_title2">Endgame-Expeditionen und -Mutationen</string>
+	<string key="ui_endgame_guide_title3">Außenpostensturm</string>
+	<string key="ui_endgame_guide_title4">Invasionen</string>
+	<string key="ui_endgame_guide_title5">Kompetenzsystem: Deinen Rüstwert erhöhen</string>
+	<string key="ui_endgame_guide_title6">Orte zum Erhöhen deiner Kompetenz pro Stufe</string>
+	<string key="ui_endgame_guide_title7">Gips: Gezielte Kompetenzerhöhungen</string>
+	<string key="ui_endgame_guide_title8">Schattensplitter: Deine Ausrüstung aufwerten</string>
+	<string key="ui_endgame_guide_body1">Du hast es also auf Stufe 60 geschafft? Glückwunsch! Jetzt steht dir die ganze Welt von Aeternum offen. Hier siehst du ein paar besondere Höhepunkte im Endgame-Leben.</string>
+	<string key="ui_endgame_guide_body2">Ab Stufe 60 hast du Zugang zu mehreren neuen Expeditionen: "Garten des Ursprungs" in Edenhain, "Das Lazarus-Instrumentarium" in Brackwasser, "Herz des Sturmwinds" in Bruchberg und "Seepocken und Schwarzpulver" im Entermesserriff.\n\nAchte auf rote Kreissymbole auf der Karte über zwei Expeditionen. Das Symbol zeigt dir, dass die Expedition gerade mutiert ist und damit einerseits schwieriger ist, andererseits aber größere Belohnungen bietet. Einige der besten Endgame-Belohnungen stammen von Bossen in mutierten Expeditionen (später mehr dazu).</string>
+	<string key="ui_endgame_guide_body3">Ab Stufe 60 bekommst du Zugang zum "Außenpostensturm". Du kannst dich für den Modus bei jedem Fraktionsvertreter oder einigen NSC in den nördlichen Außenposten oder über den Modus-Reiter in der Navigationsleiste in die Warteschlange stellen. Du kannst alleine oder mit einer Gruppe aus maximal fünf Spielern in die Warteschlange gehen.\n\nDer Modus ist eine PvPvE-Schlachtfeldinstanz für 20 gegen 20 Spieler. Es gibt drei Außenposten, die beansprucht werden können, um Punkte für dein Team zu sammeln. Sie können aufgerüstet werden, indem ihr in der Umgebung Rohstoffe sammelt, und damit Tore, Kanonen und so weiter aufwertet. Für den Sieg müsst ihr die Außenposten erobern und halten. Das Team, das zuerst 1.000 Punkte erreicht, gewinnt das Spiel.\n\nSolange du mindestens 500 Punkte durch PvP oder PvE für dein Team beiträgst, dann erhältst am Ende des Spiels Belohnungen.</string>
+	<string key="ui_endgame_guide_body4">Wenn ein Gebiet von den Verderbten angegriffen wird, kannst du dich an der örtlichen Kriegsübersicht oder über den Reiter "Bevorstehende Kriege" auf der Karte zum Einsatz melden, um bei der Verteidigung des Gebiets zu helfen. Jede Fraktion kann sich melden und wer einen der 40 verfügbaren Plätze bekommt, wird jedes Mal vom System bestimmt. Die Invasionen bestehen aus 6 Wellen und das Fort darf nicht von den Verderbten beansprucht werden. Sollte das doch geschehen, erleiden die Herstellungsstationen in der Siedlung und hiesige Lebensqualitätsboni zufällige Abwertungen.</string>
+	<string key="ui_endgame_guide_body5">Neben jedem ausrüstbaren Ausrüstungsplatz in deinem Inventar steht eine Zahl. Die Zahl stellt die Kompetenz für jeden Ausrüstungstyp dar. Die Zahl ist dabei der höchste Rüstwert (RW), den du effektiv in einem Platz ausrüsten kannst. Durch das Bergen von Beute von Gegnern mit Stufe 61 und höher hast du die Chance auf Ausrüstung, die einen etwas höheren Rüstwert als deine aktuelle Kompetenz hat. Dadurch wird deine Kompetenz an den Rüstwert der gefundenen Ausrüstung angepasst. Ereignistruhen wie die im Außenpostensturm können deine Kompetenz auch erhöhen.\n\n• Stufe-61-Gegner hinterlassen: Gegenstände mit 500–530 Rüstwert\n• Stufe-62-Gegner hinterlassen: Gegenstände mit 530–560 Rüstwert\n• Stufe-63-Gegner hinterlassen: Gegenstände mit 560–590 Rüstwert\n• Stufe-64-Gegner hinterlassen: Gegenstände mit 590–600 Rüstwert\n\nDu kannst zwar Ausrüstung, die du durch Handel erhalten hast, mit einem höheren Rüstwert als deiner aktuellen Kompetenz ausrüsten, aber der effektive Rüstwert entspricht deinem aktuellen Kompetenzwert und sie kann deine Kompetenz nicht erhöhen.\n\nGegner bei Elite-Landmarken und in Expeditionen sowie namentliche Gegner über Stufe 60 haben allgemein eine höhere Chance, deine Kompetenz zu erhöhen. Expeditionsbosse hinterlassen IMMER einen Gegenstand, der deine Kompetenz erhöht, und Expeditionen selbst bieten IMMER 3 solcher Gegenstände (1 für jeden der Bosse) bei jedem Durchlauf. Die Chance auf einen Kompetenz-steigernden Gegenstand ist höher bei Elite-Truhen als bei einem besiegten Elite-Gegner.</string>
+	<string key="ui_endgame_guide_body6">500–525 Rüstwert (Elite 61+) – Tiefe Schlucht: Verzerrte Höhe, Bruchberg: Ober-Svikin\n\n525–549 Rüstwert (Elite 62+) – Ebenmaß: Kaiserlicher Palast, Edenhain: Heimtücke\n\n549–577 Rüstwert (Elite 63+) – Brackwasser: Vorburgströmung, Bruchberg Verbrannte Minen\n\n577–591 Rüstwert (Elite 64+) – Bruchberg: Düsterheim, Brackwasser: Ewige Weiher, Brackwasser: Sirenenlager\n\n591+ Rüstwert – Edenhain: Heimtücke, Ebenmaß: Kaiserlicher Palast, Ebenmaß: Nördliche Schiffswerft der Dynastie, Edenhain: Garten des Ursprungs, Brackwasser: Lazarus-Instrumentarium, Edenhain: Einhauskluft, Spriggan Arena, Brackwasser: Amphitheater-Arena, Edenhain: Arena: Ewige Weiher</string>
+	<string key="ui_endgame_guide_body7">Mit Gips erhöhst du deine Kompetenz für einen bestimmten Ausrüstungstyp.\n\nGips gibt es in verschiedenen Formen und er kann im Gips-Ofen zu Gipskugeln verarbeitet werden. Du brauchst eine bestimmte Menge von jedem Typ, um 1 Gipskugel herzustellen. Mit einer Gipskugel kannst du einen Gipsabguss für einen bestimmten Ausrüstungstyp herstellen. Nach seinem Einsatz gewährt er eine garantierte Kompetenzerhöhung für den entsprechenden Ausrüstungstyp und ein neues Ausrüstungsstück mit dem höheren Rüstwert.\n\nDu kannst unterschiedliche Mengen an Gips aus verschiedenen Aktivitäten erhalten:\n\n• Obsidian-Gips: 3 pro Tag, von namentlichen Bossen in der offenen Welt (Stufe 60 und höher, üblicherweise an Elite-Landmarken)\n• Saphir-Gips: 2 pro Tag, Endbosse in Lazarus-Instrumentarium und Garten des Ursprungs\n• Rubin-Gips: 2 pro Tag, Außenpostensturm (mindestens 501 Punkte im Spiel erreicht)\n• Smaragd-Gips: 1 pro Tag, Kontrollpunkte für Fähigkeits-Begabungsbelohnungen\n• Zitrin-Gips: 2 pro Tag, PvE-Arenen\n• Amethyst-Gips: 7 pro Tag, Schließen von Verderbnisausbrüchen\n• Topas-Gips: 5 pro Tag, Stelle einen Einstimmungstrank an einem Arkanumarchiv oder in einem Rang-5-Lager her. Trinke dann den Trank, töte nun einen Gegner mit Stufe 55+, der dann den Topas-Gips fallen lässt.\n• Diamant-Gips: 3 pro Tag, Du kannst Diamant-Gips durch das Sammeln beliebiger Knotentypen auf Aeternum erhalten. Die Typen ändern sich üblicherweise während saisonaler Ereignisse wie der Winterkonvergenz\n• Granat-Gips: 2 pro Tag, 3-gegen-3-PvP-Arenen</string>
+	<string key="ui_endgame_guide_body8">Schattensplitter können zur Aufwertung beliebiger Ausrüstungsstücke mit einem Mindestrüstwert von 590 bis zu einem Maximalrüstwert von 625 verwendet werden. Ist die Ausrüstung bei der Aufwertung ausgerüstet, erhöht sie auch deine Kompetenz.\n\nSchattensplitter erhältst du durch OPR, das Öffnen von hochstufigen Elite-Truhen, in mutierten Expeditionen, die Herstellung hochstufiger Ausrüstung und das Öffnen von Gipsabgüssen für Ausrüstungsplätze der Stufe 600 oder höher.</string>
+	<string key="ui_endgame_guide_button_view_guide">Anleitung ansehen</string>
+	<string key="ui_endgame_guide_button_dismiss">Ausblenden</string>
 	<string key="ui_event_token_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;Marken verschwinden am Ende des Events.&lt;/font&gt;</string>
 	<string key="ui_event_item_disappears">&lt;font face="lyshineui/fonts/Nimbus_Medium.font" color="#cca000"&gt;Dieser Gegenstand verschwindet am Ende des Events.&lt;/font&gt;</string>
 	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Event endet in: &lt;font color="#cca000"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
@@ -2470,5 +2519,6 @@
 	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Sommer-Medleyfaire 2022</string>
 	<string key="ui_reset_daily_time">Wird täglich um {time} zurückgesetzt</string>
 	<string key="ui_reset_weekly_time">Wird wöchentlich um {time} zurückgesetzt</string>
+	<string key="ui_buy_new_world">New World kaufen</string>
 </resources>
 

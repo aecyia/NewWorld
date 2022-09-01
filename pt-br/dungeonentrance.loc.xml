@@ -2,32 +2,46 @@
 	<string key="ui_entrance_dungeon_description">Explore a Expedição</string>
 	<string key="ui_enter_dungeon">Entrar</string>
 	<string key="ui_open_dungeon_menu">Abrir Menu da Expedição</string>
+	<string key="ui_open_dungeon_menu_solo">Abrir Menu do Teste Espiritual</string>
 	<string key="join_group_in_dungeon">Entrar na Expedição</string>
+	<string key="join_group_in_dungeon_solo">Entrar no Teste Espiritual</string>
 	<string key="ui_dungeon_leave">Sair da Expedição</string>
+	<string key="ui_dungeon_leave_solo">Deixar Teste Espiritual</string>
 	<string key="ui_dungeon_screen_header">Entrada da Expedição</string>
+	<string key="ui_dungeon_screen_header_solo">Entrada do Teste Espiritual</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Nível Recomendado: {level} &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Mínimo de Jogadores: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Mínimo de Jogadores: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
+	<string key="ui_dungeon_requirements_groupsize_single">Máximo de Jogadores: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_gearscore">Nível Recomendado: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Jogadores Recomendados: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Para completar esta Expedição, seu grupo precisa ter pelo menos &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
+	<string key="ui_dungeon_requirements_equipment_warning_solo">Para completar este Teste Espiritual, você precisa ter pelo menos &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
 	<string key="ui_dungeon_reward_level">A qualidade da pilhagem em geral aumentará à medida que os níveis de dificuldade forem aumentados.\n\nOs itens que você encontrar podem variar em relação aos listados, com base na Pontuação do Equipamento deles.</string>
 	<string key="ui_dungeon_level_requirement">Nível Necessário: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Tempo Transcorrido:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Tempo de espera estimado:</string>
 	<string key="ui_dungeon_activate">Abrir Expedição</string>
+	<string key="ui_dungeon_activate_solo">Abrir Teste Espiritual</string>
 	<string key="ui_dungeon_leave_group">Sair do Grupo</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">Você sairá da fila se deixar o grupo.\nTem certeza?</string>
 	<string key="ui_dungeon_group_in_queue">Esperando Expedição...</string>
+	<string key="ui_dungeon_group_in_queue_solo">Aguardando Teste Espiritual...</string>
 	<string key="ui_dungeon_group_proximity">O membro do grupo está muito longe</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Seu grupo já está em uma fila para uma masmorra diferente. Crie um novo grupo para abrir esta masmorra.</string>
+	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Seu grupo já está em uma fila para uma masmorra diferente. Crie um novo grupo para abrir este teste espiritual.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Seu grupo já tem uma masmorra ativa. Todos os membros do grupo precisam sair da masmorra ativa para abrir esta masmorra.</string>
+	<string key="ui_dungeon_group_in_active_dungeon_solo">Seu grupo já tem uma masmorra ativa. Todos os membros do grupo precisam sair da masmorra ativa para abrir este teste espiritual.</string>
 	<string key="ui_dungeon_group_dead">O membro do grupo está morto</string>
 	<string key="ui_dungeon_activating">Entrando na Expedição...</string>
+	<string key="ui_dungeon_activating_solo">Entrando no Teste Espiritual...</string>
 	<string key="ui_dungeon_not_enough_members">Não há membros suficientes no grupo</string>
 	<string key="ui_dungeon_disabled">Esta expedição está desativada no momento</string>
+	<string key="ui_dungeon_disabled_solo">O Teste Espiritual está desativado no momento</string>
 	<string key="ui_dungeon_activate_failure">Falha ao abrir Expedição</string>
+	<string key="ui_dungeon_activate_failure_solo">Falha ao abrir o Teste Espiritual</string>
 	<string key="ui_dungeon_not_ready">A Expedição não está pronta</string>
 	<string key="ui_dungeon_opened_title">Expedição Aberta</string>
+	<string key="ui_dungeon_opened_title_solo">Teste Espiritual Aberto</string>
 	<string key="ui_dungeon_removed_from_queue">Você foi removido da fila de Expedição</string>
 	<string key="ui_dungeon_entry_expired">Entrada da Expedição expirada</string>
 	<string key="ui_dungeon_closed">Expedição Fechada</string>
@@ -40,14 +54,17 @@
 	<string key="ui_leaving_dungeon_description">Suas contribuições e recompensas serão perdidas se você sair!</string>
 	<string key="ui_dungeon_entrance_respawn_location">Entrada</string>
 	<string key="dungeon">Expedição</string>
+	<string key="dungeon_solo">Teste Espiritual</string>
 	<string key="dungeon_started">Expedição Ativada</string>
 	<string key="dungeon_teleport_title">Prepare-se para se teletransportar</string>
 	<string key="dungeon_teleport_desc">Seu grupo será teletransportado para a Expedição.</string>
 	<string key="dungeon_enter">Entrar em Expedição</string>
+	<string key="dungeon_enter_solo">Entrar no Teste Espiritual</string>
 	<string key="dungeon_flyout">Expedição</string>
 	<string key="dungeon_success">Missão Concluída</string>
 	<string key="dungeon_fail">Falha na Missão</string>
 	<string key="dungeon_completed">Expedição Concluída</string>
+	<string key="dungeon_completed_solo">Teste Espiritual Concluído</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Encontrar Grupo</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Gerenciar Meu Saguão</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">Ver Meu Saguão</string>
@@ -56,10 +73,12 @@
 	<string key="ui_dungeon_full_header">A Expedição está cheia no momento. Junte-se à fila para entrar na expedição.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Pontuação Média do Equipamento: &lt;/font&gt; &lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Não É Possível Abrir a Expedição</string>
+	<string key="ui_dungeon_queued_blocked_solo">Não Pode Abrir Teste Espiritual</string>
 	<string key="ui_dungeon_outpost_rush">Você já está em uma fila para Investida do Posto Avançado</string>
 	<string key="ui_dungeon_expiring">Deixando expedição em</string>
 	<string key="ui_dungeon_cooldown">Pode Abrir em &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt;</string>
 	<string key="ui_dungeon_cooldown_flyout">Você pode abrir esta Expedição em {timeRemaining}</string>
+	<string key="ui_dungeon_cooldown_flyout_solo">Você pode abrir este Teste Espiritual em {timeRemaining}</string>
 	<string key="ui_dungeon_map_flyout_button">Ver Expedição</string>
 	<string key="ui_dungeon_remaining_label">Expedições Regulares Restantes</string>
 	<string key="ui_dungeon_remaining_tooltip">Você pode ingressar em até {amount} Expedições Regulares por dia.</string>
@@ -74,6 +93,9 @@
 	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">Os &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Jogadores&lt;/font&gt; recebem os seguintes &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Muda em: </string>
 	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Pontuação do Equipamento Mínima Recomendada: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{score}&lt;/font&gt; - {gearScaling}</string>
+	<string key="ui_dungeon_mutator_gearscaling_low" rel_version="Feature_Dungeon_Mutators">Escala de Pontuação do Equipamento Baixa</string>
+	<string key="ui_dungeon_mutator_gearscaling_medium" rel_version="Feature_Dungeon_Mutators">Escala de Pontuação do Equipamento Média</string>
+	<string key="ui_dungeon_mutator_gearscaling_high" rel_version="Feature_Dungeon_Mutators">Escala de Pontuação do Equipamento Alta</string>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Códice</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Comum</string>
 	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; (Normal)</string>
@@ -94,6 +116,7 @@
 	<string key="ui_dungeon_mutator_team_wipes" rel_version="Feature_Dungeon_Mutators">Derrotas da equipe toda:</string>
 	<string key="ui_dungeon_mutator_respawns" rel_version="Feature_Dungeon_Mutators">Renascimentos:</string>
 	<string key="ui_dungeon_mutator_time_penalty" rel_version="Feature_Dungeon_Mutators">Penalidade de tempo:</string>
+	<string key="ui_dungeon_mutator_gatherables" rel_version="Feature_Dungeon_Mutators">Coletáveis:</string>
 	<string key="ui_dungeon_mutator_normal_enemies_killed_banner" rel_version="Feature_Dungeon_Mutators">Inimigos normais derrotados:</string>
 	<string key="ui_dungeon_mutator_multiplier" rel_version="Feature_Dungeon_Mutators">Multiplicador:</string>
 	<string key="ui_dungeon_mutator_overall_score" rel_version="Feature_Dungeon_Mutators">Pontuação geral:</string>

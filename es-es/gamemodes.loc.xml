@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Ha ocurrido un error de emparejamiento inesperado.</string>
 	<string key="ui_game_mode_disabled">Este modo de juego no está disponible ahora mismo.</string>
 	<string key="ui_dungeon_enter_info">Debe entrar &lt;font color={color}&gt;al menos una persona&lt;/font&gt; para mantener la expedición abierta. ¿Quieres teletransportarte ahora?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La prueba del alma está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
 	<string key="ui_dungeon_enter_info_entered">¡La expedición ya está abierta!\n&lt;font color={color}&gt;¿Quieres teletransportarte ahora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duelo</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} no es un nombre de jugador válido.</string>
@@ -164,7 +165,7 @@
 	<string key="ui_outpost_rush_tutorial_desc4">La baronesa Hain es el fantasma de una noble que murió antaño que deambula por la isla. ¡Acaba con ella para conseguir un potenciador que incrementa la defensa de tu equipo y evita que la puntuación del enemigo aumente!</string>
 	<string key="ui_outpost_rush_tutorial_level_requirement">Para participar en Asalto a puesto remoto, es necesario haber alcanzado el &lt;font color="#ffe294"&gt;nivel {level}&lt;/font&gt;.</string>
 	<string key="ui_outpost_rush_locked">Bloqueado</string>
-	<string key="ui_outpost_rush_select_summoning_stone">Selecciona una piedra de invocación</string>
+	<string key="ui_outpost_rush_select_summoning_stone">Selecciona una piedra</string>
 	<string key="ui_outpost_rush_barrier">Barrera del fuerte</string>
 	<string key="ui_or_total_score">PUNTUACIÓN TOTAL</string>
 	<string key="ui_or_points_from">PUNTOS DE</string>

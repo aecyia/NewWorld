@@ -947,9 +947,9 @@
 	<string key="TannerEncumbrance1Desc">Reduce el peso del pellejo crudo, el cuero y los cuchillos para desollar un 5 %.</string>
 	<string key="TannerEncumbrance2Desc">Reduce el peso del pellejo crudo, el cuero y los cuchillos para desollar un 8 %.</string>
 	<string key="TannerEncumbrance3Desc">Reduce el peso del pellejo crudo, el cuero y los cuchillos para desollar un 11 %.</string>
-	<string key="MercenaryEncumbrance1Desc">Reduce el peso de las armas y las municiones un 5 %.</string>
-	<string key="MercenaryEncumbrance2Desc">Reduce el peso de las armas y las municiones un 8 %.</string>
-	<string key="MercenaryEncumbrance3Desc">Reduce el peso de las armas y las municiones un 11 %.</string>
+	<string key="MercenaryEncumbrance1Desc">Reduce el peso de las armas un 5 %.</string>
+	<string key="MercenaryEncumbrance2Desc">Reduce el peso de las armas un 8 %.</string>
+	<string key="MercenaryEncumbrance3Desc">Reduce el peso de las armas un 11 %.</string>
 	<string key="QuartermasterEncumbrance1Desc">Reduce el peso de la armadura un 5 %.</string>
 	<string key="QuartermasterEncumbrance2Desc">Reduce el peso de la armadura un 8 %.</string>
 	<string key="QuartermasterEncumbrance3Desc">Reduce el peso de la armadura un 11 %.</string>
@@ -1216,7 +1216,7 @@
 	<string key="PerkID_Ability_FireStaff_Flamethrower_Name">Lanzallamas de aceleración</string>
 	<string key="PerkID_Ability_FireStaff_Flamethrower_Description">Al aplicar {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Flamethrower.TargetStatusEffectStackSize]} acumulaciones de daño por quemadura en un objetivo con el Lanzallamas, se obtiene Celeridad, lo que aumenta la velocidad de movimiento en un 20 % durante {[Type_StatusEffectData.Status_Perk_FireStaff_FlameThrower_MoveHaste.BaseDuration]} segundos. La quemadura del lanzallamas dura un {[GlobalAbilityTable.GlobalPerk_Ability_FireStaff_Flamethrower_Burn.TargetStatusEffectDurationMult * 100 * {perkMultiplier}]} % más.</string>
 	<string key="PerkID_Ability_FireStaff_BurnOut_Name">Recalentamiento eficiente</string>
-	<string key="PerkID_Ability_FireStaff_BurnOut_Description">Hasta que des el próximo golpe, aumenta en un {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.DMGFire * 100 * {perkMultiplier}]} % el daño de fuego y la regeneración de maná aumenta en un {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.ManaRate * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.BaseDuration]} segundos tras usar el Recalentamiento.</string>
+	<string key="PerkID_Ability_FireStaff_BurnOut_Description">Después de activar Recalentamiento, tu regeneración de maná aumenta en un {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.ManaRate * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_ManaRegen.BaseDuration]} segundos. Además, tu próximo golpe inflige un {[Type_StatusEffectData.Status_Perk_FireStaff_Burnout_DmgBonus.DMGFire * 100 * {perkMultiplier}]} % de daño de fuego aumentado.</string>
 	<string key="PerkID_Ability_Sword_ReverseStab_Name">Puñalada invertida contagiosa</string>
 	<string key="PerkID_Ability_Sword_ReverseStab_Description">La Puñalada invertida transfiere una despotenciación activa de uno mismo al objetivo golpeado. Puñalada invertida inflige un {[GlobalAbilityTable.GlobalPerk_Ability_Sword_ReverseStab_Dmg.BaseDamage * 100 * {perkMultiplier}]} % más de daño.</string>
 	<string key="PerkID_Ability_Sword_WhirlingBlade_Name">Cuchilla giratoria potenciadora</string>
@@ -1227,14 +1227,14 @@
 	<string key="PerkID_Ability_Shield_ShieldBash_Description">Los enemigos golpeados por Golpazo de escudo sufren una reducción del {[GlobalAbilityTable.GlobalPerk_Ability_Shield_ShieldBash.TargetStatusEffectDurationMult * -100 * {perkMultiplier}]} % en la duración de las potenciaciones no consumibles.</string>
 	<string key="PerkID_Ability_Shield_ShieldRush_Name">Avance con escudo fortificador</string>
 	<string key="PerkID_Ability_Shield_ShieldRush_Description">Tras golpear a un objetivo con el Avance con escudo, se obtiene la Fortificación, lo que aumenta la absorción del daño para uno mismo en un {[Type_StatusEffectData.Status_Perk_Sword_ShieldRush_Fortify.ABSStandard * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Sword_ShieldRush_Fortify.BaseDuration]} segundos.</string>
-	<string key="PerkID_Ability_Shield_FinalStand_Name">Postura desafiante acelerada</string>
-	<string key="PerkID_Ability_Shield_FinalStand_Description">Tras activarse la Postura desafiante, tu velocidad de movimiento aumenta un {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.MoveSpeedMod * 100 * {perkMultiplier}]} % y la curación en un {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.HealMod * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.BaseDuration]} segundos.</string>
+	<string key="PerkID_Ability_Shield_FinalStand_Name">Resolución acelerada</string>
+	<string key="PerkID_Ability_Shield_FinalStand_Description">Tras activarse la resolución del defensor, tu velocidad de movimiento aumenta un {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.MoveSpeedMod * 100 * {perkMultiplier}]} % y la curación en un {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.HealMod * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Sword_FinalStand_Haste.BaseDuration]} segundos.</string>
 	<string key="PerkID_Ability_GreatAxe_Charge_Name">Carga refrescante</string>
 	<string key="PerkID_Ability_GreatAxe_Charge_Description">Golpear a un objetivo con Golpe impredecible reduce el tiempo de reutilización en un {[GlobalAbilityTable.GlobalPerk_Ability_GreatAxe_Charge.CooldownTimer * -100 * {perkMultiplier}]} % (máx. {[GlobalAbilityTable.GlobalPerk_Ability_GreatAxe_Charge.NumberOfTrackedHits]} impactos).</string>
 	<string key="PerkID_Ability_GreatAxe_Reap_Name">Segado devastador</string>
 	<string key="PerkID_Ability_GreatAxe_Reap_Description">Si el objetivo golpeado con el Segado tiene menos del 50 % de salud, sufre una Ralentización, lo que reduce la velocidad de movimiento en un {[Type_StatusEffectData.Status_Perk_GreatAxe_Reap_Slow.MoveSpeedMod * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_GreatAxe_Reap_Slow.BaseDuration]} segundos.</string>
 	<string key="PerkID_Ability_GreatAxe_Execute_Name">Ejecución de curación</string>
-	<string key="PerkID_Ability_GreatAxe_Execute_Description">Obtén un {[GlobalAbilityTable.GlobalPerk_Ability_GreatAxe_Execute.DmgPctToHealth * 100 * {perkMultiplier}]} % del daño causado como salud gracias a Ejecutar. (Límite de 1 activación por habilidad).</string>
+	<string key="PerkID_Ability_GreatAxe_Execute_Description">Obtén un {[GlobalAbilityTable.GlobalPerk_Ability_GreatAxe_Execute.DmgPctToHealth * 100 * {perkMultiplier}]} % del daño causado como salud gracias a Ejecutar. (Límite de 1 activación por uso de habilidad).</string>
 	<string key="PerkID_Ability_GreatAxe_Whirlwind_Name">Torbellino fortificador</string>
 	<string key="PerkID_Ability_GreatAxe_Whirlwind_Description">Los golpes con el Torbellino otorgan la Fortificación para uno mismo, lo que aumenta la absorción de daño en un {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.ABSStandard * 100 * {perkMultiplier}]} % y el daño de corte en un {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.DMGSlash * 100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_GreatAxe_Whirlwind_Fortify.BaseDuration]} segundos. (Se acumula un máx. de 5 veces).</string>
 	<string key="PerkID_Ability_GreatAxe_Maelstrom_Name">Vorágine debilitante</string>
@@ -1250,7 +1250,7 @@
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Name">Helada mortal</string>
 	<string key="PerkID_Ability_IceGauntlet_DeadlyFrost_Description">Cuando la mejora de Lluvias frígidas está activa, la despotenciación de congelación de la habilidad Lluvia de hielo hará un {[Type_StatusEffectData.IceMagic_Frostbite_DeadlyFrost.HealthModifierDamageBased * -100]} % del daño del arma por segundo a los enemigos afectados. El tiempo de reutilización de Lluvia de hielo se reduce en un {[GlobalAbilityTable.GlobalPerk_Ability_IceGauntlet_DeadlyFrost.CooldownTimer * -100 * {perkMultiplier}]} %.</string>
 	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Name">Estallido del poste</string>
-	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Al disparar su proyectil, Poste de hielo causa un {[GlobalAbilityTable.GlobalPerk_Ability_IceGauntlet_PylonBurst.BaseDamage * 100 * {perkMultiplier}]} % más de daño y una explosión de daño a los enemigos que se encuentren en un radio de {[SpellDataTable_IceMagic.IceMagic_Spell_PylonBurst.Radius]} m.</string>
+	<string key="PerkID_Ability_IceGauntlet_PylonBurst_Description">Poste de hielo causa un {[GlobalAbilityTable.GlobalPerk_Ability_IceGauntlet_PylonBurst.BaseDamage * 100 * {perkMultiplier}]} % más de daño y una explosión de daño a los enemigos que se encuentren en un radio de {[SpellDataTable_IceMagic.IceMagic_Spell_PylonBurst.Radius]} m cada 2 segundos.</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Name">Tumba curativa</string>
 	<string key="PerkID_Ability_IceGauntlet_HealingTomb_Description">Te curas un {[Type_StatusEffectData.IceMagic_HealingTombPerk.HealthModifierBasePercent * 100 * {perkMultiplier}]} % de tu salud base después de que acabe Sepultura.</string>
 	<string key="PerkID_Ability_VoidGauntlet_VoidBlade_Lifesteal_Name">Filo voraz</string>
@@ -1316,7 +1316,7 @@
 	<string key="PerkID_Bags_SkinningWeight_Name">Carga del curtidor</string>
 	<string key="PerkID_Bags_SkinningWeight_Description">Reduce el peso del pellejo crudo, el cuero y los cuchillos para desollar en un {[5 * {perkMultiplier}]} %.</string>
 	<string key="PerkID_Bags_WeaponWeight_Name">Carga del mercenario</string>
-	<string key="PerkID_Bags_WeaponWeight_Description">Reduce el peso de las armas y las municiones en un {[5 * {perkMultiplier}]} %.</string>
+	<string key="PerkID_Bags_WeaponWeight_Description">Reduce el peso de las armas un {[5 * {perkMultiplier}]} %.</string>
 	<string key="PerkID_Bags_ArmorWeight_Name">Carga del contramaestre</string>
 	<string key="PerkID_Bags_ArmorWeight_Description">Reduce el peso de la armadura en un {[5 * {perkMultiplier}]} %.</string>
 	<string key="PerkID_Bags_AlchemistWeight_Name">Carga del alquimista</string>
@@ -1354,7 +1354,7 @@
 	<string key="PerkID_Armor_ResistBlight_Name">Resistencia a la plaga</string>
 	<string key="PerkID_Armor_ResistBlight_Description">+{[AffixStatDataTable.Affix_Armor_ResistBlight.RESBlight * {perkMultiplier}]} de resistencia a la plaga. También ralentiza el daño de plaga.</string>
 	<string key="PerkID_Armor_DefCritDmg_Name">Resiliencia</string>
-	<string key="PerkID_Armor_DefCritDmg_Description">Los impactos críticos te infligen un {[GlobalAbilityTable.Global_Armor_DefCritDmg.CritDamageReduction * 100 * {perkMultiplier}]} % menos de daño.</string>
+	<string key="PerkID_Armor_DefCritDmg_Description">Solo PvP: Los impactos críticos te infligen un {[GlobalAbilityTable.Global_Armor_DefCritDmg.CritDamageReduction * 100 * {perkMultiplier}]} % menos de daño.</string>
 	<string key="PerkID_Armor_Durability_Name">Indestructible</string>
 	<string key="PerkID_Armor_Durability_Description">Este objeto ya no pierde durabilidad.</string>
 	<string key="PerkID_Armor_DurCC_Name">Libertad</string>
@@ -1524,13 +1524,13 @@
 	<string key="PerkID_Weapon_HealOnDmg_Name">Robo vital</string>
 	<string key="PerkID_Weapon_HealOnDmg_Description">Recuperas el {[GlobalAbilityTable.Global_Weapon_HealOnDmg.DmgPctToHealth * 100 * {perkMultiplier}]} % del daño que infliges como salud. No desencadena daños persistentes ni efectos de daño con el tiempo.</string>
 	<string key="PerkID_Weapon_BleedonCrit_Name">Dentado intenso</string>
-	<string key="PerkID_Weapon_BleedonCrit_Description">Al asestar un impacto crítico provocas un sangrado que inflige un 7 % de daño de arma por segundo durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed.BaseDuration]} s (tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_BleedonCrit.ActivationCooldown]} s).</string>
+	<string key="PerkID_Weapon_BleedonCrit_Description">Al asestar un impacto crítico provocas un sangrado que inflige un {[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed.HealthModifierDamageBased * -100]} % de daño de arma por segundo durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritBleed.BaseDuration]} s (tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_BleedonCrit.ActivationCooldown]} s).</string>
 	<string key="PerkID_Weapon_FortifyOnCrit_Name">Fortificación intensa</string>
 	<string key="PerkID_Weapon_FortifyOnCrit_Description">Al asestar un golpe crítico, obtienes un {[Type_StatusEffectData.Status_Perk_Weapon_OnCritFortify.ABSStandard * 100 * {perkMultiplier}]} % de fortificación durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritFortify.BaseDuration]} s. (Tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_FortifyOnCrit.ActivationCooldown]} s).</string>
 	<string key="PerkID_Weapon_EmpowerOnCrit_Name">Fortalecimiento intenso</string>
 	<string key="PerkID_Weapon_EmpowerOnCrit_Description">Al asestar un golpe crítico, obtienes un {[Type_StatusEffectData.Status_Perk_Weapon_OnCritEmpower.DMGStandard * 100 * {perkMultiplier}]} % de fortalecimiento durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritEmpower.BaseDuration]} s. (Tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_EmpowerOnCrit.ActivationCooldown]} s).</string>
 	<string key="PerkID_Weapon_HasteOnCrit_Name">Velocidad intensa</string>
-	<string key="PerkID_Weapon_HasteOnCrit_Description">Al asestar un golpe crítico, obtienes un {[Type_StatusEffectData.Status_Perk_Weapon_OnCritHaste.SprintSpeedMod * 100 * {perkMultiplier}]} % de celeridad durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritHaste.BaseDuration]} s. (Tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_HasteOnCrit.ActivationCooldown]} s).</string>
+	<string key="PerkID_Weapon_HasteOnCrit_Description">Al asestar un golpe crítico, obtienes un {[Type_StatusEffectData.Status_Perk_Weapon_OnCritHaste.SprintSpeedMod * 100 * {perkMultiplier}]} % de la celeridad durante {[Type_StatusEffectData.Status_Perk_Weapon_OnCritHaste.BaseDuration]} s. (Tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_HasteOnCrit.ActivationCooldown]} s).</string>
 	<string key="PerkID_Weapon_ManaOnHit_Name">Impacto extractor</string>
 	<string key="PerkID_Weapon_ManaOnHit_Description">Obtienes un {[GlobalAbilityTable.Global_Weapon_ManaOnHit.Mana * 100 * {perkMultiplier}]} % de maná por golpe. (Tiempo de reutilización de {[GlobalAbilityTable.Global_Weapon_ManaOnHit.ActivationCooldown]} s) No desencadena daños persistentes, efectos de daño con el tiempo ni ataques bloqueados.</string>
 	<string key="PerkID_Weapon_ChainLightning_Name">Rayo en cadena</string>
@@ -1667,6 +1667,18 @@
 	<string key="PerkID_Armor_RangeDefense_Physical_Description" rel_version="MorePerksV1">Recibes un {[GlobalAbilityTable.Global_Armor_RangeDefense_Physical.BaseDamageReduction * 100 * {perkMultiplier}]} % menos de daño de los ataques físicos a distancia.</string>
 	<string key="PerkID_Armor_RangeDefense_Elemental_Name" rel_version="MorePerksV1">Aversión elemental</string>
 	<string key="PerkID_Armor_RangeDefense_Elemental_Description" rel_version="MorePerksV1">Recibes un {[GlobalAbilityTable.Global_Armor_RangeDefense_Elemental.BaseDamageReduction * 100 * {perkMultiplier}]} % menos de daño de los ataques elementales a distancia.</string>
+	<string key="PerkID_Ability_Greatsword_DashAttack_Name" rel_version="Weapon_GreatSword">Libertad implacable</string>
+	<string key="PerkID_Ability_Greatsword_DashAttack_Description" rel_version="Weapon_GreatSword">Al activar el Avance implacable, se eliminan los enraizados y las ralentizaciones. También aumenta en un {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DashAttack_Crit.CritChance * 100 * {perkMultiplier}]} % la probabilidad de impacto crítico.</string>
+	<string key="PerkID_Ability_Greatsword_Combo_Name" rel_version="Weapon_GreatSword">Corte cruzado succionador</string>
+	<string key="PerkID_Ability_Greatsword_Combo_Description" rel_version="Weapon_GreatSword">El golpe final del Corte cruzado cura un {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_Combo.DmgPctToHealth * 100 * {perkMultiplier}]} % del daño infligido. (Límite de 1 activación por uso de habilidad).</string>
+	<string key="PerkID_Ability_Greatsword_DefenseBreak_Name" rel_version="Weapon_GreatSword">Anulación celestial</string>
+	<string key="PerkID_Ability_Greatsword_DefenseBreak_Description" rel_version="Weapon_GreatSword">Golpear a un enemigo con Corte celestial elimina una de sus potenciaciones. Se reduce la duración de las potenciaciones restantes en un {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DefenseBreak_ReduceBuffs.TargetStatusEffectDurationMult * -100 * {perkMultiplier}]} %. (Solo afecta potenciaciones no consumibles).</string>
+	<string key="PerkID_Ability_Greatsword_Counter_Name" rel_version="Weapon_GreatSword">Contrataque energizante</string>
+	<string key="PerkID_Ability_Greatsword_Counter_Description" rel_version="Weapon_GreatSword">Cuando se activa el Contraataque calamitoso, obtienes {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_Counter.Stamina * {perkMultiplier}]} de resistencia instantáneamente.</string>
+	<string key="PerkID_Ability_Greatsword_DrainAttack_Name" rel_version="Weapon_GreatSword">Purificación firme</string>
+	<string key="PerkID_Ability_Greatsword_DrainAttack_Description" rel_version="Weapon_GreatSword">Cada ataque con Golpe firme, reduces las duraciones de las despotenciaciones en un {[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DrainAttack.StatusEffectDurationMult * -100 * {perkMultiplier}]} %. ({[GlobalAbilityTable.GlobalPerk_Ability_Greatsword_DrainAttack.NumberOfTrackedHits]} de reducción como máx. por ataque).</string>
+	<string key="PerkID_Ability_Greatsword_Burst_Name" rel_version="Weapon_GreatSword">Ruptura ralentizante</string>
+	<string key="PerkID_Ability_Greatsword_Burst_Description" rel_version="Weapon_GreatSword">Los enemigos impactados por Ruptura estruendosa reciben una reducción de velocidad de un {[Type_StatusEffectData.Status_Perk_Greatsword_Burst_Slow.MoveSpeedMod * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Greatsword_Burst_Slow.BaseDuration]} s.</string>
 	<string key="PerkID_Ability_Blunderbuss_NetShot_Name" rel_version="Weapon_Blunderbuss">Disparo de red exhaustivo</string>
 	<string key="PerkID_Ability_Blunderbuss_NetShot_Description" rel_version="Weapon_Blunderbuss">El disparo de red inflige la extenuación, lo que reduce la regeneración de resistencia del objetivo en un {[Type_StatusEffectData.Status_Perk_Blunderbuss_NetShot_Exhaust.StaminaRate * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Blunderbuss_NetShot_Exhaust.BaseDuration]} s. </string>
 	<string key="PerkID_Ability_Blunderbuss_AzothShrapnelBlast_Name" rel_version="Weapon_Blunderbuss">Metralla de drenaje</string>
@@ -1676,7 +1688,7 @@
 	<string key="PerkID_Ability_Blunderbuss_ScatterGrenade_Name" rel_version="Weapon_Blunderbuss">Granada astillera infectada</string>
 	<string key="PerkID_Ability_Blunderbuss_ScatterGrenade_Description" rel_version="Weapon_Blunderbuss">Los impactos por Granada astillera infligen enfermedad, lo que reduce la eficiencia de la curación del objetivo en un {[Type_StatusEffectData.Status_Perk_Blunderbuss_Grenade_Disease.HealMod * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Blunderbuss_Grenade_Disease.BaseDuration]} s.</string>
 	<string key="PerkID_Ability_Blunderbuss_MortarCharge_Name" rel_version="Weapon_Blunderbuss">Carga de mortero de reabastecimiento</string>
-	<string key="PerkID_Ability_Blunderbuss_MortarCharge_Description" rel_version="Weapon_Blunderbuss">Las muertes por Carga de mortero recargan 1 proyectil adicional y otorgan un {[Type_StatusEffectData.Status_Perk_Blunderbuss_MortarCharge_Dmg.DMGStandard * 100 * {perkMultiplier}]} % de empoderamiento durante {[Type_StatusEffectData.Status_Perk_Blunderbuss_MortarCharge_Dmg.BaseDuration]} segundos. (Límite de 1 recarga por disparo. No se activará después de 3 proyectiles o del último disparo).</string>
+	<string key="PerkID_Ability_Blunderbuss_MortarCharge_Description" rel_version="Weapon_Blunderbuss">Las muertes por Carga de mortero recargan 1 proyectil adicional y otorgan un {[Type_StatusEffectData.Status_Perk_Blunderbuss_MortarCharge_Dmg.DMGStandard * 100 * {perkMultiplier}]} % de empoderamiento durante {[Type_StatusEffectData.Status_Perk_Blunderbuss_MortarCharge_Dmg.BaseDuration]} segundos. (Límite de 1 recarga por disparo. No se activará después del último disparo).</string>
 	<string key="PerkID_Ability_Blunderbuss_VortexShot_Name" rel_version="Weapon_Blunderbuss">Disparo de explosión devastadora</string>
 	<string key="PerkID_Ability_Blunderbuss_VortexShot_Description" rel_version="Weapon_Blunderbuss">Los objetivos afectados por el disparo de explosión sufren una ralentización, lo que reduce la velocidad de movimiento en un {[Type_StatusEffectData.Status_Perk_Blunderbuss_VortexShot_Slow.MoveSpeedMod * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Status_Perk_Blunderbuss_VortexShot_Slow.BaseDuration]} s.</string>
 	<string key="PerkID_Weapon_DodgeSuccess_FireDMG_Name" rel_version="MorePerksV2">Llamas elusivas</string>
@@ -1731,5 +1743,63 @@
 	<string key="PerkID_PvP_Ring_DmgPerTargetBuff_Description" rel_version="PvP_Rewards_Track">Solo PvP: Las habilidades infligen {[GlobalAbilityTable.Global_PvP_Ring_DmgPerTargetBuff.BaseDamage * 100]} % de bonificación de daño por potenciación en un jugador. (Máx. {[GlobalAbilityTable.Global_PvP_Ring_DmgPerTargetBuff.PerStatusEffectOnTargetMax]} potenciaciones)</string>
 	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Name" rel_version="PvP_Rewards_Track">Empoderamiento elusivo</string>
 	<string key="PerkID_PvP_Amulet_DodgeSuccess_DMG_Description" rel_version="PvP_Rewards_Track">Solo PvP: Después de esquivar un ataque se obtiene Empoderamiento, lo que aumenta el daño infligido un {[Type_StatusEffectData.Status_PvP_Perk_DodgeSuccess_Empower.DMGStandard * 100]} % por {[Type_StatusEffectData.Status_PvP_Perk_DodgeSuccess_Empower.BaseDuration]} s. La duración se actualiza cuando se aplica una nueva acumulación. (Se acumula {[Type_StatusEffectData.Status_PvP_Perk_DodgeSuccess_Empower.StackMax]} veces) </string>
+	<string key="perk_weapon_bonus_info">Este beneficio es más fuerte cuando se aplica a un arma.</string>
+	<string key="PerkID_Tools_MoteFire_Name">Alineación de fuego</string>
+	<string key="PerkID_Tools_MoteEarth_Name">Alineación de tierra</string>
+	<string key="PerkID_Tools_MoteAir_Name">Alineación de aire</string>
+	<string key="PerkID_Tools_MoteWater_Name">Alineación de agua</string>
+	<string key="PerkID_Tools_MoteSpirit_Name">Alineación de espíritu</string>
+	<string key="PerkID_Tools_MoteLife_Name">Alineación de vida</string>
+	<string key="PerkID_Tools_MoteDeath_Name">Alineación de muerte</string>
+	<string key="PerkID_Tools_MoteFire_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de fuego.</string>
+	<string key="PerkID_Tools_MoteEarth_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de tierra.</string>
+	<string key="PerkID_Tools_MoteAir_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de aire.</string>
+	<string key="PerkID_Tools_MoteWater_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de agua.</string>
+	<string key="PerkID_Tools_MoteSpirit_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de espíritu.</string>
+	<string key="PerkID_Tools_MoteLife_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de vida.</string>
+	<string key="PerkID_Tools_MoteDeath_Description">Al terminar de recolectar un nodo, hay una posibilidad de obtener motas de muerte.</string>
+	<string key="PerkID_HeartgemRune_Detonate_Major_Name">Carga acelerada</string>
+	<string key="PerkID_HeartgemRune_Detonate_Major_Description">La velocidad de movimiento aumenta en un {[Type_StatusEffectData.Rune_Detonate_Major.MoveSpeedMod * 100 * {perkMultiplier}]} % mientras cargas.</string>
+	<string key="PerkID_HeartgemRune_Detonate_Greater_Name">Carga empoderadora</string>
+	<string key="PerkID_HeartgemRune_Detonate_Greater_Description">El daño causado aumenta en un {[Type_StatusEffectData.Rune_Detonate_Greater.DMGStandard * 100]} % mientras cargas, pero el daño de explosión se reduce en un {[Type_AbilityData.Heartgem_Rune_Detonate_Greater.BaseDamage * -100]} %.</string>
+	<string key="PerkID_HeartgemRune_Detonate_Survivor_Name">Explosión succionadora</string>
+	<string key="PerkID_HeartgemRune_Detonate_Survivor_Description">Te curas un {[Type_AbilityData.Heartgem_Rune_Detonate_Survivor.DmgPctToHealth * 100]} % del daño infligido pero el daño de explosión se reduce en {[Type_AbilityData.Heartgem_Rune_Detonate_Survivor.BaseDamage * -100]} %.</string>
+	<string key="PerkID_HeartgemRune_Detonate_Dominator_Name">Explosión intensificada</string>
+	<string key="PerkID_HeartgemRune_Detonate_Dominator_Description">El daño de explosión aumenta en un {[Type_AbilityData.Heartgem_Rune_Detonate_Dominator.BaseDamage * 100]} %, pero recibes un {[Type_StatusEffectData.Rune_Detonate_Dominator.ABSStandard * -100]} % más de daño mientras cargas.</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Major_Name">Forma fortificadora</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Major_Description">La absorción de daño aumenta en un {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100 * {perkMultiplier}]} % mientras está activo.</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Greater_Name">Forma endurecedora</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Greater_Description">Obtienes un {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]} % de absorción de daño adicional durante {[Type_StatusEffectData.Rune_StoneForm_Greater.BaseDuration]} s por impacto recibido (+{[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * Type_StatusEffectData.Rune_StoneForm_Greater.StackMax * 100]} % máx.).</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Name">Forma reparadora</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Survivor_Description">Te curas un {[Type_StatusEffectData.Rune_StoneForm_Survivor.HealthModifierDamageBased * 100]} % de daño de runa por segundo mientras está activo, pero el daño causado se reduce en un {[Type_StatusEffectData.Rune_StoneForm_Survivor.DMGStandard * -100]} %.</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Dominator_Name">Forma inestable</string>
+	<string key="PerkID_HeartgemRune_StoneForm_Dominator_Description">Presiona el accionador de la habilidad de nuevo para romper el caparazón de la piedra y causar {[DamageTable.Rune_StoneForm_Dominator_AoE.DmgCoef * 100]} % de daño de runa dentro de un radio de {[SpellDataTable_Runes.Rune_StoneForm_Dominator_AoE.Radius]} m, pero la duración de la habilidad se reduce {[Type_AbilityData.Heartgem_Rune_StoneForm_Dominator.StatusEffectDurationMod * -1]} s.</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Major_Name">Estallido ardiente</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Major_Description">Al impactar causa quemadura e inflige un {[Type_StatusEffectData.Rune_CannonBlast_Burn.HealthModifierDamageBased * -100 * {perkMultiplier}]} % de daño de runa por segundo durante {[Type_StatusEffectData.Rune_CannonBlast_Burn.BaseDuration]} s.</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Greater_Name">Estallido penetrante</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Greater_Description">La bola de cañón pasa a través de los enemigos y no se puede bloquear.</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Survivor_Name">Estallido expansiva</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Survivor_Description">La bala de cañón derriba a los enemigos pero solo causa un {[DamageTable.Rune_CannonBlast_Projectile_Survivor.DmgCoef * 100]} % de daño de runa.</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Dominator_Name">Estallido explosivo</string>
+	<string key="PerkID_HeartgemRune_CannonBlast_Dominator_Description">La bola de cañón explota al impactar y causa daño en un radio de 3 m, pero el daño se reduce en un {[Type_AbilityData.Heartgem_Rune_CannonBlast_Dominator.BaseDamage * -100]} %.</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Major_Name">Enredaderas debilitantes</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Major_Description">Al impactar, causa debilitamiento, que reduce el daño del objetivo en un {[Type_StatusEffectData.Rune_GraspingVines_Major.DMGStandard * -100 * {perkMultiplier}]} % durante {[Type_StatusEffectData.Rune_GraspingVines_Major.BaseDuration]} s.</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Greater_Name">Enredaderas succionadoras</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Greater_Description">Te curas un {[Type_AbilityData.Heartgem_Rune_GraspingVines_Greater.DmgPctToHealth * 100]} % del daño infligido a los objetivos inmovilizados.</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Survivor_Name">Enredaderas resistentes</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Survivor_Description">Al activarlo obtienes Fortificación, lo que aumenta la absorción de daño en un {[Type_StatusEffectData.Rune_GraspingVines_Survivor.DMGStandard * -100]} % pero reduce el daño causado en un {[Type_StatusEffectData.Rune_GraspingVines_Survivor.ABSStandard * 100]} % durante {[Type_StatusEffectData.Rune_GraspingVines_Survivor.BaseDuration]} s.</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Dominator_Name">Enredaderas desgarradoras</string>
+	<string key="PerkID_HeartgemRune_GraspingVines_Dominator_Description">Al impactar, causa el efecto daño, que reduce la absorción de daño del objetivo en un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.StaminaRate * -100]} % pero también reduce tu regeneración de resistencia en un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_Rend.ABSStandard * -100]} % durante {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.BaseDuration]} s.</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Major_Name">Caída succionadora</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Major_Description">Te curas un {[Type_AbilityData.Heartgem_Rune_HereticsFall_Major.DmgPctToHealth * 100 * {perkMultiplier}]} % del daño infligido.</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Greater_Name">Caída devastadora</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Greater_Description">Al impactar, causa ralentización, que reduce la velocidad de movimiento del objetivo en un {[Type_StatusEffectData.Rune_HereticsFall_Greater.MoveSpeedMod * -100]} % durante {[Type_StatusEffectData.Rune_HereticsFall_Greater.BaseDuration]} s.</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Survivor_Name">Caída fortificadora</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Survivor_Description">Al impactar obtienes Fortificación ({[Type_StatusEffectData.Rune_HereticsFall_Survivor.StackMax]} de impactos máx.), lo que aumenta la absorción de daño en un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]} % pero reduce el daño causado en un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]} % durante {[Type_StatusEffectData.Rune_HereticsFall_Survivor.BaseDuration]} s por impacto.</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Dominator_Name">Caída empoderadora</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Dominator_Description">Los impactos causan un {[DamageTable.Rune_HereticFall_AoE_Dominator.DmgCoef * 100]} % de daño de runa, pero ya no causan tambaleo.</string>
+	<string key="PerkID_HeartgemRune_HereticsFall_Dominator_Description">Los impactos causan un {[DamageTable.Rune_HereticFall_AoE_Dominator.DmgCoef * 100]} % de daño de runa, pero ya no causan tambaleo.</string>
+	<string key="PerkID_Bags_FoodUtilityDur_Name">Consumo duradero</string>
+	<string key="PerkID_Bags_FoodUtilityDur_Description">La comida, las piedras de afilar, los revestimientos de armas y las pociones de protección duran un {[Type_AbilityData.Global_Bags_FoodUtilityDur.StatusEffectDurationReduction * 100 * {perkMultiplier}]} % más.</string>
 </resources>
 

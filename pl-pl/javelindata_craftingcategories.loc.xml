@@ -1091,6 +1091,8 @@
 	<string key="GauntletIce_GroupName">Lodowe rękawice</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Rękawica zużywająca manę, by osłabiać wrogów i wzmacniać sojuszników. Rękawica próżni idealnie nadaje się do nakładania premii i obrażeń periodycznych na krótkim dystansie lub nakładania negatywnych efektów i leczenia na średnim dystansie. Jest groźna zwłaszcza wtedy, gdy walczysz w grupie.\n\n•Atak lekki: Zadaje {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% obrażeń od próżni.\n•Atak ciężki: Zadaje {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% obrażeń od próżni. Ponadto zyskasz zdrowie w wysokości {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% zadanych obrażeń.\n• Zbierz esencję (przytrzymaj blok): Zamienia twoje zdrowie na manę z upływem czasu. Skaluje się z obrażeniami od broni.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Rękawice próżni</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">A versitile melee weapon that utilizes stances to adapt to different combat situations. It embodies relentless offense paired with aggressive defense to cut through any challenge.\n\n•Light Attack 1 and 2: Zadaje {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% obrażeń od cięć.\n•Atak lekki 3: Deals {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 1 and 2: Deals {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% Slash damage.\n•Charged Heavy Attack 3: Zadaje {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% obrażeń od cięć.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Miecze dwuręczne</string>
 	<string key="GemAmbe_CategoryName">Bursztyny</string>
 	<string key="GemAmet_CategoryName">Ametysty</string>
 	<string key="GemAqua_CategoryName">Akwamaryny</string>
@@ -1854,11 +1856,6 @@
 	<string key="SalvageResearch">Zbadaj</string>
 	<string key="SalvageCondense">Skondensuj</string>
 	<string key="AlchemyCritters_GroupName">Stworzenia alchemiczne</string>
-	<string key="SummerMemento" rel_version="Event_Summer_Temp">Letnie pamiątki</string>
-	<string key="MementoStand" rel_version="Event_Summer_Temp">Stojaki na pamiątki</string>
-	<string key="SmallMemento" rel_version="Event_Summer_Temp">Małe rybie pamiątki</string>
-	<string key="MediumMemento" rel_version="Event_Summer_Temp">Średnie rybie pamiątki</string>
-	<string key="LargeMemento" rel_version="Event_Summer_Temp">Duże rybie pamiątki</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instrumenty</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instrumenty</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Części instrumentów</string>

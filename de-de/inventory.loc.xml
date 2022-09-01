@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Möbel</string>
 	<string key="inv_outpostrush">Außenpostensturm</string>
 	<string key="inv_pvparenas">PvP-Arenen</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runen</string>
 	<string key="inv_crafting_modifiers">Herstellungsmods</string>
 	<string key="inv_repair_kit_count">{count} Reparaturkiste</string>
 	<string key="inv_repair_kits">Reparaturkisten</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Durch das Zerlegen dieses Gegenstands erhältst du {min}–{max} {itemName} und &lt;font color="#f25d5d"&gt;{numRepairParts} Ersatzteile.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile und {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Du hast dein Talerlimit erreicht.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">{entry1} erhalten.</string>
 	<string key="salvage_notification_obtained_2">{entry1} und {entry2} erhalten.</string>
 	<string key="salvage_notification_obtained_3">{entry1}, {entry2} und {entry3} erhalten.</string>

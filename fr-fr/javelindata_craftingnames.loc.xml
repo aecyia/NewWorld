@@ -79,6 +79,12 @@
 	<string key="PotionFamilyWardBeastT3">Potion anti-monstres puissante</string>
 	<string key="PotionFamilyWardBeastT4">Potion anti-monstres ultra puissante</string>
 	<string key="PotionFamilyWardBeastT5">Potion anti-monstres imprégnée</string>
+	<string key="Procedural_AlkahestT1">Alkahest faible</string>
+	<string key="Procedural_AlkahestT2">Alkahest ordinaire</string>
+	<string key="Procedural_AlkahestT3">Alkahest puissant</string>
+	<string key="Procedural_AlkahestT4">Alkahest ultra puissant</string>
+	<string key="Procedural_AlkahestT5">Alkahest imprégné</string>
+	<string key="AmpouleT5">Ampoule</string>
 	<string key="Procedural_AmuletDiamondT2">Amulette de diamant impur</string>
 	<string key="Procedural_AmuletDiamondT3">Amulette de diamant</string>
 	<string key="Procedural_AmuletDiamondT4">Amulette de diamant éclatant</string>
@@ -442,6 +448,11 @@
 	<string key="Procedural_PotionHealthT3">Potion de santé puissante</string>
 	<string key="Procedural_PotionHealthT4">Potion de santé ultra puissante</string>
 	<string key="Procedural_PotionHealthT5">Potion de santé imprégnée</string>
+	<string key="PotionReflexiveHealthT5">Potion de santé réflexive</string>
+	<string key="PotionReflexiveManaT5">Potion de mana réflexive</string>
+	<string key="PotionReflexiveRegenT5">Potion de régénération réflexive</string>
+	<string key="PotionReflexiveCTinctureT5">Élixir anti-altération réflexif</string>
+	<string key="PotionReflexiveBTinctureT5">Élixir anti-dépérissement réflexif</string>
 	<string key="Procedural_PotionManaT1">Potion de mana faible</string>
 	<string key="Procedural_PotionManaT2">Potion de mana ordinaire</string>
 	<string key="Procedural_PotionManaT3">Potion de mana puissante</string>
@@ -1890,9 +1901,6 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Ombre amère</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Ombre amère</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Ombre amère</string>
-	<string key="FiletToken" rel_version="Event_Summer_Temp">Jeton des Mélégies – Filet</string>
-	<string key="ScaleToken" rel_version="Event_Summer_Temp">Jeton des Mélégies – Écaille</string>
-	<string key="DustToken" rel_version="Event_Summer_Temp">Jeton des Mélégies – Poussière de larminsecte</string>
 	<string key="ScrapExtractMetalT2">Extraire métal – Fer</string>
 	<string key="ScrapExtractMetalT3">Extraire métal – Acier</string>
 	<string key="ScrapExtractMetalT4">Extraire métal – Métal stellaire</string>
@@ -1950,5 +1958,9 @@
 	<string key="GypsumOrbOrange">Orbe de gypse – Citrine</string>
 	<string key="GypsumOrbPurple">Orbe de gypse – Améthyste</string>
 	<string key="GypsumOrbWhite">Orbe de gypse – Diamant</string>
+	<string key="Procedural_2hGreatSwordT2">Épée longue en fer</string>
+	<string key="Procedural_2hGreatSwordT3">Épée longue en acier</string>
+	<string key="Procedural_2hGreatSwordT4">Épée longue en métal stellaire</string>
+	<string key="Procedural_2hGreatSwordT5">Épée longue en orichalque</string>
 </resources>
 

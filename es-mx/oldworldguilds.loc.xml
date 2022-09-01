@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Discípulos astutos que combaten con pericia por el bien de la verdad y el progreso</string>
 	<string key="ui_faction_desc2">Orgullosos guerreros que luchan con honor por la gloria y el crecimiento personal</string>
 	<string key="ui_faction_desc3">Campeones divinos que luchan con convicción por la justicia y la rectitud</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Ninguno</string>
 	<string key="ui_faction_name1">Sindicato</string>
 	<string key="ui_faction_name2">Saqueadores</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de un taller de carpintería.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de equipamiento.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de un taller.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Se necesitan canteros festivos</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Se necesitan carpinteros festivos</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Se necesitan tejedores festivos</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Se necesitan metalurgistas festivos</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Se necesitan cosechadores festivos</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Se necesitan cocineros festivos</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Se necesitan alquimistas festivos</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Se necesitan suministros festivos</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Se necesitan leñadores festivos</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Se necesitan cazadores festivos</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Se necesitan curtidores festivos</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una mesa de cantería.</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de un taller de carpintería.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de equipamiento.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de un taller.</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Se necesitan pintores festivos</string>
 </resources>
 

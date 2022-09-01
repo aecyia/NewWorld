@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">No se pudo hacer la extracción del tesoro (límite diario excedido).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">El límite de extracción diario se fijó en &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">El límite de extracción diario se fijó en {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Debes tener un nivel {minLevel} cómo mínimo para usar tesorería del gremio.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Debes tener un nivel {minLevel} cómo mínimo para usar tesorería de la compañía.</string>
 	<string key="ui_treasury_notification_error_generic">Falló la operación de tesoro. Vuelve a intentarlo.</string>
 	<string key="ui_setSiegeWindow">Definir período de asedio</string>
 	<string key="ui_forDefending">Por defender sus territorios</string>
@@ -540,6 +540,7 @@
 	<string key="ui_siege_signup_description_defenders">Ayudarás a la compañía defensora a conservar el territorio.\nLos defensores jugarán desde &lt;font color="#ffffff"&gt;el interior del fuerte&lt;/font&gt;, y el objetivo es proteger el punto de conquista y evitar que sea capturado.</string>
 	<string key="ui_siege_signup_description_invasion">El ejército corrompido atacará el &lt;font color="#ffffff"&gt;fuerte {territoryName}&lt;/font&gt; para adueñarse del territorio y destruir el asentamiento.\nLucha por el territorio, protege el asentamiento, forma parte de la gran batalla y obtén recompensas.</string>
 	<string key="ui_invasion_desc_short">El ejército corrompido atacará el &lt;font color="#ffffff"&gt;fuerte {territoryName}&lt;/font&gt; para adueñarse del territorio y destruir el asentamiento.</string>
+	<string key="ui_siege_signup_myfaction">Mi facción:</string>
 	<string key="ui_siege_signup_successfultitle">¡Registro exitoso!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Te avisaremos lo antes posible si te seleccionaron para participar en la guerra.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Recibirás una notificación 5 minutos antes de que comience la invasión.</string>

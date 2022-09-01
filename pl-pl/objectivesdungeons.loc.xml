@@ -73,21 +73,21 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Pociągnij dźwignię</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Dostań się do kryjówki piratów czarnej flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Porozmawiaj z Antoniem, by dowiedzieć się więcej o piratach czarnej flagi.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Użyj dźwigni, by otworzyć bramę i wejść do kryjówki piratów czarnej flagi.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Znajdź admirała Czarnoprochego i jego załogę.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Znajdź dźwignię, by otworzyć bramę.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Znajdź przejście do statku w Zatoczce Czarnej Flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Znajdź kolejną dźwignię, by otworzyć bramę.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Ruszaj do Przesmyku Wytrawnego Rumu.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Omiń zablokowany korytarz i znajdź lont, który pozwoli ci zdetonować materiały wybuchowe.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Pokonaj aligatory czarnej flagi.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Przejdź przez otwartą bramę i kontynuuj poszukiwania lontu, który pomoże ci zrobić przejście w zablokowanym korytarzu.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Weź lont ze skrzynki z narzędziami.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Zanieś lont do zablokowanego korytarza w Przesmyku Wytrawnego Rumu.</string>
 	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Podpal lont, by zdetonować materiały wybuchowe i oczyścić zablokowany korytarz.</string>
 	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Wejdź do Zatoczki Czarnej Flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Pokonaj piratów czarnej flagi.</string>
-	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Użyj dźwigni, by opuścić most i wejść na statek.</string>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Pokonaj resztę pirackiej załogi i oficera Wellsa.</string>
 	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Znajdź dźwignię, by opuścić most i zejść ze statku.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Pokonaj admirała Czarnoprochego.</string>
@@ -177,6 +177,19 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Znajdź Cesarzową Zhou w pałacu</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Pokonaj Cesarzową Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Opuść Stocznię</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Zbadaj Enneadę i odkryj sekrety pogrzebane przez pradawnych w tym miejscu poza czasem.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 azothowe laski</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Pokonaj Shai, by otworzyć drzwi, i ruszaj w głąb Enneady</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Znajdź sposób na przebicie się przez obrońców Enneady</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Pokonaj lotosowego skarabeusza</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Użyj 3 azothowych lasek, by zniszczyć skażenie blokujące drogę</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Pokonaj niedobitki XX Legionu</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Pokonaj Krassusa</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Dotrzyj na szczyt Enneady</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Pokonaj goliatów z Enneady</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Opuść Enneadę</string>
 	<string key="dungeon_ebonscale_required_equipment">1 azothowa laska</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 azothowe laski</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Serce Burzy</string>

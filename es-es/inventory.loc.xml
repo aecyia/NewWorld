@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Muebles</string>
 	<string key="inv_outpostrush">Asalto a puesto remoto</string>
 	<string key="inv_pvparenas">Arenas JcJ</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runas</string>
 	<string key="inv_crafting_modifiers">Fabricación</string>
 	<string key="inv_repair_kit_count">Kit de reparación: {count}</string>
 	<string key="inv_repair_kits">Kits de reparación</string>
@@ -67,7 +68,7 @@
 	<string key="inv_equipLoadTooltip">El peso combinado de la armadura y el escudo que llevas equipados determina tu carga de equipo. Cada carga de equipo ofrece una capacidad de esquivar diferente y otras bonificaciones.</string>
 	<string key="inv_equipLoadFastTooltip">Cuando llevas una armadura ligera, ruedas rápidamente para esquivar y recorres una gran distancia, lo que consume {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} de vitalidad. Infliges un {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % de daño adicional y curas un 30 % más de vida. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, la distancia de esquivar se reduce en un 20 % y no puedes correr.</string>
 	<string key="inv_equipLoadNormalTooltip">Cuando llevas una armadura de peso medio, saltas rápidamente para esquivar, lo que consume {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} de vitalidad. Los estados negativos de control de multitudes que aplicas duran un 10 % más. Infliges un {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % de daño adicional. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, la distancia de esquivar se reduce en un 20 % y no puedes correr.</string>
-	<string key="inv_equipLoadSlowTooltip">Cuando llevas una armadura pesada, esquivas con un paso en una dirección que consume {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} de vitalidad. La estabilidad de tu bloqueo aumenta en un 15 % y los estados negativos de control de multitudes que aplicas duran un 20 % más. Tienes un 30 % de reducción de curación. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, no puedes correr.</string>
+	<string key="inv_equipLoadSlowTooltip">Cuando llevas una armadura pesada, esquivas con un paso en una dirección que consume {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} de vitalidad. La estabilidad de tu bloqueo aumenta en un 15 % y los estados negativos de control de multitudes que aplicas duran un 20 % más. Te curas un 30 % menos. Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, no puedes correr.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">Si superas la carga de equipo máxima, no podrás esquivar, correr ni usar habilidades. Debes desequipar algunos objetos.</string>
 	<string key="inv_equipLoadEncumberedTooltip">Llevas demasiadas cosas en tu inventario. Cuando tengas una carga excesiva, no importa cuál sea tu carga de equipo. No puedes correr ni esquivar y perderás más vitalidad al bloquear. Debes quitar algunos artículos de tu bolsa.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Has equipado más de lo permitido por la carga de equipo máxima. No puedes esquivar ni correr, y la velocidad de recarga de vitalidad se verá penalizada significativamente. Debes desequipar algunos objetos.</string>
@@ -78,7 +79,7 @@
 	<string key="inv_equipLoadEncumberedNotification">Carga excesiva: no puedes esquivar, saltar ni correr.</string>
 	<string key="inv_encumbranceTooltip">Tu carga es el peso total de todo lo que lleves en tu bolsa. Los artículos equipados no la afectan. Puedes aumentar tu carga máxima al equipar bolsas.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Cuando lleves menos que tu límite de peso, tu carga no te afecta.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Cuando llevas demasiado en tu inventario, no puedes esquivar ni correr. Cuando alcances el límite de carga, ya no podrás moverte ni atacar. Debes quitar algunos artículos de tu bolsa.</string>
+	<string key="inv_encumbranceEncumberedTooltip">Cuando llevas demasiados objetos en tu inventario, no puedes esquivar ni correr. Cuando alcances el límite de carga, ya no podrás moverte ni atacar. Debes quitar algunos artículos de tu bolsa.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Atributos insuficientes</string>
 	<string key="inv_encumbranceAttackNotification">Demasiada carga como para poder atacar</string>
 	<string key="inv_insufficientManaNotification">Maná insuficiente</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Aprovechar este artículo te devolverá {min}-{max} {itemName} y &lt;font color="#f25d5d"&gt;{numRepairParts} piezas de reparación.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Aprovechar este artículo te devolverá {numRepairParts} piezas de reparación.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Aprovechar este artículo te devolverá: {numRepairParts} piezas de reparación y {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Has alcanzado el límite de monedas.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Has obtenido {entry1}.</string>
 	<string key="salvage_notification_obtained_2">Has obtenido {entry1} y {entry2}.</string>
 	<string key="salvage_notification_obtained_3">Has obtenido {entry1}, {entry2} y {entry3}.</string>

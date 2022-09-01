@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Ocorreu uma falha inesperada no pareamento.</string>
 	<string key="ui_game_mode_disabled">Este modo de jogo está desativado no momento</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;Pelo menos uma pessoa&lt;/font&gt; precisa entrar para manter a Expedição aberta. Teletransportar-se para entrar agora?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;O Teste Espiritual está pronto&lt;/font&gt;. Teletransportar-se para entrar agora?</string>
 	<string key="ui_dungeon_enter_info_entered">A Expedição está aberta!\n&lt;font color={color}&gt;Teletransportar-se para entrar agora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Desafiar Jogador</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} não é um nome de jogador válido.</string>
@@ -164,7 +165,7 @@
 	<string key="ui_outpost_rush_tutorial_desc4">A Baronesa Hain é o fantasma de uma nobre morta há muito tempo que assombra a ilha. Elimine-a para ganhar um buff poderoso que aumenta a defesa da sua equipe e congela a pontuação do inimigo!</string>
 	<string key="ui_outpost_rush_tutorial_level_requirement">O jogador precisa estar no &lt;font color="#ffe294"&gt;nível {level}&lt;/font&gt; para participar da Investida do Posto Avançado.</string>
 	<string key="ui_outpost_rush_locked">Bloqueado</string>
-	<string key="ui_outpost_rush_select_summoning_stone">Selecione Pedra de Invocação</string>
+	<string key="ui_outpost_rush_select_summoning_stone">Selecionar Pedra de Invocação</string>
 	<string key="ui_outpost_rush_barrier">Barreira do Forte</string>
 	<string key="ui_or_total_score">PONTUAÇÃO TOTAL</string>
 	<string key="ui_or_points_from">PONTOS DE</string>

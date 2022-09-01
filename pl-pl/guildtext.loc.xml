@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Wypłata ze skarbca nie powiodła się (przekroczono dzienny limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Dzienny limit wypłat wynosi &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Dzienny limit wypłat wynosi {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Musisz być przynajmniej na poziomie {minLevel}, by móc skorzystać ze skarbca gildii.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Musisz być przynajmniej na poziomie {minLevel}, by móc skorzystać ze skarbca kompanii.</string>
 	<string key="ui_treasury_notification_error_generic">Operacja dotycząca skarbca nie powiodła się. Spróbuj ponownie.</string>
 	<string key="ui_setSiegeWindow">Ustaw okres oblężenia</string>
 	<string key="ui_forDefending">Obrona twoich terytoriów</string>
@@ -540,6 +540,7 @@
 	<string key="ui_siege_signup_description_defenders">Będziesz pomagać broniącej się kompanii w utrzymaniu tego terytorium.\nObrońcy grają z &lt;font color="#ffffff"&gt;wnętrza fortu&lt;/font&gt;. Cel: nie dopuścić do utraty punktu przejęcia.</string>
 	<string key="ui_siege_signup_description_invasion">Armia skażonych zaatakuje &lt;font color="#ffffff"&gt;fort {territoryName}&lt;/font&gt;, by przejąć terytorium i zniszczyć osadę.\nBroń terytorium, ochroń osadę, dołącz do wielkiej bitwy i zdobądź nagrody!</string>
 	<string key="ui_invasion_desc_short">Armia skażonych zaatakuje &lt;font color="#ffffff"&gt;fort {territoryName}&lt;/font&gt;, by przejąć terytorium i zniszczyć osadę.</string>
+	<string key="ui_siege_signup_myfaction">Moja frakcja:</string>
 	<string key="ui_siege_signup_successfultitle">Zapis udany!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Powiadomimy cię jak najszybciej, jeśli wybiorą cię do wzięcia udziału w wojnie.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Otrzymasz powiadomienie 5 minut przed inwazją.</string>

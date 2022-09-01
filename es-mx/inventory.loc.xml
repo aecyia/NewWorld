@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Muebles</string>
 	<string key="inv_outpostrush">Puesto de avanzada</string>
 	<string key="inv_pvparenas">Arenas PvP</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runas</string>
 	<string key="inv_crafting_modifiers">Mods creación</string>
 	<string key="inv_repair_kit_count">{count} kit de reparación</string>
 	<string key="inv_repair_kits">Kits de reparación</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Si desarmas este objeto, obtendrás {min}-{max} {itemName} y &lt;font color="#f25d5d"&gt;{numRepairParts} piezas de repuesto.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Si desarmas este objeto, obtendrás {numRepairParts} piezas de repuesto.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Si desarmas este objeto obtendrás {numRepairParts} piezas de reparación y {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Estás en el límite de monedas.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Se obtuvo {entry1}</string>
 	<string key="salvage_notification_obtained_2">Se obtuvo {entry1} y {entry2}</string>
 	<string key="salvage_notification_obtained_3">Se obtuvo {entry1}, {entry2} y {entry3}</string>

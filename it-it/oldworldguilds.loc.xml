@@ -274,6 +274,9 @@
 	<string key="ui_faction_desc1">Discepoli intelligenti che combattono con astuzia per perseguire verità e progresso</string>
 	<string key="ui_faction_desc2">Guerrieri orgogliosi che combattono con onore per la gloria e per migliorare se stessi</string>
 	<string key="ui_faction_desc3">Campioni divini che combattono con convinzione per la virtù e la giustizia</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a SMARTYPANTS who seeks discovery and understanding</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a MIGHTY WARRIOR who fights for glory and self improvement</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection" comment="Final copy still TDB">Become a RIGHTEOUS ZEALOT who brings glory to the spark</string>
 	<string key="ui_faction_none">Nessuna</string>
 	<string key="ui_faction_name1">Unione</string>
 	<string key="ui_faction_name2">Predoni</string>
@@ -516,21 +519,9 @@
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso una falegnameria.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso una postazione di accessoristica.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso un laboratorio.</string>
-	<string key="CMissionAcquireBlock_Name_SE" rel_version="Event_Summer_Temp">Necessari muratori festivi</string>
-	<string key="CMissionAcquireTimber_Name_SE" rel_version="Event_Summer_Temp">Necessari carpentieri festivi</string>
-	<string key="CMissionAcquireCloth_Name_SE" rel_version="Event_Summer_Temp">Necessari tessitori festivi</string>
-	<string key="CMissionAcquireMetal_Name_SE" rel_version="Event_Summer_Temp">Necessari fabbri festivi</string>
-	<string key="CMissionAcquireFibers_Name_SE" rel_version="Event_Summer_Temp">Necessari mietitori festivi</string>
-	<string key="CMissionAcquireFood_Name_SE" rel_version="Event_Summer_Temp">Necessari cuochi festivi</string>
-	<string key="CMissionAcquirePotions_Name_SE" rel_version="Event_Summer_Temp">Necessari alchimisti festivi</string>
-	<string key="CMissionAcquireGeneric_Name_SE" rel_version="Event_Summer_Temp">Necessarie provviste festive</string>
-	<string key="CMissionAcquireWood_Name_SE" rel_version="Event_Summer_Temp">Necessari taglialegna festivi</string>
-	<string key="CMissionAcquireRawhide_Name_SE" rel_version="Event_Summer_Temp">Necessari cacciatori festivi</string>
-	<string key="CMissionAcquireLeather_Name_SE" rel_version="Event_Summer_Temp">Necessari conciatori festivi</string>
 	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso un tavolo da tagliapietre.</string>
 	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso una falegnameria.</string>
 	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso una postazione di accessoristica.</string>
 	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Procurati e consegna: &lt;font color="#eaeaea"&gt;{itemName} (x{itemAmount})&lt;/font&gt; presso un laboratorio.</string>
-	<string key="CMissionAcquirePaint_Name_SE" rel_version="Event_Summer_Temp">Necessari pittori festivi</string>
 </resources>
 

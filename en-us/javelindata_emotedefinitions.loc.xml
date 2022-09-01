@@ -261,7 +261,7 @@
 	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dances with sparklers.</string>
 	<string key="emote_TugOfWar" rel_version="Emote_TugOfWar">{playerName} pantomimes a lasso and tug-of-war.</string>
 	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Finger Guns</string>
-	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot."</string>
+	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">"Hit them with your best shot." \nFinisher: This emote does a small amount of damage.</string>
 	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} shoots their fingers like guns.</string>
 	<string key="ui_emote_AirGuitar_name" rel_version="Emote_AirGuitar">Guitar Shred</string>
 	<string key="ui_emote_AirViolin_name" rel_version="Emote_AirViolin">Sad Violin</string>
@@ -281,7 +281,7 @@
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Table Flip</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Wild Tap Dance</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Tramp Walk</string>
-	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price."</string>
+	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"When your rage boils over, the table pays the price." \nFinisher: This emote does a small amount of damage.</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"You may not have much, but you have this walk."</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} flips a table.</string>

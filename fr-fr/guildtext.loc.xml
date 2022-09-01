@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Échec de retrait dans la trésorerie (supérieur à la limite quotidienne).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">La limite de retrait quotidienne est fixée à &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">La limite de retrait quotidienne est fixée à {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Vous devez être au moins de niveau {minLevel} pour pouvoir utiliser la trésorerie de la guilde.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Vous devez être au moins de niveau {minLevel} pour pouvoir utiliser la trésorerie de la compagnie.</string>
 	<string key="ui_treasury_notification_error_generic">L'opération de trésorerie a échoué. Veuillez réessayer.</string>
 	<string key="ui_setSiegeWindow">Définir la fenêtre de siège</string>
 	<string key="ui_forDefending">Pour défendre vos territoires</string>
@@ -540,6 +540,7 @@
 	<string key="ui_siege_signup_description_defenders">Vous aiderez la compagnie qui défend à conserver le territoire.\nLes défenseurs seront postés à l'&lt;font color="#ffffff"&gt;intérieur de la forteresse&lt;/font&gt;, et l'objectif est de protéger le point de revendication afin qu'il ne soit pas capturé.</string>
 	<string key="ui_siege_signup_description_invasion">L'armée des altérés attaquera la &lt;font color="#ffffff"&gt;forteresse {territoryName}&lt;/font&gt; afin de conquérir le territoire et détruire la colonie.\nDéfendez le territoire, protégez la colonie et prenez part à cette grande bataille pour recevoir des récompenses !</string>
 	<string key="ui_invasion_desc_short">L'armée des altérés attaquera la &lt;font color="#ffffff"&gt;forteresse {territoryName}&lt;/font&gt; afin de conquérir le territoire et détruire la colonie.</string>
+	<string key="ui_siege_signup_myfaction">Ma faction :</string>
 	<string key="ui_siege_signup_successfultitle">Inscription réussie.</string>
 	<string key="ui_siege_signup_war_successfulmessage">Vous recevrez prochainement une notification vous indiquant si vous avez été sélectionné pour participer à la guerre.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Vous recevrez une notification 5 minutes avant l'invasion.</string>

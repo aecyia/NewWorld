@@ -209,7 +209,7 @@
 	<string key="9901_0020_healtherift_incomplete" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_InProgResponse" VO_Status="Recorded">¿Sigue habiendo una de esas repugnantes grietas que exudan corrupción ahí fuera? \n\nEso creo y creo también que tienes un trabajo que hacer todavía.</string>
 	<string key="9901_0020_healtherift_complete_available_response" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_AvailResponse" VO_Status="Recorded" dialogue-next="@9901_0020_healtherift_complete_available_response_next">Bien hecho. Has cerrado la grieta, lo noto en el paladar. La corrupción no seguirá expandiéndose sin control. \n\nDiría que has nacido para formar parte de los guardianes del alma, si no fuese algo tan trágico.</string>
 	<string key="9901_0020_healtherift_complete_available_response_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">«¿Lo notas en el paladar?»</string>
-	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh, sí, es un efecto secundario del proceso: te guste o no, pronto vas a empezar a notar también el sabor de la corrupción.\n\nComo cuando se te pudre un diente, notas el dulzor de la descomposición y después un regusto a sangre. Te fastidia bastante los postres, me temo.</string>
+	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh yes, a side effect of the process - like it or not, you'll be able to taste Corruption soon, too.\n\nLike a rotten tooth, sweet with decay, followed by an aftertaste of blood. Te fastidia bastante los postres, me temo.</string>
 	<string key="9901_0020_healtherift_objective_desc" comment="DO NOT TRANSLATE" speaker="UI  - Quest Description">Es hora de comprobar de qué está hecho tu báculo de Azoth. Evita que los corruptos abran grietas en la Hacienda Arpancla. Luego, busca y destruye las grietas de corrupción que veas abiertas en cualquier otro lugar de Aetérnum.</string>
 	<string key="9901_0020_goto_POI" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Utiliza tu báculo de Azoth para hacer retroceder a la corrupción en {POITags}</string>
 	<string key="9901_0020_healtherift_destroy_target_IO" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Destruye los nodos corruptos con tu báculo de Azoth</string>
@@ -749,6 +749,11 @@
 	<string key="9907_GetFungalSpores" speaker="UI">Consigue {itemName}</string>
 	<string key="9907_GetLodestone" speaker="UI">Consigue {itemName}</string>
 	<string key="9907_GetAzothWater" speaker="UI">Consigue {itemName}</string>
+	<string key="9907_GetEarthspine_V2" rel_version="Quest_MSQ2_Revamp">Consigue un tallo de espina terrestre cultivada</string>
+	<string key="9907_GetDragonGlory_V2" rel_version="Quest_MSQ2_Revamp">Consigue un pétalo de dracogloria imbuida</string>
+	<string key="9907_GetFungalSpores_V2" rel_version="Quest_MSQ2_Revamp">Consigue esporas fúngicas encantadas</string>
+	<string key="9907_GetLodestone_V2" rel_version="Quest_MSQ2_Revamp">Consigue suelo rico</string>
+	<string key="9907_GetAzothWater_V2" rel_version="Quest_MSQ2_Revamp">Consigue agua de la Arboleda</string>
 	<string key="9907_0053_TaskFoodForIxia" speaker="UI">Combina agua de Azoth en un repositorio de artes arcanas</string>
 	<string key="9907_0053_TaskFoodForIxia2" speaker="UI">Entrega los alimentos vegetales a Ixia</string>
 	<string key="9907_0053_TaskFoodForIxia3" speaker="UI">Prepara alimentos vegetales para Ixia</string>

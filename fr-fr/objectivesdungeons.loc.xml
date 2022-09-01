@@ -73,21 +73,21 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Abaisser le levier</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Pénétrer dans le repaire des pirates du drapeau noir</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Parler à Antonio pour en savoir davantage sur les pirates du drapeau noir</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Utiliser le levier permettant d'ouvrir la porte et pénétrer dans le repaire des pirates du drapeau noir</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Pourchasser l'amiral Blackpowder et son équipage</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Chercher un levier permettant d'ouvrir la porte</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Trouver un passage menant au navire mouillant dans la crique du drapeau noir</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Chercher un autre levier pour ouvrir la porte</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Emprunter le conduit du Rhum asséché</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Explorer la zone autour du passage bloqué et trouver une mèche pour déclencher les explosifs</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Éliminer les alligators du drapeau noir</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Franchir la porte ouverte et continuer de chercher une mèche afin de dégager le passage obstrué</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Prendre la mèche dans la boîte à outils</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Rapporter la mèche au passage obstrué dans le conduit du Rhum asséché</string>
 	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Allumer la mèche pour déclencher les explosifs et dégager le passage bloqué</string>
 	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Pénétrer dans la crique du drapeau noir</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Venir à bout des pirates du drapeau noir</string>
-	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Utiliser le levier pour abaisser le pont et monter à bord du navire</string>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00"/>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Vaincre le dernier pirate de l'équipage et le premier officier Wells</string>
 	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Trouver le levier permettant d'abaisser le pont et quitter le navire</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Éliminer l'amiral Blackpowder.</string>
@@ -177,6 +177,19 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Trouver l'impératrice Zhou au palais</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Vaincre l'impératrice Zhou !</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Quitter le chantier naval</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Explorez l'Ennéade et découvrez quels secrets les Anciens ont cachés dans ce lieu intemporel.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 bâtons d'Azoth</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Éliminer Shai pour ouvrir la porte et explorer les profondeurs de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Trouver un moyen de passer les défenseurs de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Vaincre le scarabée lotus</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Utiliser la puissance de 3 bâtons d'Azoth pour détruire l'altération bloquant le passage</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Combattre ce qu'il reste de la 10e légion</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Vaincre Crassus</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Atteindre le sommet de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Vaincre les goliaths de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Quitter l'Ennéade</string>
 	<string key="dungeon_ebonscale_required_equipment">1 bâton d'Azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 bâtons d'Azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Cœur de la Tempête</string>
