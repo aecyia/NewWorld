@@ -1,5 +1,8 @@
 # Lore Tracker
 
+The current list as of . . .
+08 September 2022 -- v1.6.5
+
 ## A New World
 
 Commission

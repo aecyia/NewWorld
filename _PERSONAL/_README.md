@@ -1,7 +1,5 @@
 # Read Me
 
-01 September 2022 -- PTR Update
-
 + This is a full list of all the lore documents in the game
 + Includes lore documents not shown in the game (yet)
 + Does not include Informational documents (guides, tutorials, etc.)
