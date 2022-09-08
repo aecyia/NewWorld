@@ -73,21 +73,21 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Tira de la palanca</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Logra entrar al escondite de los piratas bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Habla con Antonio para saber más sobre los piratas bandera negra.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Usa la palanca para abrir la puerta y entrar al escondite de Bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Rastrea al almirante Pólvora y su tripulación.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Busca una palanca para abrir la puerta.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Encuentra un pasaje hacia el barco en la Caleta de Bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Busca otra palanca para abrir la puerta.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Adéntrate en el Pasadizo de Ron Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Recorre los alrededores del pasaje bloqueado y busca una mecha para encender los explosivos.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrota a los caimanes bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Pasa por la puerta abierta y sigue buscando una mecha para desbloquear el pasaje derrumbado.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Recoge la mecha de la caja de herramientas.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Lleva la mecha de vuelta al pasaje derrumbado en el Pasadizo de Ron Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Enciende la mecha para detonar los explosivos y abrir el pasaje bloqueado.</string>
 	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Adéntrate en la Caleta de Bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Derrota a los piratas bandera negra.</string>
-	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Usa la palanca para bajar el puente y subir al barco.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Derrota al último miembro de la tripulación pirata y al primer oficial Wells.</string>
 	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Encuentra la palanca para baja el puente y sal del barco.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Derrota al almirante Pólvora.</string>
@@ -177,19 +177,6 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encuentra a la emperatriz Zhou en el palacio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">¡Destruye a la emperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Sal del astillero.</string>
-	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
-	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
-	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investiga La Enéada y descubre qué secretos ocultaron los antiguos en este lugar atemporal</string>
-	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 bastones de Azoth</string>
-	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Derrota a Shai para abrir la puerta y explorar las profundidades de La Enéada</string>
-	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Busca una forma de superar a los defensores de La Enéada</string>
-	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Derrota al Escarabajo de loto</string>
-	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Usa el poder de 3 bastones de Azoth para destruir la corrupción que bloquea el camino</string>
-	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Combate a los restos de la X Legión</string>
-	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrota a Craso</string>
-	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Llega a la cúspide de La Enéada</string>
-	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Derrota a los goliats de La Enéada</string>
-	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Sal de La Enéada</string>
 	<string key="dungeon_ebonscale_required_equipment">1 bastón de azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">2 bastones de azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Corazón de la tempestad</string>

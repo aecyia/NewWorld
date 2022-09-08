@@ -2,46 +2,32 @@
 	<string key="ui_entrance_dungeon_description">Untersuche die Expedition</string>
 	<string key="ui_enter_dungeon">Betreten</string>
 	<string key="ui_open_dungeon_menu">Expeditionsmenü öffnen</string>
-	<string key="ui_open_dungeon_menu_solo">Öffne das Menü "Seelenprüfung"</string>
 	<string key="join_group_in_dungeon">Expedition betreten</string>
-	<string key="join_group_in_dungeon_solo">Betritt die Seelenprüfung</string>
 	<string key="ui_dungeon_leave">Expedition verlassen</string>
-	<string key="ui_dungeon_leave_solo">Verlasse die Seelenprüfung</string>
 	<string key="ui_dungeon_screen_header">Expeditionszugang</string>
-	<string key="ui_dungeon_screen_header_solo">Eingang zur Seelenprüfung</string>
 	<string key="ui_dungeon_requirements">&lt;img src="LyShineUI/Images/icons/misc/icon_level_simple" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Empfohlene Stufe: {level} &lt;img src="LyShineUI/Images/icons/misc/icon_character" scale="1.5" yOffset="2.5"&gt;&lt;/img&gt; Minimale Spielerzahl: {players}</string>
 	<string key="ui_dungeon_requirements_groupsize">Minimale Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
-	<string key="ui_dungeon_requirements_groupsize_single">Maximale Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_gearscore">Empfohlene Stufe: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Empfohlene Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Um diese Expedition abzuschließen, muss deine Gruppe mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
-	<string key="ui_dungeon_requirements_equipment_warning_solo">Um diese Seelenprüfung abzuschließen, musst du mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
 	<string key="ui_dungeon_reward_level">Die Qualität der Gesamtbeute steigt mit dem Schwierigkeitsgrad.\n\nDer Rüstwert der erhaltenen Gegenstände kann von den hier aufgelisteten abweichen.</string>
 	<string key="ui_dungeon_level_requirement">Erforderliche Stufe: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Vergangene Zeit:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Voraussichtliche Wartedauer:</string>
 	<string key="ui_dungeon_activate">Expedition starten</string>
-	<string key="ui_dungeon_activate_solo">Seelenprüfung starten</string>
 	<string key="ui_dungeon_leave_group">Gruppe verlassen</string>
 	<string key="ui_dungeon_leave_group_sufficient_members">Du wirst aus der Warteschlange geworfen, wenn du die Gruppe verlässt.\nBist du dir sicher?</string>
 	<string key="ui_dungeon_group_in_queue">Warten auf Expedition ...</string>
-	<string key="ui_dungeon_group_in_queue_solo">Warten auf Seelenprüfung …</string>
 	<string key="ui_dungeon_group_proximity">Das Gruppenmitglied ist zu weit entfernt</string>
 	<string key="ui_dungeon_group_already_in_queue_dungeon">Deine Gruppe befindet sich bereits in der Warteschlange für einen anderen Dungeon. Erstelle eine neue Gruppe, um den Dungeon zu betreten.</string>
-	<string key="ui_dungeon_group_already_in_queue_dungeon_solo">Deine Gruppe befindet sich bereits in der Warteschlange für einen anderen Dungeon. Erstelle eine neue Gruppe, um die Seelenprüfung zu öffnen.</string>
 	<string key="ui_dungeon_group_in_active_dungeon">Deine Gruppe ist bereits einem aktives Dungeon zugewiesen. Alle Gruppenmitglieder müssen den aktive Dungeon verlassen, um diesen Dungeon zu betreten.</string>
-	<string key="ui_dungeon_group_in_active_dungeon_solo">Deine Gruppe ist bereits einem aktives Dungeon zugewiesen. Alle Gruppenmitglieder müssen den aktiven Dungeon verlassen, um die Seelenprüfung zu öffnen.</string>
 	<string key="ui_dungeon_group_dead">Gruppenmitglied ist tot</string>
 	<string key="ui_dungeon_activating">Expedition betreten ...</string>
-	<string key="ui_dungeon_activating_solo">Seelenprüfung betreten …</string>
 	<string key="ui_dungeon_not_enough_members">Nicht genug Gruppenmitglieder</string>
 	<string key="ui_dungeon_disabled">Diese Expedition ist derzeit deaktiviert.</string>
-	<string key="ui_dungeon_disabled_solo">Diese Seelenprüfung ist derzeit deaktiviert.</string>
 	<string key="ui_dungeon_activate_failure">Öffnen der Expedition fehlgeschlagen</string>
-	<string key="ui_dungeon_activate_failure_solo">Öffnen der Seelenprüfung fehlgeschlagen</string>
 	<string key="ui_dungeon_not_ready">Expedition nicht fertig</string>
 	<string key="ui_dungeon_opened_title">Expedition offen</string>
-	<string key="ui_dungeon_opened_title_solo">Seelenprüfung offen</string>
 	<string key="ui_dungeon_removed_from_queue">Du wurdest aus der Expeditionswarteschlange entfernt.</string>
 	<string key="ui_dungeon_entry_expired">Expeditionszugang abgelaufen</string>
 	<string key="ui_dungeon_closed">Expedition geschlossen</string>
@@ -54,17 +40,14 @@
 	<string key="ui_leaving_dungeon_description">Deine Beteiligung und Belohnungen gehen verloren, wenn du jetzt gehst!</string>
 	<string key="ui_dungeon_entrance_respawn_location">Eingang</string>
 	<string key="dungeon">Expedition</string>
-	<string key="dungeon_solo">Seelenprüfung</string>
 	<string key="dungeon_started">Expedition aktiviert</string>
 	<string key="dungeon_teleport_title">Fertigmachen zum Teleportieren</string>
 	<string key="dungeon_teleport_desc">Deine Gruppe wird in die Expedition teleportiert.</string>
 	<string key="dungeon_enter">Expedition betreten</string>
-	<string key="dungeon_enter_solo">Betritt die Seelenprüfung</string>
 	<string key="dungeon_flyout">Expedition</string>
 	<string key="dungeon_success">Mission abgeschlossen</string>
 	<string key="dungeon_fail">Mission fehlgeschlagen</string>
 	<string key="dungeon_completed">Expedition abgeschlossen</string>
-	<string key="dungeon_completed_solo">Seelenprüfung abgeschlossen</string>
 	<string key="ui_dungeon_find_group" rel_version="Feature_Group_Finder">Gruppensuche</string>
 	<string key="ui_dungeon_manage_group" rel_version="Feature_Group_Finder">Lobby verwalten</string>
 	<string key="ui_dungeon_view_group" rel_version="Feature_Group_Finder">Meine Lobby ansehen</string>
@@ -73,12 +56,10 @@
 	<string key="ui_dungeon_full_header">Expedition derzeit voll. Tritt der Warteschlange bei, um die Expedition zu betreten.</string>
 	<string key="ui_dungeon_player_average_gear_score">&lt;font color="#c3b79f"&gt;Durchschnittlicher Rüstwert: &lt;/font&gt;&lt;font color="#ffffff" face="lyshineui/fonts/CaslonAnt.font"&gt;{gearscore}&lt;/font&gt;</string>
 	<string key="ui_dungeon_queued_blocked">Expedition kann nicht geöffnet werden.</string>
-	<string key="ui_dungeon_queued_blocked_solo">Seelenprüfung kann nicht geöffnet werden.</string>
 	<string key="ui_dungeon_outpost_rush">Du befindest dich bereits in der Warteschlange für den Außenpostensturm.</string>
 	<string key="ui_dungeon_expiring">Expedition wird verlassen in</string>
 	<string key="ui_dungeon_cooldown">Kann in &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{timeRemaining}&lt;/font&gt; geöffnet werden.</string>
 	<string key="ui_dungeon_cooldown_flyout">Du kannst diese Expedition in {timeRemaining} öffnen.</string>
-	<string key="ui_dungeon_cooldown_flyout_solo">Du kannst diese Seelenprüfung in {timeRemaining} öffnen.</string>
 	<string key="ui_dungeon_map_flyout_button">Ansehen</string>
 	<string key="ui_dungeon_remaining_label">Verbleibende normale Expeditionen</string>
 	<string key="ui_dungeon_remaining_tooltip">Du kannst an bis zu {amount} normalen Expeditionen pro Tag teilnehmen.</string>
@@ -93,9 +74,6 @@
 	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Spieler&lt;/font&gt; erhalten die folgenden &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Schwächungen&lt;/font&gt;:</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Ändert sich in: </string>
 	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Empfohlener Mindestrüstwert: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{score}&lt;/font&gt; – {gearScaling}</string>
-	<string key="ui_dungeon_mutator_gearscaling_low" rel_version="Feature_Dungeon_Mutators">Niedrige Rüstwertskalierung</string>
-	<string key="ui_dungeon_mutator_gearscaling_medium" rel_version="Feature_Dungeon_Mutators">Mittlere Rüstwertskalierung</string>
-	<string key="ui_dungeon_mutator_gearscaling_high" rel_version="Feature_Dungeon_Mutators">Hohe Rüstwertskalierung</string>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Kodex</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Normal</string>
 	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; (Normal)</string>
@@ -116,7 +94,6 @@
 	<string key="ui_dungeon_mutator_team_wipes" rel_version="Feature_Dungeon_Mutators">Team-Auslöschungen:</string>
 	<string key="ui_dungeon_mutator_respawns" rel_version="Feature_Dungeon_Mutators">Respawns:</string>
 	<string key="ui_dungeon_mutator_time_penalty" rel_version="Feature_Dungeon_Mutators">Zeitstrafe:</string>
-	<string key="ui_dungeon_mutator_gatherables" rel_version="Feature_Dungeon_Mutators">Sammelbares:</string>
 	<string key="ui_dungeon_mutator_normal_enemies_killed_banner" rel_version="Feature_Dungeon_Mutators">Getötete normale Gegner:</string>
 	<string key="ui_dungeon_mutator_multiplier" rel_version="Feature_Dungeon_Mutators">Multiplikator:</string>
 	<string key="ui_dungeon_mutator_overall_score" rel_version="Feature_Dungeon_Mutators">Gesamtbewertung:</string>

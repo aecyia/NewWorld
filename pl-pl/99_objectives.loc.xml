@@ -209,7 +209,7 @@
 	<string key="9901_0020_healtherift_incomplete" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_InProgResponse" VO_Status="Recorded">Czy pobliski wyłom wciąż wypluwa skażenie? \n\nZdaje się, że tak. I zdaje się, że wciąż czeka cię robota.</string>
 	<string key="9901_0020_healtherift_complete_available_response" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_AvailResponse" VO_Status="Recorded" dialogue-next="@9901_0020_healtherift_complete_available_response_next">Dobra robota. Udało ci się zamknąć wyłom. Już nie czuję jego posmaku. Skażenie nie będzie już się swobodnie szerzyć. \n\nMam ochotę powiedzieć, że stworzono cię do roli strażnika dusz. Ale nie powiem, bo to ciężka dola.</string>
 	<string key="9901_0020_healtherift_complete_available_response_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">"Ty czujesz skażenie?"</string>
-	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh yes, a side effect of the process - like it or not, you'll be able to taste Corruption soon, too.\n\nLike a rotten tooth, sweet with decay, followed by an aftertaste of blood. Desery już nigdy nie będą smakować tak samo.</string>
+	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">W rzeczy samej. To efekt uboczny procesu, który przechodzimy – czy ci się to podoba czy nie, ty też wkrótce będziesz czuć smak skażenia.\n\nTo jak zepsuty ząb: słodkość wymieszana z rozkładem, za którymi idzie posmak krwi. Desery już nigdy nie będą smakować tak samo.</string>
 	<string key="9901_0020_healtherift_objective_desc" comment="DO NOT TRANSLATE" speaker="UI  - Quest Description">Czas sprawdzić, co potrafi twoja nowa azothowa laska. Przeszkodź skażonym w otwieraniu wyłomów w gospodarstwie Harplass, a następnie znajdź i zamknij inne wyłomy skażenia pojawiające się na Aeternum.</string>
 	<string key="9901_0020_goto_POI" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Użyj azothowej laski, by odeprzeć skażenie w: {POITags}</string>
 	<string key="9901_0020_healtherift_destroy_target_IO" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Zniszcz skażone węzły za pomocą azothowej laski</string>
@@ -749,11 +749,6 @@
 	<string key="9907_GetFungalSpores" speaker="UI">Zdobądź: {itemName}</string>
 	<string key="9907_GetLodestone" speaker="UI">Zdobądź: {itemName}</string>
 	<string key="9907_GetAzothWater" speaker="UI">Zdobądź: {itemName}</string>
-	<string key="9907_GetEarthspine_V2" rel_version="Quest_MSQ2_Revamp">Zdobądź łodygę uprawnego kolca ziemnego</string>
-	<string key="9907_GetDragonGlory_V2" rel_version="Quest_MSQ2_Revamp">Zdobądź płatek nasyconej smoczej chwały</string>
-	<string key="9907_GetFungalSpores_V2" rel_version="Quest_MSQ2_Revamp">Zdobądź zarodniki zaklętego grzyba</string>
-	<string key="9907_GetLodestone_V2" rel_version="Quest_MSQ2_Revamp">Zdobądź żyzny ił</string>
-	<string key="9907_GetAzothWater_V2" rel_version="Quest_MSQ2_Revamp">Zdobądź wodę z gaju</string>
 	<string key="9907_0053_TaskFoodForIxia" speaker="UI">Połącz z azothową wodą w repozytorium arkanistycznym</string>
 	<string key="9907_0053_TaskFoodForIxia2" speaker="UI">Zanieś roślinną żywność Ixii</string>
 	<string key="9907_0053_TaskFoodForIxia3" speaker="UI">Wytwórz roślinną żywność dla Ixii</string>

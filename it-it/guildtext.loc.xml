@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Prelievo dalla cassa comune non riuscito (limite giornaliero superato).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Il limite di prelievo giornaliero è impostato a &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Il limite di prelievo giornaliero è impostato a {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Per usare la cassa comune della Compagnia devi raggiungere almeno il livello {minLevel}.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Per usare la cassa comune della gilda devi raggiungere almeno il livello {minLevel}.</string>
 	<string key="ui_treasury_notification_error_generic">Operazione presso la cassa comune non riuscita. Riprova.</string>
 	<string key="ui_setSiegeWindow">Imposta periodo d'assedio</string>
 	<string key="ui_forDefending">Per difendere i tuoi territori</string>
@@ -540,7 +540,6 @@
 	<string key="ui_siege_signup_description_defenders">Aiuterai la compagnia in difesa a mantenere questo territorio.\nI difensori giocheranno dall'&lt;font color="#ffffff"&gt;interno del forte&lt;/font&gt;, con l'obiettivo di proteggere il punto di rivendicazione dalla conquista.</string>
 	<string key="ui_siege_signup_description_invasion">L'esercito dei Corrotti attaccherà il &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; per impadronirsi del territorio e distruggere l'insediamento.\nCombatti per il territorio, proteggi l'insediamento, partecipa alla grande battaglia e ottieni ricompense!</string>
 	<string key="ui_invasion_desc_short">L'esercito dei Corrotti attaccherà il &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; per impadronirsi del territorio e distruggere l'insediamento.</string>
-	<string key="ui_siege_signup_myfaction">La mia fazione:</string>
 	<string key="ui_siege_signup_successfultitle">Iscrizione avvenuta correttamente!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Ti confermeremo la tua partecipazione alla guerra il più presto possibile.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Riceverai una notifica 5 minuti prima dell'invasione.</string>

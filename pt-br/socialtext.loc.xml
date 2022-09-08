@@ -463,6 +463,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Convidado(a)</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Rejeitar</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Rejeitado(a)</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_unknownerror">Erro Desconhecido</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Erro no Servidor</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">Saguão Não Encontrado</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">O pedido expirou</string>
@@ -471,6 +472,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Sua sinalização de PvP não corresponde ao Saguão.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">É preciso estar na mesma facção para entrar no Saguão de PvP.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Os requisitos do Saguão mudaram e você não os atende.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Erro no filtro de chat. Atualize seu texto e tente novamente.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">Você não pode enviar mais solicitações.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Saguão Lotado</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} recusou a verificação de preparo.</string>
@@ -542,6 +544,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Ordenado por</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Hora da Postagem</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Abrir Expedição com Seu Grupo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Sua conta deve ter mais de {accountProbationTimeRequired} com um tempo de jogo maior que {characterProbationTimeRequired} para criar um saguão.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">Você deve desbloquear este nível de dificuldade para criar um novo Saguão.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Recusar</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Convite Aceito</string>

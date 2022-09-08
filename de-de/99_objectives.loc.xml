@@ -209,7 +209,7 @@
 	<string key="9901_0020_healtherift_incomplete" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_InProgResponse" VO_Status="Recorded">Gibt es noch weitere Verderbnisrisse dort draußen? \n\nIch glaube schon, also mach dich wieder an die Arbeit.</string>
 	<string key="9901_0020_healtherift_complete_available_response" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_AvailResponse" VO_Status="Recorded" dialogue-next="@9901_0020_healtherift_complete_available_response_next">Gut gemacht. Du hast den Riss geschlossen. Das schmecke ich förmlich. Jetzt kann sich die Verderbnis nicht länger ungehindert ausbreiten. \n\nIch möchte fast sagen, dass du ein geborener Seelenwächter bist, wäre das nicht so ein schlimmes Schicksal.</string>
 	<string key="9901_0020_healtherift_complete_available_response_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">"Du kannst es schmecken?"</string>
-	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh yes, a side effect of the process - like it or not, you'll be able to taste Corruption soon, too.\n\nLike a rotten tooth, sweet with decay, followed by an aftertaste of blood. Ich fürchte, das wird dir leckere Nachspeisen gehörig ruinieren.</string>
+	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh ja, ein Nebeneffekt des Prozesses. Ob es dir gefällt oder nicht, du wirst die Verderbnis auch bald schmecken können.\n\nDer Geschmack erinnert an einen faulenden Zahn mit einer süßlichen Verwesungsnote und dem eisernen Geschmack von Blut im Abgang. Ich fürchte, das wird dir leckere Nachspeisen gehörig ruinieren.</string>
 	<string key="9901_0020_healtherift_objective_desc" comment="DO NOT TRANSLATE" speaker="UI  - Quest Description">Nun ist es an der Zeit, herauszufinden, wozu dein Azoth-Stab fähig ist. Hindere die Verderbten an der Öffnung von Ausbrüchen auf dem Harplass-Gehöft. Suche dann andere bereits geöffnete Verderbnisausbrüche in Aeternum und beseitige sie.</string>
 	<string key="9901_0020_goto_POI" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Dränge mit deinem Azoth-Stab die Verderbnis in {POITags} zurück.</string>
 	<string key="9901_0020_healtherift_destroy_target_IO" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Vernichte mit deinem Azoth-Stab die verderbten Adern.</string>
@@ -749,11 +749,6 @@
 	<string key="9907_GetFungalSpores" speaker="UI">Sammle: {itemName}</string>
 	<string key="9907_GetLodestone" speaker="UI">Sammle: {itemName}</string>
 	<string key="9907_GetAzothWater" speaker="UI">Sammle: {itemName}</string>
-	<string key="9907_GetEarthspine_V2" rel_version="Quest_MSQ2_Revamp">Sammle einen Kultivierten Erddornstrunk.</string>
-	<string key="9907_GetDragonGlory_V2" rel_version="Quest_MSQ2_Revamp">Sammle ein behandeltes Drachenatem-Blütenblatt.</string>
-	<string key="9907_GetFungalSpores_V2" rel_version="Quest_MSQ2_Revamp">Sammle verzauberte Pilzsporen.</string>
-	<string key="9907_GetLodestone_V2" rel_version="Quest_MSQ2_Revamp">Sammle reichhaltigen Lehm.</string>
-	<string key="9907_GetAzothWater_V2" rel_version="Quest_MSQ2_Revamp">Sammle Wasser des Hains.</string>
 	<string key="9907_0053_TaskFoodForIxia" speaker="UI">Vermenge sie in einem Arkanumarchiv mit Azoth-Wasser.</string>
 	<string key="9907_0053_TaskFoodForIxia2" speaker="UI">Bringe das pflanzliche Essen zu Ixia.</string>
 	<string key="9907_0053_TaskFoodForIxia3" speaker="UI">Koche pflanzliches Essen für Ixia.</string>

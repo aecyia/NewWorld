@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Falha no saque da Tesouraria (ultrapassou o limite diário).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">O limite de saque diário foi definido para &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">O limite de saque diário foi definido para {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Você precisa estar no nível {minLevel} para usar a Tesouraria da Companhia.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Você precisa estar no nível {minLevel} para usar o tesouro da guilda.</string>
 	<string key="ui_treasury_notification_error_generic">Falha de operação na tesouraria. Tente novamente.</string>
 	<string key="ui_setSiegeWindow">Definir Janela de Cerco</string>
 	<string key="ui_forDefending">Para defender seus territórios</string>
@@ -540,7 +540,6 @@
 	<string key="ui_siege_signup_description_defenders">Você ajudará a Companhia defensora a manter este território.\nOs defensores começarão &lt;font color="#ffffff"&gt;dentro do Forte&lt;/font&gt; e terão que proteger o Ponto de Conquista de ser capturado.</string>
 	<string key="ui_siege_signup_description_invasion">O exército de Corrompidos atacará o &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; para tomar o território e destruir o assentamento.\nLute pelo território, proteja o assentamento, faça parte da grande batalha e conquiste recompensas!</string>
 	<string key="ui_invasion_desc_short">O exército de Corrompidos atacará o &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; para tomar o território e destruir o assentamento.</string>
-	<string key="ui_siege_signup_myfaction">Minha Facção:</string>
 	<string key="ui_siege_signup_successfultitle">Registro Feito Com Sucesso!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Notificaremos você se você for selecionado para a guerra o mais rápido possível.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Você receberá uma notificação 5 minutos antes da invasão.</string>

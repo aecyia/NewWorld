@@ -23,7 +23,6 @@
 	<string key="inv_furniture">Möbel</string>
 	<string key="inv_outpostrush">Außenpostensturm</string>
 	<string key="inv_pvparenas">PvP-Arenen</string>
-	<string key="inv_runes" rel_version="Feature_Heartgems">Runen</string>
 	<string key="inv_crafting_modifiers">Herstellungsmods</string>
 	<string key="inv_repair_kit_count">{count} Reparaturkiste</string>
 	<string key="inv_repair_kits">Reparaturkisten</string>
@@ -66,17 +65,17 @@
 	<string key="inv_equipLoadSlow">Schwer</string>
 	<string key="inv_equipLoadOverburdened">Überlastet</string>
 	<string key="inv_equipLoadTooltip">Das kombinierte Gewicht deiner ausgerüsteten Rüstung samt Schild bestimmt das Ausrüstungsgewicht. Jedes Ausrüstungsgewicht besitzt eine eigene Ausweichfunktion und andere Boni.</string>
-	<string key="inv_equipLoadFastTooltip">Wenn du Leichte Rüstung trägst, weichst du mit einer schnellen und weiten Rolle aus und verbrauchst {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} Ausdauer. Du verursachst {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % Bonusschaden und erhältst 30 % Bonusheilung. Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
-	<string key="inv_equipLoadNormalTooltip">Wenn du eine mittelschwere Rüstung trägst, weichst du mit einem schnellen Sprung aus, der {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} Ausdauer verbraucht. Die Dauer deiner Kontrollschwächungen steigt um 10 %. Du verursachst {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % Bonusschaden. Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer ist die Ausweichen-Distanz um 20 % geringer und du kannst nicht rennen.</string>
-	<string key="inv_equipLoadSlowTooltip">Wenn du Schwere Rüstung trägst, weichst du mit einem Schritt in eine bestimmte Richtung aus, der {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} Ausdauer verbraucht. Deine Blockstabilität steigt um 15 % und die Dauer deiner Kontrollschwächungen steigt um 20 %. Deine Heilung ist um 30 % verringert. Für {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} Sek. nach einem erlittenen Nahkampftreffer kannst du nicht rennen.</string>
+	<string key="inv_equipLoadFastTooltip">Wenn du Leichte Rüstung trägst, weichst du mit einer schnellen und weiten Rolle aus und verbrauchst {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} Ausdauer. Du verursachst {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % Bonusschaden und erhältst 30 % Bonusheilung.</string>
+	<string key="inv_equipLoadNormalTooltip">Wenn du eine mittelschwere Rüstung trägst, weichst du mit einem schnellen Sprung aus, der {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} Ausdauer verbraucht. Die Dauer deiner Kontrollschwächungen steigt um 10 %. Du verursachst {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % Bonusschaden.</string>
+	<string key="inv_equipLoadSlowTooltip">Wenn du Schwere Rüstung trägst, weichst du mit einem langsamen Schritt zur Seite aus, der {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} Ausdauer verbraucht. Deine Blockstabilität steigt um 15 % und die Dauer deiner Kontrollschwächungen steigt um 20 %. Deine Heilung ist um 30 % verringert.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">Hast du dein maximales Ausrüstungsgewicht überschritten, kannst du weder ausweichen noch rennen oder deine Fertigkeiten einsetzen. Du solltest einige Gegenstände ablegen.</string>
 	<string key="inv_equipLoadEncumberedTooltip">Du trägst zu viele Gegenstände im Inventar herum. Wenn du belastet bist, ist es egal, wie hoch dein Ausrüstungsgewicht ist. Du kannst weder rennen noch ausweichen und verlierst beim Blocken mehr Ausdauer. Du solltest einige Gegenstände aus deinen Taschen entfernen.</string>
 	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Du hast mehr ausgerüstet, als dein maximales Ausrüstungsgewicht zulässt. Du kannst nicht ausweichen oder rennen und deine Ausdauerregeneration fällt deutlich niedriger aus. Du solltest einige Gegenstände ablegen.</string>
 	<string key="inv_equipLoadFastNotification">Ausrüstungsgewicht ist jetzt leicht</string>
 	<string key="inv_equipLoadNormalNotification">Ausrüstungsgewicht ist jetzt Mittel</string>
 	<string key="inv_equipLoadSlowNotification">Ausrüstungsgewicht ist jetzt schwer</string>
-	<string key="inv_equipLoadOverburdenedNotification">Überlastet – Ausweichen und Rennen nicht möglich</string>
-	<string key="inv_equipLoadEncumberedNotification">Ausgelastet – Ausweichen, Springen und Rennen nicht möglich</string>
+	<string key="inv_equipLoadOverburdenedNotification">Überlastet – Ausweichen und Rennen nicht möglich</string>
+	<string key="inv_equipLoadEncumberedNotification">Ausgelastet – Ausweichen, Sprinten und Rennen nicht möglich</string>
 	<string key="inv_encumbranceTooltip">Deine Belastung setzt sich aus dem Gewicht aller Gegenstände in deinen Taschen zusammen. Ausgerüstete Gegenstände zählen nicht dazu. Indem du dich mit Taschen ausrüstest, kannst du die Obergrenze für die maximale Belastung erhöhen.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Solange du die Gewichtsgrenze nicht überschreitest, wirkt sich die Belastung nicht auf deinen Charakter aus.</string>
 	<string key="inv_encumbranceEncumberedTooltip">Wenn du zu viele Gegenstände in deinem Inventar mit dir herumträgst, kannst du nicht ausweichen, laufen oder rennen. Sobald die maximale Belastbarkeit erreicht wurde, kannst du dich weder bewegen noch angreifen. Entferne einige Gegenstände aus deinen Taschen.</string>
@@ -98,7 +97,6 @@
 	<string key="inv_repairparts_resources_atlimit">Durch das Zerlegen dieses Gegenstands erhältst du {min}–{max} {itemName} und &lt;font color="#f25d5d"&gt;{numRepairParts} Ersatzteile.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile und {coinAmount}.</string>
-	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Du hast dein Talerlimit erreicht.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">{entry1} erhalten.</string>
 	<string key="salvage_notification_obtained_2">{entry1} und {entry2} erhalten.</string>
 	<string key="salvage_notification_obtained_3">{entry1}, {entry2} und {entry3} erhalten.</string>
@@ -107,6 +105,7 @@
 	<string key="salvage_notification_item_reward">&lt;img src="{icon}" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt; &lt;font color={color}&gt;{quantity} {itemName}&lt;/font&gt;</string>
 	<string key="salvage_notification_repair_parts_reward">&lt;img src="lyshineui/images/icons/items/resource/repairpartst1" xPadding="0" scale="2" yOffset="6"&gt;&lt;/img&gt;&lt;font color={color}&gt; {quantity} Ersatzteile&lt;/font&gt;</string>
 	<string key="salvage_notification_coin_reward">&lt;font color={color}&gt;{quantity} &lt;/font&gt;&lt;img src="lyshineui/images/Icon_Crown" xPadding="0" scale="1.3" yOffset="2"&gt;&lt;/img&gt;</string>
+	<string key="salvage_notification_azoth_reward">&lt;font color={color}&gt;{quantity} &lt;/font&gt;&lt;img src="lyshineui/images/Icon_Azoth" xPadding="0" scale="1.3" yOffset="2"&gt;&lt;/img&gt;</string>
 	<string key="salvage_notification_pefectly_salvaged">Perfekt zerlegt!</string>
 	<string key="salvage_notification_pefectly_salvaged_item">&lt;font color={color}&gt;{itemName}&lt;/font&gt; x {quantity}</string>
 	<string key="fc_campingtitle">Zeltlager</string>

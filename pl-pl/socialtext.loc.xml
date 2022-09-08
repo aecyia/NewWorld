@@ -463,6 +463,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Zaproszono</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Odrzuć</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Odrzucono</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_unknownerror">Nieznany błąd</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Błąd serwera</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">Nie znaleziono lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Upłynął limit czasu</string>
@@ -471,6 +472,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Twoje oznaczenie do PvP nie zgadza się z lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">Musisz należeć do tej samej frakcji, by móc dołączyć do lobby PvP.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Wymagania lobby uległy zmianie, a ty ich nie spełniasz.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Błąd filtra czatu. Zaktualizuj swój tekst i spróbuj ponownie.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">Nie możesz wysłać więcej zgłoszeń.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Lobby jest pełne</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} nie jest w gotowości.</string>
@@ -542,6 +544,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Sortowanie</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Czas ogłoszenia</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Otwórz ekspedycję razem z grupą</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Twoje konto musi być starsze niż {accountProbationTimeRequired}, a czas twojej rozgrywki dłuższy niż {characterProbationTimeRequired}, aby można było utworzyć lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">Jeśli chcesz stworzyć nowe lobby, musisz odblokować ten poziom trudności.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Odrzuć</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Zaproszenie przyjęte</string>

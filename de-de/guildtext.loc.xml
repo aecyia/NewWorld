@@ -137,7 +137,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Abheben aus der Schatzkammer fehlgeschlagen (über dem täglichen Limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Das tägliche Abhebungslimit wurde festgelegt auf &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Das tägliche Abhebungslimit wurde festgelegt auf {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Du musst mindestens Stufe {minLevel} erreicht haben, um die Kompanie-Schatzkammer nutzen zu dürfen.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Du musst mindestens Stufe {minLevel} erreicht haben, um die Gildenschatzkammer nutzen zu dürfen.</string>
 	<string key="ui_treasury_notification_error_generic">Interaktion mit Schatzkammer fehlgeschlagen. Versuche es bitte erneut.</string>
 	<string key="ui_setSiegeWindow">Belagerungszeitfenster festlegen</string>
 	<string key="ui_forDefending">Zum Verteidigen deiner Gebiete</string>
@@ -540,7 +540,6 @@
 	<string key="ui_siege_signup_description_defenders">Du hilfst der verteidigenden Kompanie, das Gebiet zu halten.\nVerteidiger spielen vom &lt;font color="#ffffff"&gt;Inneren des Forts aus&lt;/font&gt; und das Ziel ist die Verhinderung der Eroberung des Gebietsanspruchspunkts.</string>
 	<string key="ui_siege_signup_description_invasion">Die verderbte Armee wird &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; angreifen, um das Gebiet zu erobern und die Siedlung zu zerstören.\nKämpfe für das Gebiet, schütze die Siedlung, sei Teil der großen Schlacht und erhalte Belohnungen!</string>
 	<string key="ui_invasion_desc_short">Die verderbte Armee wird &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; angreifen, um das Gebiet zu erobern und die Siedlung zu zerstören.</string>
-	<string key="ui_siege_signup_myfaction">Meine Fraktion:</string>
 	<string key="ui_siege_signup_successfultitle">Erfolgreich eingetragen!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Wir benachrichtigen dich, sobald du für den Krieg ausgewählt wurdest.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Du erhältst 5 Minuten vor der Invasion eine Benachrichtigung.</string>

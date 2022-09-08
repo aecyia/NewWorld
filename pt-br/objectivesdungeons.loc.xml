@@ -73,21 +73,21 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Puxar Alavanca</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Entre no esconderijo dos piratas da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Fale com Antonio para obter mais informações sobre os piratas da Bandeira Negra.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use a alavanca para abrir o portão e entrar no esconderijo da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Localize o Almirante Pólvora Preta e sua tripulação.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Procure uma alavanca para abrir o portão.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Encontre uma passagem para o navio na Enseada da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Procure outra alavanca para abrir o portão.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Prossiga para a Passagem do Rum Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Explore ao redor da passagem bloqueada e procure um fusível para acender os explosivos.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrote os jacarés da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Prossiga pelo portão aberto e continue procurando um fusível para desbloquear a passagem soterrada.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Pegue o fusível da caixa de ferramentas.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Leve o fusível de volta para a passagem soterrada na Passagem do Rum Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_detonate_explosives" rel_version="Expedition_CutlassKeys_00">Acenda o fusível para detonar os explosivos e abrir a passagem bloqueada.</string>
 	<string key="dungeon_cutlasskeys00_task_go_to_docks" rel_version="Expedition_CutlassKeys_00">Prossiga para a Enseada da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Derrote os Piratas da Bandeira Negra.</string>
-	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00"/>
+	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Use a alavanca para abaixar a ponte e embarcar no navio.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Derrote o último membro da tripulação pirata e o Imediato Wells.</string>
 	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Encontre a alavanca para descer a ponte e sair do navio.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Derrote o Almirante Pólvora Preta.</string>
@@ -177,19 +177,6 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encontre a Imperatriz Zhou no palácio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Derrote a Imperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Saia do Estaleiro.</string>
-	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">A Enéade</string>
-	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">A Enéade</string>
-	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investigue a Enéade e descubra quais segredos os Anciões esconderam neste lugar atemporal.</string>
-	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 Bastões de Azoth</string>
-	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Derrote Shai para abrir a porta e explore as profundezas de Enéade</string>
-	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Abra caminho pelos defensores da Enéade.</string>
-	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Derrote o Escaravelho de Lótus.</string>
-	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Use o poder de 3 bastões de Azoth para destruir a Corrupção que bloqueia o caminho adiante</string>
-	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Batalhe contra o que restou da 10ª Legião</string>
-	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrote Crasso.</string>
-	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Alcance o ápice da Enéade.</string>
-	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Derrote os Golias da Enéade.</string>
-	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Saia da Enéade.</string>
 	<string key="dungeon_ebonscale_required_equipment">1 Bastão de Azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Bastões de Azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Coração da Tempestade</string>

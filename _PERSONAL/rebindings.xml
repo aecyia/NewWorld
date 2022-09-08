@@ -1,0 +1,148 @@
+<profile version="74">
+ <actionmap name="banner">
+  <action name="bannerAccept">
+   <rebind device="keyboard" input=" " defaultInput="f1"/>
+  </action>
+ </actionmap>
+ <actionmap name="combat">
+  <action name="camera_lock_target_group2">
+   <rebind device="keyboard" input="f2" defaultInput=" "/>
+  </action>
+  <action name="camera_lock_target_group4">
+   <rebind device="keyboard" input="f4" defaultInput=" "/>
+  </action>
+  <action name="camera_lock_target_group5">
+   <rebind device="keyboard" input="f5" defaultInput=" "/>
+  </action>
+  <action name="camera_lock_target_group1">
+   <rebind device="keyboard" input="f1" defaultInput=" "/>
+  </action>
+  <action name="camera_lock_target_group3">
+   <rebind device="keyboard" input="f3" defaultInput=" "/>
+  </action>
+ </actionmap>
+ <actionmap name="default">
+  <action name="take_screenshot">
+   <rebind device="keyboard" input="f12" defaultInput="f7"/>
+  </action>
+ </actionmap>
+ <actionmap name="notification">
+  <action name="notificationAccept">
+   <rebind device="keyboard" input=" " defaultInput="f1"/>
+  </action>
+  <action name="notificationDecline">
+   <rebind device="keyboard" input=" " defaultInput="f2"/>
+  </action>
+ </actionmap>
+ <actionmap name="pingwheel">
+  <action name="target_tag_shout">
+   <rebind device="keyboard" input=" " defaultInput="lshift"/>
+  </action>
+ </actionmap>
+ <actionmap name="player">
+  <action name="attack_blockbreaker_release">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="attack_blockbreaker_hold">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="fishing_activate">
+   <rebind device="keyboard" input="0" defaultInput="f3"/>
+  </action>
+  <action name="attack_blockbreaker">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="attack_special3_release">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+  <action name="ability1_release">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="attack_special_release">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="attack_special_hold">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="ability1_hold">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="ability2_hold">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+  <action name="ability1">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="ability3_hold">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="attack_special3">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+  <action name="ability3">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="ability3_release">
+   <rebind device="keyboard" input="3" defaultInput="f"/>
+  </action>
+  <action name="ability2_release">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+  <action name="attack_special3_hold">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+  <action name="attack_special">
+   <rebind device="keyboard" input="1" defaultInput="q"/>
+  </action>
+  <action name="social_align">
+   <rebind device="keyboard" input=" " defaultInput="h"/>
+  </action>
+  <action name="ability2">
+   <rebind device="keyboard" input="2" defaultInput="r"/>
+  </action>
+ </actionmap>
+ <actionmap name="ui">
+  <action name="musicalactions_exit_hold">
+   <rebind device="keyboard" input="o" defaultInput="f5"/>
+  </action>
+  <action name="musicalactions_exit_release">
+   <rebind device="keyboard" input="o" defaultInput="f5"/>
+  </action>
+  <action name="ui_repairKitItemModifier">
+   <rebind device="keyboard" input=" " defaultInput="t"/>
+  </action>
+  <action name="quickslot-weapon1">
+   <rebind device="keyboard" input=" " defaultInput="1"/>
+  </action>
+  <action name="quickslot-consumable-1">
+   <rebind device="keyboard" input="np_1" defaultInput="3"/>
+  </action>
+  <action name="toggleSocialWindow">
+   <rebind device="keyboard" input=" " defaultInput="o"/>
+  </action>
+  <action name="musicalactions_activate">
+   <rebind device="keyboard" input="o" defaultInput="f5"/>
+  </action>
+  <action name="quickslot-weapon2">
+   <rebind device="keyboard" input=" " defaultInput="2"/>
+  </action>
+  <action name="quickslot-weaponSwap">
+   <rebind device="keyboard" input="q" defaultInput=" "/>
+  </action>
+  <action name="quickslot-consumable-2">
+   <rebind device="keyboard" input="np_2" defaultInput="4"/>
+  </action>
+  <action name="quickslot-consumable-4">
+   <rebind device="keyboard" input="np_4" defaultInput="6"/>
+  </action>
+  <action name="quickslot-consumable-3">
+   <rebind device="keyboard" input="np_3" defaultInput="5"/>
+  </action>
+  <action name="duel_forfeit">
+   <rebind device="keyboard" input=" " defaultInput="f2"/>
+  </action>
+  <action name="togglePvpFlag">
+   <rebind device="keyboard" input=" " defaultInput="u"/>
+  </action>
+ </actionmap>
+</profile>

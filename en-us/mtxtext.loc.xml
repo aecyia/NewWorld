@@ -60,7 +60,7 @@
 	<string key="reward_type_extra" rel_version="Feature_MTX">Extra</string>
 	<string key="reward_type_entitlement" rel_version="Feature_MTX">ENTITLEMENT</string>
 	<string key="reward_type_marks_of_fortune" rel_version="Feature_MTX">Marks of Fortune</string>
-	<string key="reward_type_service" rel_version="Feature_MTX">World or Region Transfer (Single Use)</string>
+	<string key="reward_type_service" rel_version="Feature_MTX">World Transfer (Single Use)</string>
 	<string key="entitlement_included" rel_version="Feature_MTX">Included</string>
 	<string key="ui_account_bound" rel_version="Feature_MTX">All items are account bound (non-tradeable) and non-refundable</string>
 	<string key="ui_account_bound_tooltip" rel_version="Feature_MTX">All items are account bound (can be used on all of your characters) and cannot be discarded, traded, or sold at the trading post. All items are also non-refundable.\n\n&lt;font face="lyshineui/fonts/Nimbus_Bold.font" &gt;Consumable items: &lt;/font&gt; These items have limited usage and using one on a specific character depletes the count across the account. For example, if you have five dyes and use one on a character, you will now have four dyes if you log onto a different character under the same account.</string>
@@ -83,14 +83,13 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Fixed Appearance</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; are applied to your character and will be applied to any item equipped in the same slot until you change the appearance or remove it.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skins&lt;/font&gt; cannot be dyed.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Transfer Requirements</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new world or region:&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Region transfer requirements:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new world:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;To transfer to a new region:&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">You must be in a Sanctuary (Settlement, Outpost, Spirit Shrine, or Watchtower) before transferring</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">You cannot belong to a company before transferring</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">You cannot have active trading post buy/sell orders before transferring</string>
-	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">Characters cannot transfer to Fresh Start Servers.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">You must be at least level {level} before transferring</string>
-	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You cannot own any houses before transferring</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">You must not own any houses before transferring</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">You must wait till the end of the cooldown before you may transfer worlds or regions again.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Item Restrictions</string>
@@ -444,8 +443,8 @@
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Character Region Transfer</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world or region of your choice.</string>
 	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Allows you to transfer this character to another world that is within the current region.</string>
-	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed {count} free world or region transfer(s) on your account. Once claimed, it will no longer be available on other characters.</string>
-	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt;</string>
+	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">You are allowed 1 free world transfer on your account. Once claimed, it will no longer be available on other characters.</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transferring &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; to: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; {WorldSetName}</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">REQUIREMENTS</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">WHAT WILL NOT TRANSFER</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">REFUND POLICY</string>
@@ -469,7 +468,6 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">You cannot transfer worlds while in queue for Outpost Rush</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">This region's transfer list is full, please try again in a few hours</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Character slots in this region are full. You will need to delete or transfer an existing character in this region before you can transfer in another one.</string>
-	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_Server_Transfer">This server does not allow characters from other worlds to transfer in.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">For more details see</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Region Transfer FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Confirming Transfer will log you out to the Character Select Main Menu.</string>
@@ -840,7 +838,5 @@
 	<string key="Apparel_Phoenix_H_description" rel_version="Apparel_Phoenix_H">"Outshine, outwit, and bring your opponents to their knees."</string>
 	<string key="Bundle_Tool_Phoenix_name" rel_version="ToolSkins_Phoenix_MTX">On Fire's Wing Toolset</string>
 	<string key="Bundle_Tool_Phoenix_description" rel_version="ToolSkins_Phoenix_MTX">"Airily light, to make it easy to lift your fortunes."</string>
-	<string key="Apparel_RomanSoldier_name" rel_version="Armor_Legion">Roman Vexillarius</string>
-	<string key="Apparel_RomanSoldier_description" rel_version="Armor_Legion">The standard-bearing soldier of the Roman army marches with purpose and pride.</string>
 </resources>
 

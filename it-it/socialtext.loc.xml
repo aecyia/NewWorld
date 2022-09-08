@@ -463,6 +463,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Invito inviato</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Rifiuta</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Rifiutato</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_unknownerror">Errore sconosciuto</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Errore del server</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">Lobby non trovata</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Richiesta scaduta</string>
@@ -471,6 +472,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Il tuo PvP non corrisponde alla lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">Dovete essere nella stessa fazione per una lobby PvP.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">I requisiti della lobby sono cambiati e tu non li soddisfi.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Errore filtro chat. Aggiorna il testo e riprova.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">Non puoi inviare altre richieste.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Lobby al completo</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} ha rifiutato di eseguire i controlli preliminari</string>
@@ -542,6 +544,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Ordinati per</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Pubblicazione</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Apri la spedizione con il tuo gruppo</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Per creare una lobby, devi avere un account da più di {accountProbationTimeRequired} e devi aver giocato per almeno {characterProbationTimeRequired}.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">Devi sbloccare questo livello di difficoltà per creare una nuova lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Rifiuta</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invito accettato</string>

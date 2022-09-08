@@ -463,6 +463,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invited">Invité</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_reject">Refuser</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_rejected">Refusé</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_unknownerror">Erreur inconnue</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_servererror">Erreur du serveur</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_notfound">Salon introuvable</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_timeout">Requête expirée</string>
@@ -471,6 +472,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_flag_mismatch">Votre mode JcJ ne correspond pas au salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_pvp_faction_mismatch">Vous devez être dans la même faction pour un salon JcJ.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_requirements_not_met">Les conditions d'entrée dans le salon ont changé et vous n'y répondez pas.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_cleanspeakerror">Erreur de filtre de discussion. Veuillez mettre à jour votre texte et réessayer.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_atmaxapplications">Vous ne pouvez pas envoyer plus de requêtes.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_groupfull">Salon plein</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_error_convert_to_group_declined">{playerName} a décliné la vérification.</string>
@@ -542,6 +544,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_sorted_by">Classé par</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_time_posted">Heure</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_join_with_group">Ouvrir l'expédition avec votre groupe</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_in_probation">Votre compte doit avoir au moins {accountProbationTimeRequired} au compteur, avec un temps de jeu doit être supérieur à {characterProbationTimeRequired} pour créer un salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty_locked">Vous devez d'abord déverrouiller ce niveau de difficulté pour créer un nouveau salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_decline">Refuser</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationaccepted">Invitation acceptée</string>

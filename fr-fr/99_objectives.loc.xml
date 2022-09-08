@@ -209,7 +209,7 @@
 	<string key="9901_0020_healtherift_incomplete" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_InProgResponse" VO_Status="Recorded">Il reste encore une de ces brèches qui crachent de l'altération, dans les parages ? \n\nJe le crois bien, et je crois que vous n'avez pas encore terminé votre travail.</string>
 	<string key="9901_0020_healtherift_complete_available_response" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_AvailResponse" VO_Status="Recorded" dialogue-next="@9901_0020_healtherift_complete_available_response_next">Félicitations. Vous avez refermé la brèche, je le sens d'ici. L'altération ne se répandra plus impunément. \n\nJe dirais que le destin voulait que vous fassiez partie des Protecteurs des âmes, s'il ne s'agissait pas d'un rôle aussi tragique.</string>
 	<string key="9901_0020_healtherift_complete_available_response_prompt" comment="DO NOT TRANSLATE" speaker="UI - Player Prompt">« Vous le sentez ? »</string>
-	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oh yes, a side effect of the process - like it or not, you'll be able to taste Corruption soon, too.\n\nLike a rotten tooth, sweet with decay, followed by an aftertaste of blood. Après ça, les desserts ne flattent plus autant le palais.</string>
+	<string key="9901_0020_healtherift_complete_available_response_next" comment="DO NOT TRANSLATE" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0020_healtherift_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9901_0020_healtherift_complete_available_response_prompt">Oui, c'est un effet secondaire du rituel... Que ça vous plaise ou non, vous allez bientôt pouvoir sentir le goût de l'altération, vous aussi.\n\nComme une dent cariée, pleine de corruption, avec un arrière-goût de sang. Après ça, les desserts ne flattent plus autant le palais.</string>
 	<string key="9901_0020_healtherift_objective_desc" comment="DO NOT TRANSLATE" speaker="UI  - Quest Description">Il est temps de voir ce dont le bâton d'Azoth est capable. Empêchez les altérés d'ouvrir des brèches au domaine Harpevoile, puis cherchez et détruisez les autres foyers d'altération en Aeternum.</string>
 	<string key="9901_0020_goto_POI" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Utiliser votre bâton d'Azoth pour repousser l'altération à : {POITags}</string>
 	<string key="9901_0020_healtherift_destroy_target_IO" comment="DO NOT TRANSLATE" speaker="UI - Tracker Text">Détruire les gisements altérés avec votre bâton d'Azoth</string>
@@ -749,11 +749,6 @@
 	<string key="9907_GetFungalSpores" speaker="UI">Récupérer : {itemName}</string>
 	<string key="9907_GetLodestone" speaker="UI">Récupérer : {itemName}</string>
 	<string key="9907_GetAzothWater" speaker="UI">Récupérer : {itemName}</string>
-	<string key="9907_GetEarthspine_V2" rel_version="Quest_MSQ2_Revamp">Récupérer une tige de pique-terre cultivée</string>
-	<string key="9907_GetDragonGlory_V2" rel_version="Quest_MSQ2_Revamp">Récupérer un pétale de dragloire infusé</string>
-	<string key="9907_GetFungalSpores_V2" rel_version="Quest_MSQ2_Revamp">Récupérer des spores fongiques enchantées</string>
-	<string key="9907_GetLodestone_V2" rel_version="Quest_MSQ2_Revamp">Récupérer du terreau riche</string>
-	<string key="9907_GetAzothWater_V2" rel_version="Quest_MSQ2_Revamp">Récupérer de l'eau des bois</string>
 	<string key="9907_0053_TaskFoodForIxia" speaker="UI">Combiner avec de l'eau azothée dans une réserve dédiée aux arts obscurs</string>
 	<string key="9907_0053_TaskFoodForIxia2" speaker="UI">Remettre l'engrais à Ixia</string>
 	<string key="9907_0053_TaskFoodForIxia3" speaker="UI">Préparer un engrais pour Ixia</string>

@@ -68,26 +68,5 @@
 	<string key="objective_darkness_invasion_waves_title">DEFEND THE FORT</string>
 	<string key="objective_darkness_invasion_waves_desc">WAVE &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; OF &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">FINAL WAVE</string>
-	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Sneed's Revenge</string>
-	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">The Lost are attacking Preiddeu Farms! Stop them from destroying the important supplies meant for the people of Prwyden!</string>
-	<string key="objective_preddieu_farm_attack_title">Stop Lost from Destroying Supplies</string>
-	<string key="objective_preddieu_farm_attack_wave_01">Remaining Supplies: {remainingCount}/3 \nTime Remaining: </string>
-	<string key="objective_preddieu_farm_attack_wave_02">Defeat Farmer Sneed</string>
-	<string key="ui_boatencounter_scallywag" rel_version="Quest_MSQ2_Revamp">The Captain's Arrival</string>
-	<string key="ui_boatencounter_brysedd" rel_version="Quest_MSQ2_Revamp">Rumble on the Docks</string>
-	<string key="ui_holdout_chamber" rel_version="Quest_MSQ2_Revamp">Trial of the Old Warrior</string>
-	<string key="ui_holdout_chamber_description" rel_version="Quest_MSQ2_Revamp">Worthiness is never a given, it must be earned.</string>
-	<string key="event_completed">Event Completed</string>
-	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Brimstone Under Siege</string>
-	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">The Legion are advancing! Stop them before they reach the outpost of Wikala al-Waha!</string>
-	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Stop the Legion's Advance</string>
-	<string key="objective_legion_outpost_attack_wave_01" rel_version="Territory_Brimstone_Sands">Remaining Waves: {remainingCount}/3 \nTime Remaining: </string>
-	<string key="objective_legion_outpost_attack_wave_02" rel_version="Territory_Brimstone_Sands">Defeat the Legionnaire</string>
-	<string key="objective_msq_beach_chaplain">Eye of the Storm</string>
-	<string key="objective_msq_beach_chaplain_description">Challenge and defeat the Tempest Priest in the corrupted cavern.</string>
-	<string key="objective_msq_beach_chaplain_task_defeat_title">Defeat the Tempest Priest.</string>
-	<string key="objective_msq_beach_chaplain_task_defeat_desc">Tempest Priest Defeated</string>
-	<string key="objective_msq_beach_chaplain_task_destroy_title">Destroy the Corruption Maws.</string>
-	<string key="objective_msq_beach_chaplain_task_destroy_desc">Corruption Maws Remaining: {remainingCount}</string>
 </resources>
 

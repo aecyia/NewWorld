@@ -344,7 +344,7 @@
 	<string key="1033_0202_trailofthemisanthrope_complete_prompt" speaker="UI – Player Prompt">« À quoi va servir votre moitié du butin ? »</string>
 	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">Toute cette richesse m'aiderait à construire une maison qui me servira de base pour mes autres chasses au trésor ! \n\nJe me demande où je vais l'acheter... Je pourrais en acheter une ici, mais j'ai entendu dire que les Eaux-Fétides regorgent aussi de trésors de pirate.</string>
 	<string key="1034_0201_d_01_gotoPOI" speaker="UI – Tracker Text">Aller aux Hauts-fonds réprouvés et rechercher le navire Plie de la tempête pour récupérer le Sextant de Billiam</string>
-	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Vaincre les fantômes de l'ancien équipage de Billiam aux Champs de foudre</string>
+	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Vaincre les fantômes de l'ancien équipage de Billiam</string>
 	<string key="1034_0201_d_03_have_item" speaker="UI – Tracker Text">Récupérer : {itemName} dans un coffre du Plie de la tempête qui se trouve aux Hauts-fonds réprouvés</string>
 	<string key="1034_0201_motherocean_title" speaker="UI - Quest Title">Mère Océan</string>
 	<string key="1034_0201_motherocean_description" speaker="UI – Quest Description">Récupérez le sextant de Billiam dans l'épave du Plie de la tempête qui se trouve aux Hauts-fonds réprouvés. Rapportez le sextant à Billiam le Téméraire aux Îles des Lames.</string>
@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">À pas feutrés</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Récupérez une pièce de cuir détrempé au refuge Rapiécé, une doublure des marais feutrée à Karbourg et une essence d'ombre dans la caverne Coupegorge. Visitez ensuite un poste d'équipement de palier III pour fabriquer les bottes du Dessein voilé.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Mettre la main sur la recette</string>
-	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Aller à : {POITags}, aux Îles des Lames, pour récupérer une pièce de cuir détrempé</string>
-	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Aller à : {POITags}, dans le marais des Trames, pour récupérer une doublure des marais feutrée</string>
-	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer une essence d'ombre</string>
+	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Aller à : {POITags}, aux Îles des Lames, pour récupérer une pièce de cuir détrempé</string>
+	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Aller à : {POITags}, dans le marais des Trames, pour récupérer une doublure des marais feutrée</string>
+	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Aller à : {POITags}, à la Rive tourmentée, pour récupérer une essence d'ombre</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Se rendre à un poste d'équipement</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Fabriquer : {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Manteau de ténèbres</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Récupérez des restes de dériveur dans l'épave ravagée, de la poix de contre-dépérissement dans la Revanche de la Carpe et des agrafes de chasseur de requins au Requin de la rapine. Visitez ensuite un poste d'équipement de palier III pour fabriquer le manteau du Dessein voilé.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Mettre la main sur la recette</string>
-	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des restes de dériveur</string>
-	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de la poix de contre-dépérissement</string>
-	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des agrafes de chasseur de requins</string>
+	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des restes de dériveur</string>
+	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de la poix de contre-dépérissement</string>
+	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Aller à : {POITags}, à la Rive tourmentée, pour récupérer des agrafes de chasseur de requins</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Se rendre à un poste d'équipement</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Fabriquer : {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Le voile du crépuscule</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Récupérez de l'extrait de mousse sombre à Fornax, un gréement des naufragés sur la Côte des Naufrages et des éclats de pierre de nuit à Haedus. Visitez ensuite un poste d'équipement de palier III pour fabriquer le pantalon du Dessein voilé.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Mettre la main sur la recette</string>
-	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de l'extrait de mousse sombre</string>
-	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer un gréement des naufragés</string>
-	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer des éclats de pierre de nuit</string>
+	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Aller à : {POITags}, à la Rive tourmentée, pour récupérer de l'extrait de mousse sombre</string>
+	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Aller à : {POITags}, au Val des Larmes, pour récupérer un gréement des naufragés</string>
+	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Aller à : {POITags}, au Val des Larmes, pour récupérer des éclats de pierre de nuit</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Se rendre à un poste d'équipement</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Fabriquer : {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Attraper des ombres</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Récupérez du cuir de gardien épais à Subra, une pénombre siphonnée à Litheltop et une teinture de la tombée du crépuscule sur la montagne de Haut-col. Visitez ensuite un poste d'équipement de palier III pour fabriquer les gants du Dessein voilé.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Mettre la main sur la recette</string>
-	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer du cuir de gardien épais</string>
-	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Aller à : {POITags}, à Bois-Éden, pour récupérer une pénombre siphonnée</string>
-	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer une teinture de la tombée du crépuscule</string>
+	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Aller à : {POITags}, au Val des Larmes, pour récupérer du cuir de gardien épais</string>
+	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Aller à : {POITags}, à Bois-Éden, pour récupérer une pénombre siphonnée</string>
+	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Aller à : {POITags}, au Val des Larmes, pour récupérer une teinture de la tombée du crépuscule</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Se rendre à un poste d'équipement</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Fabriquer : {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">L'ombre de la nuit</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Récupérez du fil d'orichalque imprégné dans la mine de scories inférieure, des plumes souillées dans la Genèse de la rancune et du tissu sombre de la falaise des Ronces. Visitez ensuite un poste d'équipement de palier III pour fabriquer le chapeau du Dessein voilé.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Mettre la main sur la recette</string>
-	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Aller à : {POITags}, à Bois-Éden, pour récupérer du fil d'orichalque imprégné</string>
-	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Aller à : {POITags}, à Bois-Éden, pour récupérer des plumes souillées</string>
-	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Aller à : {POITags}, à Bois-Éden, pour récupérer du tissu sombre</string>
+	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Aller à : {POITags}, à Bois-Éden, pour récupérer du fil d'orichalque imprégné</string>
+	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Aller à : {POITags}, à Bois-Éden, pour récupérer des plumes souillées</string>
+	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Aller à : {POITags}, à Bois-Éden, pour récupérer du tissu sombre</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Se rendre à un poste d'équipement</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Fabriquer : {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Tempérament fougueux</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">Le tranchant obtenu grâce à la pierre à aiguiser est déjà un art en soi.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Étanchez la soif de la lame en la plongeant dans l'huile, car l'eau la rendrait cassante.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">Une lame bien faite est la meilleure alliée d'un capitaine, et ce, quelle que soit sa ligne de conduite.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Aller à : {POITags}, à la Rive tourmentée, pour récupérer du cuir de poignée</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Aller à : {POITags}, à la grande Faille, pour récupérer une pierre à aiguiser</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer de l'huile de trempe</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Récupérer : {itemName} auprès des ennemis et des coffres de : {targetName}</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Aller à : {POITags}, au Val des Larmes, pour récupérer la lame de l'Olonnois</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Récupérer : {itemName} sur : {targetName}</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Aller à : {POITags}, à la Rive tourmentée, pour récupérer du cuir de poignée</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Aller à : {POITags}, à la grande Faille, pour récupérer une pierre à aiguiser</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Récupérer : {itemName} auprès des ennemis de : {targetName}</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Aller à : {POITags}, au Val des Larmes, pour récupérer de l'huile de trempe</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Récupérer : {itemName} auprès des ennemis et des coffres de : {targetName}</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Aller à : {POITags}, au Val des Larmes, pour récupérer la lame de l'Olonnois</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Récupérer : {itemName} sur : {targetName}</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Mettre la main sur la recette</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Se rendre dans une forge</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Créer : {itemName}</string>
