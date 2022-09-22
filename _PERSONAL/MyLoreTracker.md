@@ -4,38 +4,42 @@ The current list as of the update
 + 01 September 2022 -- PTR
 + Last Updated -- 10 September 2022
 
+MISSING 	
++ Lore pages that I cannot find in Aeternum
++ These are either broken, bugged, not visible, impossible to get, missing, or undiscovered
+
 ## A New World
 
 Commission
-1 - Journey to Aeternum
-2 - Journey to Aeternum
+1 - Journey to Aeternum -- MISSING
+2 - Journey to Aeternum -- MISSING
 
 Death and Rebirth
-1 - Regarding Azoth
-2 - Crash Landing
-3 - Almeda
-4 - Captain's Revenge
-5 - Ship Scrawling, October 11
-6 - Lay of the Land
-7 - Blue Lanterns
-8 - Alive at What Cost
-9 - Aeternum Sighted
+1 - Regarding Azoth -- MISSING
+2 - Crash Landing -- MISSING
+3 - Almeda -- MISSING
+4 - Captain's Revenge -- MISSING
+5 - Ship Scrawling, October 11 -- MISSING
+6 - Lay of the Land -- MISSING
+7 - Blue Lanterns -- MISSING
+8 - Alive at What Cost -- MISSING
+9 - Aeternum Sighted -- MISSING
 
 ## Book of Shadows
 
-1 - Book of Shadows, Fragment 1
-2 - Book of Shadows, Fragment 2
-3 - Book of Shadows, Fragment 3
-4 - Book of Shadows, Fragment 4
-5 - Book of Shadows, Fragment 5
-6 - Book of Shadows, Fragment 6
+1 - Book of Shadows, Fragment 1 -- MISSING
+2 - Book of Shadows, Fragment 2 -- MISSING
+3 - Book of Shadows, Fragment 3 -- MISSING
+4 - Book of Shadows, Fragment 4 -- MISSING
+5 - Book of Shadows, Fragment 5 -- MISSING
+6 - Book of Shadows, Fragment 6 -- MISSING
 
 ## Corrupted Grimoire
 
 Corrupted Grimoire
-1 - Corrupted Grimoire, Chapter 1
-2 - Corrupted Grimoire, Chapter 7
-3 - Corrupted Grimoire, Chapter 13
+1 - Corrupted Grimoire, Chapter 1 -- MISSING
+2 - Corrupted Grimoire, Chapter 7 -- MISSING
+3 - Corrupted Grimoire, Chapter 13 -- MISSING
 
 ## Houses of Giacomo Altoviti
 
@@ -62,20 +66,20 @@ Armaments of Azoth's Fire
 ## Path of the Soulwardens
 
 Old Stone Remembers
-1 - Memory of the Steadfast
-2 - Memory of the Vigilant
-3 - Memory of Service
-4 - Memory of Sacrifice
+1 - Memory of the Steadfast -- MISSING
+2 - Memory of the Vigilant -- MISSING
+3 - Memory of Service -- MISSING
+4 - Memory of Sacrifice -- MISSING
 
 The Oath of the Old Warrior
-1 - The First Promise
-2 - The Second Promise
-3 - The Final Promise
+1 - The First Promise -- MISSING
+2 - The Second Promise -- MISSING
+3 - The Final Promise -- MISSING
 
 The Siege of Arcturus
-1 - Siege of Arcturus: Day 1
-2 - Siege of Arcturus: Day 6
-3 - Siege of Arcturus: Day 13
+1 - Siege of Arcturus: Day 1 -- MISSING
+2 - Siege of Arcturus: Day 6 -- MISSING
+3 - Siege of Arcturus: Day 13 -- MISSING
 
 ## Summer Medleyfaire
 
@@ -255,12 +259,12 @@ Phenomenon Report: Stormwall
 5 - Observation Report: Final Day
 
 The Daughterwell
-1 - A Warning
+1 - A Warning -- MISSING
 
 Missives from Thorpe
 1 - Dear Marauder Lowlifes
 2 - I Challenge You
-3 - As I Lay Dying...
+3 - As I Lay Dying... -- MISSING
 
 Yonas’ Goodbye
 1 - Sorry, Thank you, Goodbye
@@ -279,7 +283,7 @@ The Animals Revolt
 5 - The Merchant's Lament
 
 Aeternum's Wreckage
-1 - La Roussette's Manifest
+1 - La Roussette's Manifest -- MISSING
 
 ## Tales of An Island Divided
 
@@ -320,184 +324,184 @@ Park's Research Notes
 2 - Swordfish
 
 The Experiment
-1 - Entry 1
-2 - Entry 2
-3 - Entry 3
-4 - Entry 4
-5 - Entry 5
-6 - Entry 6
+1 - Entry 1 -- MISSING
+2 - Entry 2 -- MISSING
+3 - Entry 3 -- MISSING
+4 - Entry 4 -- MISSING
+5 - Entry 5 -- MISSING
+6 - Entry 6 -- MISSING
 
 ## Tales of Brimstone Sands
 
 The Hydra's Breath
-1 - A Debate on Ethical Warfare, Part One
-2 - A Debate on Ethical Warfare, Part Two
-3 - An End to the Debate
+1 - A Debate on Ethical Warfare, Part One -- MISSING
+2 - A Debate on Ethical Warfare, Part Two -- MISSING
+3 - An End to the Debate -- MISSING
 
 A Blaze of Glory
-1 - Pompey's Letter
-2 - Antony's Letter
+1 - Pompey's Letter -- MISSING
+2 - Antony's Letter -- MISSING
 
 Transmutation
-1 - Brimstone Sulfur Experiments
-2 - Nostalgia
-3 - Against the Sages
-4 - A New Path
+1 - Brimstone Sulfur Experiments -- MISSING
+2 - Nostalgia -- MISSING
+3 - Against the Sages -- MISSING
+4 - A New Path -- MISSING
 
 A New Path
-1 - Drusilla's Letter
+1 - Drusilla's Letter -- MISSING
 
 The Vigil Eternal
-1 - A Dream of Riches
-2 - Mind the Gap
-3 - Awakening
+1 - A Dream of Riches -- MISSING
+2 - Mind the Gap -- MISSING
+3 - Awakening -- MISSING
 
 Ammit's Hunger
-1 - The Problem of Suffering
-2 - The Natural Order
+1 - The Problem of Suffering -- MISSING
+2 - The Natural Order -- MISSING
 
 Opening the Way
-1 - A Small Test
-2 - The Last Resort
-3 - Gnosis
+1 - A Small Test -- MISSING
+2 - The Last Resort -- MISSING
+3 - Gnosis -- MISSING
 
 Froderico's Notes
-1 - On the Evolution of the Roman Centuries
-2 - Local Superstitions
-3 - Firsthand Observations of Roman Pila
+1 - On the Evolution of the Roman Centuries -- MISSING
+2 - Local Superstitions -- MISSING
+3 - Firsthand Observations of Roman Pila -- MISSING
 
 Consigned to Oblivion
-1 - The Passage of Time
-2 - Bitter Truths
-3 - Crassus's Oath
+1 - The Passage of Time -- MISSING
+2 - Bitter Truths -- MISSING
+3 - Crassus's Oath -- MISSING
 
 The Woes of an Amateur Antiquarian
-1 - Materials
-2 - Methods
+1 - Materials -- MISSING
+2 - Methods -- MISSING
 
 A Pilgrim's Diary
-1 - Blasphemous Musings
-2 - The Narrowing Road
-3 - Abandonment
+1 - Blasphemous Musings -- MISSING
+2 - The Narrowing Road -- MISSING
+3 - Abandonment -- MISSING
 
 Roar of the Manticore
-1 - Mysterious Riddle
+1 - Mysterious Riddle -- MISSING
 
 The Ancient Glyphs
-1 - DINGTA
-2 - JIIBA
-3 - KEYYA YIB'
-4 - TEYII
-5 - WETZUU
-6 - CRUUJ
-7 - AMBA
-8 - PIMBII
-9 - D'UN-YICH
-10 - HIMDE
-11 - AABER
-12 - ITKA
-13 - DZUU
-14 - J'IJ
-15 - TSADZUI
-16 - HID
-17 - B'EYEG
-18 - RIIGA
-19 - EYBUE
-20 - CRUUJ'II
-21 - D'UN-GA
-22 - TAB'
-23 - B'ENGYING
-24 - TSANGMIIJ
-25 - JICH
-26 - DUBUU
+1 - DINGTA -- MISSING
+2 - JIIBA -- MISSING
+3 - KEYYA YIB' -- MISSING
+4 - TEYII -- MISSING
+5 - WETZUU -- MISSING
+6 - CRUUJ -- MISSING
+7 - AMBA -- MISSING
+8 - PIMBII -- MISSING
+9 - D'UN-YICH -- MISSING
+10 - HIMDE -- MISSING
+11 - AABER -- MISSING
+12 - ITKA -- MISSING
+13 - DZUU -- MISSING
+14 - J'IJ -- MISSING
+15 - TSADZUI -- MISSING
+16 - HID -- MISSING
+17 - B'EYEG -- MISSING
+18 - RIIGA -- MISSING
+19 - EYBUE -- MISSING
+20 - CRUUJ'II -- MISSING
+21 - D'UN-GA -- MISSING
+22 - TAB' -- MISSING
+23 - B'ENGYING -- MISSING
+24 - TSANGMIIJ -- MISSING
+25 - JICH -- MISSING
+26 - DUBUU -- MISSING
 
 Trouble for the Praetorians
-1 - Malatesta's Letter
+1 - Malatesta's Letter -- MISSING
 
 Charmion's Journal
-1 - Gateway to the Gods
-2 - The Secrets of Akhet
-3 - The Will of the Gods
+1 - Gateway to the Gods -- MISSING
+2 - The Secrets of Akhet -- MISSING
+3 - The Will of the Gods -- MISSING
 
 Head of the Snake
-1 - Crassus's Letter
+1 - Crassus's Letter -- MISSING
 
 The Book of Gates
-1 - The wisdom of the word is
+1 - The wisdom of the word is -- MISSING
 
 The Great Architect
-1 - A Mysterious Threat
-2 - The Malevolence Grows
+1 - A Mysterious Threat -- MISSING
+2 - The Malevolence Grows -- MISSING
 
 The Priest's Tale
-1 - The Unsealing
-2 - Charmion Transfixed
-3 - On Breaking with Tradition
+1 - The Unsealing -- MISSING
+2 - Charmion Transfixed -- MISSING
+3 - On Breaking with Tradition -- MISSING
 
 The Legion's Tale
-1 - Legionnaire Scout's Report
-2 - Unhappy Discord
-3 - A Legatus's Duty
+1 - Legionnaire Scout's Report -- MISSING
+2 - Unhappy Discord -- MISSING
+3 - A Legatus's Duty -- MISSING
 
 Pious Echoes
-1 - The First Revelation
-2 - The Second Revelation
-3 - The Third Revelation
+1 - The First Revelation -- MISSING
+2 - The Second Revelation -- MISSING
+3 - The Third Revelation -- MISSING
 
 Scorpion's Cradle
-1 - Day 1
-2 - Day 2
-3 - What Day?
-4 - The Cradle
+1 - Day 1 -- MISSING
+2 - Day 2 -- MISSING
+3 - What Day? -- MISSING
+4 - The Cradle -- MISSING
 
 Dune Phantoms
-1 - Arikh, Part 1
-2 - Arikh, Part 2
-3 - Shukri
+1 - Arikh, Part 1 -- MISSING
+2 - Arikh, Part 2 -- MISSING
+3 - Shukri -- MISSING
 
 Bringer
-1 - The Child
+1 - The Child -- MISSING
 
 The Huntress
-1 - The Huntress
+1 - The Huntress -- MISSING
 
 Trial of the Devourer
-1 - Devourer, Part 1
-2 - Devourer, Part 2
-3 - Devourer, Part 3
+1 - Devourer, Part 1 -- MISSING
+2 - Devourer, Part 2 -- MISSING
+3 - Devourer, Part 3 -- MISSING
 
 Desert Lights
-1 - To My Love
-2 - Yvette
-3 - A Satisfying Home
-4 - The Amazing Trades of Giovanni
+1 - To My Love -- MISSING
+2 - Yvette -- MISSING
+3 - A Satisfying Home -- MISSING
+4 - The Amazing Trades of Giovanni -- MISSING
 
 Desert Thorns
-1 - Ogdan's Journal
-2 - Goat-sick
-3 - A Quiet Corner
+1 - Ogdan's Journal -- MISSING
+2 - Goat-sick -- MISSING
+3 - A Quiet Corner -- MISSING
 
 Favorites
-1 - Favorites
+1 - Favorites -- MISSING
 
 Prayers and Portents
-1 - Hymn to Absent Gods
-2 - Testament of the First Peoples
-3 - The Doom of Eternity
-4 - Brimstone Nursery Rhyme
+1 - Hymn to Absent Gods -- MISSING
+2 - Testament of the First Peoples -- MISSING
+3 - The Doom of Eternity -- MISSING
+4 - Brimstone Nursery Rhyme -- MISSING
 
 Age of the Pharoah
-1 - Pharaoh’s Decree vol. I
-2 - Pharaoh’s Decree vol. 2
-3 - Witness of the Faithful vol. 1
-4 - Witness of the Faithful vol. 2
+1 - Pharaoh’s Decree vol. I -- MISSING
+2 - Pharaoh’s Decree vol. 2 -- MISSING
+3 - Witness of the Faithful vol. 1 -- MISSING
+4 - Witness of the Faithful vol. 2 -- MISSING
 
 The Romans' Journey
-1 - A Legionnaire’s Lament
-2 - Behold our queen’s salvation!
-3 - The Journal of Publius Canidius Crassus
-4 - Scouting Report
-5 - To Legatus Crassus
+1 - A Legionnaire’s Lament -- MISSING
+2 - Behold our queen’s salvation! -- MISSING
+3 - The Journal of Publius Canidius Crassus -- MISSING
+4 - Scouting Report -- MISSING
+5 - To Legatus Crassus -- MISSING
 
 ## Tales of Cutlass Keys
 
@@ -590,17 +594,17 @@ Empress and Isabella
 ## Tales of Edengrove
 
 Wincroft's Journal
-1 - Unload the Wagons
-2 - A Paradise Found
-3 - Layabouts
-4 - Damnable Bears
-5 - Trapped
-6 - Not a Paradise
+1 - Unload the Wagons -- MISSING
+2 - A Paradise Found -- MISSING
+3 - Layabouts -- MISSING
+4 - Damnable Bears -- MISSING
+5 - Trapped -- MISSING
+6 - Not a Paradise -- MISSING
 
 Wyrdwood
-1 - An Unexpected Find
-2 - Harvesting
-3 - Be Warned
+1 - An Unexpected Find -- MISSING
+2 - Harvesting -- MISSING
+3 - Be Warned -- MISSING
 
 The Ever Night Letters
 1 - His Return
@@ -697,7 +701,7 @@ Ruby's Fishing Tips and Tricks
 4 - Engineering the Perfect Fishing Pole
 
 Everfall's Wreckage
-1 - Beringer's Boons
+1 - Beringer's Boons -- MISSING
 2 - Huang's Hammer Roster
 3 - Hammer's Manifest
 4 - Huang's Log
@@ -733,9 +737,9 @@ Dynasty Shipyard
 3 - Edict 35
 
 Lazarus Instrumentality
-1 - An Unparalleled Opportunity
-2 - A Great Sacrifice
-3 - Growing Fear
+1 - An Unparalleled Opportunity -- MISSING
+2 - A Great Sacrifice -- MISSING
+3 - Growing Fear -- MISSING
 
 Starstone Barrows
 1 - Nakashima's Frustration
@@ -748,15 +752,15 @@ The Depths
 3 - The Box
 
 Tempest's Heart
-1 - Brothers Unreliable
-2 - The Offering of the Apple
-3 - The Heretic's Source
-4 - Father Russo and Isabella
+1 - Brothers Unreliable -- MISSING
+2 - The Offering of the Apple -- MISSING
+3 - The Heretic's Source -- MISSING
+4 - Father Russo and Isabella -- MISSING
 
-Barnacles and Black Powder
-1 - The Darkheart's Roster
-2 - Admiral's Manifesto
-3 - Widdershin's Stupidity
+Barnacles and Black Powder -- MISSING
+1 - The Darkheart's Roster -- MISSING
+2 - Admiral's Manifesto -- MISSING
+3 - Widdershin's Stupidity -- MISSING
 
 ## Tales of First Light
 
@@ -894,13 +898,13 @@ Corpora Oseguera
 5 - Codex V
 
 The Easy Job
-1 - Free Coin
-2 - The Thirteenth Room
-3 - Hearing Things
-4 - Under the House
-5 - I Got In
-6 - Help
-7 - Despair
+1 - Free Coin -- MISSING
+2 - The Thirteenth Room -- MISSING
+3 - Hearing Things -- MISSING
+4 - Under the House -- MISSING
+5 - I Got In -- MISSING
+6 - Help -- MISSING
+7 - Despair -- MISSING
 
 ## Tales of Memorials
 
@@ -920,16 +924,10 @@ Squash Farmers
 8 - Tenny's Kindness
 9 - Last Judgement
 
-How Deep the Well?
-1 - Casting Stones -- REMOVED???
-2 - One Stone Too Many -- REMOVED???
-3 - Still Missing -- REMOVED???
-4 - Suspicions -- REMOVED???
-
 The Fall
-1 - Up to No Good
-2 - Violent Storm
-3 - On the Banks of the River
+1 - Up to No Good -- MISSING
+2 - Violent Storm -- MISSING
+3 - On the Banks of the River -- MISSING
 
 Notes from Traitor's Hold
 1 - Captain's Demands
@@ -991,34 +989,34 @@ The Fall of the High King
 3 - Darkness Falls
 
 Lochnir’s Discoveries
-1 - Altars of Power
-2 - Artifacts Of The Ancients
-3 - The Call Of The Tablet
-4 - The Circlet Of The Swords
+1 - Altars of Power -- MISSING
+2 - Artifacts Of The Ancients -- MISSING
+3 - The Call Of The Tablet -- MISSING
+4 - The Circlet Of The Swords -- MISSING
 
 A Father’s Prayer
-1 - The Final Glasswork
-2 - One’s Only Child
-3 - A Reassurance of Love
+1 - The Final Glasswork -- MISSING
+2 - One’s Only Child -- MISSING
+3 - A Reassurance of Love -- MISSING
 
 Letter to Edda Yonkers
-1 - The Love Of One’s Life
+1 - The Love Of One’s Life -- MISSING
 
 Letters From The Lost
-1 - Wistful Note
-2 - One Day Closer To The End
+1 - Wistful Note -- MISSING
+2 - One Day Closer To The End -- MISSING
 
 Allya's Missives
-1 - Need Help Now!
+1 - Need Help Now! -- MISSING
 
 Faithful Olaf
-1 - What Would We Do Without Olaf
+1 - What Would We Do Without Olaf -- MISSING
 
 Knights Of Teyrnon Keep
-1 - Tenny’s Doubt
+1 - Tenny’s Doubt -- MISSING
 
 Jin Jae's Journal
-1 - For the Future of Prydwen
+1 - For the Future of Prydwen -- MISSING
 
 ## Tales of Mourningdale
 
@@ -1035,7 +1033,7 @@ The Account of Antiquary Addams
 5 - The Skeleton Guard
 
 Stephen's Testament
-1 - Wails of a Miner
+1 - Wails of a Miner -- MISSING
 
 Tales from Musslebeard's Crew
 1 - Madness
@@ -1073,9 +1071,9 @@ Perils of Pierre
 3 - Reeking Pods
 
 Posted Notes, and Public Bills
-1 - Looking for work!
+1 - Looking for work! -- MISSING
 2 - A New Flavor from the North!
-3 - Heroes Abound!
+3 - Heroes Abound! -- MISSING
 4 - Dear Friend...
 
 ## Tales of Reekwater
@@ -1135,7 +1133,7 @@ The Siren Queen's Proclamations
 Melpomene's Journal
 1 - Entry 1: Dawn
 2 - Entry 5: Storm
-3 - Entry 22: Death
+3 - Entry 22: Death -- MISSING
 4 - Entry 54: Silence
 5 - Entry 101: Wind
 6 - Entry 240: Souls
@@ -1212,14 +1210,14 @@ Bernard's Booklet
 2 - Living Amongst Corruption
 
 Winter's Kiss
-1 - Entry 1
-2 - Entry 2
-3 - Entry 3
-4 - Entry 4
-5 - Entry 5
-6 - Entry 6
-7 - Entry 7
-8 - Entry 8
+1 - Entry 1 -- MISSING
+2 - Entry 2 -- MISSING
+3 - Entry 3 -- MISSING
+4 - Entry 4 -- MISSING
+5 - Entry 5 -- MISSING
+6 - Entry 6 -- MISSING
+7 - Entry 7 -- MISSING
+8 - Entry 8 -- MISSING
 
 ## Tales of the Soulwardens
 
@@ -1278,7 +1276,7 @@ Hazel's Diary
 11 - Corpses Feeding on Their Own
 12 - The Talisman
 13 - The Grave
-14 - The Journey
+14 - The Journey -- MISSING
 15 - Blood Waters
 16 - The Crater
 17 - Battle in the Pass
@@ -1294,14 +1292,14 @@ Pirate Logs
 2 - Cargo Manifest
 
 Weaver's Company Log
-1 - This Cursed Place
-2 - Blood
-3 - The Gift
-4 - An Uneasy Peace
-5 - Ignorance is not Comfort
-6 - A Helping Hand
-7 - Nothing from Queensport
-8 - The Talks
+1 - This Cursed Place -- MISSING
+2 - Blood -- MISSING
+3 - The Gift -- MISSING
+4 - An Uneasy Peace -- MISSING
+5 - Ignorance is not Comfort -- MISSING
+6 - A Helping Hand -- MISSING
+7 - Nothing from Queensport -- MISSING
+8 - The Talks -- MISSING
 
 Agarwal's Diary
 1 - The Unfortunates
@@ -1316,14 +1314,14 @@ Grenville's Journey
 3 - Rolfe
 4 - The Dig Site: Day 1
 5 - Excavation: Day 15
-6 - An Unpleasant Find: Day 17
-7 - Ill Tidings: Torn Page
-8 - April Dig: Ledger
+6 - An Unpleasant Find: Day 17 -- MISSING
+7 - Ill Tidings: Torn Page -- MISSING
+8 - April Dig: Ledger -- MISSING
 9 - Misfortune
 10 - The Obelisks!
 11 - Growing Fears
 12 - The Spire
-13 - The Great Work
+13 - The Great Work -- MISSING
 14 - Azure Flames
 
 Grenville and the Temple
@@ -1399,7 +1397,7 @@ Ichabod's Journal
 4 - Who is the Queen in Emerald?
 5 - The Dancers
 6 - Ichabod’s Questions
-7 - What Dreams May Come
+7 - What Dreams May Come -- MISSING
 8 - Acquiring the Book
 9 - Infected With Humming
 10 - A New Dancer Takes the Stage
@@ -1413,61 +1411,61 @@ The Wild Hunt
 1 - Night of the Hunt
 
 A Matter of Tribute
-1 - Notice of Breach of Contract
-2 - Offer from the Speaker
-3 - Tribute and Reparations
+1 - Notice of Breach of Contract -- MISSING
+2 - Offer from the Speaker -- MISSING
+3 - Tribute and Reparations -- MISSING
 
 Notes on Buffalo
-1 - The Baffling Buffalo
-2 - A Close Encounter
-3 - The Song of the Spheres
+1 - The Baffling Buffalo -- MISSING
+2 - A Close Encounter -- MISSING
+3 - The Song of the Spheres -- MISSING
 
 The Iron Rose
-1 - The Iron Creed
-2 - Commander Merrill's Letter
-3 - The Commander's Beacon
-4 - Recruitment Flyer
+1 - The Iron Creed -- MISSING
+2 - Commander Merrill's Letter -- MISSING
+3 - The Commander's Beacon -- MISSING
+4 - Recruitment Flyer -- MISSING
 
 Songs of the Iron: Ella Florakis
-1 - Ella’s Song, Verse 1
-2 - Ella’s Song, Verse 2
-3 - Ella’s Song, Verse 3
+1 - Ella’s Song, Verse 1 -- MISSING
+2 - Ella’s Song, Verse 2 -- MISSING
+3 - Ella’s Song, Verse 3 -- MISSING
 
 Roya's Regret
-1 - No Answer
+1 - No Answer -- MISSING
 
 The Druids
-1 - Upset
-2 - Turned
-3 - Safety
+1 - Upset -- MISSING
+2 - Turned -- MISSING
+3 - Safety -- MISSING
 
 Windsward Warren: A Warren Too Small
-1 - Nessa, Nessa, Nessa!
-2 - A New Friend
-3 - Hyssop!
-4 - Forever friends
+1 - Nessa, Nessa, Nessa! -- MISSING
+2 - A New Friend -- MISSING
+3 - Hyssop! -- MISSING
+4 - Forever friends -- MISSING
 
 ## The Inquisitor’s Trial
 
 The Inquisitor’s Trial
-1 - The Inquisitor’s Trial
+1 - The Inquisitor’s Trial -- MISSING
 
 ## The Malleus Mortuis: Hammer of the Dead
 
 The Malleus Mortuis: Hammer of the Dead
-1 - The Malleus Mortuis: Hammer of the Dead
-2 - The Malleus Mortuis: Hammer of the Dead
-3 - The Malleus Mortuis: Hammer of the Dead
-4 - The Malleus Mortuis: Hammer of the Dead
-5 - The Malleus Mortuis: Hammer of the Dead
-6 - The Malleus Mortuis: Hammer of the Dead
-7 - The Malleus Mortuis: Hammer of the Dead
-8 - The Malleus Mortuis: Hammer of the Dead
+1 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+2 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+3 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+4 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+5 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+6 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+7 - The Malleus Mortuis: Hammer of the Dead -- MISSING
+8 - The Malleus Mortuis: Hammer of the Dead -- MISSING
 
 ## The Thing in the Swamp
 
 The Thing in the Swamp
-1 - Constable’s Log
+1 - Constable’s Log -- MISSING
 
 ## The Varangian Knights
 
@@ -1504,11 +1502,11 @@ The Scarecrow's Travels
 ## The Wild Man of Cutlass Keys
 
 Journal of a Trapper
-1 - Journal of a Trapper
-2 - Journal of a Trapper
-3 - Journal of a Trapper
-4 - Journal of a Trapper
-5 - Journal of a Trapper
+1 - Journal of a Trapper -- MISSING
+2 - Journal of a Trapper -- MISSING
+3 - Journal of a Trapper -- MISSING
+4 - Journal of a Trapper -- MISSING
+5 - Journal of a Trapper -- MISSING
 
 ## Winter Convergence
 

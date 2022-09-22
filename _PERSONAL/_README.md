@@ -1,12 +1,15 @@
 # Read Me
 
-+ This is a full list of all the lore documents in the game
-+ Includes lore documents not shown in the game (yet)
++ This is a full list of all the lore topics in the game
++ Includes lore topics not shown in the game (yet)
 + Does not include Informational documents (guides, tutorials, etc.)
 
-## Files
+## Lore Tracker Project
 
 LoreTracker.MD
++ Full list of all the lore topics, chapters, and pages in the game
++ Includes lore documents not shown in the game (yet)
++ Does not include Informational documents (guides, tutorials, etc.)
 + Does not include subtitles, and body text
 
 ## Format -- Topic
