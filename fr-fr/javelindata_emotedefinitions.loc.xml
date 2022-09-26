@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Danse frétillante</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">« Quand on vit sur une île peuplée d'atrocités, ça ne fait pas de mal de laisser son corps se détendre de temps en temps. »</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} frétille.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Lâcher de micro</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">« Concluez votre discours de façon claire, puis partez. »</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} lâche irrévocablement son appareil de projection.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} lâche irrévocablement son appareil de projection.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} lâche irrévocablement son appareil de projection.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Santé !</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">« Trinquez à la santé de vos joyeux compagnons. »</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} trinque à la santé de tous.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Renversement de table</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Coquetterie</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Je te fais chevalier</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Claquettes</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Démarche de vagabond</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">« Lorsque la colère vous submerge, la table en paie le prix. »</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">« Miroir ô mon beau miroir. »</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">« Accordez l'honneur et les devoirs de la chevalerie. »</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">« Tap tap tap tap tap tap tap. »</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">« Vous n'avez peut-être pas grand-chose, mais vous avez au moins cette démarche. »</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} renverse une table.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} s'admire dans un miroir.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} décerne le titre de chevalier.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} commence un numéro de claquettes.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} marche de façon bizarre avec une canne.</string>
 </resources>

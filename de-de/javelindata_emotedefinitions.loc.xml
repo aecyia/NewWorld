@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Schütteltanz</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"Auf einer Insel voller Schrecken ist es manchmal gut, seinen Körper einfach zu entspannen."</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} schüttelt sich von Kopf bis Fuß.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Mikro fallen lassen</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">"Mach eine klare Aussage und verschwinde anschließend."</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} lässt den Verstärker mit abschließender Geste fallen.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} lässt den Verstärker mit abschließender Geste fallen.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} lässt den Verstärker mit abschließender Geste fallen.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Prost!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Stoße auf die Gesundheit deiner noblen Begleiter an."</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} stößt auf die Gesundheit an.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Tisch umschmeißen</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Eitelkeit</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Ich schlage dich zum Ritter</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Wilder Stepptanz</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Gammlergang</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"Wenn deine Wut überschäumt, zahlt der Tisch den Preis."</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">"Schau, ob du wirklich am schönsten von allen bist."</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">"Verleihe die Würde und Verpflichtung des Rittertums."</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"Du hast vielleicht nicht viel, aber du hast diesen Gang."</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} schmeißt einen Tisch um.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} bewundert sich selbst im Spiegel.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} verleiht den Ritterschlag.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} fängt einen wilden Stepptanz an.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} geht komisch mit einem Stock.</string>
 </resources>

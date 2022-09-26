@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Ballo ondeggiante</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"In un'isola piena di orrori, a volte è bene rilassare un po' il corpo."</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} fa ondeggiare il corpo.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Mic drop</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">"Chiudi il discorso alla grande e lascia il palco."</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} lascia cadere intenzionalmente il proiettore.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} lascia cadere intenzionalmente il proiettore.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} lascia cadere intenzionalmente il proiettore.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Cin cin!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Bevi alla salute dei tuoi compagni."</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} brinda alla salute.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Ribalta il tavolo</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Vanità</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Ti nomino cavaliere</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Tip tap selvaggio</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Camminata da vagabondo</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"Quando la tua rabbia ribolle, ci va di mezzo il tavolo."</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">"Guarda per verificare di essere la più bella del reame."</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">"Concedi l'onore e l'onere del cavalierato."</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Tap tap tap tap tap tap tap."</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"Forse non hai molto, ma hai questa camminata."</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} ribalta un tavolo.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} si ammira allo specchio.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} conferisce il cavalierato.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} inizia un tip tap selvaggio.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} fa una camminata divertente con un bastone.</string>
 </resources>

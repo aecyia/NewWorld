@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Dança da Moleza</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">“Em uma ilha repleta de horrores, às vezes é importante dar uma relaxada no seu corpo.”</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} relaxa o corpo.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Soltar Microfone</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">“Finalize seus argumentos em grande estilo.”</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} solta seu dispositivo imaginário com finalidade.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} solta seu dispositivo imaginário com finalidade.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} solta seu dispositivo imaginário com finalidade.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Um Brinde!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">“Beba pela saúde de seus caros companheiros.”</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} brinda em nome da saúde.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Virar a Mesa</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Vaidade</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Eu Te Nomeio</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Sapateado Selvagem</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Caminhada de Meliante</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">“Quando sua raiva passa dos limites, a mesa paga o preço.”</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">“Olhe para confirmar se você é realmente a pessoa mais bonita de todas.”</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">“Conceda a honra e a obrigação do título de cavaleiro.”</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">“Tap tap tap tap tap tap tap.”</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">“Você pode não ter muita coisa, mas tem esse jeito de caminhar.”</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} vira uma mesa.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} se admira no espelho.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} confere o título de cavaleiro.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} começa um sapateado selvagem.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} faz uma caminhada engraçada com uma bengala.</string>
 </resources>

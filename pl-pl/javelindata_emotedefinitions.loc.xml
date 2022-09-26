@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Kołysaniec</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">"Na wyspie pełnej koszmarów dobrze jest czasem pozwolić ciału na trochę luzu".</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} kołysze się.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Upuszczenie mikrofonu</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">"Poraź ich swą ciętą ripostą, a potem odejdź i nie oglądaj się za siebie".</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} rzuca swoim urządzeniem nagłaśniającym, kończąc dyskusję.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} rzuca swoim urządzeniem nagłaśniającym, kończąc dyskusję.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} rzuca swoim urządzeniem nagłaśniającym, kończąc dyskusję.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Na zdrowie!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Wypij za zdrowie twoich zacnych towarzyszy".</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} pije za twoje zdrowie.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Wywróć stół</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Próżność</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Pasowanie na rycerza</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Dzikie stepowanie</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Ekscentryczny krok</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">"Gdy wybuchamy gniewem, często to niewinny stół obrywa".</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">"Upewnij się, że faktycznie jesteś najpiękniejsza w świecie".</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">"Obdarz bliźnich rycerskim honorem i rycerskimi obowiązkami".</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">"Stuk, stuk, stuk, stuk, stuk".</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">"Może i masz niewiele, ale przynajmniej masz te ruchy".</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} wywraca stół.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} podziwia się w lustereczku.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} pasuje na rycerza.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} dziko stepuje.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} śmiesznie maszeruje z laską.</string>
 </resources>

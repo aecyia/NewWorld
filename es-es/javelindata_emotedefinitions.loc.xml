@@ -275,16 +275,27 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Danza de contoneo</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">«En una isla repleta de horrores, a veces viene bien relajar el cuerpo».</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} se contonea con el cuerpo.</string>
+	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Soltar el micro</string>
+	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">«Deja claras tus intenciones y vete».</string>
+	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} suelta su dispositivo de proyección con rotundidad.</string>
+	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} suelta su dispositivo de proyección con rotundidad.</string>
+	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} suelta su dispositivo de proyección con rotundidad.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">¡Salud!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">«Un brindis por la buena compañía».</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} alza su copa para brindar.</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Giro de mesa</string>
+	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Vanidad</string>
+	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Nombramiento</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Claqué arrítmico</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Andares marcados</string>
 	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">«Cuando la ira se apodera de ti, es la mesa quien paga las consecuencias».</string>
+	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">«Así demuestras que nadie es capaz de igualar tu belleza».</string>
+	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">«Concede el honor y la obligación de ser caballero».</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">«Clac, clac, clac, clac, clac, clac, clac».</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">«Puede que no tengas demasiado, pero al menos tendrás tus andares».</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} da la vuelta a una mesa.</string>
+	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} se observa en el espejo.</string>
+	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} otorga el título de caballero.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} empieza a bailar claqué.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} anda de forma graciosa con un bastón.</string>
 </resources>

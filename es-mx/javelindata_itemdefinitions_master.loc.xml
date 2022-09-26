@@ -461,18 +461,6 @@
 	<string key="0699_0101_SucculentBone_Description">Un hueso grande y sabroso para masticar.</string>
 	<string key="0699_0102_EnchantedBone">Hueso encantado</string>
 	<string key="0699_0102_EnchantedBone_Description">Un hueso para masticar que deja una sensación de cosquilleo en la boca.</string>
-	<string key="06A_MSQ_11_pirateLoot_Description">¡Parece que el tributo no es lo único que robaron estos piratas! Hay un poco de todo en estas cajas.</string>
-	<string key="06A_MSQ_11_pirateLoot_MasterName">Botín pirata</string>
-	<string key="06A_MSQ_12_marcelHat_Description">Este sombrero es idéntico al de Marcel… hasta tiene "Dupont" bordado en el forro interior.</string>
-	<string key="06A_MSQ_12_marcelHat_MasterName">Sombrero de Marcel</string>
-	<string key="06A_H_01_TowerJournal_Description">Cada una de las páginas está repleta de bocetos y otros detalles sobre todas las torres en Windsward.</string>
-	<string key="06A_H_01_TowerJournal_MasterName">Diario de las torres de Moira</string>
-	<string key="06A_B_01_FancyBrushes_Description">Estos pinceles son de primera línea, con las puntas más finas para pinturas muy delicadas.</string>
-	<string key="06A_B_01_FancyBrushes_MasterName">Conjunto de pinceles sofisticados</string>
-	<string key="06A_MSQ_05_grainSack_Description">Grano recién molido de los molinos en Campos dorados.</string>
-	<string key="06A_MSQ_05_grainSack_MasterName">Sacos de grano molido</string>
-	<string key="06A_MSQ_05_veggieCrate_Description">Las últimas verduras cosechadas en Campos dorados.</string>
-	<string key="06A_MSQ_05_veggieCrate_MasterName">Cajas de verduras cosechadas</string>
 	<string key="0712_0101_CarverArmorScraps">Trozos de armadura de tallador</string>
 	<string key="0712_0101_CarverArmorScraps_Description">Un conjunto de trozos y placas de armaduras extraído de los restos de los talladores de ruinas rocosas.</string>
 	<string key="0713_0101_DamonCharcoal">Carbón del demonio</string>
@@ -5067,10 +5055,14 @@
 	<string key="1hTowerShieldLostT4_MasterName">Escudo de torre olvidado</string>
 	<string key="1hTowerShieldLostT5_Description">Un arma que aparentemente usaron los perdidos en algún momento de su historia.</string>
 	<string key="1hTowerShieldLostT5_MasterName">Escudo de torre olvidado</string>
+	<string key="1htowershieldoutpostrusht5_description">Este escudo se alza imponente sobre el campo de batalla, listo para repeler cualquier cosa que se lance en su camino.</string>
+	<string key="1htowershieldoutpostrusht5_mastername">Torre del conquistador</string>
 	<string key="1hTowerShieldPrimevalT5_Description">Forjado con los huesos de los enemigos caídos.</string>
 	<string key="1hTowerShieldPrimevalT5_MasterName">Escudo de torre primordial</string>
 	<string key="1htowershieldsiren_st5_description">"La evocadora voz de la sirena resuena en tu mente, llena de remordimientos por las vidas otrora vividas".</string>
 	<string key="1htowershieldsiren_st5_mastername">Lamento insondable</string>
+	<string key="1htowershieldwart5_description">Un escudo de torre forjado para la guerra.</string>
+	<string key="1htowershieldwart5_mastername">Escudos de torre de guerra</string>
 	<string key="1hTShield_CovenantAdjudicatorsTShieldT5_Description">Un escudo de torre reservado para los miembros de élite de los comandantes saqueadores.</string>
 	<string key="1hTShield_CovenantAdjudicatorsTShieldT5_MasterName">Escudo de torre de mediador del pacto</string>
 	<string key="1hTShield_CovenantRank3_Description">Un escudo bien hecho para excubitores del pacto.</string>
@@ -10649,22 +10641,10 @@
 	<string key="AdderstoneT3_MasterName">Trozo de piedra viperina</string>
 	<string key="Aeternum_Drums_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de El camino menos frecuentado para tambores.</string>
 	<string key="Aeternum_Drums_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para tambores de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_Drums_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de El camino menos frecuentado para tambores.</string>
-	<string key="Aeternum_Drums_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para tambores de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_Drums_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de El camino menos frecuentado para tambores.</string>
-	<string key="Aeternum_Drums_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para tambores de\nEl camino menos frecuentado</string>
 	<string key="Aeternum_Guitar_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de El camino menos frecuentado para la guitarra.</string>
 	<string key="Aeternum_Guitar_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para guitarra de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_Guitar_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de El camino menos frecuentado para la guitarra.</string>
-	<string key="Aeternum_Guitar_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para guitarra de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_Guitar_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de El camino menos frecuentado para la guitarra.</string>
-	<string key="Aeternum_Guitar_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para guitarra de\nEl camino menos frecuentado</string>
 	<string key="Aeternum_URBass_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de El camino menos frecuentado para el contrabajo.</string>
 	<string key="Aeternum_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para contrabajo de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_URBass_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de El camino menos frecuentado para el contrabajo.</string>
-	<string key="Aeternum_URBass_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para contrabajo de\nEl camino menos frecuentado</string>
-	<string key="Aeternum_URBass_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de El camino menos frecuentado para el contrabajo.</string>
-	<string key="Aeternum_URBass_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para contrabajo de\nEl camino menos frecuentado</string>
 	<string key="AgentBox_Description">Una caja que contiene una variedad de poderosos agentes de la oscuridad, utilizados para amplificar el poder de la armadura Intención oculta.</string>
 	<string key="AgentBox_MasterName">Caja de agentes de la oscuridad</string>
 	<string key="AgentDarkened_Description">Un implemento antiguo utilizado para amplificar el poder de un objeto. ¿Tal vez se pueda utilizar en las botas de Intención oculta?</string>
@@ -15866,6 +15846,14 @@
 	<string key="FoodDEXT4_MasterName">Bisque de frutos de mar</string>
 	<string key="FoodDEXT5_Description">Aumenta la destreza un {[Type_StatusEffectData.FoodDEXT5.MODDexterity]} durante {[Type_StatusEffectData.FoodDEXT5.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
 	<string key="FoodDEXT5_MasterName">Albenaja frita</string>
+	<string key="FoodDOTT2_Description">Reduce la duración del daño prolongado en un 20 % durante {[Type_StatusEffectData.FoodDOTT2.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
+	<string key="FoodDOTT2_MasterName">Amanecer del desierto</string>
+	<string key="FoodDOTT3_Description">Reduce la duración del daño prolongado en un 25 % durante {[Type_StatusEffectData.FoodDOTT3.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
+	<string key="FoodDOTT3_MasterName">Amanecer del desierto</string>
+	<string key="FoodDOTT4_Description">Reduce la duración del daño prolongado en un 30 % durante {[Type_StatusEffectData.FoodDOTT4.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
+	<string key="FoodDOTT4_MasterName">Amanecer del desierto</string>
+	<string key="FoodDOTT5_Description">Reduce la duración del daño prolongado en un 35 % durante {[Type_StatusEffectData.FoodDOTT5.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
+	<string key="FoodDOTT5_MasterName">Amanecer del desierto</string>
 	<string key="FoodEngineerT1_Description">Aumenta en un {[Type_StatusEffectData.FoodEngineerT1.MGSEngineering]} la puntuación mínima del equipo al fabricar elementos de ingeniería durante {[Type_StatusEffectData.FoodEngineerT1.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
 	<string key="FoodEngineerT1_MasterName">Calabacín cocido al vapor</string>
 	<string key="FoodEngineerT2_Description">Aumenta en un {[Type_StatusEffectData.FoodEngineerT2.MGSEngineering]} la puntuación mínima del equipo al fabricar elementos de ingeniería durante {[Type_StatusEffectData.FoodEngineerT2.BaseDuration / 60]} minutos. Estos efectos te permiten restablecer la salud lentamente.</string>
@@ -25592,6 +25580,8 @@
 	<string key="Omega_Box_Armor_Soldier_Trinket_MasterName">Caja de abalorios de armadura para soldado</string>
 	<string key="Omega_Box_Consumables_Description">Una caja con conjuntos de consumibles omega.</string>
 	<string key="Omega_Box_Consumables_MasterName">Caja de consumibles omega</string>
+	<string key="Omega_Box_FullSet_500_Description">Contiene un juego completo de equipo para Omega 500.</string>
+	<string key="Omega_Box_FullSet_500_MasterName">Caja de equipo de Omega de PE 500</string>
 	<string key="Omega_Box_FullSet_600_Description">Contiene un juego completo de equipo para Omega 600.</string>
 	<string key="Omega_Box_FullSet_600_MasterName">Caja de equipo de Omega de PE 600</string>
 	<string key="Omega_Box_FullSet_602_Description">Contiene un juego completo de equipo para Omega 602.</string>
@@ -31650,10 +31640,6 @@
 	<string key="Skin_Chest_Summer_Description" rel_version="Event_Summer_Perm">Con escamas y oro en abundancia, este accesorio hace que el portador luzca una elegancia estival.</string>
 	<string key="Skin_Head_Summer_MasterName" rel_version="Event_Summer_Perm">Sombrero lujoso de esturión</string>
 	<string key="Skin_Head_Summer_Description" rel_version="Event_Summer_Perm">Con escamas y oro en abundancia, este accesorio hace que el portador luzca una elegancia estival.</string>
-	<string key="99A_MSQ_10_Silver_MasterName">Plata desenterrada</string>
-	<string key="99A_MSQ_10_Silver_Description">No podrás encontrar ni una sola impureza en la superficie de los fragmentos de este fino metal.</string>
-	<string key="99A_MSQ_10_ForgeMasterHammer_MasterName">Martillo del maestro forjador</string>
-	<string key="99A_MSQ_10_ForgeMasterHammer_Description">Incomprensiblemente antiguo; representa el legado de Vulcanus, de los guardianes de almas.</string>
 	<string key="PvPArena_FoodSTRT3_MasterName">Comida de soldado de la arena</string>
 	<string key="PvPArena_FoodSTRT3_Description">USO: Brinda 20 puntos de atributo de fuerza adicionales y restaura lentamente la salud durante un periodo de tiempo. Solo se puede usar dentro de las arenas de 3v3.</string>
 	<string key="PvPArena_FoodSTRT4_MasterName">Comida de soldado de la arena</string>
@@ -31718,10 +31704,6 @@
 	<string key="NereidDoubloonT1_MasterName" rel_version="Expedition_CutlassKeys_00">Doblón de Nereida</string>
 	<string key="Brightwood_Guitar_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de El viaje del guardián de almas para la guitarra.</string>
 	<string key="Brightwood_Guitar_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para guitarra de\nEl viaje del guardián de almas</string>
-	<string key="Butterfly_Guitar_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/2 de La mariposa para la guitarra.</string>
-	<string key="Butterfly_Guitar_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/2 de\nla partitura para guitarra de\nLa mariposa</string>
-	<string key="Butterfly_Guitar_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/2 de La mariposa para la guitarra.</string>
-	<string key="Butterfly_Guitar_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/2 de\nla partitura para guitarra de\nLa mariposa</string>
 	<string key="Embark_Guitar_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/2 de El coraje de las llaves para la guitarra.</string>
 	<string key="Embark_Guitar_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/2 de\nla partitura para guitarra de\nEl coraje de las llaves</string>
 	<string key="Embark_Guitar_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/2 de El coraje de las llaves para la guitarra.</string>
@@ -31822,8 +31804,6 @@
 	<string key="Ancient_AzothFlute_Part2_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/2 de\nla partitura para segunda flauta de azoth de\nEl llamado de los antiguos</string>
 	<string key="Ancient_AzothFlute_Part2_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/2 de El llamado de los antiguos para la segunda flauta de azoth.</string>
 	<string key="Ancient_AzothFlute_Part2_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/2 de\nla partitura para segunda flauta de azoth de\nEl llamado de los antiguos</string>
-	<string key="Breathe_AzothFlute_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de Canción de cuna gastada por las olas para la flauta de azoth.</string>
-	<string key="Breathe_AzothFlute_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para flauta de azoth de\nCanción de cuna gastada por las olas</string>
 	<string key="Flourish_AzothFlute_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de Mi nuevo hogar para la flauta de azoth.</string>
 	<string key="Flourish_AzothFlute_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para flauta de azoth de\nMi nuevo hogar</string>
 	<string key="Fog_AzothFlute_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de El lamento del pescador para la flauta de azoth.</string>
@@ -31872,6 +31852,10 @@
 	<string key="Set_AzothFlute_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/2 de\nla partitura para flauta de azoth de\nAntes de la tormenta</string>
 	<string key="CampSkin_Phoenix01_A_description" rel_version="Campskin_Phoenix_1" comment="Player Camp Skin">Relájate y reposa en una tienda que proviene de las cenizas de Aeternum.</string>
 	<string key="CampSkin_Phoenix01_A_mastername" rel_version="Campskin_Phoenix_1" comment="Player Camp Skin">Ascenso de fénix</string>
+	<string key="CampSkin_Egyptian01_A_description" rel_version="Campskin_Egyptian_1" comment="Player Camp Skin">Un lugar donde tanto los escarabajos como los aventureros pueden encontrar un alivio del calor opresivo de los desiertos de Aeternum.</string>
+	<string key="CampSkin_Egyptian01_A_mastername" rel_version="Campskin_Egyptian_1" comment="Player Camp Skin">Hogar del escarabajo</string>
+	<string key="CampSkin_Egyptian02_A_description" rel_version="Campskin_Egyptian_2" comment="Player Camp Skin">Esta estructura con forma piramidal muestra una cálida chimenea. Si el ciclo de la muerte y el renacimiento se interrumpe, puede que sea tu última noche junto al fuego.</string>
+	<string key="CampSkin_Egyptian02_A_mastername" rel_version="Campskin_Egyptian_2" comment="Player Camp Skin">Lugar de descanso final</string>
 	<string key="Skin_Chest_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Capa elegante</string>
 	<string key="Skin_Head_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Sombrero con plumas elegante</string>
 	<string key="Skin_Legs_FemNobleTwitch_L_MasterName" rel_version="Feminine_Noble_LT5">Pantalones cortos elegantes</string>
@@ -31900,8 +31884,6 @@
 	<string key="MrHarrison_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para contrabajo de\nQuerido Sr. Harrison</string>
 	<string key="MrHarrison_Drums_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de Querido Sr. Harrison para los tambores.</string>
 	<string key="MrHarrison_Drums_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para tambores de\nQuerido Sr. Harrison</string>
-	<string key="Trust_AzothFlute_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/1 de Luz menguante para la flauta de azoth.</string>
-	<string key="Trust_AzothFlute_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/1 de\nla partitura para flauta de azoth de\nLuz menguante</string>
 	<string key="BlacksmithArm_Guitar_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Brazo de herrero para la guitarra.</string>
 	<string key="BlacksmithArm_Guitar_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para guitarra de\nBrazo de herrero</string>
 	<string key="BlacksmithArm_Guitar_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Brazo de herrero para la guitarra.</string>
@@ -31914,12 +31896,6 @@
 	<string key="BlacksmithArm_Mandolin_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para mandolina de\nBrazo de herrero</string>
 	<string key="BlacksmithArm_Mandolin_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de Brazo de herrero para la mandolina.</string>
 	<string key="BlacksmithArm_Mandolin_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para mandolina de\nBrazo de herrero</string>
-	<string key="BlacksmithArm_Drums_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Brazo de herrero para los tambores.</string>
-	<string key="BlacksmithArm_Drums_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para tambores de\nBrazo de herrero</string>
-	<string key="BlacksmithArm_Drums_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Brazo de herrero para los tambores.</string>
-	<string key="BlacksmithArm_Drums_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para tambores de\nBrazo de herrero</string>
-	<string key="BlacksmithArm_Drums_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de Brazo de herrero para los tambores.</string>
-	<string key="BlacksmithArm_Drums_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para tambores de\nBrazo de herrero</string>
 	<string key="BlacksmithArm_URBass_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Brazo de herrero para el contrabajo.</string>
 	<string key="BlacksmithArm_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para contrabajo de\nBrazo de herrero</string>
 	<string key="BlacksmithArm_URBass_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Brazo de herrero para el contrabajo.</string>
@@ -31946,12 +31922,6 @@
 	<string key="SaltyBarnicle_Guitar_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para guitarra de\nCuco, el contrabandista</string>
 	<string key="SaltyBarnicle_Guitar_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de Cuco, el contrabandista para la guitarra.</string>
 	<string key="SaltyBarnicle_Guitar_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para guitarra de\nCuco, el contrabandista</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Cuco, el contrabandista para la mandolina.</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para mandolina de\nCuco, el contrabandista</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Cuco, el contrabandista para la mandolina.</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para mandolina de\nCuco, el contrabandista</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de Cuco, el contrabandista para la mandolina.</string>
-	<string key="SaltyBarnicle_Mandolin_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para mandolina de\nCuco, el contrabandista</string>
 	<string key="SaltyBarnicle_Mandolin_Part2_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Cuco, el contrabandista para la segunda mandolina.</string>
 	<string key="SaltyBarnicle_Mandolin_Part2_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para segunda mandolina de\nCuco, el contrabandista</string>
 	<string key="SaltyBarnicle_Mandolin_Part2_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Cuco, el contrabandista para la segunda mandolina.</string>
@@ -32000,12 +31970,6 @@
 	<string key="AmuletT5_D_Mut_Description" rel_version="D_Mut_Armor">Nunca estuvo destinado a infestarse de unas emociones tan malignas.</string>
 	<string key="EUTwitchConCache_MasterName" rel_version="Feature_MusicalPerformances">Reserva especial de verano</string>
 	<string key="EUTwitchConCache_Description" rel_version="Feature_MusicalPerformances">Un regalo extraespecial para alguien a quien le encantan las convenciones.</string>
-	<string key="Chases_URBass_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/3 de Tareas matutinas para el contrabajo.</string>
-	<string key="Chases_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/3 de\nla partitura para contrabajo de\nTareas matutinas</string>
-	<string key="Chases_URBass_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/3 de Tareas matutinas para el contrabajo.</string>
-	<string key="Chases_URBass_Part1_Page2_MasterName" rel_version="Feature_MusicalPerformances">Página 2/3 de\nla partitura para contrabajo de\nTareas matutinas</string>
-	<string key="Chases_URBass_Part1_Page3_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 3/3 de Tareas matutinas para el contrabajo.</string>
-	<string key="Chases_URBass_Part1_Page3_MasterName" rel_version="Feature_MusicalPerformances">Página 3/3 de\nla partitura para contrabajo de\nTareas matutinas</string>
 	<string key="KingStanley_URBass_Part1_Page1_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 1/2 de El joven rey Stanley para el contrabajo.</string>
 	<string key="KingStanley_URBass_Part1_Page1_MasterName" rel_version="Feature_MusicalPerformances">Página 1/2 de\nla partitura para contrabajo de\nEl joven rey Stanley</string>
 	<string key="KingStanley_URBass_Part1_Page2_Description" rel_version="Feature_MusicalPerformances">Haz clic en &lt;font color="#eaeaea"&gt;Aprender&lt;/font&gt; para desbloquear la página 2/2 de El joven rey Stanley para el contrabajo.</string>
@@ -32108,8 +32072,16 @@
 	<string key="Omega_Box_Music_DrumsPagesDescription" rel_version="Feature_MusicalPerformances">Una caja que contiene partituras para tambores.</string>
 	<string key="Omega_Box_Music_AzothFlutePagesMasterName" rel_version="Feature_MusicalPerformances">Partituras de flauta de azoth omega</string>
 	<string key="Omega_Box_Music_AzothFlutePages_Description" rel_version="Feature_MusicalPerformances">Una caja que contiene partituras para flauta de azoth.</string>
+	<string key="QuestReward_MB_Hat_Medium_Description">Una pieza de cubrecabezas fabricada con pericia.</string>
+	<string key="QuestReward_MB_Hat_Medium_MasterName">Sombrero de cuero de aventurero</string>
 	<string key="1036_0101_BlackpowderBlunderbuss_Description" rel_version="Weapon_Blunderbuss">Una antigua arma de una antigua época.</string>
 	<string key="1036_0101_BlackpowderBlunderbuss_MasterName" rel_version="Weapon_Blunderbuss">Trabuco de pólvora negra</string>
+	<string key="2hBlunderbuss_IwazarusBlastT3_MasterName" rel_version="Quest_MSQ2_Revamp">Ojo de la tormenta</string>
+	<string key="1hGauntletVoid_LeevsHandT3_MasterName" rel_version="Quest_MSQ2_Revamp">La mano devoradora</string>
+	<string key="2hBlunderbuss_IwazarusBlastT3_Description" rel_version="Quest_MSQ2_Revamp">Nunca olvidarán la pestilencia de la pólvora y el calor de la explosión.</string>
+	<string key="1hGauntletVoid_LeevsHandT3_Description" rel_version="Quest_MSQ2_Revamp">Consume. Consume. Consume.</string>
+	<string key="BrokenBladeT5_MasterName" rel_version="Weapon_GreatSword">Espada rota</string>
+	<string key="BrokenBladeT5_Description" rel_version="Weapon_GreatSword">Una espada rota que obtuviste en la naturaleza. Tal vez no sepas qué la destruyó, pero quizás se pueda volver a forjar y sea incluso más fuerte que antes.</string>
 	<string key="Skin_Chest_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Máscara de santo fanático</string>
 	<string key="Skin_Head_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Abrigo de santo fanático</string>
 	<string key="Skin_Legs_FanaticSaintM_MasterName" rel_version="Apparel_FanaticSaint_Prime_Medium">Pantalones de santo fanático</string>
@@ -32120,5 +32092,263 @@
 	<string key="Skin_Legs_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Siente el fervor de tu patrón corriendo enfurecido a través de tus venas mortales.</string>
 	<string key="Skin_Feet_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Siente el fervor de tu patrón corriendo enfurecido a través de tus venas mortales.</string>
 	<string key="Skin_Hands_FanaticSaintM_Description" rel_version="Apparel_FanaticSaint_Prime_Medium">Siente el fervor de tu patrón corriendo enfurecido a través de tus venas mortales.</string>
+	<string key="Skin_ShieldR_EgyptianGods_MasterName" rel_version="Weapon_Egyptian_ShieldR_MTX">Escudo de escarabajo</string>
+	<string key="Skin_ShieldR_EgyptianGods_Description" rel_version="Weapon_Egyptian_ShieldR_MTX">Bloquea los golpes del enemigo con el enigmático escarabajo de la dura cáscara del desierto.</string>
+	<string key="Skin_GreatAxe_EgyptianGods_MasterName" rel_version="Weapon_Egyptian_GreatAxe_MTX">Alas de la libertad</string>
+	<string key="Skin_GreatAxe_EgyptianGods_Description" rel_version="Weapon_Egyptian_GreatAxe_MTX">Se usa para liberar las almas de su cuerpo mortal.</string>
+	<string key="Skin_Lifestaff_EgyptianGods_MasterName" rel_version="Weapon_Egyptian_LifeStaff_MTX">Resurrección perlada</string>
+	<string key="Skin_Lifestaff_EgyptianGods_Description" rel_version="Weapon_Egyptian_LifeStaff_MTX">El escarabajo sujeta en alto una perla cargada con los poderes de la vida misma.</string>
+	<string key="Skin_VoidGauntlet_EgyptianGods_MasterName" rel_version="Weapon_Egyptian_VoidGauntlet_MTX">La mano del faraón</string>
+	<string key="Skin_VoidGauntlet_EgyptianGods_Description" rel_version="Weapon_Egyptian_VoidGauntlet_MTX">La manopla perdida en el tiempo de un gobernante olvidado de las arenas.</string>
+	<string key="Skin_Bow_EgyptianGods_MasterName" rel_version="Weapon_Egyptian_Bow_MTX">La venganza de Khepri</string>
+	<string key="Skin_Bow_EgyptianGods_Description" rel_version="Weapon_Egyptian_Bow_MTX">Dos escarabajos extienden sus alas para guiar y conferir poder a las flechas disparadas.</string>
+	<string key="Skin_Chest_EgyptianGods_1_MasterName" rel_version="Apparel_Egyptian_1">Pechera de la visión de Horus</string>
+	<string key="Skin_Head_EgyptianGods_1_MasterName" rel_version="Apparel_Egyptian_1">Tocado de la visión de Horus</string>
+	<string key="Skin_Legs_EgyptianGods_1_MasterName" rel_version="Apparel_Egyptian_1">Vendas para las piernas de la visión de Horus</string>
+	<string key="Skin_Feet_EgyptianGods_1_MasterName" rel_version="Apparel_Egyptian_1">Zapatos de la visión de Horus</string>
+	<string key="Skin_Hands_EgyptianGods_1_MasterName" rel_version="Apparel_Egyptian_1">Garras de la visión de Horus</string>
+	<string key="Skin_Chest_EgyptianGods_2_MasterName" rel_version="Apparel_Egyptian_2">Pechera del coraje de Bastet</string>
+	<string key="Skin_Head_EgyptianGods_2_MasterName" rel_version="Apparel_Egyptian_2">Tocado del coraje de Bastet</string>
+	<string key="Skin_Legs_EgyptianGods_2_MasterName" rel_version="Apparel_Egyptian_2">Vendas para las piernas del coraje de Bastet</string>
+	<string key="Skin_Feet_EgyptianGods_2_MasterName" rel_version="Apparel_Egyptian_2">Zapatos del coraje de Bastet</string>
+	<string key="Skin_Hands_EgyptianGods_2_MasterName" rel_version="Apparel_Egyptian_2">Garras del coraje de Bastet</string>
+	<string key="Skin_Chest_EgyptianGods_3_MasterName" rel_version="Apparel_Egyptian_3">Capa de la conquista anubina</string>
+	<string key="Skin_Head_EgyptianGods_3_MasterName" rel_version="Apparel_Egyptian_3">Tocado de la conquista anubina</string>
+	<string key="Skin_Legs_EgyptianGods_3_MasterName" rel_version="Apparel_Egyptian_3">Vendas para las piernas de la conquista anubina</string>
+	<string key="Skin_Feet_EgyptianGods_3_MasterName" rel_version="Apparel_Egyptian_3">Zapatos de la conquista anubina</string>
+	<string key="Skin_Hands_EgyptianGods_3_MasterName" rel_version="Apparel_Egyptian_3">Garras de la conquista anubina</string>
+	<string key="Skin_Chest_EgyptianGods_1_Description" rel_version="Apparel_Egyptian_1">Con el conocimiento del Dios del Poder, todos los secretos de las arenas pueden revelarse.</string>
+	<string key="Skin_Head_EgyptianGods_1_Description" rel_version="Apparel_Egyptian_1">Con el conocimiento del Dios del Poder, todos los secretos de las arenas pueden revelarse.</string>
+	<string key="Skin_Legs_EgyptianGods_1_Description" rel_version="Apparel_Egyptian_1">Con el conocimiento del Dios del Poder, todos los secretos de las arenas pueden revelarse.</string>
+	<string key="Skin_Feet_EgyptianGods_1_Description" rel_version="Apparel_Egyptian_1">Con el conocimiento del Dios del Poder, todos los secretos de las arenas pueden revelarse.</string>
+	<string key="Skin_Hands_EgyptianGods_1_Description" rel_version="Apparel_Egyptian_1">Con el conocimiento del Dios del Poder, todos los secretos de las arenas pueden revelarse.</string>
+	<string key="Skin_Chest_EgyptianGods_2_Description" rel_version="Apparel_Egyptian_2">Imbuido con el poder de la diosa leona, no habrá enemigo que te supere.</string>
+	<string key="Skin_Head_EgyptianGods_2_Description" rel_version="Apparel_Egyptian_2">Imbuido con el poder de la diosa leona, no habrá enemigo que te supere.</string>
+	<string key="Skin_Legs_EgyptianGods_2_Description" rel_version="Apparel_Egyptian_2">Imbuido con el poder de la diosa leona, no habrá enemigo que te supere.</string>
+	<string key="Skin_Feet_EgyptianGods_2_Description" rel_version="Apparel_Egyptian_2">Imbuido con el poder de la diosa leona, no habrá enemigo que te supere.</string>
+	<string key="Skin_Hands_EgyptianGods_2_Description" rel_version="Apparel_Egyptian_2">Imbuido con el poder de la diosa leona, no habrá enemigo que te supere.</string>
+	<string key="Skin_Chest_EgyptianGods_3_Description" rel_version="Apparel_Egyptian_3">Esta armadura tallada en ónix rebosa con el poder del supremo embalsamador.</string>
+	<string key="Skin_Head_EgyptianGods_3_Description" rel_version="Apparel_Egyptian_3">Esta armadura tallada en ónix rebosa con el poder del supremo embalsamador.</string>
+	<string key="Skin_Legs_EgyptianGods_3_Description" rel_version="Apparel_Egyptian_3">Esta armadura tallada en ónix rebosa con el poder del supremo embalsamador.</string>
+	<string key="Skin_Feet_EgyptianGods_3_Description" rel_version="Apparel_Egyptian_3">Esta armadura tallada en ónix rebosa con el poder del supremo embalsamador.</string>
+	<string key="Skin_Hands_EgyptianGods_3_Description" rel_version="Apparel_Egyptian_3">Esta armadura tallada en ónix rebosa con el poder del supremo embalsamador.</string>
+	<string key="Skin_Chest_EgyptianGods_4_MasterName" rel_version="Apparel_Egyptian_4">Tocado de las arenas</string>
+	<string key="Skin_Head_EgyptianGods_4_MasterName" rel_version="Apparel_Egyptian_4">Alas de las arenas</string>
+	<string key="Skin_Legs_EgyptianGods_4_MasterName" rel_version="Apparel_Egyptian_4">Vendas para las piernas de las arenas</string>
+	<string key="Skin_Feet_EgyptianGods_4_MasterName" rel_version="Apparel_Egyptian_4">Botas de las arenas</string>
+	<string key="Skin_Hands_EgyptianGods_4_MasterName" rel_version="Apparel_Egyptian_4">Manoplas de las arenas</string>
+	<string key="Skin_Chest_EgyptianGods_4_Description" rel_version="Apparel_Egyptian_4">Anúnciale a todo aquel que se atreva a mirarte que eres el verdadero gobernante del desierto.</string>
+	<string key="Skin_Head_EgyptianGods_4_Description" rel_version="Apparel_Egyptian_4">Anúnciale a todo aquel que se atreva a mirarte que eres el verdadero gobernante del desierto.</string>
+	<string key="Skin_Legs_EgyptianGods_4_Description" rel_version="Apparel_Egyptian_4">Anúnciale a todo aquel que se atreva a mirarte que eres el verdadero gobernante del desierto.</string>
+	<string key="Skin_Feet_EgyptianGods_4_Description" rel_version="Apparel_Egyptian_4">Anúnciale a todo aquel que se atreva a mirarte que eres el verdadero gobernante del desierto.</string>
+	<string key="Skin_Hands_EgyptianGods_4_Description" rel_version="Apparel_Egyptian_4">Anúnciale a todo aquel que se atreva a mirarte que eres el verdadero gobernante del desierto.</string>
+	<string key="Skin_EgyptianGods_AzothScepter_MasterName" rel_version="ToolSkins_Egyptian_MTX">Bastón de las arenas</string>
+	<string key="Skin_EgyptianGods_FishingPole_MasterName" rel_version="ToolSkins_Egyptian_MTX">Alas para la pesca con mosca</string>
+	<string key="Skin_EgyptianGods_LoggingAxe_MasterName" rel_version="ToolSkins_Egyptian_MTX">Poder del chacal</string>
+	<string key="Skin_EgyptianGods_Pickaxe_MasterName" rel_version="ToolSkins_Egyptian_MTX">Pico del faraón</string>
+	<string key="Skin_EgyptianGods_Sickle_MasterName" rel_version="ToolSkins_Egyptian_MTX">Hoz de la serpiente</string>
+	<string key="Skin_EgyptianGods_SkinningKnife_MasterName" rel_version="ToolSkins_Egyptian_MTX">Cuchilla dorada</string>
+	<string key="Skin_EgyptianGods_AzothScepter_Description" rel_version="ToolSkins_Egyptian_MTX">Las arenas turbulentas y ardientes se inclinan ante este cetro con una reverencia.</string>
+	<string key="Skin_EgyptianGods_FishingPole_Description" rel_version="ToolSkins_Egyptian_MTX">Que tu sedal vuele por los aires.</string>
+	<string key="Skin_EgyptianGods_LoggingAxe_Description" rel_version="ToolSkins_Egyptian_MTX">Sin importar los pocos árboles que hay en el desierto, esta hacha es perfecta para talarlos.</string>
+	<string key="Skin_EgyptianGods_Pickaxe_Description" rel_version="ToolSkins_Egyptian_MTX">Para los metales preciosos y todas las clases de mena en las Arenas de Azufre.</string>
+	<string key="Skin_EgyptianGods_Sickle_Description" rel_version="ToolSkins_Egyptian_MTX">El siseo que se oye a la distancia seguramente es una coincidencia...</string>
+	<string key="Skin_EgyptianGods_SkinningKnife_Description" rel_version="ToolSkins_Egyptian_MTX">Es un honor ser desollado por este cuchillo; todos los animales lo saben.</string>
+	<string key="Skin_Guitar_EgyptianGods_MasterName" rel_version="Instrument_Guitar_Egyptian_MTX">Cuerdas del escarabajo</string>
+	<string key="Skin_Drum_EgyptianGods_MasterName" rel_version="Instrument_Drums_Egyptian_MTX">Latido de los dioses</string>
+	<string key="Skin_Mandolin_EgyptianGods_MasterName" rel_version="Instrument_Mandolin_Egyptian_MTX">Sonido del ocaso</string>
+	<string key="Skin_Guitar_EgyptianGods_Description" rel_version="Instrument_Guitar_Egyptian_MTX">Tócala para que todos los que escuchen se vean afectados con la urgencia de bailar y gozar en las arenas.</string>
+	<string key="Skin_Drum_EgyptianGods_Description" rel_version="Instrument_Drums_Egyptian_MTX">Invoca el poder de los panteones de antaño a través del ritmo de tus tambores.</string>
+	<string key="Skin_Mandolin_EgyptianGods_Description" rel_version="Instrument_Mandolin_Egyptian_MTX">Una mandolina para aquellos atardecer soñolientos en las Arenas de Azufre donde te acompañan tus compatriotas alrededor del fuego para descansar sus agotados brazos del combate.</string>
+	<string key="Skin_Spear_EgyptianGods_Prime_MasterName" rel_version="Weapon_Egyptian_Spear_Twitch">Lanza de los dioses</string>
+	<string key="Skin_Firestaff_EgyptianGods_Prime_MasterName" rel_version="Weapon_Egyptian_FireStaff_Twitch">Ira del Dios del Sol</string>
+	<string key="Skin_Musket_EgyptianGods_Prime_MasterName" rel_version="Weapon_Egyptian_Musket_Twitch">Serpiente de francotirador</string>
+	<string key="Skin_Spear_EgyptianGods_Prime_Description" rel_version="Weapon_Egyptian_Spear_Twitch">Una lanza doble, eternamente dorada y cargada con el poder del panteón.</string>
+	<string key="Skin_Firestaff_EgyptianGods_Prime_Description" rel_version="Weapon_Egyptian_FireStaff_Twitch">Formada con la feroz furia de Ra.</string>
+	<string key="Skin_Musket_EgyptianGods_Prime_Description" rel_version="Weapon_Egyptian_Musket_Twitch">Apunta con la mira de este mosquete y dispara una mordida de serpiente a tus enemigos.</string>
+	<string key="Skin_Chest_SandDune_MasterName" rel_version="Apparel_SandDune">Capa de explorador de las dunas de arena</string>
+	<string key="Skin_Head_SandDune_MasterName" rel_version="Apparel_SandDune">Capucha de explorador de las dunas de arena</string>
+	<string key="Skin_Legs_SandDune_MasterName" rel_version="Apparel_SandDune">Vendas para las piernas de explorador de las dunas de arena</string>
+	<string key="Skin_Feet_SandDune_MasterName" rel_version="Apparel_SandDune">Vendas para los pies de explorador de las dunas de arena</string>
+	<string key="Skin_Hands_SandDune_MasterName" rel_version="Apparel_SandDune">Vendas para las manos de explorador de las dunas de arena</string>
+	<string key="Skin_Chest_SandDune_Description" rel_version="Apparel_SandDune">Con solo tus ojos expuestos a los elementos, observa las dunas de arena y traza tu rumbo a la victoria.</string>
+	<string key="Skin_Head_SandDune_Description" rel_version="Apparel_SandDune">Con solo tus ojos expuestos a los elementos, observa las dunas de arena y traza tu rumbo a la victoria.</string>
+	<string key="Skin_Legs_SandDune_Description" rel_version="Apparel_SandDune">Con solo tus ojos expuestos a los elementos, observa las dunas de arena y traza tu rumbo a la victoria.</string>
+	<string key="Skin_Feet_SandDune_Description" rel_version="Apparel_SandDune">Con solo tus ojos expuestos a los elementos, observa las dunas de arena y traza tu rumbo a la victoria.</string>
+	<string key="Skin_Hands_SandDune_Description" rel_version="Apparel_SandDune">Con solo tus ojos expuestos a los elementos, observa las dunas de arena y traza tu rumbo a la victoria.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_Divider01_A_MasterName" comment="Set-04-Legion">Diagrama: Divisor de pantalla entramado</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_D_MasterName" comment="Set-04-Legion">Diagrama: Sofá cama de peltre claro</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_D_MasterName" comment="Set-04-Legion">Diagrama: Cama alta verdosa</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_D_MasterName" comment="Set-04-Legion">Diagrama: Sillón de madera de olivo</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_D_MasterName" comment="Set-04-Legion">Diagrama: Silla de comedor verdosa</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_D_MasterName" comment="Set-04-Legion">Diagrama: Silla curul verdosa</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_D_MasterName" comment="Set-04-Legion">Diagrama: Armario de madera de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_D_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca grande de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_D_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca pequeña de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_D_MasterName" comment="Set-04-Legion">Diagrama: Santuario familiar de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_D_MasterName" comment="Set-04-Legion">Diagrama: Cajonera de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_D_MasterName" comment="Set-04-Legion">Diagrama: Cómoda superior de mármol con serpentina</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_D_MasterName" comment="Set-04-Legion">Diagrama: Estantería de pared de madera de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_D_MasterName" comment="Set-04-Legion">Diagrama: Cocina de concreto verdosa</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightWall01_D_MasterName" comment="Set-04-Legion">Diagrama: Bracero de pared color peltre claro</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightCeiling01_D_MasterName" comment="Set-04-Legion">Diagrama: Lámpara de aceite de techo color peltre claro</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightFloor01_D_MasterName" comment="Set-04-Legion">Diagrama: Lámpara de aceite alta color peltre claro</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightTable01_D_MasterName" comment="Set-04-Legion">Diagrama: Lámpara de aceite corta color peltre claro</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_D_MasterName" comment="Set-04-Legion">Diagrama: Mesita de mármol con serpentina</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_D_MasterName" comment="Set-04-Legion">Diagrama: Escritorio de madera de olivo</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_D_MasterName" comment="Set-04-Legion">Diagrama: Plataforma de madera de olivo con mosaicos</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_D_MasterName" comment="Set-04-Legion">Diagrama: Mesa para comedor de mármol con serpentina</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_D_MasterName" comment="Set-04-Legion">Diagrama: Mesa pequeña de madera de olivo</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves03_MasterName" comment="Set-04-Legion">Diagrama: Corrientes de Selene que fluyen al Oeste</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves04_MasterName" comment="Set-04-Legion">Diagrama: Corrientes de Selene que fluyen al Este</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_A_MasterName" comment="Set-04-Legion">Diagrama: Sofá cama de latón amarillo</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_A_MasterName" comment="Set-04-Legion">Diagrama: Cama alta de centurión</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_A_MasterName" comment="Set-04-Legion">Diagrama: Sillón de madera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_A_MasterName" comment="Set-04-Legion">Diagrama: Silla para comedor de centurión</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_A_MasterName" comment="Set-04-Legion">Diagrama: Silla curul de centurión</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_A_MasterName" comment="Set-04-Legion">Diagrama: Armario de madera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_A_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca grande de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_A_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca pequeña de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_A_MasterName" comment="Set-04-Legion">Diagrama: Santuario familiar de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_A_MasterName" comment="Set-04-Legion">Diagrama: Cajonera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_A_MasterName" comment="Set-04-Legion">Diagrama: Cómoda superior de mármol color rojo levantina</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_A_MasterName" comment="Set-04-Legion">Diagrama: Estantería de pared de madera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_A_MasterName" comment="Set-04-Legion">Diagrama: Cocina de concreto de centurión</string>
+	<string key="Schematic_House_HousingItem_Storage_T3_Legion_MasterName" comment="Set-04-Legion">Diagrama: Cofre de almacenamiento al estilo de la legión</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_A_MasterName" comment="Set-04-Legion">Diagrama: Mesita de mármol color rojo levantina</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_A_MasterName" comment="Set-04-Legion">Diagrama: Escritorio de madera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_A_MasterName" comment="Set-04-Legion">Diagrama: Plataforma de madera de ciprés con mosaicos</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_A_MasterName" comment="Set-04-Legion">Diagrama: Mesa para comedor de mármol color rojo levantina</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_A_MasterName" comment="Set-04-Legion">Diagrama: Mesa pequeña de madera de ciprés</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueMan01_A_MasterName" comment="Set-04-Legion">Diagrama: Estatua tallada de César</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueWoman01_A_MasterName" comment="Set-04-Legion">Diagrama: Estatua tallada de Vesta</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueGoddess01_A_MasterName" comment="Set-04-Legion">Diagrama: Rueda de alfarería antigua</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves01_MasterName" comment="Set-04-Legion">Diagrama: Corrientes de Solis que fluyen al Oeste</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves02_MasterName" comment="Set-04-Legion">Diagrama: Corrientes de Solis que fluyen al Este</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_B_MasterName" comment="Set-04-Legion">Diagrama: Sofá cama de cobre quemado</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_B_MasterName" comment="Set-04-Legion">Diagrama: Cama alta mediterránea</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_B_MasterName" comment="Set-04-Legion">Diagrama: Sillón de madera de roble blanco</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_B_MasterName" comment="Set-04-Legion">Diagrama: Silla de comedor mediterránea</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_B_MasterName" comment="Set-04-Legion">Diagrama: Silla curul mediterránea</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_B_MasterName" comment="Set-04-Legion">Diagrama: Armario de madera de roble blanco</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_B_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca grande de roble blanca</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_B_MasterName" comment="Set-04-Legion">Diagrama: Biblioteca pequeña de roble blanca</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_B_MasterName" comment="Set-04-Legion">Diagrama: Santuario familiar de roble blanco</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_B_MasterName" comment="Set-04-Legion">Diagrama: Cajonera de roble blanca</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_B_MasterName" comment="Set-04-Legion">Diagrama: Cómoda superior de mármol con lazulita</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_B_MasterName" comment="Set-04-Legion">Diagrama: Estantería de pared de madera de roble blanca</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_B_MasterName" comment="Set-04-Legion">Diagrama: Cocina de concreto mediterránea</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_B_MasterName" comment="Set-04-Legion">Diagrama: Mesita de mármol con lazulita</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_B_MasterName" comment="Set-04-Legion">Diagrama: Escritorio de madera de roble blanco</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_B_MasterName" comment="Set-04-Legion">Diagrama: Plataforma de madera de roble blanca con mosaicos</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_B_MasterName" comment="Set-04-Legion">Diagrama: Mesa para comedor de mármol con lazulita</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_B_MasterName" comment="Set-04-Legion">Diagrama: Mesa pequeña de madera de roble blanca</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_Brazier01_A_MasterName" comment="Set-04-Legion">Diagrama: Bracero de piedra grande</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_ThroneGod01_A_MasterName" comment="Set-04-Legion">Diagrama: Estatua tallada de Júpiter</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_Divider01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightWall01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightCeiling01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightFloor01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Lighting_Legion_LightTable01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_D_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves03_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves04_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Storage_T3_Legion_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueMan01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueWoman01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_StatueGoddess01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves01_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_WallWaves02_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Bed_Legion_Bed02_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Chair02_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Chair_Legion_Stool_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Armoire01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Bookcase02_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Cabinet02_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Dresser01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Shelf01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Stove01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_BedSideTable_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Desk01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_SmallTable_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table01_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Table_Legion_Table02_B_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_Brazier01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="Schematic_House_HousingItem_Legion_Decor_ThroneGod01_A_Description" comment="Set-04-Legion">Un diagrama que te enseña a fabricar una pieza de mueble. Aprende la receta de fabricación.</string>
+	<string key="WoodenCoin_MasterName">Moneda de madera</string>
+	<string key="WoodenCoin_Description">Una pequeña moneda de madera encontrada en cofres de élite que se puede usar en una estación de cantería para fabricar runas de gema con forma de corazón.</string>
+	<string key="Skin_Bow_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Arco de Marte</string>
+	<string key="Skin_GreatAxe_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Gran hacha de Marte</string>
+	<string key="Skin_ShieldK_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Escudo oblongo de Marte</string>
+	<string key="Skin_Longsword_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Espada larga de Marte</string>
+	<string key="Skin_Musket_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Mosquete de Marte</string>
+	<string key="Skin_Rapier_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Espada ropera de Marte</string>
+	<string key="Skin_ShieldR_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Rodela de Marte</string>
+	<string key="Skin_Spear_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Lanza de Marte</string>
+	<string key="Skin_Hatchet_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Hachuela de Marte</string>
+	<string key="Skin_WarHammer_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Martillo de guerra de Marte</string>
+	<string key="Skin_Firestaff_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Bastón ígneo de Marte</string>
+	<string key="Skin_Lifestaff_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Bastón vital de Marte</string>
+	<string key="Skin_ShieldT_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Escudo de torre de Marte</string>
+	<string key="Skin_IceGaunt_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Manopla de hielo de Marte</string>
+	<string key="Skin_VoidGauntlet_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Manopla de vacío de Marte</string>
+	<string key="Skin_Blunderbuss_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Trabuco de Marte</string>
+	<string key="Skin_Greatsword_BFNW2_MasterName" rel_version="BFNW_Archos_Weapon_Skins">Mandoble de Marte</string>
+	<string key="Skin_Bow_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Los Sagittarii estarían orgullosos de esta arma.</string>
+	<string key="Skin_GreatAxe_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">La poderosa herramienta de un jefe militar. Exudará la fortaleza de su imperio.</string>
+	<string key="Skin_ShieldK_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un escudo simple. Puede que no sea tan eficaz como otras opciones, pero saber usar más o menos uno es mejor que no dominar ninguno.</string>
+	<string key="Skin_Longsword_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Esta gladius fue manchada no solo con la sangre de los enemigos del imperio, sino con la furia de los guerreros del pasado.</string>
+	<string key="Skin_Musket_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Puede que la guerra nunca cambie, pero sus herramientas jamás serán las mismas.</string>
+	<string key="Skin_Rapier_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un arma hecha para cortar a través de la abertura más pequeña en la hamata del oponente.</string>
+	<string key="Skin_ShieldR_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un escudo como este no es adecuado para las formaciones tan cerradas por las que estos soldados son conocidos, pero no todas las batallas requieren las mismas tácticas.</string>
+	<string key="Skin_Spear_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un arma con mucho uso. Puedes sentir cómo la experiencia de muchos soldados fluye a través de su punta.</string>
+	<string key="Skin_Hatchet_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un arma creada para mutilar. Puedes sentir cómo brota la furia de Marte desde tu interior.</string>
+	<string key="Skin_WarHammer_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">La sangre de los caídos le da más peso al cabezal de este martillo del que debería tener.</string>
+	<string key="Skin_Firestaff_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">La llama de la furia arde intensamente dentro de este bastó.</string>
+	<string key="Skin_Lifestaff_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Siempre que tengas la voluntad para ponerte de pie, este bastón nunca te fallará.</string>
+	<string key="Skin_ShieldT_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Un guerrero sabio no solo sabe cómo protegerse, sino también al resto del testudo.</string>
+	<string key="Skin_IceGaunt_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Las frías manos de la muerte hasta parecen cómicas cuando se las yuxtapone con un arma tan resplandeciente.</string>
+	<string key="Skin_VoidGauntlet_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Te dan ganas de avanzar y avanzar y avanzar...</string>
+	<string key="Skin_Blunderbuss_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">El mismísimo Marte derramó una lágrima ante la brutal matanza causada por esta arma.</string>
+	<string key="Skin_Greatsword_BFNW2_Description" rel_version="BFNW_Archos_Weapon_Skins">Si blandes esta arma al servicio de Marte, nunca flaquearás ni fracasarás.</string>
 </resources>
 
