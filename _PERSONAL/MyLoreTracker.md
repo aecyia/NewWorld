@@ -2,11 +2,19 @@
 
 The current list as of the update
 + 01 September 2022 -- PTR
-+ Last Updated -- 10 September 2022
++ Last Updated -- 26 September 2022
 
 MISSING 	
 + Lore pages that I cannot find in Aeternum
-+ These are either broken, bugged, not visible, impossible to get, missing, or undiscovered
++ These are either broken, bugged, not visible, impossible to get, missing, or etc.
+
+BUGGED
++ Definitely bugged
+
+UNDISCOVERED
++ Lore pages that are in the game
++ Haven't done the expedition yet
++ Haven't unlocked the area yet (such as Brimstone Sands)
 
 ## A New World
 
@@ -343,46 +351,46 @@ A Blaze of Glory
 2 - Antony's Letter -- MISSING
 
 Transmutation
-1 - Brimstone Sulfur Experiments -- MISSING
-2 - Nostalgia -- MISSING
-3 - Against the Sages -- MISSING
-4 - A New Path -- MISSING
+1 - Brimstone Sulfur Experiments -- UNDISCOVERED
+2 - Nostalgia -- UNDISCOVERED
+3 - Against the Sages -- UNDISCOVERED
+4 - A New Path -- UNDISCOVERED
 
 A New Path
 1 - Drusilla's Letter -- MISSING
 
 The Vigil Eternal
-1 - A Dream of Riches -- MISSING
-2 - Mind the Gap -- MISSING
-3 - Awakening -- MISSING
+1 - A Dream of Riches -- UNDISCOVERED
+2 - Mind the Gap -- UNDISCOVERED
+3 - Awakening -- UNDISCOVERED
 
 Ammit's Hunger
-1 - The Problem of Suffering -- MISSING
-2 - The Natural Order -- MISSING
+1 - The Problem of Suffering -- UNDISCOVERED
+2 - The Natural Order -- UNDISCOVERED
 
 Opening the Way
-1 - A Small Test -- MISSING
-2 - The Last Resort -- MISSING
-3 - Gnosis -- MISSING
+1 - A Small Test -- UNDISCOVERED
+2 - The Last Resort -- UNDISCOVERED
+3 - Gnosis -- UNDISCOVERED
 
 Froderico's Notes
-1 - On the Evolution of the Roman Centuries -- MISSING
-2 - Local Superstitions -- MISSING
-3 - Firsthand Observations of Roman Pila -- MISSING
+1 - On the Evolution of the Roman Centuries -- UNDISCOVERED
+2 - Local Superstitions -- UNDISCOVERED
+3 - Firsthand Observations of Roman Pila -- UNDISCOVERED
 
 Consigned to Oblivion
-1 - The Passage of Time -- MISSING
-2 - Bitter Truths -- MISSING
-3 - Crassus's Oath -- MISSING
+1 - The Passage of Time -- UNDISCOVERED
+2 - Bitter Truths -- UNDISCOVERED
+3 - Crassus's Oath -- UNDISCOVERED
 
 The Woes of an Amateur Antiquarian
-1 - Materials -- MISSING
-2 - Methods -- MISSING
+1 - Materials -- UNDISCOVERED
+2 - Methods -- UNDISCOVERED
 
 A Pilgrim's Diary
-1 - Blasphemous Musings -- MISSING
-2 - The Narrowing Road -- MISSING
-3 - Abandonment -- MISSING
+1 - Blasphemous Musings -- UNDISCOVERED
+2 - The Narrowing Road -- UNDISCOVERED
+3 - Abandonment -- UNDISCOVERED
 
 Roar of the Manticore
 1 - Mysterious Riddle -- MISSING
@@ -449,59 +457,59 @@ Pious Echoes
 3 - The Third Revelation -- MISSING
 
 Scorpion's Cradle
-1 - Day 1 -- MISSING
-2 - Day 2 -- MISSING
-3 - What Day? -- MISSING
-4 - The Cradle -- MISSING
+1 - Day 1 -- UNDISCOVERED
+2 - Day 2 -- UNDISCOVERED
+3 - What Day? -- UNDISCOVERED
+4 - The Cradle -- UNDISCOVERED
 
 Dune Phantoms
-1 - Arikh, Part 1 -- MISSING
-2 - Arikh, Part 2 -- MISSING
-3 - Shukri -- MISSING
+1 - Arikh, Part 1 -- UNDISCOVERED
+2 - Arikh, Part 2 -- UNDISCOVERED
+3 - Shukri -- UNDISCOVERED
 
 Bringer
-1 - The Child -- MISSING
+1 - The Child -- UNDISCOVERED
 
 The Huntress
-1 - The Huntress -- MISSING
+1 - The Huntress -- UNDISCOVERED
 
 Trial of the Devourer
-1 - Devourer, Part 1 -- MISSING
-2 - Devourer, Part 2 -- MISSING
-3 - Devourer, Part 3 -- MISSING
+1 - Devourer, Part 1 -- UNDISCOVERED
+2 - Devourer, Part 2 -- UNDISCOVERED
+3 - Devourer, Part 3 -- UNDISCOVERED
 
 Desert Lights
-1 - To My Love -- MISSING
-2 - Yvette -- MISSING
-3 - A Satisfying Home -- MISSING
-4 - The Amazing Trades of Giovanni -- MISSING
+1 - To My Love -- UNDISCOVERED
+2 - Yvette -- UNDISCOVERED
+3 - A Satisfying Home -- UNDISCOVERED
+4 - The Amazing Trades of Giovanni -- UNDISCOVERED
 
 Desert Thorns
-1 - Ogdan's Journal -- MISSING
-2 - Goat-sick -- MISSING
-3 - A Quiet Corner -- MISSING
+1 - Ogdan's Journal -- UNDISCOVERED
+2 - Goat-sick -- UNDISCOVERED
+3 - A Quiet Corner -- UNDISCOVERED
 
 Favorites
-1 - Favorites -- MISSING
+1 - Favorites -- UNDISCOVERED
 
 Prayers and Portents
-1 - Hymn to Absent Gods -- MISSING
-2 - Testament of the First Peoples -- MISSING
-3 - The Doom of Eternity -- MISSING
-4 - Brimstone Nursery Rhyme -- MISSING
+1 - Hymn to Absent Gods -- UNDISCOVERED
+2 - Testament of the First Peoples -- UNDISCOVERED
+3 - The Doom of Eternity -- UNDISCOVERED
+4 - Brimstone Nursery Rhyme -- UNDISCOVERED
 
 Age of the Pharoah
-1 - Pharaoh’s Decree vol. I -- MISSING
-2 - Pharaoh’s Decree vol. 2 -- MISSING
-3 - Witness of the Faithful vol. 1 -- MISSING
-4 - Witness of the Faithful vol. 2 -- MISSING
+1 - Pharaoh’s Decree vol. I -- UNDISCOVERED
+2 - Pharaoh’s Decree vol. 2 -- UNDISCOVERED
+3 - Witness of the Faithful vol. 1 -- UNDISCOVERED
+4 - Witness of the Faithful vol. 2 -- UNDISCOVERED
 
 The Romans' Journey
-1 - A Legionnaire’s Lament -- MISSING
-2 - Behold our queen’s salvation! -- MISSING
-3 - The Journal of Publius Canidius Crassus -- MISSING
-4 - Scouting Report -- MISSING
-5 - To Legatus Crassus -- MISSING
+1 - A Legionnaire’s Lament -- UNDISCOVERED
+2 - Behold our queen’s salvation! -- UNDISCOVERED
+3 - The Journal of Publius Canidius Crassus -- UNDISCOVERED
+4 - Scouting Report -- UNDISCOVERED
+5 - To Legatus Crassus -- UNDISCOVERED
 
 ## Tales of Cutlass Keys
 
@@ -737,9 +745,9 @@ Dynasty Shipyard
 3 - Edict 35
 
 Lazarus Instrumentality
-1 - An Unparalleled Opportunity -- MISSING
-2 - A Great Sacrifice -- MISSING
-3 - Growing Fear -- MISSING
+1 - An Unparalleled Opportunity -- UNDISCOVERED
+2 - A Great Sacrifice -- UNDISCOVERED
+3 - Growing Fear -- UNDISCOVERED
 
 Starstone Barrows
 1 - Nakashima's Frustration
@@ -752,15 +760,15 @@ The Depths
 3 - The Box
 
 Tempest's Heart
-1 - Brothers Unreliable -- MISSING
-2 - The Offering of the Apple -- MISSING
-3 - The Heretic's Source -- MISSING
-4 - Father Russo and Isabella -- MISSING
+1 - Brothers Unreliable -- UNDISCOVERED
+2 - The Offering of the Apple -- UNDISCOVERED
+3 - The Heretic's Source -- UNDISCOVERED
+4 - Father Russo and Isabella -- UNDISCOVERED
 
-Barnacles and Black Powder -- MISSING
-1 - The Darkheart's Roster -- MISSING
-2 - Admiral's Manifesto -- MISSING
-3 - Widdershin's Stupidity -- MISSING
+Barnacles and Black Powder -- UNDISCOVERED
+1 - The Darkheart's Roster -- UNDISCOVERED
+2 - Admiral's Manifesto -- UNDISCOVERED
+3 - Widdershin's Stupidity -- UNDISCOVERED
 
 ## Tales of First Light
 
@@ -1133,7 +1141,7 @@ The Siren Queen's Proclamations
 Melpomene's Journal
 1 - Entry 1: Dawn
 2 - Entry 5: Storm
-3 - Entry 22: Death -- MISSING
+3 - Entry 22: Death -- BUGGED
 4 - Entry 54: Silence
 5 - Entry 101: Wind
 6 - Entry 240: Souls

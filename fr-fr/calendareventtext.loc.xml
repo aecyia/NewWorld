@@ -21,11 +21,14 @@
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">SEMAINE BONUS D'EXP DE RÉCOLTE</string>
 	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
-	<string key="ui_event_character_xp_title">SEMAINE BONUS D'EXP DE NIVEAU DE PERSONNAGE</string>
-	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">ÉVÉNEMENT BONUS D'EXP DE NIVEAU DE PERSONNAGE</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Du 05/10 à 09:01 CET au 18/10 à 08:59 CET, les joueurs recevront x1,5 de bonus d'EXP de niveau de personnage. Ce multiplicateur sera appliqué à l'EXP de repos.\nDébut du bonus le :&lt;/font&gt;</string>
 	<string key="ui_event_refining_xp_title">SEMAINE BONUS D'EXP DE TRANSFORMATION</string>
 	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
 	<string key="ui_event_extravaganza_title">LA FÊTE DES BONUS D'EXP</string>
 	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Recherche de groupe d'Expédition !</string>
+	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Disponible depuis la carte ! Accédez à toutes les Expéditions que vous avez déjà visitées au moins une fois en cliquant sur leur icône. À partir de là, vous pouvez naviguer ou poster dans les salons de Recherche de groupe, ou accéder directement à l'Expédition avec votre groupe.</string>
+	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la Recherche de groupe</string>
 </resources>
 

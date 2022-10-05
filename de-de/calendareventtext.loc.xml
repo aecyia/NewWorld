@@ -21,11 +21,14 @@
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">DIESE WOCHE: SAMMEL-EP-BONUS</string>
 	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
-	<string key="ui_event_character_xp_title">DIESE WOCHE: CHARAKTER-EP-BONUS</string>
-	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_title">EVENT: CHARAKTER-EP-BONUS</string>
+	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Erhaltet vom 05.10. 00:01 Uhr (PT) – 17.10. 23:59 Uhr (PT) einen 1,5-fachen Bonus auf die Charakter-EP. Der Multiplikator wird auch auf Ausgeruht-EP angewendet.\nDer Bonus ist aktiv für:&lt;/font&gt;</string>
 	<string key="ui_event_refining_xp_title">DIESE WOCHE: VEREDELUNG-EP-BONUS</string>
 	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
 	<string key="ui_event_extravaganza_title">EP-BONUS EXTRAVAGANZA!</string>
 	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Der Bonus ist aktiv für:&lt;/font&gt;</string>
+	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Expeditionsgruppensuche!</string>
+	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Jetzt über die Karte verfügbar! Greife über das Expedition-Symbol auf alle Expeditionen zu (die du schon einmal betreten hast). Hier kannst du die Gruppensuche nutzen oder direkt eine Expedition mit deiner bestehenden Gruppe betreten.</string>
+	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Über die Gruppensuche</string>
 </resources>
 
