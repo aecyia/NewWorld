@@ -55,6 +55,7 @@
 	<string key="ui_guild_creation_failed_throttled">Creazione della compagnia non riuscita: non puoi creare più di una compagnia nell'arco di 24 ore.</string>
 	<string key="ui_guild_creation_failed_invalidName">Creazione della compagnia non riuscita: nome non valido.</string>
 	<string key="ui_guild_creation_failed_notInFaction">Creazione della compagnia non riuscita: non sei in una fazione.</string>
+	<string key="ui_guild_cannont_accept_invite_invalid_level">Impossibile accettare l'invito. Devi essere almeno di livello {requiredLevel}.</string>
 	<string key="ui_no_guild_message">Per creare una compagnia, invita un altro giocatore.</string>
 	<string key="ui_guildinviteacceptedmessage">Ora fai parte della compagnia &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_guildinviterecipientmessage">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; ti ha invitato a unirti alla compagnia &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{guildName}&lt;/font&gt;.</string>
@@ -137,7 +138,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Prelievo dalla cassa comune non riuscito (limite giornaliero superato).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Il limite di prelievo giornaliero è impostato a &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Il limite di prelievo giornaliero è impostato a {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Per usare la cassa comune della gilda devi raggiungere almeno il livello {minLevel}.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Per usare la cassa comune della Compagnia devi raggiungere almeno il livello {minLevel}.</string>
 	<string key="ui_treasury_notification_error_generic">Operazione presso la cassa comune non riuscita. Riprova.</string>
 	<string key="ui_setSiegeWindow">Imposta periodo d'assedio</string>
 	<string key="ui_forDefending">Per difendere i tuoi territori</string>
@@ -181,6 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Ufficiale</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Impossibile inviare gli inviti della compagnia. Grado insufficiente.</string>
 	<string key="ui_guildCannotInviteNoFaction">Impossibile inviare gli inviti della compagnia. Non sei in una fazione.</string>
+	<string key="ui_guildcannotpromote_nofaction">Impossibile promuovere a Governatore. Non sei in una fazione.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Colono</string>
 	<string key="ui_guildranksettler_SHE">Colona</string>
 	<string key="ui_guildranksettler_THEY">Colono</string>
@@ -200,10 +202,16 @@
 	<string key="ui_kickfromcompany">Espelli dalla compagnia</string>
 	<string key="ui_kickguildmember_confirm">Vuoi davvero rimuovere {playerName} dalla compagnia?</string>
 	<string key="ui_leaveguild">Abbandona la compagnia</string>
-	<string key="ui_leaveguild_confirm">Vuoi davvero abbandonare la compagnia?</string>
-	<string key="ui_leaveguild_governor_confirm">Vuoi davvero abbandonare la compagnia?\n\nQuando te ne andrai, un altro membro sarà promosso a Governatore e tutti i possedimenti rimarranno di proprietà della compagnia sotto il nuovo Governatore.</string>
+	<string key="ui_disbandguild">Sciogli compagnia</string>
+	<string key="ui_leaveguild_confirm">Se abbandoni la compagnia, &lt;font color="#FFD600"&gt;si verificherà quanto segue: \n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_final_confirm">Vuoi davvero abbandonare la compagnia?</string>
+	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;TEMPO DI RICARICA GUERRA COMPAGNIA ({cooldownTimeWar}).&lt;/font&gt; Mentre il tempo di ricarica è attivo, puoi combattere come mercenario solo nelle guerre difensive condotte dalla compagnia alla quale ti unirai successivamente. \n\n&lt;font color="#FFD600"&gt;TEMPO DI RICARICA CONTRIBUTI AVANGUARDIA GUERRA COMPAGNIA ({cooldownTimeInfluence}).&lt;/font&gt; Mentre il tempo di ricarica è attivo, puoi guadagnare influenza per la tua fazione completando missioni PVP, ma l'influenza guadagnata non contribuirà alla selezione della tua nuova compagnia come Avanguardia.</string>
+	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Rinuncia ai possedimenti. &lt;/font&gt;Quando te ne andrai, un altro membro sarà promosso a Governatore e tutti i possedimenti rimarranno di proprietà della compagnia sotto il nuovo Governatore.</string>
 	<string key="ui_leaveguild_alone_confirm">Essendo l'unico membro di questa compagnia, quando te ne andrai tutti i possedimenti della compagnia andranno persi e il portafoglio della compagnia verrà aggiunto al tuo.</string>
 	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;L'aggiunta del portafoglio della compagnia ti farà superare il limite massimo di monete. Se sciogli la compagnia ora, le monete in eccesso andranno perse.&lt;/font&gt;</string>
+	<string key="ui_guild_influence_cooldown_heading">TEMPO DI RICARICA GUERRA</string>
+	<string key="ui_guild_influence_cooldown_body">Hai lasciato una compagnia di recente e sei ancora in attesa di guadagnare contributi dell'Avanguardia e influenza per la tua fazione.\n La tua influenza aiuterà la tua fazione, ma non avrà effetto sulla tua compagnia per la selezione come Avanguardia se dichiari guerra. \n Questo tempo di ricarica termina tra: {cooldownTime}</string>
+	<string key="ui_cannot_leaveguild_ownwarsignup">Non puoi abbandonare se hai effettuato una registrazione a una guerra per la compagnia. Prima annulla la tua registrazione alla guerra.</string>
 	<string key="ui_leftguildmessage">Hai abbandonato la compagnia.</string>
 	<string key="ui_modifycrest">Modifica emblema</string>
 	<string key="ui_guildcrestsaved">Nuovo emblema salvato</string>
@@ -220,6 +228,7 @@
 	<string key="ui_becomegovernor">Diventa Governatore</string>
 	<string key="ui_becomegovernor_SHE">Diventa Governatrice</string>
 	<string key="ui_becomegovernor_THEY">Diventa Governatore</string>
+	<string key="ui_becomegovernor_requires_faction">Unisciti alla fazione della gilda per diventare Governatore</string>
 	<string key="ui_permission_assign_structures">{allowed} assegnare strutture della compagnia</string>
 	<string key="ui_permission_build_structures">{allowed} costruire sulla terra della compagnia</string>
 	<string key="ui_permission_cancel_structures">{allowed} annullare strutture progettate</string>
@@ -312,7 +321,7 @@
 	<string key="ui_wardeclarationpopup_cost">Prezzo:</string>
 	<string key="ui_wardeclarationpopup_title">Dichiarazione di guerra</string>
 	<string key="ui_wardeclarationpopup_target">vs {guildName}</string>
-	<string key="ui_wardeclarationpopup_message">Durante una guerra, entrambe le compagnie possono attaccarsi a vicenda senza commettere un crimine. Durante il periodo d'assedio della compagnia in difesa, la compagnia attaccante può attaccarne le strutture anche se il territorio è protetto.</string>
+	<string key="ui_wardeclarationpopup_message">Durante una guerra, la compagnia che attacca cerca di rivendicare il territorio della compagnia che difende catturandone il forte entro la finestra di assedio.</string>
 	<string key="ui_wardeclarationpopup_declarebutton">Dichiara guerra! {cost} {coinImage}</string>
 	<string key="ui_wardeclarationpopup_mywallet" comment="When presented to the user, the name for currency is always Coin">Monete</string>
 	<string key="ui_wardeclarationpopup_extendtitle">Contrattacca</string>
@@ -456,6 +465,7 @@
 	<string key="ui_cantpromote_leaderatwar">Non puoi trasferire la leadership della compagnia durante la guerra</string>
 	<string key="ui_cantpromote_lackpermissionforrank">Non hai il permesso di promuovere membri al tuo grado o superiore</string>
 	<string key="ui_cantpromote_lackpermission">Non hai il permesso di promuovere membri</string>
+	<string key="ui_cantpromote_nonfactionmember">I membri devono unirsi a una fazione per essere promossi</string>
 	<string key="ui_cantdemote_lowestrank">È già il grado più basso possibile</string>
 	<string key="ui_cantdemote_lackpermissionforrank">Non hai il permesso di degradare membri al tuo grado o superiore</string>
 	<string key="ui_cantdemote_lackpermission">Non hai il permesso di degradare membri</string>
@@ -487,6 +497,7 @@
 	<string key="ui_forcedrename">Rinomina compagnia</string>
 	<string key="ui_forcedrename_title">Modifica nome compagnia</string>
 	<string key="ui_forcedrename_description">Il nome della tua compagnia è stato segnalato come inappropriato. Abbiamo assegnato un nome temporaneo che può essere modificato in qualsiasi momento.\n\nCodice di condotta:\n&lt;font color="#0000ff"&gt;&lt;a data="coc"&gt;visualizza il codice di condotta&lt;/a&gt;&lt;/font&gt;\n\nSe ritieni di aver ricevuto questa sanzione per errore, puoi presentare ricorso visitando:\n&lt;font color="#0000ff"&gt;&lt;a data="appealban"&gt;Presenta ricorso&lt;/a&gt;&lt;/font&gt;\n\nDesideri aggiornare il nome della compagnia adesso?</string>
+	<string key="ui_forcedrename_message">Il sistema ha cambiato il nome della compagnia in &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="ui_conquest_active_attack">Attacca</string>
 	<string key="ui_conquest_active_defend">Difendi</string>
 	<string key="ui_conquest_upcoming_attack">L'attacco inizia tra</string>
@@ -540,6 +551,7 @@
 	<string key="ui_siege_signup_description_defenders">Aiuterai la compagnia in difesa a mantenere questo territorio.\nI difensori giocheranno dall'&lt;font color="#ffffff"&gt;interno del forte&lt;/font&gt;, con l'obiettivo di proteggere il punto di rivendicazione dalla conquista.</string>
 	<string key="ui_siege_signup_description_invasion">L'esercito dei Corrotti attaccherà il &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; per impadronirsi del territorio e distruggere l'insediamento.\nCombatti per il territorio, proteggi l'insediamento, partecipa alla grande battaglia e ottieni ricompense!</string>
 	<string key="ui_invasion_desc_short">L'esercito dei Corrotti attaccherà il &lt;font color="#ffffff"&gt;Forte {territoryName}&lt;/font&gt; per impadronirsi del territorio e distruggere l'insediamento.</string>
+	<string key="ui_siege_signup_myfaction">La mia fazione:</string>
 	<string key="ui_siege_signup_successfultitle">Iscrizione avvenuta correttamente!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Ti confermeremo la tua partecipazione alla guerra il più presto possibile.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Riceverai una notifica 5 minuti prima dell'invasione.</string>
@@ -552,6 +564,7 @@
 	<string key="ui_siege_signup_failed_notinfaction">Devi unirti a una fazione prima di poter partecipare alla guerra.</string>
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Per iscriverti devi raggiungere almeno il livello {minLevel}.</string>
 	<string key="ui_siege_signup_failed_banned">Sei stato rimosso dalla formazione dalla compagnia governante e non puoi unirti nuovamente al suo esercito.</string>
+	<string key="ui_siege_signup_failed_on_defensive_cooldown">Hai lasciato una compagnia di recente e non puoi combattere in una guerra difensiva per la tua compagnia per 72 ore</string>
 	<string key="ui_siege_signup_failed">Si è verificato un problema durante l'iscrizione a questa guerra.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Vuoi procedere?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Hai già un'iscrizione attiva per una guerra prevista intorno allo stesso orario.\nVuoi davvero annullare l'iscrizione nel territorio {territoryName}?</string>
@@ -569,6 +582,7 @@
 	<string key="ui_siege_set_roster_failed_invalid_player">Impossibile spostare uno dei giocatori selezionati, riprova.</string>
 	<string key="ui_siege_set_roster_failed_no_more_selections">Altre selezioni manuali non consentite: rimuovi prima un giocatore.</string>
 	<string key="ui_siege_set_roster_failed_waiting_for_invite_response">Impossibile muovere un giocatore con un invito in sospeso.</string>
+	<string key="ui_siege_set_roster_failed_non_company_slots_full">Impossibile aggiungere altri mercenari (membri esterni alla compagnia).</string>
 	<string key="ui_siege_set_roster_failed">Si è verificato un problema durante la modifica della formazione.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted">Non hai il permesso di modificare lo stato di riempimento.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted_invasion">Lo stato di riempimento non può essere modificato per le invasioni</string>

@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">Non puoi aggiungere bonus a questo oggetto.</string>
 	<string key="crafting_tree_learned">Imparate</string>
 	<string key="crafting_tree_unlearned">Non imparate</string>
+	<string key="crafting_quality_fixed">Questa barra indica l'intervallo del punteggio attrezzatura in cui può essere prodotto l'oggetto.</string>
 	<string key="crafting_quality_desc">Questa barra indica l'intervallo del punteggio attrezzatura in cui può essere prodotto l'oggetto. Il punteggio base è determinato dal tuo livello di competenza. Puoi anche usare diversi livelli e rarità delle risorse per regolare questo intervallo.</string>
+	<string key="crafting_quality_expertise">Questa barra indica l'intervallo del punteggio attrezzatura in cui può essere prodotto l'oggetto. Il punteggio attrezzatura per questo oggetto verrà calcolato in base alla tua competenza in {expertiseName} e al livello giocatore.\n(Competenza {expertiseName} attuale: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">Il punteggio attrezzatura per questo oggetto verrà calcolato in base alla tua competenza in {expertiseName} e al livello giocatore.\n(Competenza {expertiseName} attuale: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Ricette delle missioni</string>
 	<string key="crafting_select_resources">Seleziona risorse</string>
 	<string key="new_recipe_unlocked">NUOVA RICETTA SBLOCCATA</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Tinte.</string>
 	<string key="ui_armordyes">Tinte per armatura</string>
 	<string key="ui_craftprogress">Produzione: {amount}/{maximum}</string>
-	<string key="ui_crafting_summary_header">Risultati della produzione</string>
+	<string key="ui_crafting_summary_header">Oggetti prodotti</string>
 	<string key="ui_crafted_from">Prodotto con {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Ordina per nome</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">SELEZIONA {type}</string>
 	<string key="crafting_discount_base">Tariffa di base</string>
 	<string key="ui_crafting_resource_origin_message">Nota: le risorse usate vengono prelevate prima dall'inventario, poi dal deposito dell'insediamento.</string>
+	<string key="cr_firstcraft_bonusavailable">Bonus prima produzione disponibile</string>
+	<string key="cr_firstcraft_bonus">Bonus prima produzione</string>
+	<string key="cr_tradeskillbonus_title">Bonus PE competenze</string>
+	<string key="cr_tradeskillbonus_basecraft">Bonus PE competenze</string>
+	<string key="cr_tradeskillbonus_description">Ottieni un bonus extra di PE per le competenze quando produci una ricetta per la prima volta.</string>
 </resources>
 

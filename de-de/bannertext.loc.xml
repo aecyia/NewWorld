@@ -4,7 +4,7 @@
 	<string key="ui_governed_by">Beherrscht von</string>
 	<string key="ui_unclaimed">Unbeansprucht</string>
 	<string key="ui_unclaimed_territory">Unbeanspruchtes Gebiet</string>
-	<string key="ui_unclaimed_settlementorfort">Unbeanspruchte {tierName}</string>
+	<string key="ui_unclaimed_settlementorfort">{tierName} (Unbeansprucht)</string>
 	<string key="ui_settlement_not_protected">Diese Siedlung ist ungeschützt</string>
 	<string key="ui_settlement_protected_for">Siedlung geschützt für</string>
 	<string key="ui_major_resources">Wichtige Rohstoffe</string>
@@ -106,5 +106,17 @@
 	<string key="ui_mastery_point">Meisterschaftspunkt</string>
 	<string key="ui_attribute_point">Attributspunkt</string>
 	<string key="ui_standing_point">Gebietsrufpunkt</string>
+	<string key="ui_cinematics_banner_msq_actone_title_label">AKT I</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterone_title_text">Kapitel eins</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterone_title_description">Dämonensturm</string>
+	<string key="ui_cinematics_banner_msq_actone_chaptertwo_title_text">Kapitel zwei</string>
+	<string key="ui_cinematics_banner_msq_actone_chaptertwo_title_description">Letzte Hoffnung</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterthree_title_text">Kapitel drei</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterthree_title_description">Der letzte Seelenwächter</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterfour_title_text">Kapitel vier</string>
+	<string key="ui_cinematics_banner_msq_actone_chapterfour_title_description">Wiederherstellung der Ordnung</string>
+	<string key="ui_cinematics_banner_msq_acttwo_title_label">AKT II</string>
+	<string key="ui_cinematics_banner_msq_acttwo_chapterone_title_text">Kapitel eins</string>
+	<string key="ui_cinematics_banner_msq_acttwo_chapterone_title_description">Aufstieg der Zornigen Erdkreaturen</string>
 </resources>
 

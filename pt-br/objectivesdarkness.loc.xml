@@ -68,5 +68,89 @@
 	<string key="objective_darkness_invasion_waves_title">DEFENDA O FORTE</string>
 	<string key="objective_darkness_invasion_waves_desc">HORDA &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{currentWave}&lt;/font&gt;&lt;/font&gt; DE &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{totalWaves}&lt;/font&gt;</string>
 	<string key="objective_darkness_invasion_waves_desc_final">HORDA FINAL</string>
+	<string key="ui_preddieu_farm_attack" rel_version="Quest_MSQ2_Revamp">Vingança de Sneed</string>
+	<string key="ui_preddieu_farm_attack_description" rel_version="Quest_MSQ2_Revamp">O Agricultor Sneed ainda pensa que esta terra é dele e não vai parar por nada para recuperá-la. Proteja as fazendas e afaste-o.</string>
+	<string key="objective_preddieu_farm_attack_title">Impeça os Perdidos de destruir os Suprimentos</string>
+	<string key="objective_preddieu_farm_attack_wave_01">Suprimentos Restantes: {remainingCount}/3 \nTempo Restante:</string>
+	<string key="objective_preddieu_farm_attack_wave_02">Derrote o Agricultor Sneed</string>
+	<string key="ui_boatencounter_scallywag" rel_version="Quest_MSQ2_Revamp">A Chegada do Capitão</string>
+	<string key="ui_boatencounter_scallywag_description" rel_version="Quest_MSQ2_Revamp">O Brutal Capitão Esteban e sua tripulação estão atacando a costa. Faça os ratos escorbutos saírem correndo de volta para o mar!</string>
+	<string key="ui_boatencounter_brysedd" rel_version="Quest_MSQ2_Revamp">Estrondo nas Docas</string>
+	<string key="ui_boatencounter_brysedd_description" rel_version="Quest_MSQ2_Revamp">O Capitão Fyodor procura adicionar mais companheiros à sua tripulação de Perdidos. Lute contra ele e liberte as costas de sua podridão!</string>
+	<string key="ui_holdout_chamber" rel_version="Quest_MSQ2_Revamp">Prova do Velho Guerreiro</string>
+	<string key="ui_holdout_chamber_description" rel_version="Quest_MSQ2_Revamp">O merecimento nunca é dado, ele deve ser conquistado.</string>
+	<string key="ui_holdout_chamber_Obj_Task_01" rel_version="Quest_MSQ2_Revamp">Iniciar a Prova</string>
+	<string key="ui_holdout_chamber_Obj_Task_01_desc" rel_version="Quest_MSQ2_Revamp">Interaja com o glifo para iniciar a prova</string>
+	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Sobreviva à Prova</string>
+	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Tempo Restante: </string>
+	<string key="event_completed">Evento Concluído</string>
+	<string key="ui_nightveil_worldboss_baalphazu" rel_version="Event_Halloween_Temp">Ascensão de Baalphazu</string>
+	<string key="ui_nightveil_worldboss_baalphazu_description" rel_version="Event_Halloween_Temp">O Véu Noturno trouxe consigo a entidade sombria Baalphazu, o Marquês do Terror e senhor de sua legião de Abobreiros!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_title" rel_version="Event_Halloween_Temp">Elimine os Abobreiros do campo!</string>
+	<string key="objective_worldboss_task_clearpumpkinites_desc" rel_version="Event_Halloween_Temp">Abobreiros restantes: {remainingCount}</string>
+	<string key="objective_worldboss_task_destroybaalphazu_title" rel_version="Event_Halloween_Temp">Destrua a forma física de Baalphazu</string>
+	<string key="objective_worldboss_task_destroybaalphazu_desc" rel_version="Event_Halloween_Temp">Arme-se com Cabeças de Babóbora contra Baalphazu para romper suas defesas.</string>
+	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Enxofre Sob Cerco</string>
+	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">A Legião está avançando! Impeça-os antes que eles cheguem ao Posto Avançado de Wikala al-Waha!</string>
+	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Impeça o avanço da Legião</string>
+	<string key="objective_legion_outpost_attack_wave_01" rel_version="Territory_Brimstone_Sands">Investigue o Acampamento</string>
+	<string key="objective_legion_outpost_attack_wave_02" rel_version="Territory_Brimstone_Sands">Derrote a Legião: {remainingCount}/5</string>
+	<string key="ui_sulfurpool_attack" rel_version="Territory_Brimstone_Sands">Caldeirão do Demônio</string>
+	<string key="ui_sulfurpool_attack_description" rel_version="Territory_Brimstone_Sands">Interrompa o ritual nos Poços de Orcus!</string>
+	<string key="objective_sulfurpool_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Aproxime-se do Cristal</string>
+	<string key="objective_sulfurpool_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Tempo Restante:</string>
+	<string key="objective_sulfurpool_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Drene o Escudo de Azoth</string>
+	<string key="objective_sulfurpool_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Destrua o Cristal.</string>
+	<string key="objective_sulfurpool_attack_wave_03_title" rel_version="Territory_Brimstone_Sands">Colete o Fragmento</string>
+	<string key="objective_sulfurpool_attack_wave_03_desc" rel_version="Territory_Brimstone_Sands">Tempo Restante:</string>
+	<string key="ui_solariumkhepri_attack" rel_version="Territory_Brimstone_Sands">Solário Khepri</string>
+	<string key="ui_solariumkhepri_attack_description" rel_version="Territory_Brimstone_Sands">Soberano de Elite</string>
+	<string key="objective_solariumkhepri_attack_wave_00_title" rel_version="Territory_Brimstone_Sands">Acorde o Soberano:</string>
+	<string key="objective_solariumkhepri_attack_wave_00_desc" rel_version="Territory_Brimstone_Sands">Entre no Solário.</string>
+	<string key="objective_solariumkhepri_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Derrote o Soberano:</string>
+	<string key="objective_solariumkhepri_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Khepri, Carruagem da Alvorada.</string>
+	<string key="objective_solariumkhepri_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Explore o Solário</string>
+	<string key="objective_solariumkhepri_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Tempo Restante:</string>
+	<string key="ui_ordealscorpio_attack" rel_version="Territory_Brimstone_Sands">Provação do Escorpião</string>
+	<string key="ui_ordealscorpio_attack_description" rel_version="Territory_Brimstone_Sands">Soberano de Elite</string>
+	<string key="objective_ordealscorpio_attack_wave_00_title" rel_version="Territory_Brimstone_Sands">Acorde o Soberano:</string>
+	<string key="objective_ordealscorpio_attack_wave_00_desc" rel_version="Territory_Brimstone_Sands">Entre na Caverna.</string>
+	<string key="objective_ordealscorpio_attack_wave_01_title" rel_version="Territory_Brimstone_Sands">Derrote o Soberano:</string>
+	<string key="objective_ordealscorpio_attack_wave_01_desc" rel_version="Territory_Brimstone_Sands">Escorpião Superno.</string>
+	<string key="objective_ordealscorpio_attack_wave_02_title" rel_version="Territory_Brimstone_Sands">Explore a Caverna</string>
+	<string key="objective_ordealscorpio_attack_wave_02_desc" rel_version="Territory_Brimstone_Sands">Tempo Restante:</string>
+	<string key="objective_msq_beach_chaplain">Olho do Furacão</string>
+	<string key="objective_msq_beach_chaplain_description">Desafie e derrote o Sacerdote da Tempestade na caverna corrompida para dissipar a tempestade.</string>
+	<string key="objective_msq_beach_chaplain_task_defeat_title">Dissipe a Tempestade de Corrupção</string>
+	<string key="objective_msq_beach_chaplain_task_defeat_desc">Derrote o Sacerdote da Tempestade.</string>
+	<string key="objective_msq_beach_chaplain_task_destroy_title">Destrua Buchos Corrompidos</string>
+	<string key="objective_msq_beach_chaplain_task_destroy_desc">Buchos Corrompidos restantes: {remainingCount}.</string>
+	<string key="objective_msq_heartforge_guardian">Prova do Forja-Coração</string>
+	<string key="objective_msq_heartforge_guardian_description">Desafie e derrote o Guardião da Forja-Coração.</string>
+	<string key="objective_msq_heartforge_guardian_task_approach_title">Aproxime-se do Guardião da Forja-Coração para iniciar a prova.</string>
+	<string key="objective_msq_heartforge_guardian_task_approach_desc">Aproxime-se do Guardião da Forja-Coração</string>
+	<string key="objective_msq_heartforge_guardian_task_ignite_title">Acenda as chamas da Forja-Coração para romper as defesas dos guardiões.</string>
+	<string key="objective_msq_heartforge_guardian_task_ignite_desc">Chamas da Forja-Coração Acesas</string>
+	<string key="objective_msq_heartforge_guardian_task_defeat_title">Derrote o Guardião da Forja-Coração.</string>
+	<string key="objective_msq_heartforge_guardian_task_defeat_desc">Guardião da Forja-Coração Derrotado</string>
+	<string key="objective_thornhall_medea_title" rel_version="Quest_MSQ2_Revamp">Medea</string>
+	<string key="objective_thornhall_medea_desc" rel_version="Quest_MSQ2_Revamp">Libere a energia do cristal para atordoar os inimigos</string>
+	<string key="06A_Encounter_Medea_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Caminho dos Espinhos</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">A Prova Final</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Supere o Remanescente.</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Derrote o Remanescente</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">Enfraqueça o Remanescente destruindo Remanescentes Inertes perto dele.</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Aproxime-se do Remanescente</string>
+	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Supere o Remanescente.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Corrupção da Natureza</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_desc" rel_version="Quest_MSQ2_Revamp">Derrote Zane para impedir qualquer corrupção da natureza.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Enfraqueça o Supervisor Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Destrua os Tentáculos Corrompidos para enfraquecer Zane. \nTentáculos Restantes: {remainingCount}</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Derrote o Supervisor Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat_desc" rel_version="Quest_MSQ2_Revamp">Com Zane enfraquecido, dê o golpe final.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Derrote o Supervisor Zane</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Confronte o Supervisor Zane.</string>
+	<string key="ui_turkeyterror_worldboss_Turkulon">Terror de Turkulon</string>
+	<string key="ui_turkeyterror_worldboss_Turkulon_description">Turkulon voltou para vingar seus irmãos derrotados</string>
 </resources>
 

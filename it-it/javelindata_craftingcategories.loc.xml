@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Creare calchi di gesso</string>
 	<string key="GypsumRaw_GroupName">Sfere di gesso</string>
 	<string key="GypsumCasts_GroupName">Calchi di gesso</string>
+	<string key="InfusedCasts_GroupName">Calchi impregnati</string>
 	<string key="GemstoneT2_GroupName">Pietre preziose standard</string>
 	<string key="GemstoneT3_GroupName">Pietre preziose brillanti</string>
 	<string key="GemstoneT4_GroupName">Pietre preziose pure</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Le pozioni sono oggetti che potenziano temporaneamente le prestazioni.</string>
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Gli Alkahest sono oggetti necessari per produrre pozioni.</string>
+	<string key="CategoryData_Ampoule">Ampolla</string>
+	<string key="CategoryData_AmpouleDesc">Le Ampolle sono oggetti necessari per produrre pozioni riflessive.</string>
 	<string key="CategoryData_RangedWeapons">Armi a distanza</string>
 	<string key="CategoryData_rawresources">Materie prime</string>
 	<string key="CategoryData_RefinedMaterial">Materiali lavorati</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Repliche Cantiere navale della dinastia</string>
 	<string key="DungeonReps6_GroupName">Repliche Strumentalità di Lazzaro</string>
 	<string key="DungeonReps7_GroupName">Repliche Giardino della Genesi</string>
-	<string key="DungeonReps8_GroupName">NAME PENDING</string>
+	<string key="DungeonReps8_GroupName">Repliche Enneade</string>
 	<string key="DungeonReps9_GroupName">Repliche Cuore della Tempesta</string>
 	<string key="DungeonShields_GroupName">Scudi spedizione</string>
 	<string key="DungeonReps12_GroupName">Ricompense esclusive della spedizione</string>
@@ -1091,6 +1094,8 @@
 	<string key="GauntletIce_GroupName">Guanti di ghiaccio</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Guanto che consuma mana per indebolire i nemici e rafforzare gli alleati. Specializzato nei danni nel tempo e nei potenziamenti a distanza ravvicinata, oppure nelle cure e nei depotenziamenti a distanza media, il Guanto del Vuoto è particolarmente pericoloso se usato in gruppo.\n\n• Attacco leggero: Infligge un {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% di danni da Vuoto.\n•Attacco pesante: Infligge un {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% di danni da Vuoto e curi te stesso per un {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% dei danni inflitti.\n•Essenza del raccolto (tieni premuto "Blocco"): Converte gradualmente la tua salute in mana. La velocità aumenta in base ai danni da arma.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Guanti del Vuoto</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">Un'arma da mischia versatile che utilizza le posture per adattarsi a diverse situazioni di combattimento. Combina un attacco implacabile con una difesa aggressiva, permettendo di affrontare qualunque sfida.\n\nAttacco leggero 1 e 2: Infligge un {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% di danni da fendente.\n•Attacco leggero 3: Infligge un {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% di danni da fendente.\n•Attacco pesante caricato 1 e 2: Infligge un {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% di danni da fendente.\n•Attacco pesante caricato 3: Infligge un {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% di danni da fendente.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Spadoni</string>
 	<string key="GemAmbe_CategoryName">Pietre d'ambra</string>
 	<string key="GemAmet_CategoryName">Pietre di ametista</string>
 	<string key="GemAqua_CategoryName">Pietre di acquamarina</string>
@@ -1841,7 +1846,7 @@
 	<string key="Blunderbuss_GroupName">Schioppi</string>
 	<string key="PerfectSalvageArmor_Name">Pezzi di armatura</string>
 	<string key="PerfectSalvageWeapons_Name">Pezzi di arma</string>
-	<string key="PerfectSalvageJewelry_Name">Pezzi di gioiello</string>
+	<string key="PerfectSalvageJewelry_Name">Pezzi di gioielli</string>
 	<string key="PerfectSalvageEngineer_Name">Pezzi per ingegneria</string>
 	<string key="PerfectSalvageArcane_Name">Pezzi arcani</string>
 	<string key="SalvageTier2_Name">Pezzi livello II</string>
@@ -1849,11 +1854,14 @@
 	<string key="SalvageTier4_Name">Pezzi livello IV</string>
 	<string key="SalvageTier5_Name">Pezzi livello V</string>
 	<string key="Salvage">Recupera pezzi</string>
+	<string key="Salvage_GroupName">Recupera pezzi</string>
 	<string key="SalvageExtract">Estrai</string>
 	<string key="SalvageCreate">Fabbrica</string>
 	<string key="SalvageResearch">Ricerca</string>
 	<string key="SalvageCondense">Condensa</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Creature per alchimia</string>
+	<string key="Summer">Estate</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Strumenti</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Strumenti</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Parti di strumento</string>
@@ -1867,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Provviste territorio</string>
 	<string key="TerritoryContribution_GroupName">Forniture territorio</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Componenti strumenti</string>
+	<string key="InstrumentGuitarPick_GroupName">Parti di chitarra</string>
+	<string key="InstrumentDrumHead_GroupName">Parti di batteria</string>
+	<string key="InstrumentReed_GroupName">Parti di ancia</string>
+	<string key="InstrumentSoundhole_GroupName">Parti di mandolino</string>
+	<string key="InstrumentFingerboard_GroupName">Parti di basso</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Parti di chitarra livello 4</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Parti di batteria livello 4</string>
+	<string key="InstrumentReedT4_GroupName">Parti di ancia livello 4</string>
+	<string key="InstrumentSoundholeT4_GroupName">Parti di mandolino livello 4</string>
+	<string key="InstrumentFingerboardT4_GroupName">Parti di basso livello 4</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Componenti di Vetroruna</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Custodie vuote di Vetroruna</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna d'ambra</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna d'ametista</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna d'acquamarina</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di corniola</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di diamante</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di smeraldo</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di diaspro</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di malachite</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di pietra di luna</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di onice</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di opale</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di rubino</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di zaffiro</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Gemme di Vetroruna di topazio</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Vetroruna</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Utensili di vetro</string>
+	<string key="GoldenScarabStr_GroupName">Scarabeo dorato - Forza</string>
+	<string key="GoldenScarabDex_GroupName">Scarabeo dorato - Destrezza</string>
+	<string key="GoldenScarabInt_GroupName">Scarabeo dorato - Intelligenza</string>
+	<string key="GoldenScarabFoc_GroupName">Scarabeo dorato - Concentrazione</string>
+	<string key="GoldenScarabCon_GroupName">Scarabeo dorato - Costituzione</string>
+	<string key="Scarab_GroupName">Scarabeo</string>
+	<string key="Sulfur_GroupName">Zolfo</string>
+	<string key="Rune_GroupName">Rune</string>
+	<string key="DungeonNamedReplicas_GroupName">Repliche uniche spedizione</string>
+	<string key="UniqueDungeonReps1_GroupName">Repliche uniche Scavi di Amrine</string>
+	<string key="UniqueDungeonReps10_GroupName">NAME PENDING</string>
+	<string key="UniqueDungeonReps2_GroupName">Repliche uniche Obelisco infranto</string>
+	<string key="UniqueDungeonReps3_GroupName">NAME PENDING</string>
+	<string key="UniqueDungeonReps4_GroupName">Repliche uniche Le Profondità</string>
+	<string key="UniqueDungeonReps5_GroupName">Repliche uniche Cantiere navale della dinastia</string>
+	<string key="UniqueDungeonReps6_GroupName">Repliche uniche Strumentalità di Lazzaro</string>
+	<string key="UniqueDungeonReps7_GroupName">Repliche uniche Giardino della Genesi</string>
+	<string key="UniqueDungeonReps8_GroupName">Repliche uniche Enneade</string>
+	<string key="UniqueDungeonReps9_GroupName">Repliche uniche Cuore della Tempesta</string>
+	<string key="UniqueDungeonReps11_GroupName">Repliche uniche Cirripedi e polvere da sparo</string>
+	<string key="HideT5_GroupName">Nascondi livello 5</string>
+	<string key="CategoryData_ArmorHeavy">Armatura pesante</string>
+	<string key="CategoryData_ArmorMedium">Armatura media</string>
+	<string key="CategoryData_ArmorLight">Armatura leggera</string>
+	<string key="SlotChest_GroupName">Corazza</string>
+	<string key="SlotFeet_GroupName">Scarpa d'arme</string>
+	<string key="SlotHands_GroupName">Guanti d'arme</string>
+	<string key="SlotHead_GroupName">Elmo</string>
+	<string key="SlotLegs_GroupName">Schinieri</string>
+	<string key="ScarabAmulets_GroupName">Amuleti - Scarabeo dorato</string>
+	<string key="ScarabRings_GroupName">Anelli - Scarabeo dorato</string>
+	<string key="ScarabEarrings_GroupName">Orecchini - Scarabeo dorato</string>
+	<string key="ScarabMeleeWeapons_GroupName">Armi da mischia - Scarabeo dorato</string>
+	<string key="ScarabMagicStaves_GroupName">Bastoni magici - Scarabeo dorato</string>
+	<string key="ScarabStaffFire_GroupName">Bastoni infuocati - Scarabeo dorato</string>
+	<string key="ScarabStaffLife_GroupName">Bastoni di ghiaccio - Scarabeo dorato</string>
+	<string key="ScarabGauntletIce_GroupName">Guanti di ghiaccio - Scarabeo dorato</string>
+	<string key="ScarabGauntletVoid_GroupName">Guanti del Vuoto - Scarabeo dorato</string>
+	<string key="ScarabRangedWeapons_GroupName">Armi a distanza - Scarabeo dorato</string>
+	<string key="ScarabArmorPlate_GroupName">Armatura di piastre - Scarabeo dorato</string>
+	<string key="ScarabArmorFur_GroupName">Armatura di pelliccia - Scarabeo dorato</string>
+	<string key="ScarabArmorCloth_GroupName">Armatura di tessuto - Scarabeo dorato</string>
+	<string key="ScarabArmorLeather_GroupName">Armatura di cuoio - Scarabeo dorato</string>
+	<string key="ScarabArmorRobe_GroupName">Vesti - Scarabeo dorato</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Armatura di piastre pesante - Scarabeo dorato</string>
+	<string key="WinterConvergence_GroupName">(Evento) Convergenza invernale</string>
+	<string key="NightveilHallow_GroupName">(Evento) Velo notturno consacrato</string>
+	<string key="SummerMedleyfaire_GroupName">(Evento) Fiera estiva</string>
 </resources>
 

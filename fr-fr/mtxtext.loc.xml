@@ -83,13 +83,13 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Apparence corrigée</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Les apparences&lt;/font&gt; s'appliquent à votre personnage et à tout objet équipé dans le même emplacement jusqu'à ce que vous changiez d'apparence ou que vous la retiriez.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Les apparences&lt;/font&gt; ne peuvent pas être teintes.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Conditions de transfert</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Pour effectuer un transfert vers un nouveau monde :&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Pour effectuer un transfert vers une nouvelle région :&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Pour effectuer un transfert vers un nouveau monde ou une nouvelle région :&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Conditions de transfert de région :&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Vous devez vous trouver dans un sanctuaire (colonie, avant-poste, sanctuaire spirituel ou tour de guet) avant de procéder au transfert.</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Vous ne pouvez pas appartenir à une compagnie avant de procéder au transfert.</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Vous ne pouvez pas avoir d'ordres d'achat ou de vente actifs au comptoir avant de procéder au transfert.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Vous devez au moins avoir atteint le niveau {level} pour effectuer un transfert.</string>
-	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Vous ne devez pas posséder de maison pour pouvoir effectuer un transfert.</string>
+	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Vous ne pouvez pas posséder de maison avant d'effectuer un transfert.</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Vous devez attendre la fin du temps de recharge avant de pouvoir effectuer un nouveau transfert vers un autre monde ou une autre région.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Restrictions d'objets</string>
@@ -163,7 +163,7 @@
 	<string key="ui_notification_unlock_desc">Les objets ont été ajoutés à votre compte.</string>
 	<string key="ui_notification_unlock_title">Déverrouillé !</string>
 	<string key="ui_view_item">Voir les objets</string>
-	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE">Entitlement isn't tied to an Achievement! Failed to claim item.</string>
+	<string key="ui_claim_fail_achievementmissing" comment="DO NOT TRANSLATE">La condition n'est pas liée à un exploit ! Échec de récupération de l'objet.</string>
 	<string key="ui_claim_fail_alreadyunlocked">Vous avez déjà obtenu ce droit.</string>
 	<string key="ui_claim_fail_inventoryfull">Vous ne pouvez pas récupérer ce droit lorsque votre inventaire est plein. Veuillez libérer de l'espace avant de réessayer.</string>
 	<string key="ui_claim_fail_transactionerror">Erreur de transaction. Veuillez réessayer.</string>
@@ -443,8 +443,8 @@
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Transfert de région de personnage</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Vous permet de transférer ce personnage dans un autre monde ou une autre région de votre choix.</string>
 	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Vous permet de transférer ce personnage dans un autre monde situé dans la même région.</string>
-	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">Vous disposez d'un transfert de région ou monde gratuit sur votre compte. Une fois utilisé, il ne sera plus disponible pour les autres personnages.</string>
-	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transfert de : &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; vers : &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; {WorldSetName}</string>
+	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">Vous disposez de {count}transfert(s) de région ou de monde gratuit(s) sur votre compte. Une fois utilisé, il ne sera plus disponible pour les autres personnages.</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Transfert de : &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; vers : &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt;</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">CONDITIONS NÉCESSAIRES</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">CE QUI NE PEUT ÊTRE TRANSFÉRÉ</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">POLITIQUE DE REMBOURSEMENT</string>
@@ -838,6 +838,9 @@
 	<string key="Apparel_Phoenix_H_description" rel_version="Apparel_Phoenix_H">« Rayonnez par votre habileté et mettez vos adversaires à genoux. »</string>
 	<string key="Bundle_Tool_Phoenix_name" rel_version="ToolSkins_Phoenix_MTX">Ensemble d'outils de l'aile embrasée</string>
 	<string key="Bundle_Tool_Phoenix_description" rel_version="ToolSkins_Phoenix_MTX">« D'une légèreté à toute épreuve pour voler au fil de la chance. »</string>
+	<string key="Emote_HearSeeSpeakNoEvil_name" rel_version="Emote_HearNoEvil">Ne pas entendre, ne pas voir, ne pas dire de mal</string>
+	<string key="Emote_HearSeeSpeakNoEvil_description" rel_version="Emote_HearNoEvil">« De manière générale, évitez tout ce qui relève du mal. »</string>
+	<string key="reward_type_Weaponskin_Greatsword" rel_version="Weapon_Egyptian_Greatsword_MTX">Apparence d'épée longue</string>
 	<string key="Apparel_EgyptianGods_1_name" rel_version="Apparel_Egyptian_1">Vision d'Horus</string>
 	<string key="Apparel_EgyptianGods_2_name" rel_version="Apparel_Egyptian_2">Courage de Bastet</string>
 	<string key="Apparel_EgyptianGods_3_name" rel_version="Apparel_Egyptian_3">Conquête d'Anubis</string>
@@ -850,8 +853,12 @@
 	<string key="Bundle_Tool_EgyptianGods_description" rel_version="ToolSkins_Egyptian_MTX">« Percez des mystères antiques à l'aide de ces magnifiques reliques. »</string>
 	<string key="Apparel_SandDune_name" rel_version="Apparel_SandDune">Sable brûlant</string>
 	<string key="Apparel_SandDune_description" rel_version="Apparel_SandDune">Que vos yeux, seule partie de vous exposée aux éléments, admirent les dunes sableuses et tracent votre trajectoire victorieuse.</string>
+	<string key="Bundle_SuperDeluxePack_name" rel_version="Weapon_Wicked_Bow_MTX">Pack Deluxe des Sables du désert</string>
+	<string key="Bundle_SuperDeluxePack_description" rel_version="Weapon_Wicked_Bow_MTX">Élevez-vous avec le vent du désert et libérez la puissance d'un mal ancien. Ce pack contient également le titre « Avant-garde du désert ».</string>
 	<string key="Bundle_Decor_Egyptian_name" rel_version="Housing_Egyptian_MTX_Pack_2022">Pack de décors d'Égyptos</string>
 	<string key="Bundle_Decor_Egyptian_description" rel_version="Housing_Egyptian_MTX_Pack_2022">Certains trésors devraient rester enfouis sous les sables du désert.</string>
+	<string key="Bundle_Weapon_Wicked_name" rel_version="Weapon_Wicked_ShieldT_MTX">Ensemble d'armes des Voies malfaisantes</string>
+	<string key="Bundle_Weapon_Wicked_description" rel_version="Weapon_Wicked_ShieldT_MTX">Lorsque vous plongez votre regard dans la gemme, le diable vous observe en retour.</string>
 	<string key="Bundle_Crest_Egyptian_name" rel_version="Crest_Pack_Egyptian">Pack d'armoiries d'Égyptos</string>
 	<string key="Bundle_Crest_Egyptian_description" rel_version="Crest_Pack_Egyptian">Préférez-vous maudire vos ennemis, ou simplement les écraser par votre puissance ? Quelle importance, tant qu'ils fuient votre présence !</string>
 	<string key="ui_crestforeground_216" rel_version="Crest_Pack_Egyptian">Horus ascendant</string>
@@ -861,5 +868,40 @@
 	<string key="ui_crestforeground_220" rel_version="Crest_Pack_Egyptian">Larmes du faucon</string>
 	<string key="ui_crestforeground_221" rel_version="Crest_Pack_Egyptian">Pouvoir d'Anubis</string>
 	<string key="reward_type_title" rel_version="Crest_Pack_Egyptian">Titre</string>
+	<string key="Apparel_RomanSoldier_name" rel_version="Armor_Legion">Vexillarius romain</string>
+	<string key="Apparel_RomanSoldier_description" rel_version="Armor_Legion">Le porte-étendard de l'armée romaine marche avec fierté et détermination.</string>
+	<string key="Bundle_Egyptian_MegaPack_name" rel_version="Bundle_Egyptian_MegaPack">Méga pack d'Égyptos</string>
+	<string key="Bundle_Egyptian_MegaPack_description" rel_version="Bundle_Egyptian_MegaPack">Des reliques des Anciens qui témoignent de votre glorieuse puissance, dans la vie comme dans la mort.</string>
+	<string key="Apparel_Nightmares_1_name" rel_version="Apparel_Nightmares_1">Hermétiquement cousu</string>
+	<string key="Apparel_Nightmares_2_name" rel_version="Apparel_Nightmares_2">Croc à vif</string>
+	<string key="Apparel_Nightmares_3_name" rel_version="Apparel_Nightmares_3">Le guerrier hérissé</string>
+	<string key="Apparel_NightmaresDeluxe_1_name" rel_version="Apparel_Nightmares_Deluxe_1">Fauteur de trouble cauchemardesque</string>
+	<string key="Apparel_NightmaresDeluxe_2_name" rel_version="Apparel_Nightmares_Deluxe_2">Les gueules d'argent</string>
+	<string key="Apparel_Nightmares_1_description" rel_version="Apparel_Nightmares_1">Fermement enveloppé pour un maximum de confort et de protection. Essayez simplement de ne pas mettre de sang sur les points de suture.</string>
+	<string key="Apparel_Nightmares_2_description" rel_version="Apparel_Nightmares_2">Sortez vos canines les plus acérées pour déchirer les armures et la chair.</string>
+	<string key="Apparel_Nightmares_3_description" rel_version="Apparel_Nightmares_3">Protégez-vous des horreurs d'Aeternum avec votre esprit combattif et cette armure digne d'un vrai guerrier.</string>
+	<string key="Apparel_NightmaresDeluxe_1_description" rel_version="Apparel_Nightmares_Deluxe_1">L'étoffe rouge ressemble au tissu tendineux d'un muscle, pleinement exposé pour la bataille.</string>
+	<string key="Apparel_NightmaresDeluxe_2_description" rel_version="Apparel_Nightmares_Deluxe_2">Des dents effilées et des langues qui se tortillent se reflètent dans l'argent scintillant.</string>
+	<string key="Bundle_Tool_Nightmares_name" rel_version="ToolSkins_Nightmares_MTX">Ensemble d'outils cauchemardesque</string>
+	<string key="Bundle_Tool_Nightmares_description" rel_version="ToolSkins_Nightmares_MTX">D'anciennes horreurs peuvent aider à déclencher de nouveaux cauchemars.</string>
+	<string key="Apparel_Nightmares_Twitch_name" rel_version="Apparel_Nightmares_Twitch">Cauchemars de pointes</string>
+	<string key="Apparel_Nightmares_Twitch_description" rel_version="Apparel_Nightmares_Twitch">Vos ennemis se demandent s'ils sont captifs d'un horrible cauchemar lorsqu'ils vous voient approcher sur le champ de bataille.</string>
+	<string key="Bundle_Decor_Nightmare_name" rel_version="Housing_Nightveil_MTX_Pack_2022">Décor de logement cauchemardesque</string>
+	<string key="Bundle_Decor_Nightmare_description" rel_version="Housing_Nightveil_MTX_Pack_2022">Dormez bien. Nul besoin de rêver de vos pires terreurs.</string>
+	<string key="Bundle_PR_Nightmare_Apparel_name" rel_version="Apparel_Nightmares_1">Pack de vêtements tissés cauchemardesque</string>
+	<string key="Bundle_PR_Nightmare_Apparel_description" rel_version="Apparel_Nightmares_1">Affublez-vous des ténèbres des souvenirs anciens.</string>
+	<string key="Bundle_PR_Nightmare_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Pack d'armes forgées cauchemardesque</string>
+	<string key="Bundle_PR_Nightmare_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Des armes qui se logeront d'elles-mêmes dans les cauchemars et la chair de vos ennemis.</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_name" rel_version="Apparel_Nightmares_2">Pack de vêtements de monstres classique</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_description" rel_version="Apparel_Nightmares_2">Des costumes qui feront à coup sûr sensation à la fête. Les fêtards dégaineront leurs lames en vous apercevant.</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Pack d'armes de monstres classique</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Suscitez les peurs les plus primales chez ceux qui s'opposent à vous.</string>
+	<string key="Bundle_Crest_Nightmares_name" rel_version="Crest_Pack_Nightmares">Pack d'armoiries cauchemardesque</string>
+	<string key="Bundle_Crest_Nightmares_description" rel_version="Crest_Pack_Nightmares">Terrifiez les armées assez imprudentes pour se soulever contre vous.</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_name" rel_version="Apparel_Nightmares_Masks">Pack de masques cauchemardesque</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_description" rel_version="Apparel_Nightmares_Masks">Ils ne connaissent peut-être pas votre nom, mais ils vous reconnaîtront par vos actions.</string>
+	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Roi de couronne d'os</string>
+	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Tourment de Baalphazu</string>
+	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Citrouillite volante</string>
 </resources>
 

@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Bei der Spielsuche trat ein unbekannter Fehler auf.</string>
 	<string key="ui_game_mode_disabled">Der Spielmodus ist derzeit deaktiviert.</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;Mindestens eine Person&lt;/font&gt; muss die Expedition betreten, damit sie offen bleibt. Jetzt hineinteleportieren?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Seelenprüfung ist bereit&lt;/font&gt; Jetzt hineinteleportieren?</string>
 	<string key="ui_dungeon_enter_info_entered">Die Expedition ist jetzt geöffnet!\n&lt;font color={color}&gt;Jetzt hineinteleportieren?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Zum Duell herausfordern</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} ist kein gültiger Spielername.</string>
@@ -84,7 +85,8 @@
 	<string key="ui_outpost_rush_title">Außenpostensturm</string>
 	<string key="ui_outpost_rush_invite_status">Akzeptiere, um dem Kampf beizutreten!</string>
 	<string key="ui_outpost_rush_signup_title">AUSSENPOSTENSTURM</string>
-	<string key="ui_outpost_rush_signup_desc">Der &lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten.\nSpieler müssen die Außenposten erobern und solange wie möglich halten, um so viele Punkte wie möglich für ihr Team zu erringen.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten.\nDie Teams müssen die Außenposten erobern und halten, um Punkte für ihr Team zu erringen.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Außenpostensturm&lt;/font&gt; ist ein Spiel, in dem Spieler in 2 Teams à 20 Spieler auf einer großen Insel mit drei Außenposten gegeneinander antreten.\nDie Teams müssen die Außenposten erobern und halten, um Punkte für ihr Team zu erringen.\nIn diesem Modus tritt die &lt;font color="#ffe940"&gt;Rüstwertskalierung&lt;/font&gt; in Kraft, wodurch Ausrüstung mit einem Rüstwert von weniger als 600 auf 600 hochgestuft wird.</string>
 	<string key="ui_outpost_rush_signup_goal1">Werden Außenposten erobert und gehalten, erhält dein Team Punkte.</string>
 	<string key="ui_outpost_rush_signup_goal2">Es gewinnt das Team, das zuerst 1.000 Punkte erreicht.</string>
 	<string key="ui_outpost_rush_signup_goal3">Nutze die besonderen Rohstoffe der Insel zum Angriff und zur Verteidigung.</string>
@@ -222,8 +224,10 @@
 	<string key="or_tutorial_summoning_creature_body">Probiere einen anderen Zirkel aus oder warte, bis dieser wieder nutzbar ist.</string>
 	<string key="emote_unable_to_use_emote">In dem Spielmodus kannst du keine Emotes einsetzen.</string>
 	<string key="ui_durability_loss_outpost_rush">Du befindest dich in einem Außenpostensturm, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
-	<string key="ui_durability_loss_war">Du befindest dich in einem Krieg (einer Invasion), deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
-	<string key="ui_item_durability_loss">Die gesamte Ausrüstung in deinem Inventar wurde nach dem Tod beschädigt.</string>
+	<string key="ui_durability_loss_war">Du befindest dich in einem Krieg (oder einer Invasion), deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
+	<string key="ui_item_durability_loss">Ihre Ausrüstung hat beim Tod Schaden genommen.</string>
+	<string key="ui_item_durability_dungeon">Du befindest dich auf einer Expedition, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Du befindest dich in einer Arena, deine Ausrüstung wurde nach dem Tod nicht beschädigt.</string>
 	<string key="ui_item_durability_loss_pvp">Du wurdest von einem anderen Spieler getötet, deine Ausrüstung hat reduzierten Schaden genommen.</string>
 	<string key="ui_in_spectators_box">Im Zuschauerbereich</string>
 	<string key="ui_in_spectators_box_description">Fertigkeiten deaktiviert</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Seitenwechsel</string>
 	<string key="ui_rounds_won">Gewonnene Runden</string>
 	<string key="ui_see_through_label">Einsichtsmodus</string>
+	<string key="ui_invasion_leave">Invasion verlassen</string>
 </resources>
 

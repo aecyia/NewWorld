@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Récupérer le cœur du gardien ancien</string>
 	<string key="dungeon_reekwater_task_boss_01">Apporter le cœur du gardien ancien à l'appareil qui se trouve au centre de l'Instrument de Lazarus</string>
 	<string key="dungeon_reekwater_task_boss_02">Éliminer Chardis</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Quitter l'Instrument de Lazarus</string>
 	<string key="dungeon_reekwater_task_complete">Quitter l'Instrument de Lazarus</string>
 	<string key="dungeon_ebonscale00_title">Le chantier naval de la dynastie</string>
 	<string key="dungeon_ebonscale00_description">Déjouer les plans de l'impératrice.</string>
@@ -73,14 +74,14 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Abaisser le levier</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Pénétrer dans le repaire des pirates du drapeau noir</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Parler à Antonio pour en savoir davantage sur les pirates du drapeau noir</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Utiliser le levier permettant d'ouvrir la porte et pénétrer dans le repaire des pirates du drapeau noir</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Utiliser une arme à distance pour activer le levier et pénétrer dans le repaire des pirates du drapeau noir.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Pourchasser l'amiral Blackpowder et son équipage</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Chercher un levier permettant d'ouvrir la porte</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Trouver un passage menant au navire mouillant dans la crique du drapeau noir</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Chercher un autre levier pour ouvrir la porte</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Emprunter le conduit du Rhum asséché</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Explorer la zone autour du passage bloqué et trouver une mèche pour déclencher les explosifs</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Éliminer les alligators du drapeau noir</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Éliminer les alligators du drapeau noir et l'équipage pirate</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Franchir la porte ouverte et continuer de chercher une mèche afin de dégager le passage obstrué</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Prendre la mèche dans la boîte à outils</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Rapporter la mèche au passage obstrué dans le conduit du Rhum asséché</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Passer les barrières à l'aide de 3 bâtons d'Azoth</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Pénétrer dans l'arène du commandant Thorpe</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Vaincre le commandant Thorpe</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Retourner à la Rive tourmentée</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Retourner à la Rive tourmentée</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Détruire le monolithe</string>
 	<string key="dungeon_edengrove00_title">Jardin de la Genèse</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Vaincre l'archer Fulg'da</string>
 	<string key="dungeon_edengrove00_task_find_heart">Se rendre à présent au cœur vicié de la Genèse. Il doit être purifié.</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Vaincre le gardien des verdures vicié</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Le cœur vicié de la Genèse a été purifié. Remonter à la surface.</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Le cœur vicié de la Genèse a été purifié. Remonter à la surface.</string>
 	<string key="DungeonUsePurifyingFlame">Nécessite une flamme purificatrice</string>
 	<string key="DungeonDepositPurifyingFlame">Allumer avec la flamme purificatrice</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Trouver l'impératrice Zhou au palais</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Vaincre l'impératrice Zhou !</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Quitter le chantier naval</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">L'Ennéade</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Explorez l'Ennéade et découvrez quels secrets les Anciens ont cachés dans ce lieu intemporel.</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Explorez l'Ennéade et découvrez quels secrets les Anciens ont cachés dans ce lieu intemporel.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 bâtons d'Azoth</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Éliminer Shai et ses sbires pour ouvrir la porte et explorer les profondeurs de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Trouver un moyen de passer les défenseurs de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Vaincre la divinité mineure Khépri</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Utiliser la puissance de 3 bâtons d'Azoth pour détruire l'altération bloquant le passage</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Combattre ce qu'il reste de la 19e légion</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Vaincre le général Crassus</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Atteindre le sommet de l'Ennéade</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Vaincre Anpu et Heru</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Quitter l'Ennéade</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Quitter l'Ennéade</string>
 	<string key="dungeon_ebonscale_required_equipment">1 bâton d'Azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 bâtons d'Azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Cœur de la Tempête</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Franchir encore une fois le portail menant au tunnel du néant</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Se frayer un chemin dans le tunnel du néant</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Vaincre Isabella</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Quitter l'expédition du Cœur de la Tempête</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Quitter l'expédition du Cœur de la Tempête</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Nécessite le Reliquaire</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examiner</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Nécropole de Sutekh</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Empêcher Apophis de réveiller Sutekh, le puissant Ancien ou tout Aeternum sera plongé dans la folie</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">S'approcher du sarcophage de l'Ancien</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Vaincre Apophis</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Explorer la nécropole et quitter l'Épreuve de l'âme</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 bâton d'Azoth</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Quitter l'Épreuve de l'âme</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Voulez-vous vraiment quitter l'Épreuve de l'âme ?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Voulez-vous vraiment quitter l'Épreuve de l'âme ?\nVous ne pourrez pas rejoindre la file d'attente pour l'Épreuve de l'âme avant &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Quitter l'Épreuve de l'âme ?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Transfert rapide impossible lorsque vous êtes dans l'Épreuve de l'âme.</string>
 </resources>
 

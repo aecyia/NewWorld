@@ -83,8 +83,8 @@
 	<string key="ui_fixed_appearance" rel_version="Feature_MTX">Stały wygląd</string>
 	<string key="ui_fixed_appearance_tooltip" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skórki&lt;/font&gt; są nakładane na postać i zostaną zastosowane do każdego przedmiotu osadzonego w tym samym miejscu do czasu zmiany wyglądu lub usunięcia przedmiotu.\n\n&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skórek&lt;/font&gt; nie można farbować.</string>
 	<string key="ui_transfer_requirement" rel_version="Feature_MTX">Wymagania dla przeniesienia</string>
-	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Aby przenieść postać do nowego świata:&lt;/font&gt;</string>
-	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Aby przenieść postać do nowego regionu:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_world_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Aby przenieść postać do nowego świata lub regionu:&lt;/font&gt;</string>
+	<string key="ui_transfer_requirement_tooltip_region_transfer_requirements" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold.font" &gt;Wymagania dla przeniesienia między regionami:&lt;/font&gt;</string>
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Przed przeniesieniem musisz znajdować się w azylu (osada, posterunek, kapliczka ducha, strażnica)</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Przed przeniesieniem nie można należeć do kompanii</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Przed przeniesieniem nie można mieć aktywnych ofert kupna/sprzedaży w faktorii</string>
@@ -443,8 +443,8 @@
 	<string key="ui_character_region_transfer" rel_version="Feature_Server_Transfer">Przenoszenie postaci między regionami</string>
 	<string key="server_transfer_description" rel_version="Feature_Server_Transfer">Umożliwia przeniesienie tej postaci do innego świata lub regionu.</string>
 	<string key="server_transfer_description_region_disabled" rel_version="Feature_Server_Transfer">Umożliwia przeniesienie tej postaci do innego świata w obecnym regionie.</string>
-	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">Na swoim koncie możesz 1 raz przenieść postać do innego świata lub regionu za darmo. Po wykorzystaniu możliwość ta nie będzie dostępna dla innych twoich postaci.</string>
-	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Przenoszenie postaci &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; do: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt; – {WorldSetName}</string>
+	<string key="server_transfer_extra_detail" rel_version="Feature_Server_Transfer">Na swoim koncie możesz przenieść postać do innego świata lub regionu za darmo następującą liczbę razy: {count}. Po wykorzystaniu możliwość ta nie będzie dostępna dla innych twoich postaci.</string>
+	<string key="server_transfer_names" rel_version="Feature_Server_Transfer">Przenoszenie postaci: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; do: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{ServerName}&lt;/font&gt;</string>
 	<string key="server_transfer_requirements" rel_version="Feature_Server_Transfer">WYMAGANIA</string>
 	<string key="server_transfer_not_transfer" rel_version="Feature_Server_Transfer">CO NIE PRZECHODZI</string>
 	<string key="server_transfer_refund_policy" rel_version="Feature_Server_Transfer">POLITYKA ZWROTÓW</string>
@@ -838,6 +838,9 @@
 	<string key="Apparel_Phoenix_H_description" rel_version="Apparel_Phoenix_H">"Przyćmij i przechytrz swoich wrogów, a potem rzuć ich na kolana".</string>
 	<string key="Bundle_Tool_Phoenix_name" rel_version="ToolSkins_Phoenix_MTX">Na skrzydle ognia – zestaw narzędzi</string>
 	<string key="Bundle_Tool_Phoenix_description" rel_version="ToolSkins_Phoenix_MTX">"Są lekkie jak piórko, co pozwoli ci dopomóc szczęściu".</string>
+	<string key="Emote_HearSeeSpeakNoEvil_name" rel_version="Emote_HearNoEvil">Nie słyszę zła, nie widzę zła, nie złorzeczę</string>
+	<string key="Emote_HearSeeSpeakNoEvil_description" rel_version="Emote_HearNoEvil">"Generalnie rzecz biorąc, nie mieć nic wspólnego ze złem".</string>
+	<string key="reward_type_Weaponskin_Greatsword" rel_version="Weapon_Egyptian_Greatsword_MTX">Miecz dwuręczny – skórka</string>
 	<string key="Apparel_EgyptianGods_1_name" rel_version="Apparel_Egyptian_1">Wejrzenie Horusa</string>
 	<string key="Apparel_EgyptianGods_2_name" rel_version="Apparel_Egyptian_2">Odwaga Bastet</string>
 	<string key="Apparel_EgyptianGods_3_name" rel_version="Apparel_Egyptian_3">Anubijski podbój</string>
@@ -850,8 +853,12 @@
 	<string key="Bundle_Tool_EgyptianGods_description" rel_version="ToolSkins_Egyptian_MTX">"Odkryj pradawne tajemnice dzięki tym wspaniałym reliktom".</string>
 	<string key="Apparel_SandDune_name" rel_version="Apparel_SandDune">Parzący piach</string>
 	<string key="Apparel_SandDune_description" rel_version="Apparel_SandDune">Na działanie żywiołów wystawione są tylko twoje oczy. Wytycz drogę do zwycięstwa pomiędzy wydmami.</string>
+	<string key="Bundle_SuperDeluxePack_name" rel_version="Weapon_Wicked_Bow_MTX">Piaski pustyni – pakiet deluxe</string>
+	<string key="Bundle_SuperDeluxePack_description" rel_version="Weapon_Wicked_Bow_MTX">Powstań wraz z potęgą pustynnego wiatru i uwolnij pradawne zło. Ta paczka zawiera również tytuł "Pustynna straż przednia".</string>
 	<string key="Bundle_Decor_Egyptian_name" rel_version="Housing_Egyptian_MTX_Pack_2022">Pakiet dekoracji Ajgyptosa</string>
 	<string key="Bundle_Decor_Egyptian_description" rel_version="Housing_Egyptian_MTX_Pack_2022">Niektórych skarbów nie powinno się wygrzebywać z piasków pustyni.</string>
+	<string key="Bundle_Weapon_Wicked_name" rel_version="Weapon_Wicked_ShieldT_MTX">Nikczemne sposoby – zestaw broni</string>
+	<string key="Bundle_Weapon_Wicked_description" rel_version="Weapon_Wicked_ShieldT_MTX">Kiedy spoglądasz w klejnot, zło spogląda w ciebie.</string>
 	<string key="Bundle_Crest_Egyptian_name" rel_version="Crest_Pack_Egyptian">Paczka herbów Ajgyptosa</string>
 	<string key="Bundle_Crest_Egyptian_description" rel_version="Crest_Pack_Egyptian">Przeklinasz swych wrogów czy po prostu miażdżysz ich pod butem? I czy to w ogóle ma znaczenie, dopóki pierzchają na twój widok?</string>
 	<string key="ui_crestforeground_216" rel_version="Crest_Pack_Egyptian">Czas Horusa</string>
@@ -861,5 +868,40 @@
 	<string key="ui_crestforeground_220" rel_version="Crest_Pack_Egyptian">Łzy sokoła</string>
 	<string key="ui_crestforeground_221" rel_version="Crest_Pack_Egyptian">Potęga Anubisa</string>
 	<string key="reward_type_title" rel_version="Crest_Pack_Egyptian">Tytuł</string>
+	<string key="Apparel_RomanSoldier_name" rel_version="Armor_Legion">Rzymski vexillarius</string>
+	<string key="Apparel_RomanSoldier_description" rel_version="Armor_Legion">Żołnierz rzymskiej armii maszeruje pewnie i dumnie.</string>
+	<string key="Bundle_Egyptian_MegaPack_name" rel_version="Bundle_Egyptian_MegaPack">Mega pakiet Ajgyptosa</string>
+	<string key="Bundle_Egyptian_MegaPack_description" rel_version="Bundle_Egyptian_MegaPack">Te pradawne relikty będą demonstrować twą wielką potęgę – czy to za życia, czy w grobowcu.</string>
+	<string key="Apparel_Nightmares_1_name" rel_version="Apparel_Nightmares_1">Zszywaniec</string>
+	<string key="Apparel_Nightmares_2_name" rel_version="Apparel_Nightmares_2">Nagi ząb</string>
+	<string key="Apparel_Nightmares_3_name" rel_version="Apparel_Nightmares_3">Ćwiekowany wojownik</string>
+	<string key="Apparel_NightmaresDeluxe_1_name" rel_version="Apparel_Nightmares_Deluxe_1">Koszmarny czort</string>
+	<string key="Apparel_NightmaresDeluxe_2_name" rel_version="Apparel_Nightmares_Deluxe_2">Srebrna Paszcza</string>
+	<string key="Apparel_Nightmares_1_description" rel_version="Apparel_Nightmares_1">Ten ubiór otuli cię szczelnie, zapewniając komfort i ochronę. Tylko postaraj się, żeby krew nie dostała się w zaszyte oczy.</string>
+	<string key="Apparel_Nightmares_2_description" rel_version="Apparel_Nightmares_2">Obnaż swój najostrzejszy kieł, by rozerwać pancerz i ciało.</string>
+	<string key="Apparel_Nightmares_3_description" rel_version="Apparel_Nightmares_3">Ochroń się przed koszmarami Aeternum za pomocą niezłomności i tego pancerza, nadającego się dla prawdziwego wojownika.</string>
+	<string key="Apparel_NightmaresDeluxe_1_description" rel_version="Apparel_Nightmares_Deluxe_1">Czerwona tkanina przypomina żylastą tkankę mięśniową odsłoniętą w gotowości do walki.</string>
+	<string key="Apparel_NightmaresDeluxe_2_description" rel_version="Apparel_Nightmares_Deluxe_2">Zgrzytające zębiska i wijące się języki odbijają się w połyskliwym srebrze.</string>
+	<string key="Bundle_Tool_Nightmares_name" rel_version="ToolSkins_Nightmares_MTX">Zestaw koszmarnych narzędzi</string>
+	<string key="Bundle_Tool_Nightmares_description" rel_version="ToolSkins_Nightmares_MTX">Pradawna trwoga może pomóc zebrać nowe koszmary.</string>
+	<string key="Apparel_Nightmares_Twitch_name" rel_version="Apparel_Nightmares_Twitch">Kolczasty koszmar</string>
+	<string key="Apparel_Nightmares_Twitch_description" rel_version="Apparel_Nightmares_Twitch">Gdy zbliżysz się do twych wrogów na polu bitwy, zaczną się zastanawiać, czy przypadkiem nie utknęli w okropnym koszmarze.</string>
+	<string key="Bundle_Decor_Nightmare_name" rel_version="Housing_Nightveil_MTX_Pack_2022">Koszmarne dekoracje do domu</string>
+	<string key="Bundle_Decor_Nightmare_description" rel_version="Housing_Nightveil_MTX_Pack_2022">Słodkich snów! Przecież nie musisz śnić o tym, czego boisz się najbardziej.</string>
+	<string key="Bundle_PR_Nightmare_Apparel_name" rel_version="Apparel_Nightmares_1">Koszmarne nicie – paczka ubioru</string>
+	<string key="Bundle_PR_Nightmare_Apparel_description" rel_version="Apparel_Nightmares_1">Odziej się w mroczne, pradawne wspomnienia.</string>
+	<string key="Bundle_PR_Nightmare_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Wykute w koszmarach – paczka broni</string>
+	<string key="Bundle_PR_Nightmare_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Broń, która zdruzgocze ciała twych wrogów i zagnieździ się w ich koszmarach.</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_name" rel_version="Apparel_Nightmares_2">Klasyczne monstrum – paczka ubioru</string>
+	<string key="Bundle_PR_ClassicMonster_Apparel_description" rel_version="Apparel_Nightmares_2">Kostiumy, które niechybnie wywołają spore zamieszanie na biesiadzie – biesiadnicy niechybnie sięgną po broń na twój widok.</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_name" rel_version="Weapon_Monster_ShieldK_MTX">Klasyczne monstrum – paczka broni</string>
+	<string key="Bundle_PR_ClassicMonster_Weapons_description" rel_version="Weapon_Monster_ShieldK_MTX">Wzbudź pierwotny lęk u tych, którzy stoją ci na drodze.</string>
+	<string key="Bundle_Crest_Nightmares_name" rel_version="Crest_Pack_Nightmares">Paczka koszmarnych herbów</string>
+	<string key="Bundle_Crest_Nightmares_description" rel_version="Crest_Pack_Nightmares">Wzbudź trwogę u armii na tyle zuchwałych, by rzucać ci wyzwanie.</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_name" rel_version="Apparel_Nightmares_Masks">Paczka koszmarnych masek</string>
+	<string key="Bundle_PR_Nightmare_Mask_Set_description" rel_version="Apparel_Nightmares_Masks">Nie będą znać twej twarzy, lecz dobrze poznają twe czyny.</string>
+	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Kościany Król</string>
+	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Nawiedzenie Baalfazu</string>
+	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Fruwające dyniołaki</string>
 </resources>
 

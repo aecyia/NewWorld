@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">Zagubieni</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">Zagubieni są dowodem, że wieczne życie to nie to samo, co bajkowa nieśmiertelność. Niektórzy zapłacili za nie straszliwą cenę. Ludzie stają się zagubieni w niekończącym się cyklu śmierci i ponownych narodzin, który nadwątla ich dusze aż do kompletnego wyczerpania</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">Zagubieni</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Zagubieni są wrażliwi na obrażenia od ciosów, lodu i natury, ale odporni na obrażenia od pchnięć i próżni.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Zagubieni są wrażliwi na obrażenia od ciosów, lodu i natury.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Pradawni</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">Wszelka wiedza o pochodzeniu pradawnych i ich cywilizacji zaginęła w mrokach niepamięci. Pozostały jedynie relikty: rozsypujące się posągi, ruiny miast i legiony szkieletów-wojowników.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Pradawni</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Pradawni strażnicy są wrażliwi na obrażenia od ciosów, błyskawic i próżni, ale odporni na obrażenia od cięć i ognia.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Pradawni strażnicy są wrażliwi na obrażenia od ciosów, błyskawic i próżni.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">Wściekła ziemia</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">Najlepszym dowodem na mieszanie się azothu z naturą są istoty wściekłej ziemi – roślinopodobne stwory, nazwane tak, gdyż zażarcie bronią dziczy Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">Wściekła ziemia</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Istoty wściekłej ziemi są wrażliwe na obrażenia od cięć i ognia, ale odporni na obrażenia od pchnięć i błyskawic.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Istoty wściekłej ziemi są wrażliwe na obrażenia od cięć i ognia.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">Skażeni</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">Skażeni służą jako nieśmiertelni niewolnicy pradawnej, niepojętej siły, która wypacza wszystko w swoim zasięgu.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">Skażeni</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Skażeni są wrażliwi na obrażenia od pchnięć, magii i natury, ale odporni na obrażenia od ciosów i lodu.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Skażeni są wrażliwi na obrażenia od pchnięć, magii i natury.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Szybka podróż</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">Koszt szybkiej podróży zależy od wagi ekwipunku. Podróżujcie z małym obciążeniem, przyjaciele.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -162,9 +162,9 @@
 	<string key="tip_overworld_factions_types01-title">Syndykat</string>
 	<string key="tip_overworld_factions_types01-content">Sprytni badacze, używający swego intelektu do walki o wiedzę i postęp.</string>
 	<string key="tip_overworld_factions_types02-title">Maruderzy</string>
-	<string key="tip_overworld_factions_types02-content">Dumni, nieustannie samodoskonalący się wojownicy, walczący z honorem o chwałę.</string>
+	<string key="tip_overworld_factions_types02-content">Dumni, honorowi i dążący do samodoskonalenia wojownicy, walczący o chwałę.</string>
 	<string key="tip_overworld_factions_types03-title">Przymierze</string>
-	<string key="tip_overworld_factions_types03-content">Uduchowieni czempioni, żarliwie walczący o prawość i sprawiedliwość.</string>
+	<string key="tip_overworld_factions_types03-content">Boscy czempioni żarliwie walczący o prawość i sprawiedliwość.</string>
 	<string key="tip_overworld_factions_benefits01-title">Frakcje</string>
 	<string key="tip_overworld_factions_benefits01-content">Dołącz do frakcji, by oznaczać się do PvP, kontrolować terytorium i brać udział w wojnach.</string>
 	<string key="tip_overworld_factions_benefits02-title">Korzyści frakcyjne</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Z węgorzy elektrycznych i mieczników można pozyskać delikatne filety.</string>
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Areny</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Udało ci się już jakąś znaleźć? Areny są rzadkimi wydarzeniami, w czasie których razem ze znajomymi stoczysz walkę z zabójczym, legendarnym stworzeniem.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Próby</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Udało ci się już jakąś znaleźć? Próby są rzadkimi wydarzeniami, w czasie których razem ze znajomymi stoczysz walkę z zabójczym, legendarnym stworzeniem.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Napad na posterunek</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Znajdź Scotta Newmana w Rozszczepionym Punkcie albo porozmawiaj z przedstawicielem swojej frakcji, by wziąć udział w potyczce drużynowej 20 na 20.</string>
 	<string key="tip_overworld_gameModes_war01-title">Wojna</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Skorpion</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Jeśli za bardzo oddalisz się od ścieżki, ryzykujesz, że wici skażenia doprowadzą do twej zguby.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">Aby przetrwać bezlitosne, palące słońce Piaskobrzegów, należy się przed nim odpowiednio zabezpieczyć.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">Język pradawnych przepadł w piaskach czasu. Lecz niedawno pojawił się ponownie.</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Straszliwy kolos przebudził się na pustyni. W lokalnych legendach nazywany jest Pożeraczem.</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Mówi się, że pradawni przeprowadzali rytuały w samym sercu ogromnego muru wzniesionego pomiędzy Piaskobrzegami a Strzaskaną Górą.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Krassus wraz ze swoim XIX legionem stanowią odwieczne zagrożenie dla bezpieczeństwa i stabilności Nowej Korsyki.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Jeden z najstarszych ludzi na Aeternum, Imhotep Mądry, podobno przemierza pustynię w poszukiwaniu wiedzy.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Stąpaj ostrożnie w pobliżu siarkowych sadzawek występujących na terenie Piaskobrzegów. Jeśli nie załatwią cię ogromne gady, z pewnością zrobi to wrząca, parząca woda…</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">W Piaskobrzegach pełno jest piaskowca, który można przetopić na szklane wyroby.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Chce ci się pić? Zetnij kaktus, by zdobyć niewielką ilość wody.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Nikt nie wie, skąd w Piaskobrzegach wzięły się pancerniki, ale wygląda na to, że świetnie zaadaptowały się do lokalnych warunków.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Nikt nie wie, jak to możliwe, ale w samym sercu Piaskobrzegów wyrosło wielkie drzewo. Niektórzy mówią, że jego korona wciąż rozkwita.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Niektórzy twierdzą, że w Piaskobrzegach grasuje zabójcza mantikora. Zachowaj czujność podczas swoich podróży.</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Legendy głoszą, że gdzieś w Piaskobrzegach spoczywa pradawny, pogrążony w letargu.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Szczypce i żądła to nie jedyna broń ogromnych skorpionów grasujących po pustyni.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Pradawne glify są kluczem, który pozwala otwierać skrzynie, eksplorować zapieczętowane ruiny i nie tylko. Sprawdź, ile glifów zdołasz znaleźć.</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Do niedoszłych rabusiów grobów: martwi czasem strzegą swego ziemskiego dobytku.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Z niektórych anubijskich konstruktów grasujących po Piaskobrzegach można pozyskać zasoby.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">Pod elegancką fasada Nowej Korsyki kryje się gniazdo żmij, gdzie przeplatają się polityka, intrygi i paranoja.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">Choć ulegli skażeniu, legioniści z Piaskobrzegów nie utracili swej legendarnej dyscypliny i zdolności bojowych.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marek Antoniusz sformował "zamorski" XIX legion, który jednak nie ocalił go przed klęską w bitwie pod Akcjum.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">Umierająca królowa Kleopatra została sprowadzona do Piaskobrzegów przez Rzymian, którzy pragnęli ocalić jej życie.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">Strażnicy dusz stanowią rzadkość w Piaskobrzegach. Jednak pradawni i skażeni nie próżnują na tych terenach, więc ten stan rzeczy może się wkrótce zmienić.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Legendy wspominają o tajemniczych, zmiennokształtnych duchach zwanych ifrytami, które rzekomo nawiedzają pustynię. Ponoć z niektórymi można dobić targu.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Jeśli usłyszysz znajomy głos wołający cię z ciemnej pustyni, nie idź za nim.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Na Piaskobrzegach zaczęły pojawiać się monstra rodem z koszmarów, będące efektem działania plugawej, pradawnej magii.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Przez wiele wieków Piaskobrzegi były kształtowane przez dwie wspaniałe cywilizacje: Egipcjan i Rzymian.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Pradawni anubianie są znacznie groźniejsi od zakurzonych kościotrupów strzegących innych ruin pradawnych. Zachowaj ostrożność.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">Okrągłe, kamienne bramy rozsiane po terenie Piaskobrzegów są nie tylko wspaniałe, ale też na wskroś magiczne.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Przez Wielką Piramidę Achet przepływają szerokie strumienie azothu. Oby ta potęga nigdy nie została wykorzystana do niecnych celów…</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Piaskobrzegi</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">Istoty wściekłej ziemi z Piaskobrzegów nie lękają się ognia i często korzystają z płonącej siarki, by niszczyć swych wrogów.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Wielka Wyrwa</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Dusząca Droga</string>

@@ -17,6 +17,7 @@
 	<string key="BlockT4_RefinedAt">Cantero nivel 4</string>
 	<string key="BlockT5_RefinedAt">Cantero nivel 5</string>
 	<string key="BlockT51_RefinedAt">Cantero nivel 5</string>
+	<string key="PerfectSalvage_Timer_RefinedAt">Cantero nivel 5</string>
 	<string key="FlintT1_DerivedFrom">Se encuentra en el suelo.</string>
 	<string key="OreT1_DerivedFrom">Vetas de hierro</string>
 	<string key="OreT4_DerivedFrom">Vetas de metal de estrellas</string>
@@ -50,10 +51,10 @@
 	<string key="ClothT5_RefinedAt">Telar nivel 5</string>
 	<string key="ClothT51_RefinedAt">Telar nivel 5</string>
 	<string key="ScalyHideT1_DerivedFrom">Caimanes</string>
-	<string key="SandT1_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT2_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT3_DerivedFrom" xsi:nil="true"/>
-	<string key="SandT4_DerivedFrom" xsi:nil="true"/>
+	<string key="SandT1_DerivedFrom">Arenisca</string>
+	<string key="SandT2_DerivedFrom">Arenisca</string>
+	<string key="SandT3_DerivedFrom">Arenisca</string>
+	<string key="SandT4_DerivedFrom">Arenisca</string>
 	<string key="FaeIronT1_DerivedFrom">Vetas de hierro, raras</string>
 	<string key="VoidsteelT1_DerivedFrom">Vetas de hierro, raras</string>
 	<string key="BlessedCrucibleT1_DerivedFrom">Contenedores de suministros, raros</string>
@@ -221,6 +222,7 @@
 	<string key="PaprikaT1_DerivedFrom">Hierbas</string>
 	<string key="GingerT1_DerivedFrom">Hierbas</string>
 	<string key="GarlicT1_DerivedFrom">Hierbas</string>
+	<string key="AloeGelT1_DerivedFrom">Plantas suculentas</string>
 	<string key="SaltT1_DerivedFrom">Contenedores de provisiones</string>
 	<string key="SugarT1_DerivedFrom">Contenedores de provisiones</string>
 	<string key="SeasoningBlendT1_DerivedFrom">Cocina nivel 2</string>
@@ -3309,5 +3311,10 @@
 	<string key="LightLegs_ArenaAncient1T5_DerivedFrom">Encuentros con antiguos poderosos</string>
 	<string key="LightFeet_ArenaAncient1T4_DerivedFrom">Encuentros con antiguos poderosos</string>
 	<string key="LightFeet_ArenaAncient1T5_DerivedFrom">Encuentros con antiguos poderosos</string>
+	<string key="EnrichedRedMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Animales en el territorio de Arenas de Azufre</string>
+	<string key="EnrichedMeatPortionT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Cocina nivel 2</string>
+	<string key="ArmadilloMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Armadillos</string>
+	<string key="ScorpionMeatT5_DerivedFrom" rel_version="Territory_Brimstone_Sands">Escorpiones</string>
+	<string key="FishSauceT1_DerivedFrom" rel_version="Territory_Brimstone_Sands">Cocina nivel 2</string>
 </resources>
 

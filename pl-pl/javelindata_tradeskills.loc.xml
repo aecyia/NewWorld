@@ -260,6 +260,7 @@
 	<string key="ui_farmplants">Rośliny uprawne</string>
 	<string key="ui_hemp">Konopie</string>
 	<string key="ui_hempt4">Jedwabne ziele</string>
+	<string key="ui_aloe">Żel aloesowy</string>
 	<string key="ui_hempt5">Włóknik</string>
 	<string key="ui_alchemy1">Magiczne rośliny</string>
 	<string key="ui_alchemy2">Magiczne kamienie</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Magnetyt</string>
 	<string key="ui_gold">Złoto</string>
 	<string key="ui_starmetal">Gwiezdny metal</string>
+	<string key="ui_sandstone">Piaskowiec</string>
 	<string key="ui_platinum">Platyna</string>
+	<string key="ui_brimstone">Siarka</string>
 	<string key="ui_orichalcum">Orichalcum</string>
 	<string key="ui_wyrdwood">Cieniodrzewo</string>
 	<string key="ui_ironwood">Żelazodrzewo</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Możesz skórować zwierzęta na maksymalnie &lt;font color={levelColor}&gt;{maxGatherLevel}. poziomie&lt;/font&gt;</string>
 	<string key="ui_skillToSkinLevel">Po osiągnięciu {skillLevel}. poziomu będzie można skórować zwierzęta na maksymalnie {maxGatherLevel}. poziomie.</string>
 	<string key="ui_skillToSkinLevelShort">Poz. umiejętności: {skillLevel}. Poz. zwierzęcia: {maxGatherLevel}.</string>
-	<string key="iconTypeUnlock_youngtrees">Drzewka</string>
-	<string key="iconTypeUnlock_maturetrees">Duże drzewa</string>
+	<string key="iconTypeUnlock_youngtrees">Młode drzewa i kaktusy</string>
+	<string key="iconTypeUnlock_maturetrees">Dojrzałe drzewa i kaktusy</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Jak działają łowiska?</string>
 	<string key="ui_fishing_hotspot_tutorial">Jeśli widzisz, że w łowisku skaczą ryby, oznacza to, że jest ono aktywne.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nW aktywnym łowisku ryby szybciej łapią się na haczyk i z reguły są to rzadsze okazy. Gdy zarzucisz wędkę we właściwym miejscu, zobaczysz małe powiadomienie, informujące cię o tym, że udało ci się trafić w łowisko.\n\nZłowienie określonej liczby ryb wyczerpie łowisko. Jeśli w łowisku nie skaczą żadne ryby, oznacza to, że jest ono wyczerpane.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nWyczerpane łowisko stanie się znów aktywne po upływie określonego czasu.\n\nWraz z rozwojem umiejętności rybołówstwa będziesz w stanie znajdować coraz więcej coraz lepszych łowisk.</string>
 </resources>

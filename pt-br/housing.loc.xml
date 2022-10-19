@@ -8,6 +8,7 @@
 	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">{percent}% do custo de compra original será reembolsado se esta casa for abandonada. Todos os troféus e móveis da casa serão movidos para o inventário da vila.</string>
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent}% do custo de compra original será reembolsado se esta casa for abandonada.&lt;/font&gt;\nTodos os troféus e móveis da casa abandonada serão movidos para o Inventário da Vila.\n\nPara continuar, digite {territoryName} abaixo.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandonar Casa?</string>
+	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Você deve ter pelo menos um espaço livre de armazenamento do Assentamento antes de poder remover todos os itens de sua casa.</string>
 	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pague {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">É necessário {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; para fazer viagem rápida</string>
 	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">É necessário {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; para fazer viagem rápida</string>
@@ -149,15 +150,15 @@
 	<string key="ui_house_overdue_label" comment="Housing Taxes">Taxa de manutenção do imóvel VENCIDA</string>
 	<string key="ui_house_property_tax_desc" comment="Housing Taxes">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ período de pagamento necessário para manter esta casa.</string>
-	<string key="ui_house_tax" comment="Housing Taxes">Imposto Imobiliário</string>
+	<string key="ui_house_tax" comment="Housing Taxes">Taxa de Manutenção do Território</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">Casa desativada devido à taxa de manutenção não paga.</string>
 	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Quantia Devida</string>
-	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Imposto Imobiliário de {territoryName} em: {time}. Pague a taxa de manutenção do imóvel para continuar fazendo viagens rápidas e decorações.</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Taxa de Manutenção do Território de {territoryName} em: {time}. Pague a taxa de manutenção do imóvel para continuar fazendo viagens rápidas e decorações.</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Sua Casa (Desativada)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Sua Casa está desativada. Pague a taxa de manutenção agora para reativar sua casa!</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Pagar Taxa de Manutenção</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Erro ao pagar taxa de manutenção da casa. Tente novamente.</string>
-	<string key="ui_pay_property_tax" comment="Housing Taxes">Pagar Taxa de Manutenção do Imóvel</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Pagar Taxa de Manutenção</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Pague a taxa de manutenção do imóvel usando o mapa ou quando estiver na sua casa.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">É preciso pagar a taxa de manutenção do imóvel para retornar à sua casa, renascer na sua casa e decorar sua casa.\nA taxa de manutenção está prevista para {firstCycle} após a compra de uma casa e a cada {otherCycle} subsequente.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Taxa de Manutenção do Imóvel</string>
@@ -175,7 +176,7 @@
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Um troféu que te inspira quando colocado em sua casa.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Buffs de Troféus</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Buffs de Troféus (Desativados)</string>
-	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">No &lt;font color={colorHex}&gt;Modo Decoração&lt;/font&gt;, use os recursos de &lt;font color={colorHex}&gt;rotacionar, fixar na grade&lt;/font&gt; e &lt;font color={colorHex}&gt;fixar na superfície&lt;/font&gt; para decorar sua casa exatamente do jeito que quiser.</string>
+	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">No &lt;font color={colorHex}&gt;Modo Decoração&lt;/font&gt;, use os recursos &lt;font color={colorHex}&gt;Rotacionar, Posicionamento na Grade&lt;/font&gt; e &lt;font color={colorHex}&gt;Fixar na Superfície&lt;/font&gt; para decorar sua casa exatamente do jeito que quiser.</string>
 	<string key="ui_housing_tip_description2" comment="Load Screen Housing Tips">Posicionar itens que não cortem outros itens é a melhor maneira de aumentar sua &lt;font color={colorHex}&gt;Pontuação de Decoração&lt;/font&gt; para cada item posicionado.</string>
 	<string key="ui_housing_tip_description3" comment="Load Screen Housing Tips">Exponha &lt;font color={colorHex}&gt;Troféus&lt;/font&gt; para ativar &lt;font color={colorHex}&gt;bônus passivos&lt;/font&gt;.\n\nDica: Só é possível colocar 5 Troféus em cada casa, mas os efeitos de troféus duplicados podem se acumular.</string>
 	<string key="ui_housing_tip_description4" comment="Load Screen Housing Tips">O painel à direita da tela mostra a &lt;font color={colorHex}&gt;Pontuação de Decoração&lt;/font&gt; da sua casa e os &lt;font color={colorHex}&gt;Limites de Decoração&lt;/font&gt;.\n\nDica: Colocar exemplares demais do mesmo item reduzirá a Pontuação de Decoração.</string>

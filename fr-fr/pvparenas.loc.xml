@@ -16,6 +16,7 @@
 	<string key="ui_pvparenas_title_join" rel_version="Feature_PVP_Arenas">Rejoindre les arènes 3 contre 3</string>
 	<string key="ui_pvparenas_title" rel_version="Feature_PVP_Arenas">Arènes &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3 contre 3&lt;/font&gt;</string>
 	<string key="ui_pvparenas_description" rel_version="Feature_PVP_Arenas">Dans les arènes &lt;font color="#ffe940"&gt;3 contre 3&lt;/font&gt;, deux équipes s'affrontent pour s'éliminer mutuellement. Soyez la dernière équipe debout pour avoir une chance d'obtenir des récompenses uniques.</string>
+	<string key="ui_pvparenas_description_gearscore" rel_version="Feature_PVP_Arenas">Dans les arènes &lt;font color="#ffe940"&gt;3 contre 3&lt;/font&gt;, deux équipes s'affrontent pour s'éliminer mutuellement. Soyez la dernière équipe debout pour avoir une chance d'obtenir des récompenses uniques.\nPour les joueurs de niveau 60, ce mode entraîne un &lt;font color="#ffe940"&gt;Équilibrage au score d'équipement&lt;/font&gt;, augmentant le score d'équipement à 600 pour l'équipement ayant un score inférieur à 600.</string>
 	<string key="ui_pvparenas_signup_goal1" rel_version="Feature_PVP_Arenas">Gagnez 3 manches pour remporter le match.</string>
 	<string key="ui_pvparenas_signup_goal2" rel_version="Feature_PVP_Arenas">Lorsque le temps sera écoulé, le feu embrasera l'arène.</string>
 	<string key="ui_pvparenas_signup_goal3" rel_version="Feature_PVP_Arenas">Les soins sont réduits à mesure que la manche progresse.</string>
@@ -38,10 +39,10 @@
 	<string key="ui_pvparenas_too_many_items_tooltip" rel_version="Feature_PVP_Arenas">Réduisez votre inventaire de {numItemsToRemove} objet(s).</string>
 	<string key="ui_pvparenas_cannotleavegroup_in_arena" rel_version="Feature_PVP_Arenas">Impossible de quitter votre groupe lorsque vous participez à une arène 3 contre 3.</string>
 	<string key="ui_pvp_arena_leave" rel_version="Feature_PVP_Arenas">Quitter l'arène 3 contre 3</string>
-	<string key="ui_pvp_arena_leave_desc" rel_version="Feature_PVP_Arenas">Voulez-vous vraiment quitter l'arène 3 contre 3 ?</string>
-	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">Voulez-vous vraiment quitter l'arène 3 contre 3 ?\nVous ne pourrez pas rejoindre la file d'attente de l'arène 3 contre 3 avant &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_pvp_arena_leave_desc" rel_version="Feature_PVP_Arenas">Voulez-vous vraiment quitter l'arène 3 contre 3 ?</string>
+	<string key="ui_pvp_arena_leave_desc_time" rel_version="Feature_PVP_Arenas">Voulez-vous vraiment quitter l'arène 3 contre 3 ?\nVous ne pourrez pas rejoindre la file d'attente de l'arène 3 contre 3 avant &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
 	<string key="ui_pvp_arena_leave_title" rel_version="Feature_PVP_Arenas">Quitter l'arène 3 contre 3 ?</string>
-	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">Transfert rapide impossible lorsque vous êtes dans une arène 3 contre 3.</string>
+	<string key="ui_cannot_travel_pvp_arena" rel_version="Feature_PVP_Arenas">Transfert rapide impossible lorsque vous êtes dans une arène 3 contre 3.</string>
 	<string key="ui_pvparenas_cannot_use_item" rel_version="Feature_PVP_Arenas">Vous ne pouvez pas utiliser cet objet dans les arènes 3 contre 3.</string>
 	<string key="ui_pvparenas_equip_items_title" rel_version="Feature_PVP_Arenas">Se préparer</string>
 	<string key="ui_pvparenas_equip_items_desc" rel_version="Feature_PVP_Arenas">Vérifiez l'équipement et les consommables.</string>

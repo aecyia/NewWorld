@@ -1,8 +1,8 @@
-# Lore Tracker
+# My Lore Tracker ♡
 
 The current list as of the update
-+ 01 September 2022 -- PTR
-+ Last Updated -- 26 September 2022
++ 16 October 2022 -- Brimstone Sands
++ Last Updated -- 19 October 2022
 
 MISSING 	
 + Lore pages that I cannot find in Aeternum
@@ -14,7 +14,31 @@ BUGGED
 UNDISCOVERED
 + Lore pages that are in the game
 + Haven't done the expedition yet
-+ Haven't unlocked the area yet (such as Brimstone Sands)
+
+## Achievement-Specific Only
+
+COMPLETE
+Legends of Aeternum – 1
+Tales of An Island Divided – 4
+Tales of Brightwood – 20
+Tales of Cutlass Keys – 22
+Tales of Ebonscale Reach – 30
+Tales of First Light – 49
+Tales of Great Cleave – 39
+Tales of Restless Shores – 27
+Tales of Shattered Mountain – 14
+Tales of The SoulWardens – 9
+
+INCOMPLETE
+Tales of Aeternum – 118 / 120
+Tales of Edengrove – 16 / 25
+Tales of Everfall – 51 / 52
+Tales of Monarch's Bluffs – 55 / 60
+Tales of Mourningdale – 31 / 34
+Tales of Reekwater – 39 / 40
+Tales of Weaver's Fen – 37 / 38
+Tales of Windsward – 70 / 75
+
 
 ## A New World
 
@@ -124,7 +148,7 @@ The Stevens Expedition
 Averham's Research
 1 - Between Colleagues
 
-Chronicles of Mesnard
+A New Start
 1 - Rank Incompetence
 2 - Surveying the Lands
 
@@ -207,8 +231,8 @@ Chronicle of Ruiz Velazquez
 13 - Caves Part 1
 14 - Caves Part 2
 
-Álvaro’s Notes
-1 - Ruiz’s Request
+Álvaro's Notes
+1 - Ruiz's Request
 2 - The Captain
 3 - The Mutiny
 
@@ -253,7 +277,7 @@ The Monster of Brightrest
 To the Templar General
 1 - To the Templar General
 
-Templar Lieutenant Sato’s Log
+Templar Lieutenant Sato's Log
 1 - Investigation
 2 - Sanctuary?
 3 - Earworm
@@ -274,11 +298,11 @@ Missives from Thorpe
 2 - I Challenge You
 3 - As I Lay Dying... -- MISSING
 
-Yonas’ Goodbye
+Yonas' Goodbye
 1 - Sorry, Thank you, Goodbye
 
 Tall Tales of Isabella
-1 - Émile’s Investigation
+1 - Émile's Investigation
 
 A Prayer to the Motherwell
 1 - Bless Us
@@ -356,22 +380,22 @@ Transmutation
 3 - Against the Sages -- UNDISCOVERED
 4 - A New Path -- UNDISCOVERED
 
-A New Path
+Ultimate Intentions
 1 - Drusilla's Letter -- MISSING
 
 The Vigil Eternal
-1 - A Dream of Riches -- UNDISCOVERED
-2 - Mind the Gap -- UNDISCOVERED
-3 - Awakening -- UNDISCOVERED
+1 - A Dream of Riches
+2 - Mind the Gap
+3 - Awakening
 
 Ammit's Hunger
 1 - The Problem of Suffering -- UNDISCOVERED
 2 - The Natural Order -- UNDISCOVERED
 
 Opening the Way
-1 - A Small Test -- UNDISCOVERED
-2 - The Last Resort -- UNDISCOVERED
-3 - Gnosis -- UNDISCOVERED
+1 - A Small Test
+2 - The Last Resort
+3 - Gnosis
 
 Froderico's Notes
 1 - On the Evolution of the Roman Centuries -- UNDISCOVERED
@@ -384,12 +408,12 @@ Consigned to Oblivion
 3 - Crassus's Oath -- UNDISCOVERED
 
 The Woes of an Amateur Antiquarian
-1 - Materials -- UNDISCOVERED
-2 - Methods -- UNDISCOVERED
+1 - Materials
+2 - Methods
 
 A Pilgrim's Diary
-1 - Blasphemous Musings -- UNDISCOVERED
-2 - The Narrowing Road -- UNDISCOVERED
+1 - Blasphemous Musings
+2 - The Narrowing Road
 3 - Abandonment -- UNDISCOVERED
 
 Roar of the Manticore
@@ -400,7 +424,7 @@ The Ancient Glyphs
 2 - JIIBA -- MISSING
 3 - KEYYA YIB' -- MISSING
 4 - TEYII -- MISSING
-5 - WETZUU -- MISSING
+5 - WETZUU
 6 - CRUUJ -- MISSING
 7 - AMBA -- MISSING
 8 - PIMBII -- MISSING
@@ -410,11 +434,11 @@ The Ancient Glyphs
 12 - ITKA -- MISSING
 13 - DZUU -- MISSING
 14 - J'IJ -- MISSING
-15 - TSADZUI -- MISSING
-16 - HID -- MISSING
+15 - TSADZUI
+16 - HID
 17 - B'EYEG -- MISSING
-18 - RIIGA -- MISSING
-19 - EYBUE -- MISSING
+18 - RIIGA
+19 - EYBUE
 20 - CRUUJ'II -- MISSING
 21 - D'UN-GA -- MISSING
 22 - TAB' -- MISSING
@@ -438,8 +462,8 @@ The Book of Gates
 1 - The wisdom of the word is -- MISSING
 
 The Great Architect
-1 - A Mysterious Threat -- MISSING
-2 - The Malevolence Grows -- MISSING
+1 - A Mysterious Threat
+2 - The Malevolence Grows
 
 The Priest's Tale
 1 - The Unsealing -- MISSING
@@ -457,21 +481,21 @@ Pious Echoes
 3 - The Third Revelation -- MISSING
 
 Scorpion's Cradle
-1 - Day 1 -- UNDISCOVERED
-2 - Day 2 -- UNDISCOVERED
-3 - What Day? -- UNDISCOVERED
-4 - The Cradle -- UNDISCOVERED
+1 - Day 1
+2 - Day 2
+3 - What Day?
+4 - The Cradle
 
 Dune Phantoms
-1 - Arikh, Part 1 -- UNDISCOVERED
+1 - Arikh, Part 1
 2 - Arikh, Part 2 -- UNDISCOVERED
 3 - Shukri -- UNDISCOVERED
 
 Bringer
-1 - The Child -- UNDISCOVERED
+1 - The Child
 
 The Huntress
-1 - The Huntress -- UNDISCOVERED
+1 - The Huntress
 
 Trial of the Devourer
 1 - Devourer, Part 1 -- UNDISCOVERED
@@ -479,18 +503,18 @@ Trial of the Devourer
 3 - Devourer, Part 3 -- UNDISCOVERED
 
 Desert Lights
-1 - To My Love -- UNDISCOVERED
-2 - Yvette -- UNDISCOVERED
-3 - A Satisfying Home -- UNDISCOVERED
-4 - The Amazing Trades of Giovanni -- UNDISCOVERED
+1 - To My Love
+2 - Yvette
+3 - A Satisfying Home
+4 - The Amazing Trades of Giovanni
 
 Desert Thorns
-1 - Ogdan's Journal -- UNDISCOVERED
+1 - Ogdan's Journal
 2 - Goat-sick -- UNDISCOVERED
-3 - A Quiet Corner -- UNDISCOVERED
+3 - A Quiet Corner
 
 Favorites
-1 - Favorites -- UNDISCOVERED
+1 - Favorites
 
 Prayers and Portents
 1 - Hymn to Absent Gods -- UNDISCOVERED
@@ -499,17 +523,20 @@ Prayers and Portents
 4 - Brimstone Nursery Rhyme -- UNDISCOVERED
 
 Age of the Pharoah
-1 - Pharaoh’s Decree vol. I -- UNDISCOVERED
-2 - Pharaoh’s Decree vol. 2 -- UNDISCOVERED
-3 - Witness of the Faithful vol. 1 -- UNDISCOVERED
-4 - Witness of the Faithful vol. 2 -- UNDISCOVERED
+1 - Pharaoh's Decree vol. I -- UNDISCOVERED
+2 - Pharaoh's Decree vol. 2
+3 - Witness of the Faithful vol. 1
+4 - Witness of the Faithful vol. 2
 
 The Romans' Journey
-1 - A Legionnaire’s Lament -- UNDISCOVERED
-2 - Behold our queen’s salvation! -- UNDISCOVERED
-3 - The Journal of Publius Canidius Crassus -- UNDISCOVERED
-4 - Scouting Report -- UNDISCOVERED
-5 - To Legatus Crassus -- UNDISCOVERED
+1 - A Legionnaire's Lament -- UNDISCOVERED
+2 - Behold our queen's salvation!
+3 - The Journal of Publius Canidius Crassus
+4 - Scouting Report
+5 - To Legatus Crassus
+
+Brimstone Monuments
+?	Great Wall of Nebet Het
 
 ## Tales of Cutlass Keys
 
@@ -608,11 +635,9 @@ Wincroft's Journal
 4 - Damnable Bears -- MISSING
 5 - Trapped -- MISSING
 6 - Not a Paradise -- MISSING
-
-Wyrdwood
-1 - An Unexpected Find -- MISSING
-2 - Harvesting -- MISSING
-3 - Be Warned -- MISSING
+7 - An Unexpected Find -- MISSING
+8 - Harvesting -- MISSING
+9 - Be Warned -- MISSING
 
 The Ever Night Letters
 1 - His Return
@@ -630,7 +655,7 @@ The Ever Night Letters
 13 - Hiding
 14 - Sound at the Door
 
-Davies’ Field Notes
+Davies' Field Notes
 1 - Horned-Tooth Mandje
 2 - Azoth Waters
 
@@ -642,7 +667,6 @@ Daybreak to Decrepit
 
 Fall of Kelleher
 1 - Suspicions
-2 - He's Different With Me
 
 Canary in the Mines
 1 - Tekla and Audrey
@@ -687,11 +711,6 @@ Maecia' Fears
 Corrupted Mining Operations
 1 - Ichorous Spread
 2 - Corrupted Observations
-
-Reese's Watch
-1 - Storms Aplenty
-2 - Supply Manifest
-3 - Pushing My Luck
 
 Life on the Fallowhill
 1 - Prosperity
@@ -760,9 +779,9 @@ The Depths
 3 - The Box
 
 Tempest's Heart
-1 - Brothers Unreliable -- UNDISCOVERED
-2 - The Offering of the Apple -- UNDISCOVERED
-3 - The Heretic's Source -- UNDISCOVERED
+1 - Brothers Unreliable
+2 - The Offering of the Apple
+3 - The Heretic's Source
 4 - Father Russo and Isabella -- UNDISCOVERED
 
 Barnacles and Black Powder -- UNDISCOVERED
@@ -860,7 +879,7 @@ Tides of Battle
 1 - Long in the Tooth
 2 - Changing of the Watch
 3 - Movement in the Snow
-4 - Watch’s End
+4 - Watch's End
 5 - Beyond the Cleave
 6 - The Red Church
 7 - Further Word
@@ -890,7 +909,7 @@ James' Letters
 1 - Request for Reassignment
 2 - One Last Love Letter
 
-The Herald’s Victory
+The Herald's Victory
 1 - Pictures On The Wall
 2 - Scorched Earth
 
@@ -980,9 +999,9 @@ Monarch's Bluffs Legacies
 1 - I Know What She's Hiding
 2 - Missing Persons Report: Christopher Ward
 
-King Arthur’s Arrival
+King Arthur's Arrival
 1 - The High King
-2 - The King’s Magician
+2 - The King's Magician
 3 - A Legendary Weapon
 4 - Uniting the Land
 
@@ -996,19 +1015,19 @@ The Fall of the High King
 2 - The Corruption Surge
 3 - Darkness Falls
 
-Lochnir’s Discoveries
+Lochnir's Discoveries
 1 - Altars of Power -- MISSING
 2 - Artifacts Of The Ancients -- MISSING
 3 - The Call Of The Tablet -- MISSING
 4 - The Circlet Of The Swords -- MISSING
 
-A Father’s Prayer
+A Father's Prayer
 1 - The Final Glasswork -- MISSING
-2 - One’s Only Child -- MISSING
+2 - One's Only Child -- MISSING
 3 - A Reassurance of Love -- MISSING
 
 Letter to Edda Yonkers
-1 - The Love Of One’s Life -- MISSING
+1 - The Love Of One's Life -- MISSING
 
 Letters From The Lost
 1 - Wistful Note -- MISSING
@@ -1021,7 +1040,7 @@ Faithful Olaf
 1 - What Would We Do Without Olaf -- MISSING
 
 Knights Of Teyrnon Keep
-1 - Tenny’s Doubt -- MISSING
+1 - Tenny's Doubt -- MISSING
 
 Jin Jae's Journal
 1 - For the Future of Prydwen -- MISSING
@@ -1322,14 +1341,10 @@ Grenville's Journey
 3 - Rolfe
 4 - The Dig Site: Day 1
 5 - Excavation: Day 15
-6 - An Unpleasant Find: Day 17 -- MISSING
-7 - Ill Tidings: Torn Page -- MISSING
-8 - April Dig: Ledger -- MISSING
 9 - Misfortune
 10 - The Obelisks!
 11 - Growing Fears
 12 - The Spire
-13 - The Great Work -- MISSING
 14 - Azure Flames
 
 Grenville and the Temple
@@ -1404,7 +1419,7 @@ Ichabod's Journal
 3 - A Question in the Dark
 4 - Who is the Queen in Emerald?
 5 - The Dancers
-6 - Ichabod’s Questions
+6 - Ichabod's Questions
 7 - What Dreams May Come -- MISSING
 8 - Acquiring the Book
 9 - Infected With Humming
@@ -1419,8 +1434,8 @@ The Wild Hunt
 1 - Night of the Hunt
 
 A Matter of Tribute
-1 - Notice of Breach of Contract -- MISSING
-2 - Offer from the Speaker -- MISSING
+1 - Notice of Breach of Contract
+2 - Offer from the Speaker
 3 - Tribute and Reparations -- MISSING
 
 Notes on Buffalo
@@ -1429,15 +1444,15 @@ Notes on Buffalo
 3 - The Song of the Spheres -- MISSING
 
 The Iron Rose
-1 - The Iron Creed -- MISSING
+1 - The Iron Creed
 2 - Commander Merrill's Letter -- MISSING
 3 - The Commander's Beacon -- MISSING
 4 - Recruitment Flyer -- MISSING
 
 Songs of the Iron: Ella Florakis
-1 - Ella’s Song, Verse 1 -- MISSING
-2 - Ella’s Song, Verse 2 -- MISSING
-3 - Ella’s Song, Verse 3 -- MISSING
+1 - Ella's Song, Verse 1 -- MISSING
+2 - Ella's Song, Verse 2 -- MISSING
+3 - Ella's Song, Verse 3 -- MISSING
 
 Roya's Regret
 1 - No Answer -- MISSING
@@ -1453,10 +1468,10 @@ Windsward Warren: A Warren Too Small
 3 - Hyssop! -- MISSING
 4 - Forever friends -- MISSING
 
-## The Inquisitor’s Trial
+## The Inquisitor's Trial
 
-The Inquisitor’s Trial
-1 - The Inquisitor’s Trial -- MISSING
+The Inquisitor's Trial
+1 - The Inquisitor's Trial -- MISSING
 
 ## The Malleus Mortuis: Hammer of the Dead
 
@@ -1473,7 +1488,7 @@ The Malleus Mortuis: Hammer of the Dead
 ## The Thing in the Swamp
 
 The Thing in the Swamp
-1 - Constable’s Log -- MISSING
+1 - Constable's Log -- MISSING
 
 ## The Varangian Knights
 

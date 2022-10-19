@@ -95,9 +95,9 @@
 	<string key="ui_interact_tip_coin" rel_version="Feature_MusicalPerformances">{interactionName} {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_notification_tip_donated" rel_version="Feature_MusicalPerformances">Pourboire donné</string>
 	<string key="ui_any_song_gather">[{keybind}] Interpréter une chanson pour obtenir</string>
-	<string key="ui_song_gather">[{keybind}] Interpréter pour obtenir</string>
-	<string key="ui_restriction_learn_song"/>
-	<string key="ui_restriction_equip_instrument"/>
+	<string key="ui_song_gather">[{keybind}] Interpréter {songName} pour obtenir</string>
+	<string key="ui_restriction_learn_song">Apprendre {songName} pour obtenir</string>
+	<string key="ui_restriction_equip_instrument">S'équiper d'un instrument pour obtenir</string>
 	<string key="ui_reset_available_in">Disponible dans {time}</string>
 	<string key="ui_emote_gather">[{keybind}] Utiliser l'émote {tagName} pour obtenir</string>
 	<string key="ui_emotetag_dance">Danse</string>

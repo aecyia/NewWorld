@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Colete o Coração do Guardião Ancião.</string>
 	<string key="dungeon_reekwater_task_boss_01">Traga o Coração do Guardião Ancião ao dispositivo no centro da Importância de Lázaro.</string>
 	<string key="dungeon_reekwater_task_boss_02">Derrote Chardis.</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Saia da Importância de Lázaro.</string>
 	<string key="dungeon_reekwater_task_complete">Saia da Importância de Lázaro.</string>
 	<string key="dungeon_ebonscale00_title">O Estaleiro da Dinastia</string>
 	<string key="dungeon_ebonscale00_description">Arruíne os planos da Imperatriz.</string>
@@ -73,14 +74,14 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Puxar Alavanca</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Entre no esconderijo dos piratas da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Fale com Antonio para obter mais informações sobre os piratas da Bandeira Negra.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use a alavanca para abrir o portão e entrar no esconderijo da Bandeira Negra.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Use uma arma a distância para ativar a alavanca e entrar no esconderijo da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Localize o Almirante Pólvora Preta e sua tripulação.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Procure uma alavanca para abrir o portão.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Encontre uma passagem para o navio na Enseada da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Procure outra alavanca para abrir o portão.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Prossiga para a Passagem do Rum Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Explore ao redor da passagem bloqueada e procure um fusível para acender os explosivos.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrote os jacarés da Bandeira Negra.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrote os jacarés e a tripulação pirata da Bandeira Negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Prossiga pelo portão aberto e continue procurando um fusível para desbloquear a passagem soterrada.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Pegue o fusível da caixa de ferramentas.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Leve o fusível de volta para a passagem soterrada na Passagem do Rum Seco.</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Atravesse a Barreira com 3 Bastões de Azoth.</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Entre na arena do Comandante Thorpe.</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Derrote o Comandante Thorpe.</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Retorne às Costas Tempestuosas.</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Retorne às Costas Tempestuosas.</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Destrua o Monolito.</string>
 	<string key="dungeon_edengrove00_title">Jardim da Criação</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Derrote o Arqueiro Fulg’da.</string>
 	<string key="dungeon_edengrove00_task_find_heart">Siga para o Coração Maculado da Criação. Ele deve ser purificado.</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Derrote a Guardiã do Bosque Maculada.</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Retorne à superfície, o Coração Maculado da Criação foi exorcizado.</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Retorne à superfície, o Coração Maculado da Criação foi exorcizado.</string>
 	<string key="DungeonUsePurifyingFlame">Requer uma Chama Purificante</string>
 	<string key="DungeonDepositPurifyingFlame">Acenda com a Chama Purificante.</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encontre a Imperatriz Zhou no palácio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Derrote a Imperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Saia do Estaleiro.</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">A Enéade</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">A Enéade</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investigue a Enéade e descubra quais segredos os Anciões esconderam neste lugar atemporal.</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investigue a Enéade e descubra quais segredos os Anciões esconderam neste lugar atemporal.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 Bastões de Azoth</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Derrote Shai e seus lacaios para abrir a porta e explore as profundezas de Enéade.</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Abra caminho pelos defensores da Enéade.</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Derrote o Pequeno Deus Khepri Superno</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Use o poder de 3 bastões de Azoth para destruir a Corrupção que bloqueia o caminho adiante</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Batalhe contra o que restou da 19ª Legião.</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrote o General Crasso.</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Alcance o ápice da Enéade.</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Derrote Anpu e Heru.</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Saia da Enéade.</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Saia da Enéade.</string>
 	<string key="dungeon_ebonscale_required_equipment">1 Bastão de Azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Bastões de Azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Coração da Tempestade</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Entre no portal para o Túnel Imaterial mais uma vez</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Atravesse o Túnel Imaterial</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Derrote Isabella</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Saia da Expedição Coração da Tempestade</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Saia da Expedição Coração da Tempestade</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requer o Relicário</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examinar</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necrópole de Sutekh</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Impeça que Apófis desperte Sutekh, o poderoso Ancião, ou toda Aeternum será condenada à loucura.</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Aproxime-se do Sarcófago Ancião</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Derrote Apófis</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Explore a Necrópole e saia do Teste Espiritual</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 Bastão de Azoth</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Deixar Teste Espiritual</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Tem certeza de que deseja sair do Teste Espiritual?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Tem certeza de que deseja sair do Teste Espiritual?\nVocê não poderá entrar de novo na fila do Teste Espiritual por &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Deixar Teste Espiritual?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Você não pode fazer uma viagem rápida durante o Teste Espiritual</string>
 </resources>
 

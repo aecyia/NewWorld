@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Arredamento</string>
 	<string key="inv_outpostrush">Carica all'avamposto</string>
 	<string key="inv_pvparenas">Arene PvP</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Rune</string>
 	<string key="inv_crafting_modifiers">Modificatori</string>
 	<string key="inv_repair_kit_count">Kit di riparazione: {count}</string>
 	<string key="inv_repair_kits">Kit di riparazione</string>
@@ -64,21 +65,21 @@
 	<string key="inv_equipLoadNormal">Medio</string>
 	<string key="inv_equipLoadSlow">Pesante</string>
 	<string key="inv_equipLoadOverburdened">Sovraccarico</string>
-	<string key="inv_equipLoadTooltip">Il peso totale dell'armatura e dello scudo equipaggiati determina il tuo carico equipaggiato. Ogni carico equipaggiato offre una schivata unica e altri bonus.</string>
-	<string key="inv_equipLoadFastTooltip">Mentre indossi un'armatura leggera, la tua schivata è una capriola veloce che copre una lunga distanza e consuma {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} di energia. Infliggi un {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% di danni bonus e ottieni un 30% di cure bonus.</string>
-	<string key="inv_equipLoadNormalTooltip">Mentre indossi un'armatura media, la tua schivata è un salto veloce che consuma {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} di energia. I depotenziamenti di controllo di gruppo che applichi durano un 10% in più. Infliggi un {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% di danni bonus.</string>
-	<string key="inv_equipLoadSlowTooltip">Mentre indossi un'armatura pesante, la tua schivata è uno spostamento laterale lento che consuma {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} di energia. La stabilità della tua parata viene aumentata del 15% e i depotenziamenti di controllo di gruppo che applichi durano un 20% in più. Le guarigioni vengono ridotte di un 30%.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">Quando superi il carico massimo equipaggiabile, non puoi schivare, scattare, né usare le abilità. Dovresti rimuovere qualche oggetto.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Stai trasportando troppi oggetti nell'inventario. Quando hai troppo peso, non importa qual è il tuo carico equipaggiato. Non puoi scattare o schivare e perderai più energia durante la parata. Dovresti rimuovere qualche oggetto dalla borsa.</string>
-	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Hai superato il carico massimo equipaggiabile. Non puoi schivare né scattare e la tua rigenerazione di energia è molto ridotta. Dovresti rimuovere qualche oggetto.</string>
+	<string key="inv_equipLoadTooltip">Il peso totale dell'armatura e dello scudo equipaggiati determina il tuo carico equipaggiato. Ogni carico equipaggiato offre una schivata unica e vari altri effetti.</string>
+	<string key="inv_equipLoadFastTooltip">La tua schivata è una rotolata veloce che copre una vasta distanza. Questo carico equipaggiato ha i seguenti effetti: \n• Costo energia schivata: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Danni base: incremento +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% \n• Cure prodotte: incremento +30% \n• Dopo aver subito un attacco in mischia, la distanza della schivata è ridotta di un 20% e non puoi correre per {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s.</string>
+	<string key="inv_equipLoadNormalTooltip">La tua schivata è un salto veloce. Questo carico equipaggiato ha i seguenti effetti: \n• Costo energia schivata: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Danni base: incremento +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% \n• Depotenziamenti al controllo di gruppo: incremento durata +10% \n• Dopo aver subito un attacco in mischia, la distanza della schivata è ridotta di un 20% e non puoi correre per {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s.</string>
+	<string key="inv_equipLoadSlowTooltip">La tua schivata è uno spostamento direzionale. Questo carico equipaggiato ha i seguenti effetti: \n• Costo energia schivata: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Stabilità della parata: incremento +15% \n• Depotenziamenti al controllo di gruppo: incremento durata +20% \n• Cure prodotte: riduzione -30% \n• Dopo aver subito un attacco in mischia, non puoi correre per {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">Quando superi il peso dell'equipaggiamento massimo, non puoi schivare, correre, né usare le abilità. Dovresti rimuovere qualche oggetto.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Stai trasportando troppi oggetti nell'inventario. Quando hai troppo peso, non importa qual è il tuo carico equipaggiato. Non puoi correre o schivare e perderai più energia durante la parata. Dovresti rimuovere qualche oggetto dalla borsa.</string>
+	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Hai superato il carico massimo equipaggiabile. Non puoi schivare né correre e il tasso di rigenerazione dell'energia è molto ridotto. Dovresti rimuovere qualche oggetto.</string>
 	<string key="inv_equipLoadFastNotification">Il carico equipaggiato ora è leggero.</string>
 	<string key="inv_equipLoadNormalNotification">Il carico equipaggiato ora è medio.</string>
 	<string key="inv_equipLoadSlowNotification">Il carico equipaggiato ora è pesante.</string>
-	<string key="inv_equipLoadOverburdenedNotification">Sovraccarico - Non puoi schivare né scattare</string>
-	<string key="inv_equipLoadEncumberedNotification">Troppo peso - Non puoi schivare, né saltare, né scattare</string>
+	<string key="inv_equipLoadOverburdenedNotification">Sovraccarico - Non puoi schivare né correre</string>
+	<string key="inv_equipLoadEncumberedNotification">Troppo peso - Non puoi schivare, né saltare, né correre</string>
 	<string key="inv_encumbranceTooltip">Il tuo peso dipende dal carico totale degli oggetti nella tua borsa. Gli oggetti equipaggiati non influiscono sul peso. Puoi aumentare il tuo limite di peso massimo equipaggiando borse.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Se non superi il tuo limite di peso, i tuoi movimenti non sono impacciati.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Quando trasporti troppo peso nell'inventario, non puoi schivare né correre né scattare. Quando raggiungi il peso massimo, non puoi più muoverti né attaccare. Dovresti rimuovere qualche oggetto dalla borsa.</string>
+	<string key="inv_encumbranceEncumberedTooltip">Quando trasporti troppo peso nell'inventario, non puoi schivare né correre. Quando raggiungi il peso massimo, non puoi più muoverti né attaccare. Dovresti rimuovere qualche oggetto dalla borsa.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Attributi insufficienti</string>
 	<string key="inv_encumbranceAttackNotification">Troppo peso per attaccare</string>
 	<string key="inv_insufficientManaNotification">Mana insufficiente</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Recuperando questo oggetto otterrai: {min}-{max} {itemName} e &lt;font color="#f25d5d"&gt;{numRepairParts} ricambi.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Recuperando questo oggetto otterrai {numRepairParts} pezzi di ricambio.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Recuperando questo oggetto otterrai {numRepairParts} pezzi di ricambio e {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Hai raggiunto il limite massimo di monete.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Hai ottenuto: {entry1}</string>
 	<string key="salvage_notification_obtained_2">Hai ottenuto: {entry1} e {entry2}</string>
 	<string key="salvage_notification_obtained_3">Hai ottenuto: {entry1}, {entry2} e {entry3}</string>

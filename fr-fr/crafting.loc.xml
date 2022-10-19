@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">Aucun bonus ne peut être ajouté sur cet objet.</string>
 	<string key="crafting_tree_learned">Appris</string>
 	<string key="crafting_tree_unlearned">Désappris</string>
+	<string key="crafting_quality_fixed">Cette barre indique le score d'équipement approximatif dont l'objet pourra bénéficier.</string>
 	<string key="crafting_quality_desc">Cette barre indique le score d'équipement approximatif dont l'objet pourra bénéficier. Votre niveau de compétence en détermine la base. Vous pouvez également jouer sur le palier et la rareté de vos ressources pour ajuster le score potentiel de votre objet.</string>
+	<string key="crafting_quality_expertise">Cette barre indique le score d'équipement approximatif dont l'objet pourra bénéficier. Le score d'équipement de cet objet sera calculé en fonction de votre expertise de {expertiseName} et votre niveau de joueur.\n(Expertise de {expertiseName} actuelle : &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">Le score d'équipement de cet objet sera calculé en fonction de votre expertise de {expertiseName} et votre niveau de joueur.\n(Expertise de {expertiseName} actuelle : &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Recettes des quêtes</string>
 	<string key="crafting_select_resources">Sélectionner des ressources</string>
 	<string key="new_recipe_unlocked">NOUVELLE RECETTE DÉVERROUILLÉE</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Teintures</string>
 	<string key="ui_armordyes">Teintures d'armure</string>
 	<string key="ui_craftprogress">Fabrication {amount} sur {maximum}</string>
-	<string key="ui_crafting_summary_header">Résultat de la fabrication</string>
+	<string key="ui_crafting_summary_header">Objets fabriqués</string>
 	<string key="ui_crafted_from">Fabriqué à partir de {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Trier par nom</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">SÉLECTIONNER {type}</string>
 	<string key="crafting_discount_base">Frais de base</string>
 	<string key="ui_crafting_resource_origin_message">Remarque : Les ressources utilisées sont d'abord prises dans votre inventaire, puis dans le rangement de votre colonie.</string>
+	<string key="cr_firstcraft_bonusavailable">Bonus de première fabrication dispo.</string>
+	<string key="cr_firstcraft_bonus">Bonus de première fabrication</string>
+	<string key="cr_tradeskillbonus_title">Bonus d'EXP de compétence de métier</string>
+	<string key="cr_tradeskillbonus_basecraft">Bonus d'EXP de compétence de métier</string>
+	<string key="cr_tradeskillbonus_description">Vous gagnez un bonus d'EXP de compétence de métier supplémentaire lorsque vous utilisez une recette pour la première fois.</string>
 </resources>
 

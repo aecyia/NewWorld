@@ -14,12 +14,12 @@
 	<string key="simongrey_intro_line1" comment="Undead_Brute_Boss.slice" speaker="Simon Grey">O que aconteceu? INCRÍVEL!</string>
 	<string key="simongrey_intro_line2" comment="Undead_Brute_Boss.slice" speaker="Simon Grey">Quem... Intrusos!</string>
 	<string key="simongrey_intro_line3" comment="Undead_Brute_Boss.slice" speaker="Simon Grey">Vocês não tomarão meus segredos para si!</string>
-	<string key="sirenqueen_combat_line1" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_DG_Cutlass_00_VitalsName">Eu tomarei tudo que é seu.</string>
-	<string key="sirenqueen_combat_line2" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_DG_Cutlass_00_VitalsName">Que os ecos lhe tenham!</string>
-	<string key="sirenqueen_combat_line3" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_DG_Cutlass_00_VitalsName">Eu não ouço... nada...</string>
-	<string key="caretaker_intro_line1" comment="BASE_Bog_Monster.slice" speaker="Caretaker">Minhas plantas!</string>
-	<string key="caretaker_intro_line2" comment="BASE_Bog_Monster.slice" speaker="Caretaker">Minhas flores!</string>
-	<string key="caretaker_intro_line3" comment="BASE_Bog_Monster.slice" speaker="Caretaker">MEUS BEBÊS!</string>
+	<string key="sirenqueen_combat_line1" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_VitalsName">Eu tomarei tudo que é seu.</string>
+	<string key="sirenqueen_combat_line2" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_VitalsName">Que os ecos lhe tenham!</string>
+	<string key="sirenqueen_combat_line3" comment="Undead_LostSiren.slice" speaker="@Undead_Siren_VitalsName">Eu não ouço... nada...</string>
+	<string key="caretaker_intro_line1" comment="BASE_Bog_Monster.slice" speaker="@Bog_Monster_VitalsName">Minhas plantas!</string>
+	<string key="caretaker_intro_line2" comment="BASE_Bog_Monster.slice" speaker="@Bog_Monster_VitalsName">Minhas flores!</string>
+	<string key="caretaker_intro_line3" comment="BASE_Bog_Monster.slice" speaker="@Bog_Monster_VitalsName">MEUS BEBÊS!</string>
 	<string key="EmpressZhou_intro_1" comment="Dynasty_Empress.slice" speaker="Empress Zhou">Como ousa...</string>
 	<string key="EmpressZhou_intro_2" comment="Dynasty_Empress.slice" speaker="Empress Zhou">tentar me ferir.</string>
 	<string key="EmpressZhou_intro_3" comment="Dynasty_Empress.slice" speaker="Empress Zhou">Imperatriz do mundo...</string>
@@ -62,6 +62,9 @@
 	<string key="CaptainThorpe_CombatTaunt_16" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Você não vai conseguir nos desafiar agora.</string>
 	<string key="CaptainThorpe_CombatTaunt_17" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Ela me enviou... para destruir você!</string>
 	<string key="CaptainThorpe_CombatTaunt_18" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Não percebe? Sempre foi a alma dela!</string>
+	<string key="CaptainThorpe_Combat_beforesurge" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Sim, minha senhora... Recuperarei o que foi levado...</string>
+	<string key="CaptainThorpe_Combat_aftersurge" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Sinto suas bênçãos em mim... Teremos a glória eterna...</string>
+	<string key="CaptainThorpe_Combat_finale" comment="Corrupted_Captain_Thorpe_RestlessShoresBoss.slice" speaker="@9929_MSQ_RecliningThorpe">Vencemos, minha senhora... pode tomar as almas deles...</string>
 	<string key="Isabella_CombatTaunt_1" comment="Isabella_Base.slice" speaker="Isabella">Você deveria saber que era melhor não ter vindo para cá.</string>
 	<string key="Isabella_CombatTaunt_2" comment="Isabella_Base.slice" speaker="Isabella">Felizmente, meus lacaios podem cuidar dos destroços que chegam por aqui.</string>
 	<string key="Isabella_CombatTaunt_3" comment="Isabella_Base.slice" speaker="Isabella">Entregue-se à corrupção, ou eu destruirei você!</string>
@@ -116,15 +119,15 @@
 	<string key="Isabella_Winged_Death_01" comment="Isabella_Lair_Phase2.slice" speaker="Isabella" rel_version="Expedition_ShatterMtn_00">Tolos, meu poder é infinito!</string>
 	<string key="Isabella_Winged_Death_02" comment="Isabella_Lair_Phase2.slice" speaker="Isabella" rel_version="Expedition_ShatterMtn_00">Quê...? Não!</string>
 	<string key="Isabella_Winged_Death_03" comment="Isabella_Lair_Phase2.slice" speaker="Isabella" rel_version="Expedition_ShatterMtn_00">Abandonada...</string>
-	<string key="Nereid_CombatTaunt_01" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Sanguessugas! Morram!</string>
-	<string key="Nereid_CombatTaunt_02" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Pereçam, lesmas!</string>
-	<string key="Nereid_CombatTaunt_03" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Ciclone, destrua-os!</string>
-	<string key="Nereid_CombatTaunt_04" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Vento, uive! Relâmpago, queime!</string>
-	<string key="Nereid_PhaseTransition_01" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Turbulência, arraste-os para as profundezas!</string>
-	<string key="Nereid_PhaseTransition_02" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Vocês nunca terão o Coração do Oceano!</string>
-	<string key="Nereid_Intro" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Imundos, intrusos, matá-los será um prazer!</string>
-	<string key="Nereid_Death" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">O Oceano se lembra! Ela vai me vingar!</string>
-	<string key="Nereid_Victory" comment="Dryad_Siren.slice" speaker="Nereid" rel_version="Expedition_CutlassKeys_00">Afoguem-se em suas mágoas, vermes!</string>
+	<string key="Nereid_CombatTaunt_01" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Sanguessugas! Morram!</string>
+	<string key="Nereid_CombatTaunt_02" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Pereçam, lesmas!</string>
+	<string key="Nereid_CombatTaunt_03" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Ciclone, destrua-os!</string>
+	<string key="Nereid_CombatTaunt_04" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Vento, uive! Relâmpago, queime!</string>
+	<string key="Nereid_PhaseTransition_01" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Turbulência, arraste-os para as profundezas!</string>
+	<string key="Nereid_PhaseTransition_02" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Vocês nunca terão o Coração do Oceano!</string>
+	<string key="Nereid_Intro" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Imundos, intrusos, matá-los será um prazer!</string>
+	<string key="Nereid_Death" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">O Oceano se lembra! Ela vai me vingar!</string>
+	<string key="Nereid_Victory" comment="Dryad_Siren.slice" speaker="@Dryad_Siren_VitalsName" rel_version="Expedition_CutlassKeys_00">Afoguem-se em suas mágoas, vermes!</string>
 	<string key="AdmiralBlackPowder_Intro" comment="Undead_Admiral_Brute_Boss.slice" speaker="@Undead_Admiral_Brute_DG_Cutlass_00_VitalsName" rel_version="Expedition_CutlassKeys_00">Querem tesouros das profundezas? Então sofram por eles, como eu sofri!</string>
 	<string key="AdmiralBlackPowder_Victory" comment="Undead_Admiral_Brute_Boss.slice" speaker="@Undead_Admiral_Brute_DG_Cutlass_00_VitalsName" rel_version="Expedition_CutlassKeys_00">Boa sorte da próxima vez, se tiverem coragem! Ahahaha!</string>
 	<string key="AdmiralBlackPowder_Death" comment="Undead_Admiral_Brute_Boss.slice" speaker="@Undead_Admiral_Brute_DG_Cutlass_00_VitalsName" rel_version="Expedition_CutlassKeys_00">Aproveitem a vitória enquanto podem. Outro espreita lá embaixo...</string>
@@ -140,5 +143,94 @@
 	<string key="Referee_InProgress_02" comment="Dungeon_CutlassKeys00_Referee.slice" speaker="@ui_playertitle_pve_killuniquenamed_corrupt" rel_version="Expedition_CutlassKeys_00">Você acha que mereceu?</string>
 	<string key="Referee_Outro_01" comment="Dungeon_CutlassKeys00_Referee.slice" speaker="@ui_playertitle_pve_killuniquenamed_corrupt" rel_version="Expedition_CutlassKeys_00">Você não deveria ganhar.</string>
 	<string key="Referee_Outro_02" comment="Dungeon_CutlassKeys00_Referee.slice" speaker="@ui_playertitle_pve_killuniquenamed_corrupt" rel_version="Expedition_CutlassKeys_00">Ah! Que tal ir mais uma vez?</string>
+	<string key="Torment_Constanza_Spawn" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Constanza Suberria" rel_version="Quest_MSQ2_Revamp">Seja forte!</string>
+	<string key="Torment_Constanza_Defeat" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Constanza Suberria" rel_version="Quest_MSQ2_Revamp">Yonas… me perdoe…</string>
+	<string key="Torment_Cristina_Spawn" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Cristina Krempel" rel_version="Quest_MSQ2_Revamp">Aguentem firme!</string>
+	<string key="Torment_Cristina_Defeat" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Cristina Krempel" rel_version="Quest_MSQ2_Revamp">Minha mente… é minha…</string>
+	<string key="Torment_Romanos_Spawn" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Romanos Agallon" rel_version="Quest_MSQ2_Revamp">Não desista nunca!</string>
+	<string key="Torment_Romanos_Defeat" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Romanos Agallon" rel_version="Quest_MSQ2_Revamp">Fique… atrás de mim…</string>
+	<string key="Torment_Soulwardens_Spawn" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Torment of the Soulwardens" rel_version="Quest_MSQ2_Revamp">Guardas Espirituais! Às armas!</string>
+	<string key="Torment_Soulwardens_Defeat" comment="Enc_Quest_99A_MSQ_09_Torment.slice " speaker="Torment of the Soulwardens" rel_version="Quest_MSQ2_Revamp">Nunca… se renda…</string>
+	<string key="Heartforge_Guardian_CombatBark_01" comment="AI_Heartforge_Guardian.slice" speaker="Heartforge Guardian" rel_version="Quest_MSQ2_Revamp">Você está pisando em solo sagrado. Vá embora.</string>
+	<string key="Heartforge_Guardian_CombatBark_02" comment="AI_Heartforge_Guardian.slice" speaker="Heartforge Guardian" rel_version="Quest_MSQ2_Revamp">Deixe já este lugar. Aqui somente a morte espera por você.</string>
+	<string key="Heartforge_Guardian_CombatBark_03" comment="AI_Heartforge_Guardian.slice" speaker="Heartforge Guardian" rel_version="Quest_MSQ2_Revamp">Podemos ver a sua força. Aproxime-se da Forja e aceite o seu destino.</string>
+	<string key="Overseer_Zane_CombatBark_01" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Seu poder será meu!</string>
+	<string key="Overseer_Zane_CombatBark_02" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Forte... demais...</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Spawn" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">Sua arrogância será seu fim.</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageTendrils" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">Você se juntará a nós ou perderá a vida!</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_EngageZane" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">Sua resistência é… uma piada.</string>
+	<string key="99A_MSQ_07_Enc_Bark_OverSeerZan_Defeat" comment="AI_Overseer_Zane.slice" speaker="Overseer Zane" rel_version="Quest_MSQ2_Revamp">Você não pode derrotar... todos nós...</string>
+	<string key="Helvan_CombatBark_01" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Olá!</string>
+	<string key="Helvan_CombatBark_02" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Atire neles! Estibordo!</string>
+	<string key="Helvan_CombatBark_03" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Atire neles! Bombordo!</string>
+	<string key="Helvan_CombatBark_04" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Canalhas! Cuidarei de você eu mesmo.</string>
+	<string key="Helvan_CombatBark_05" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">TEXTO DA FASE: Vou até Davey Jones...</string>
+	<string key="Helvan_GreekFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Queime, covarde desprezível!</string>
+	<string key="Helvan_CannonFire_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">A estibordo, seu cão sarnento!</string>
+	<string key="Helvan_CannonFire_line2" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">A bombordo, sua ratazana!</string>
+	<string key="Helvan_Death_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Uma vitória curta. Logo você será como eu!</string>
+	<string key="Helvan_JumpsDown_line1" comment="AI_Helvan_the_Navigator.slice" speaker="Helvan the Navigator" rel_version="Quest_MSQ2_Revamp">Olá, camarada!</string>
+	<string key="Imhotep_CombatBark_01" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Contemple o poder dos Anciões! Sinta a fúria!</string>
+	<string key="Imhotep_CombatBark_02" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Sou o Protetor dos Mistérios! Guardião dos Segredos!</string>
+	<string key="Imhotep_CombatBark_03" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Nem mesmo você tem chance alguma contra os Anciões! \n\nPare de lutar contra mim!</string>
+	<string key="Imhotep_CombatBark_04" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Pare com esse combate sem sentido! Junte-se a mim! \n\nMe ajude a apaziguar os deuses!</string>
+	<string key="Imhotep_CombatBark_05" comment="AI_Imhotep.slice" speaker="@Imhotep_VitalsName" rel_version="Territory_Brimstone_Sands">Aeternum pertence aos Anciões! Deixe que a recuperem! \n\nSempre foi uma maldição para o nosso povo!</string>
+	<string key="Heru_Intro_A" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Você, pare! Ninguém passará pelo Portão da Noite!</string>
+	<string key="Heru_Intro_B" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Saia agora ou enfrente nossa ira!</string>
+	<string key="Heru_CombatTauntA" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Não queremos você aqui!</string>
+	<string key="Heru_CombatTauntB" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Sinta a Luz!</string>
+	<string key="Heru_CombatTauntC" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Você deve pagar por sua profanação!</string>
+	<string key="Heru_CombatTauntD" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Queime!</string>
+	<string key="Heru_Activate" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Desperto novamente, Mestres!</string>
+	<string key="Heru_Deactivate" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Minha vontade se despedaça! Sou indigno da luz dos Mestres...</string>
+	<string key="Heru_Doom_Intro" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">Você não pode escapar...</string>
+	<string key="Heru_Doom_Explo" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">... da ira dos Mestres!</string>
+	<string key="Heru_Judgement" comment="AnubianGuardian_Horus_Boss.slice" speaker="Heru" rel_version="Territory_Brimstone_Sands">A Palavra dos Mestres é absoluta!</string>
+	<string key="Anpu_Intro" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">Pare! Você não pode entrar aqui! Suas lamentações uivarão como os ventos!</string>
+	<string key="Anpu_CombatTauntA" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">Desapareça!</string>
+	<string key="Anpu_CombatTauntC" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">Ouço o chamado dos Mestres.</string>
+	<string key="Anpu_CombatTauntD" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">Sua arrogância... será punida!</string>
+	<string key="Anpu_CombatTauntE" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">A escuridão me toma! Falhei na minha tarefa sagrada...</string>
+	<string key="Anpu_CombatTauntF" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">Queime!</string>
+	<string key="Anpu_Activate" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">A Luz sagrada me abençoa!</string>
+	<string key="Anpu_BurningCharge" comment="AnubianGuardian_Brute_Boss.slice" speaker="Anpu" rel_version="Territory_Brimstone_Sands">O Portão será purificado!</string>
+	<string key="Crassus_Intro" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Você não pode lutar contra o poder de Roma!</string>
+	<string key="Crassus_ChaosLance" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Morra, vira-lata!</string>
+	<string key="Crassus_ChaosSpin" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Basta, escória!</string>
+	<string key="Crassus_Corrupted_Blob" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Farei esta região se ajoelhar!</string>
+	<string key="Crassus_CorruptedPhalanx" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Somos uma força implacável!</string>
+	<string key="Crassus_FireRain" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">A glória de Roma incendiará Aeternum!</string>
+	<string key="Crassus_Enrage" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Enviem essas feras malditas ao submundo!</string>
+	<string key="Crassus_PhaseTransition2" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Sinta a ira que arde internamente!</string>
+	<string key="Crassus_PhaseTransition3" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Contemple o poder que me foi concedido!</string>
+	<string key="Crassus_ChaosVolley" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Esse poder nos pertence, não aos deuses!</string>
+	<string key="Crassus_ShieldRush" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Desapareça, cão!</string>
+	<string key="Crassus_SplitAttack" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Pagamos por esse poder com nossas almas!</string>
+	<string key="Crassus_Victory" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Todos saúdem o poder de Roma!</string>
+	<string key="Crassus_Death" comment="Corrupted_Legion_General_Crassus_Boss.slice" speaker="Crassus" rel_version="Territory_Brimstone_Sands">Foi tudo mentira... por favor, me perdoe, Evandro…</string>
+	<string key="Baalphazu_Intro_Bark1" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Tolos! Envolverei suas gargantes em sombras e medo! Lorde Tenebroso terá um banquete macabro!</string>
+	<string key="Baalphazu_ShortBark_01" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">O medo lhe consome!</string>
+	<string key="Baalphazu_ShortBark_02" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Estou com fome... Quero mais!</string>
+	<string key="Baalphazu_ShortBark_03" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Que comece o banquete!</string>
+	<string key="Baalphazu_MedBark_01" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Seu terror absoluto nos sustenta!</string>
+	<string key="Baalphazu_MedBark_02" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">As sombras tomarão sua alma!</string>
+	<string key="Baalphazu_MedBark_03" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Não há como escapar de seu medo!</string>
+	<string key="Baalphazu_LongBark_01" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Apareçam, sombras do desespero! Espalhem terror por toda parte!</string>
+	<string key="Baalphazu_LongBark_02" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Vamos colher o medo que meu terrível mestre semeia!</string>
+	<string key="Baalphazu_LongBark_03" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">O horror consome a terra! Seu medo gélido é delicioso!</string>
+	<string key="Baalphazu_EnterWeak_01" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Maldição!</string>
+	<string key="Baalphazu_EnterWeak_02" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Idiota insolente!</string>
+	<string key="Baalphazu_EnterWeak_03" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Carne pútrida!</string>
+	<string key="Baalphazu_ExitWeak_01" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Apodreça na escuridão, verme!</string>
+	<string key="Baalphazu_ExitWeak_02" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Você sofrerá, verme!</string>
+	<string key="Baalphazu_ExitWeak_03" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Maldita seja sua insolência!</string>
+	<string key="Baalphazu_Victory_Bark1" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Esta terra será tomada por terrores sem fim! Um banquete generoso para o meu mestre!</string>
+	<string key="Baalphazu_Death_Bark1" comment="HalloweenBoss.slice" speaker="Baalphazu" rel_version="Territory_Brimstone_Sands">Meu mestre será saciado! Não há como escapar do terror! Nenhuma luz pode banir a treva eterna...</string>
+	<string key="Apophis_CombatTaunt_A" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Se prepare para encarar seu julgamento!</string>
+	<string key="Apophis_CombatTaunt_B" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Já toleramos sua presença por tempo demais!</string>
+	<string key="Apophis_CombatTaunt_C" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Estou faminto por destruição!</string>
+	<string key="Apophis_CombatTaunt_D" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Coma, Grande Devorador!</string>
+	<string key="Apophis_Intro" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Vermes insignificantes!</string>
+	<string key="Apophis_Death" comment="Sand_Elemental_QuestBoss.slice" speaker="Apophis" rel_version="Territory_Brimstone_Sands">Você não é nada!</string>
 </resources>
 

@@ -20,7 +20,7 @@
 	<string key="1002_0101_ancient_wonders_proposal_prompt2" speaker="UI – Player Prompt">"Was erwartest du?"</string>
 	<string key="1002_0101_ancient_wonders_proposal_next2" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0101_ancient_wonders_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@1002_0101_ancient_wonders_proposal_prompt2">Mit etwas Glück findest du nicht nur Artefakte.\n\nHerr Heron könnte Notizen hinterlassen haben, die uns bei der suche nach einträglicheren Artefakten helfen könnten.</string>
 	<string key="1002_0101_ancient_wonders_incomplete" speaker="Quartermaster Duffy – Cutlass Keys" gender="f">Die Beute wird uns praktisch von selbst in den Schoß fallen!\n\nErkunde die Ruinen und bringe alle Artefakte mit, die du findest.</string>
-	<string key="1002_0101_ancient_wonders_complete_availaible_response" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0101_ancient_wonders_AvailResponse" VO_Status="Recorded" dialogue-next="@1002_0101_ancient_wonders_complete_availaible_response_next">Ausgezeichnete Arbeit! Es tut meinem Herzen sehr gut, diese Schätze zu sehen.\n\nBitte nimm diesen Ring als kleines Dankeschön.\n\nDu bist drauf und dran, eine echte Piratin zu werden!</string>
+	<string key="1002_0101_ancient_wonders_complete_availaible_response" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0101_ancient_wonders_AvailResponse" VO_Status="Recorded" dialogue-next="@1002_0101_ancient_wonders_complete_availaible_response_next">Ausgezeichnete Arbeit! Es tut meinem Herzen sehr gut, diese Schätze zu sehen.\n\nBitte nimm diesen Ring als kleines Dankeschön.\n\nDu bist drauf und dran, ein echtes Piratenmitglied zu werden!</string>
 	<string key="1002_0101_ancient_wonders_complete_availaible_response_prompt" speaker="UI – Player Prompt">"Bin ich das?"</string>
 	<string key="1002_0101_ancient_wonders_complete_availaible_response_next" speaker="Quartermaster Duffy – Cutlass Keys" name="QuartermasterDuffy" gender="f" VO="Magistrate_1002_0101_ancient_wonders_CompleteNext3" VO_Status="Recorded" dialogue-prompt="@1002_0101_ancient_wonders_complete_availaible_response_prompt">Und zwar eine ehrenvolle, solange du im Entermesserriff bist.\n\nDir ist bestimmt schon aufgefallen, dass es hier von Piraten nur so wimmelt.\n\nSo viele unserer alten Mannschaftskameraden sind zu Verlorenen geworden, dass wir immer neue Verbündete gebrauchen können.</string>
 	<string key="1002_0102_d_01_task" speaker="UI – Tracker Text">Suche: {itemName}</string>
@@ -344,7 +344,7 @@
 	<string key="1033_0202_trailofthemisanthrope_complete_prompt" speaker="UI – Player Prompt">"Was wirst du mit deiner Hälfte anstellen?"</string>
 	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">Mit dem Schatz kann ich mir ein Haus bauen, das ich als Basis für meine Schatzsuchen nutzen kann! \n\nDie Frage ist nur, wo ich mich niederlassen soll. Ich könnte hier eins kaufen, aber ich habe gehört, dass es in Brackwasser ebenfalls von Piratenschätzen wimmeln soll.</string>
 	<string key="1034_0201_d_01_gotoPOI" speaker="UI – Tracker Text">Reise zur Verdammnisseichte und durchsuche die Sturmschwalbe, um Billiams Sextanten zurückzubringen.</string>
-	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Besiege die Geister von Billiams alter Crew.</string>
+	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Besiege die Geister von Billiams alter Crew auf den Blitzfeldern.</string>
 	<string key="1034_0201_d_03_have_item" speaker="UI – Tracker Text">Sammle Folgendes aus einer Truhe an Bord der Sturmschwalbe in der Verdammnisseichte: {itemName}</string>
 	<string key="1034_0201_motherocean_title" speaker="UI - Quest Title">Mutter Ozean</string>
 	<string key="1034_0201_motherocean_description" speaker="UI – Quest Description">Birg den Sextanten von Billiam dem Wehmütigen vom Wrack der Sturmschwalbe in der Verdammnisseichte. Bring den Sextanten zu Billiam dem Wehmütigen im Entermesserriff zurück.</string>
@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Leise Schritte</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Sammle Durchnässte Lederflicken im Augenklappen-Unterschlupf, Polster des gedämpften Moores in Karburg und Essenz des Schattens in der Mörderhöhle. Besuche dann eine Rang-3-Kleidermacherei, um die Stiefel von "Nebulöse Absicht" herzustellen.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Plan übergeben.</string>
-	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Reise nach {POITags} im Entermesserriff, um Durchnässte Lederflicken zu sammeln.</string>
-	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Reise nach {POITags} in Webermoor, um Polster des gedämpften Moores zu sammeln.</string>
-	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Reise nach {POITags} an der Unsteten Küste, um Essenz des Schattens zu sammeln.</string>
+	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Reise nach {POITags} im Entermesserriff, um Durchnässte Lederflicken zu sammeln.</string>
+	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Reise nach {POITags} in Webermoor, um Polster des gedämpften Moores zu sammeln.</string>
+	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Essenz des Schattens zu sammeln.</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Besuche eine Kleidermacherei</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Stelle her: {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Von Dunkelheit umhüllt</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Sammle Sturmsegelfetzen auf dem Verwüsteten Wrack, Fäulnisbannpech von Bitterfischrache und Haiklammern des Jägers von Der plündernde Hai. Besuche dann eine Rang-3-Kleidermacherei, um den Mantel von "Nebulöse Absicht" herzustellen.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Plan übergeben.</string>
-	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Reise nach {POITags} an der Unsteten Küste, um Sturmsegelfetzen zu sammeln.</string>
-	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Reise nach {POITags} an der Unsteten Küste, um Fäulnisbannpech zu sammeln.</string>
-	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Reise nach {POITags} an der Unsteten Küste, um Haiklammern des Jägers zu sammeln.</string>
+	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Sturmsegelfetzen zu sammeln.</string>
+	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Fäulnisbannpech zu sammeln.</string>
+	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Haiklammern des Jägers zu sammeln.</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Besuche eine Kleidermacherei</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Stelle her: {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">In Zwielicht getaucht</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Sammle Dunkelmoosextrakt in Fornax, Takelage des Schiffbrüchigen von der Küste der Verschollenen und Nachtsteinsplitter in Haedus. Besuche dann eine Rang-3-Kleidermacherei, um die Hose von "Nebulöse Absicht" herzustellen.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Plan übergeben.</string>
-	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Reise nach {POITags} an der Unsteten Küste, um Dunkelmoosextrakt zu sammeln.</string>
-	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Reise nach {POITags} in Klagental, um Takelage des Schiffbrüchigen zu sammeln.</string>
-	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Reise nach {POITags} in Klagental, um Nachtsteinsplitter zu sammeln.</string>
+	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Dunkelmoosextrakt zu sammeln.</string>
+	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um Takelage des Schiffbrüchigen zu sammeln.</string>
+	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um Nachtsteinsplitter zu sammeln.</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Besuche eine Kleidermacherei</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Stelle her: {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Schattenboxen</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Sammle Schichtleder des Wächters in Subra, Umgefülltes Zwielicht in Litheltop und Dämmerungsbeginn-Farbstoff vom Hochpassberg. Besuche dann eine Rang-3-Kleidermacherei, um die Handschuhe von "Nebulöse Absicht" herzustellen.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Plan übergeben.</string>
-	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Reise nach {POITags} in Klagental, um Schichtleder des Wächters zu sammeln.</string>
-	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Reise nach {POITags} in Edenhain, um Umgefülltes Zwielicht zu sammeln.</string>
-	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Reise nach {POITags} in Klagental, um Dämmerungsbeginn-Farbstoff zu sammeln.</string>
+	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um Schichtleder des Wächters zu sammeln.</string>
+	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Reise nach {POITags} in Edenhain, um Umgefülltes Zwielicht zu sammeln.</string>
+	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um Dämmerungsbeginn-Farbstoff zu sammeln.</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Besuche eine Kleidermacherei</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Stelle her: {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">Im Nachtschatten</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Sammle Behandelten Orichalcum-Faden im Niederabraumlager, Schmutzige Federn von der Genese der Gehässigkeit und Schattentuch von der Dornenbuschklippe. Besuche dann eine Rang-3-Kleidermacherei, um den Hut von "Nebulöse Absicht" herzustellen.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Plan übergeben.</string>
-	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Reise nach {POITags} in Edenhain, um Behandelten Orichalcum-Faden zu sammeln.</string>
-	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Reise nach {POITags} in Edenhain, um Schmutzige Federn zu sammeln.</string>
-	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Reise nach {POITags} in Edenhain, um Schattentuch zu sammeln.</string>
+	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Reise nach {POITags} in Edenhain, um Behandelten Orichalcum-Faden zu sammeln.</string>
+	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Reise nach {POITags} in Edenhain, um Schmutzige Federn zu sammeln.</string>
+	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Reise nach {POITags} in Edenhain, um Schattentuch zu sammeln.</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Besuche eine Kleidermacherei</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Stelle her: {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Tobender Zorn</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">Eine Klinge auf einem Wetzstein zu schärfen, ist eine Kunst für sich.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Beschaffe Öl, um das Biest abzuschrecken, in Wasser würde die Klinge Blasen werfen.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">Eine gutgemachte Klinge ist der beste Freund eines Hauptmanns, unabhängig von seiner Moral.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Reise nach {POITags} an der Unsteten Küste, um Heftleder zu sammeln.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Reise nach {POITags} in der Tiefen Schlucht, um Wetzstein zu sammeln.</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Reise nach {POITags} in Klagental, um Löschöl zu sammeln.</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName} und aus Truhen)</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Reise nach {POITags} in Klagental, um die Klinge von l‘Olonnois einzusammeln.</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Sammle: {itemName} (Beute von: {targetName})</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Reise nach {POITags} an der Unsteten Küste, um Heftleder zu sammeln.</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Reise nach {POITags} in der Tiefen Schlucht, um Wetzstein zu sammeln.</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName})</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um Löschöl zu sammeln.</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Sammle: {itemName} (Beute von folgenden Gegnern: {targetName} und aus Truhen)</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Reise nach {POITags} in Klagental, um die Klinge von l‘Olonnois einzusammeln.</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Sammle: {itemName} (Beute von: {targetName})</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Plan übergeben.</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Suche eine Schmiede auf</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Stelle her: {itemName}</string>

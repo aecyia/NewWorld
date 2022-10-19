@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Zabierz serce pradawnego strażnika</string>
 	<string key="dungeon_reekwater_task_boss_01">Zanieś serce pradawnego strażnika do urządzenia w centralnym punkcie Użyteczności Łazarza</string>
 	<string key="dungeon_reekwater_task_boss_02">Pokonaj Chardisa</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Opuść Użyteczność Łazarza</string>
 	<string key="dungeon_reekwater_task_complete">Opuść Użyteczność Łazarza</string>
 	<string key="dungeon_ebonscale00_title">Stocznia Dynastii</string>
 	<string key="dungeon_ebonscale00_description">Pokrzyżuj plany Cesarzowej.</string>
@@ -73,14 +74,14 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Pociągnij dźwignię</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Dostań się do kryjówki piratów czarnej flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Porozmawiaj z Antoniem, by dowiedzieć się więcej o piratach czarnej flagi.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Użyj dźwigni, by otworzyć bramę i wejść do kryjówki piratów czarnej flagi.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Użyj broni dystansowej, aby poruszyć dźwignię i wejść do kryjówki piratów czarnej flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Znajdź admirała Czarnoprochego i jego załogę.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Znajdź dźwignię, by otworzyć bramę.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Znajdź przejście do statku w Zatoczce Czarnej Flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Znajdź kolejną dźwignię, by otworzyć bramę.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Ruszaj do Przesmyku Wytrawnego Rumu.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Omiń zablokowany korytarz i znajdź lont, który pozwoli ci zdetonować materiały wybuchowe.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Pokonaj aligatory czarnej flagi.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Pokonaj aligatory i piratów czarnej flagi.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Przejdź przez otwartą bramę i kontynuuj poszukiwania lontu, który pomoże ci zrobić przejście w zablokowanym korytarzu.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Weź lont ze skrzynki z narzędziami.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Zanieś lont do zablokowanego korytarza w Przesmyku Wytrawnego Rumu.</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Przebij się przez barierę za pomocą 3 azothowych lasek</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Wejdź na arenę dowódcy Thorpe'a</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Pokonaj dowódcę Thorpe'a</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Wróć na Niespokojne Brzegi</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Wróć na Niespokojne Brzegi</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Zniszcz monolit</string>
 	<string key="dungeon_edengrove00_title">Ogród Genezy</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Pokonaj łucznika Fulg'dę</string>
 	<string key="dungeon_edengrove00_task_find_heart">Udaj się do zarażonego Serca Genezy. Musi zostać oczyszczone</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Pokonaj Zarażonego Zieleniarza</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Wróć na powierzchnię. Zarażone Serce Genezy zostało oczyszczone</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Wróć na powierzchnię. Zarażone Serce Genezy zostało oczyszczone</string>
 	<string key="DungeonUsePurifyingFlame">Potrzebny oczyszczający płomień</string>
 	<string key="DungeonDepositPurifyingFlame">Podpal oczyszczającym płomieniem</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Znajdź Cesarzową Zhou w pałacu</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Pokonaj Cesarzową Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Opuść Stocznię</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">Enneada</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Zbadaj Enneadę i odkryj sekrety pogrzebane przez pradawnych w tym miejscu poza czasem.</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Zbadaj Enneadę i odkryj sekrety pogrzebane przez pradawnych w tym miejscu poza czasem.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 azothowe laski</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Pokonaj Shai i jego sługusów, by otworzyć drzwi, i ruszaj w głąb Enneady</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Znajdź sposób na przebicie się przez obrońców Enneady</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Pokonaj niebiańskie bóstwo Chepri</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Użyj 3 azothowych lasek, by zniszczyć skażenie blokujące drogę</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Pokonaj niedobitki XIX Legionu</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Pokonaj generała Krassusa</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Dotrzyj na szczyt Enneady</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Pokonaj Anpu i Heru</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Opuść Enneadę</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Opuść Enneadę</string>
 	<string key="dungeon_ebonscale_required_equipment">1 azothowa laska</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 azothowe laski</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Serce Burzy</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Raz jeszcze przejdź przez portal prowadzący do Tunelu Próżni</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Przejdź przez Tunel Próżni</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Pokonaj Isabellę</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Opuść ekspedycję do Serca Burzy</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Opuść ekspedycję do Serca Burzy</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Wymagany Relikwiarz</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Zbadaj</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Nekropolia Sutecha</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Nie pozwól Apofisowi obudzić potężnego pradawnego, Sutecha, bo inaczej całe Aeternum pogrąży się w szaleństwie.</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Podejdź do pradawnego sarkofagu</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Pokonaj Apofisa</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Zbadaj Nekropolię i opuść Próbę Duszy</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 azothowa laska</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Opuść Próbę Duszy</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Czy na pewno chcesz opuścić Próbę Duszy?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Czy na pewno chcesz opuścić Próbę Duszy?\nKolejka Próby Duszy będzie niedostępna przez &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Opuścić Próbę Duszy?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Nie możesz korzystać z szybkiej podróży, przebywając na terenie Próby Duszy</string>
 </resources>
 

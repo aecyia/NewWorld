@@ -23,6 +23,7 @@
 	<string key="ui_groupinviteacceptsentmessage" comment="">Hai accettato l'invito al gruppo da parte di &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinviteacceptraid" comment="">Hai accettato l'invito al gruppo</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Hai rifiutato l'invito al gruppo da parte di &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;.</string>
+	<string key="ui_groupinvitedeclinesentmessage_withsource" comment="">Invito di gruppo di &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; rifiutato da &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt;.</string>
 	<string key="ui_groupinvitedeclineraid" comment="">Hai rifiutato l'invito al gruppo</string>
 	<string key="ui_groupinvitedeclinerequeue" comment="">Sei rientrato nella coda perché un giocatore ha rinunciato</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; ha ritirato il suo invito al gruppo.</string>
@@ -31,6 +32,8 @@
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Hai ritirato l'invito al gruppo per &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt;</string>
 	<string key="ui_groupinvitewithdrawnraid" comment="">Invito al gruppo ritirato.</string>
 	<string key="ui_leftgroupmessage" comment="">Gruppo abbandonato</string>
+	<string key="ui_kickedfromgroupmessage" comment="">Sei stato espulso dal tuo gruppo.</string>
+	<string key="ui_groupmemberkickedmessage" comment="">I voti sono stati sfavorevoli al mantenimento di &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; nel gruppo.</string>
 	<string key="ui_groupmemberleftmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; ha abbandonato il gruppo.</string>
 	<string key="ui_groupmemberjoinedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; ora fa parte del gruppo.</string>
 	<string key="ui_joinedgroupmessage" comment="">Aggiunto al gruppo</string>
@@ -54,7 +57,7 @@
 	<string key="ui_cannotinvite" comment="">Al momento non puoi invitare nessuno.</string>
 	<string key="ui_cannotinviteingroup" comment="">Non puoi invitare qualcuno nel tuo gruppo.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Il tuo gruppo è già pieno.</string>
-	<string key="ui_cannotinviteinraid" comment="">Non puoi invitare qualcuno durante una guerra.</string>
+	<string key="ui_cannotinviteinWar" comment="">Non puoi invitare qualcuno durante una guerra.</string>
 	<string key="ui_cannotinviteinInvasion" comment="">Non puoi invitare qualcuno durante un'invasione.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Devi essere nella stessa fazione del gruppo PvP.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">Non puoi lasciare il tuo gruppo mentre sei in un'arena.</string>
@@ -191,6 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Seleziona automaticamente i giocatori dalla lista d'attesa in ordine di iscrizione.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Seleziona manualmente i giocatori dalla lista d'attesa per riempire i posti abbandonati.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Mercenari: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt; / {nonCompanyTotal} Totale: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Impossibile promuovere ulteriormente questo giocatore</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Impossibile degradare ulteriormente questo giocatore</string>

@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Sua conta foi bloqueada por atividade suspeita. Entre em contato com o atendimento ao cliente para obter mais informações.</string>
 	<string key="mm_loginservices_warning_title">AVISO</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">O nome do seu Personagem foi denunciado como inapropriado. Ao se conectar novamente, pediremos que você renomeie seu personagem.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">O nome da sua Companhia foi denunciado como inapropriado e foi atualizado. Você pode renomeá-la a qualquer momento no painel de IU da Companhia [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">O nome da sua Companhia foi denunciado como inapropriado e foi atualizado. Você pode renomeá-la a qualquer momento no painel de IU da Companhia [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">Você foi denunciado por hackear</string>
 	<string key="mm_loginservices_warning_BannedCheating">Você foi denunciado por trapacear</string>
 	<string key="mm_loginservices_warning_BannedExploit">Você foi denunciado por se aproveitar de um bug</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Você foi denunciado por vazar conteúdo confidencial</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Você foi denunciado por comportamento desordeiro</string>
 	<string key="mm_loginservices_warning_OffensiveName">O nome do seu Personagem foi denunciado como inapropriado. Ao se conectar novamente, pediremos que você renomeie seu personagem.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">O nome da sua Companhia foi denunciado como inapropriado e foi atualizado. Você pode renomeá-la a qualquer momento no painel de IU da Companhia [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">O nome da sua Companhia foi denunciado como inapropriado e foi atualizado. Você pode renomeá-la a qualquer momento no painel de IU da Companhia [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">Você foi denunciado por trapacear</string>
 	<string key="mm_loginservices_warning_Exploit">Você foi denunciado por se aproveitar de um bug</string>
 	<string key="mm_loginservices_warning_Botting">Você foi denunciado por atividade de bots</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Autenticação negada: O FTUE já foi concluído.</string>
 	<string key="mm_loginservices_InternalError">Problema ao iniciar sessão, tente novamente em breve.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Problema do servidor ao iniciar sessão, tente novamente em breve.</string>
+	<string key="mm_loginservices_InternalFailureException">Problema do servidor ao iniciar sessão, tente novamente mais tarde.</string>
 	<string key="mm_loginservices_CredentialsError">Credenciais inválidas para os serviços de autenticação.</string>
 	<string key="mm_loginservices_NameLengthError">Tamanho de nome inválido.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Este nome já está em uso.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Não foi possível conectar ao serviço de autenticação. Reconectando, aguarde...</string>
 	<string key="mm_loginservices_TooManyRequestsException">O servidor de autenticação está muito ocupado, tente novamente em breve.</string>
 	<string key="mm_loginservices_NoConnection">O serviço de autenticação não está disponível no momento. Isso pode indicar problemas na conexão de Internet. Reconectando, aguarde...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Falha na autenticação do Steam.\nSaia do jogo, reinicie o Steam e tente novamente.</string>
+	<string key="mm_loginservices_NO_GATEWAY">A configuração de login não é válida.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Você está na fila para o mundo aberto...</string>
 	<string key="mm_loginservices_location_FTUE000">Você está na fila como um novo jogador...</string>
 	<string key="mm_loginservices_location_FTUE9011">Você está na fila como um novo jogador...</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Erro no servidor: Falha ao iniciar a replicação.</string>
 	<string key="mm_rejected_Server_Crash">Perda inesperada de contato com o servidor de jogo, tente novamente mais tarde.</string>
 	<string key="mm_rejected_Free_Session_Expired">O tempo de jogo livre terminou.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">O ticket de autenticação não é válido para o mundo.</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Acesso negado: Sem autorização para este mundo de jogo.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Expulso</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Você foi expulso do jogo.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Você foi expulso do jogo por ter ficado ausente por muito tempo.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">Como funciona</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Trilha PvP</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Posto de Controle {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nFaça progresso em sua trilha participando de Missões PvP, Arenas 3v3, Guerras e Investidas do Posto Avançado, capturando fortes, derrotando outros jogadores e recebendo EXP enquanto estiver sinalizado.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Posto de Controle {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nFaça progresso em sua trilha participando de Missões PvP, Guerras, Investidas do Posto Avançado e Arenas 3v3, capturando fortes e derrotando outros jogadores.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Você deve completar todos os postos de controle antes de iniciar a próxima trilha. Se você escolher uma recompensa de cada posto de controle, iniciará automaticamente a próxima trilha.\n\nPara cada posto de controle no qual deixar de escolher uma recompensa, você receberá 300 de Sal de Azoth quando a próxima trilha começar.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">As opções de recompensa serão reveladas após completar o posto de controle.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Trilhas Concluídas</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Sal de Azoth</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Recompensas</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">A Trilha de Recompensas PvP contém recompensas específicas de PvP por realizar atividades PvP no jogo. A trilha pode ser concluída e executada novamente para obter uma seleção diferente de recompensas, com recompensas mais prestigiosas disponíveis à medida que mais trilhas são concluídas.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Faça progresso em sua trilha participando de Missões PvP, Arenas 3v3, Guerras e Investidas do Posto Avançado, capturando fortes, derrotando outros jogadores e recebendo EXP enquanto estiver sinalizado.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Faça progresso em sua trilha participando de Missões PvP, Guerras, Investidas do Posto Avançado e Arenas 3v3, capturando fortes e derrotando outros jogadores.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Sal de Azoth é a moeda que te dá recompensas da Trilha PvP. Você pode ganhar Sal de Azoth participando de Guerras, Investidas do Posto Avançado, Arenas 3v3 e Missões PvP, abatendo jogadores no mundo aberto PvP e recebendo EXP enquanto estiver sinalizado.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Escolha entre recompensas exclusivas, como armaduras e armas de prestígio, gestos, moedas e consumíveis.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Trilhas Concluídas</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Equipamento Nomeado \n+Mais Moeda</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Equipamento de Prestígio \n+Gesto \n+Pacotes de Frasco de Sal</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Gipsita \n+Mais Moeda \n+Mais Lascas de Umbral</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Gesto \n+Mais Lascas de Umbral </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Gesto \n+Mais Lascas de Umbral</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Conjunto de Recompensas: \n+Gesto \n+Mais Moeda \n+Mais Itens Obtidos</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Conquista de Trilha {milestone} em:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Conquista de Trilha {milestone}</string>
@@ -446,7 +451,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Sucatear este item fornecerá entre {min} e {max} {itemName} e {numRepairParts} Peças de Reparos. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Sucatear este item fornecerá {min}–{max} {itemName} e {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Sucatear este item fornecerá {min}–{max} {itemName}, {numRepairParts} Peças de Reparos e {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Há uma pequena chance de recuperar a gema acoplada.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front"> Há uma chance de recuperar a gema acoplada.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Também é possível adquirir itens adicionais como {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Sucatear este item ensinará a você a receita {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Você já sabe a receita {recipeName}.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Aviso: Windows 7 detectado. O New World tem melhor desempenho em Windows 10 ou superior. Sua experiência com o jogo pode ser abaixo do ideal.</string>
 	<string key="minspec_fail_try_again">Confira o registro de falha para verificar o requisito mínimo que não foi cumprido.</string>
 	<string key="ui_rename_character">Renomear Personagem</string>
+	<string key="ui_rename">Renomear</string>
 	<string key="ui_rename_character_title">Nome do Personagem</string>
 	<string key="ui_rename_report_description">O nome do seu Personagem foi denunciado como inapropriado. Ao se conectar novamente, pediremos que você renomeie seu personagem.</string>
 	<string key="ui_rename_required">É necessário que você renomeie &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>
@@ -508,8 +514,8 @@
 	<string key="mm_ap_southeast" comment="AP means Asian Pacific">Ásia-Pacífico - Sudeste</string>
 	<string key="mm_sa_east" comment="SA means South America">América do Sul - Leste</string>
 	<string key="world_set_region_transfer">Transferência de Região</string>
-	<string key="mm_stage_devo">Desenvolvedor</string>
-	<string key="mm_stage_qa">Controle de Qualidade</string>
+	<string key="mm_stage_devo">DV</string>
+	<string key="mm_stage_qa">CQ</string>
 	<string key="mm_stage_alpha">Alfa</string>
 	<string key="mm_localhost">Host Local</string>
 	<string key="mm_charslot_locked_tooltip">O espaço de personagem está bloqueado. O espaço não está disponível, compre o espaço do personagem para desbloqueá-lo.</string>

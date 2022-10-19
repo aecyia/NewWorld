@@ -46,13 +46,13 @@
 	<string key="ui_area_edengrove00_blighted_hallow">FÄULNISWEIHE</string>
 	<string key="ui_area_edengrove00_blighted_sanctum">VERFAULTES HEILIGTUM</string>
 	<string key="ui_area_edengrove00_blighted_hall">VERFAULTE HALLE</string>
-	<string key="ui_area_edengrove00_greenhouse">TREIBHAUS DES HAUSWARTS</string>
+	<string key="ui_area_edengrove00_greenhouse">TREIBHAUS DES HÜTERS</string>
 	<string key="ui_area_edengrove00_conservatory">GEWÄCHSHAUS</string>
 	<string key="ui_area_edengrove00_genesis">HERZ DES URSPRUNGS</string>
 	<string key="ui_icon_edengrove00_title_boss_naga">DER VERFAULTE GARTENWÄCHTER</string>
 	<string key="ui_icon_edengrove00_description_boss_naga">STUFE-66-BOSS\nWÄCHTER DER FÄULNIS</string>
 	<string key="ui_icon_edengrove00_title_boss_caretaker">ALLUVIUMMERGEL</string>
-	<string key="ui_icon_edengrove00_description_boss_caretaker">STUFE-66-BOSS\nDER HAUSWART</string>
+	<string key="ui_icon_edengrove00_description_boss_caretaker">STUFE-66-BOSS\nDER HÜTER</string>
 	<string key="ui_icon_edengrove00_title_miniboss_taxodius">TAXODIUS</string>
 	<string key="ui_icon_edengrove00_description_miniboss_taxodius" xsi:nil="true"/>
 	<string key="ui_icon_edengrove00_title_miniboss_archer">FULG'DA</string>
@@ -120,7 +120,7 @@
 	<string key="ui_icon_shattermtn00_title_isabella" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
 	<string key="ui_icon_shattermtn00_description_isabella" rel_version="Expedition_ShatterMtn_00">STUFE-66-BOSS\nANFÜHRERIN VON AETERNUMS VERDERBTEN STREITKRÄFTEN</string>
 	<string key="ui_icon_shattermtn00_unconverted" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
-	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">VERDERBTER NAGA</string>
+	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">NEISHATUN</string>
 	<string key="ui_icon_shattermtn00_description_naga" rel_version="Expedition_ShatterMtn_00">STUFE-66-BOSS\nWÄCHTER DES THRONS</string>
 	<string key="ui_icon_shattermtn00_voidtunnel" rel_version="Expedition_ShatterMtn_00">PORTAL</string>
 	<string key="ui_icon_shattermtn00_voidtunnelexit" rel_version="Expedition_ShatterMtn_00">AUSGANG</string>
@@ -153,5 +153,28 @@
 	<string key="ui_icon_cutlasskeys00_waterstatue" rel_version="Expedition_CutlassKeys_00">Nereides Segen</string>
 	<string key="ui_icon_cutlasskeys00_antonio" rel_version="Expedition_CutlassKeys_00">Antonio</string>
 	<string key="ui_icon_cutlasskeys00_mariner" rel_version="Expedition_CutlassKeys_00">Tye</string>
+	<string key="ui_area_brimstone_AncientHalls" rel_version="Expedition_BrimstoneSands_00">Hallen der Ahnen</string>
+	<string key="ui_area_brimstone_CoruptionBreakthrough" rel_version="Expedition_BrimstoneSands_00">Zerrüttete Gruft</string>
+	<string key="ui_area_brimstone_Entrance" rel_version="Expedition_BrimstoneSands_00">Der Zugang</string>
+	<string key="ui_area_brimstone_EternalCourt" rel_version="Expedition_BrimstoneSands_00">Ewiges Gericht</string>
+	<string key="ui_area_brimstone_Garden" rel_version="Expedition_BrimstoneSands_00">Laubiger Platz</string>
+	<string key="ui_area_brimstone_ScarabBossChamber" rel_version="Expedition_BrimstoneSands_00">Sitz des Richters</string>
+	<string key="ui_area_brimstone_SecurityPost" rel_version="Expedition_BrimstoneSands_00">Verdorbene Grabstätte</string>
+	<string key="ui_area_brimstone_CrassusBossArena" rel_version="Expedition_BrimstoneSands_00">Siegel des Herrschers</string>
+	<string key="ui_area_brimstone_GuardianGates_Entrance" rel_version="Expedition_BrimstoneSands_00">Die Landung</string>
+	<string key="ui_area_brimstone_GuardianGates_Left" rel_version="Expedition_BrimstoneSands_00">Herrschaftliche Überreste</string>
+	<string key="ui_area_brimstone_GuardianGates_Main" rel_version="Expedition_BrimstoneSands_00">Pagode der Vorfahren</string>
+	<string key="ui_area_brimstone_GuardianGates_Right" rel_version="Expedition_BrimstoneSands_00">Verderbter Altar</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_End" rel_version="Expedition_BrimstoneSands_00">Zeitlose Krypta</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_Main" rel_version="Expedition_BrimstoneSands_00">Der unsterbliche Anstieg</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_Right" rel_version="Expedition_BrimstoneSands_00">Verderbtes Monument</string>
+	<string key="ui_area_brimstone_ArrivalArea" rel_version="Expedition_BrimstoneSands_00">Terrasse des Schöpfers</string>
+	<string key="ui_area_brimstone_GuardiansOfEnnead" rel_version="Expedition_BrimstoneSands_00">Der Gipfel</string>
+	<string key="ui_icon_brimstone_title_scarab" rel_version="Expedition_BrimstoneSands_00">Kleiner Himmels-Khepri</string>
+	<string key="ui_icon_brimstone_description_scarab" rel_version="Expedition_BrimstoneSands_00">Tempelwächter</string>
+	<string key="ui_icon_brimstone_title_crassus" rel_version="Expedition_BrimstoneSands_00">General Crassus</string>
+	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Anführer der 19. Legion</string>
+	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu und Heru</string>
+	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Uralte Idole</string>
 </resources>
 

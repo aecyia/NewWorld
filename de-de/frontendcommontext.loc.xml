@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Dein Konto wurde aufgrund verdächtiger Aktivitäten gesperrt. Bitte wende dich an den Kundendienst für zusätzliche Informationen.</string>
 	<string key="mm_loginservices_warning_title">ACHTUNG</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Dein Charaktername wurde als unangemessen gekennzeichnet. Beim nächsten Einloggen wirst du gebeten, ihn umzubenennen.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [G] umbenennen.</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [F4] umbenennen.</string>
 	<string key="mm_loginservices_warning_BannedHacking">Du wurdest gemeldet. Grund: Hacking.</string>
 	<string key="mm_loginservices_warning_BannedCheating">Du wurdest gemeldet. Grund: Cheaten.</string>
 	<string key="mm_loginservices_warning_BannedExploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Du wurdest gemeldet. Grund: Veröffentlichen/Verbreiten geschützter Inhalte</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Du wurdest gemeldet. Grund: Störendes Verhalten</string>
 	<string key="mm_loginservices_warning_OffensiveName">Dein Charaktername wurde als unangemessen gekennzeichnet. Beim nächsten Einloggen wirst du gebeten, ihn umzubenennen.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [G] umbenennen.</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Dein Kompaniename wurde als unangemessen gekennzeichnet und wurde angepasst. Du kannst die Kompanie im Kompanie-UI-Fenster [F4] umbenennen.</string>
 	<string key="mm_loginservices_warning_Cheating">Du wurdest gemeldet. Grund: Cheaten.</string>
 	<string key="mm_loginservices_warning_Exploit">Du wurdest gemeldet. Grund: Unerlaubtes Ausnutzen von Bugs</string>
 	<string key="mm_loginservices_warning_Botting">Du wurdest gemeldet. Grund: Bot-Nutzung</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Anmeldung verweigert: Die Einführung (FTUE) wurde bereits abgeschlossen.</string>
 	<string key="mm_loginservices_InternalError">Anmeldung ist fehlgeschlagen, versuche es bitte erneut.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Fehler auf dem Login-Server. Versuche es bitte erneut.</string>
+	<string key="mm_loginservices_InternalFailureException">Fehler auf dem Login-Server. Versuche es bitte später erneut.</string>
 	<string key="mm_loginservices_CredentialsError">Ungültige Zugangsdaten für die Anmeldedienste.</string>
 	<string key="mm_loginservices_NameLengthError">Unzulässige Namenslänge.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Dieser Name wird bereits verwendet.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Verbindung zum Anmeldedienst nicht möglich. Verbindungsaufbau, bitte warten ...</string>
 	<string key="mm_loginservices_TooManyRequestsException">Der Login-Server ist ausgelastet. Versuche es bitte erneut.</string>
 	<string key="mm_loginservices_NoConnection">Anmeldedienst ist zurzeit nicht verfügbar. Grund kann eine fehlerhafte Internetverbindung sein. Verbindungsaufbau, bitte warten ...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Steam-Authentifizierung fehlgeschlagen.\nBitte beende das Spiel, starte Steam neu und versuche es erneut.</string>
+	<string key="mm_loginservices_NO_GATEWAY">Die Anmeldekonfiguration ist ungültig.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Du bist in der Warteschlange für die offene Welt …</string>
 	<string key="mm_loginservices_location_FTUE000">Du bist in der Warteschlange für neue Spieler …</string>
 	<string key="mm_loginservices_location_FTUE9011">Du bist in der Warteschlange für neue Spieler …</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Serverfehler: Kopiervorgang konnte nicht eingeleitet werden.</string>
 	<string key="mm_rejected_Server_Crash">Verbindung zum Spielserver unerwarteterweise abgebrochen. Versuche es bitte später erneut.</string>
 	<string key="mm_rejected_Free_Session_Expired">Die Gratisspielzeit ist abgelaufen.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Das Anmelde-Ticket ist für diese Welt nicht gültig.</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Zugriff verweigert: Du hast keine Berechtigung für diese Spielwelt.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Vom Server getrennt</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Du wurdest aus dem Spiel geworfen.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Du wurdest vom Spiel getrennt, weil du zu lange inaktiv warst.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">So funktioniert das</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">PvP-Serie</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Kontrollpunkt {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nErziele Fortschritte in der Serie, indem du PvP-Missionen abschließt, dich am Außenpostensturm oder der Eroberung von Festungen beteiligst, andere Spieler besiegst und an 3-gg-3-Arenen teilnimmst und EP erhältst, während du markiert bist.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Kontrollpunkt{checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nErziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, oder 3-gegen-3-Arenen absolvierst.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Du musst alle Kontrollpunkte abschließen, bevor du die nächste Serie beginnen kannst. Mit der Auswahl einer Belohnung eines Kontrollpunkts beginnt automatisch die nächste Serie.\n\nFür jeden Kontrollpunkt, dessen Belohnung du nicht beanspruchst, erhältst du zum Beginn der nächsten Serie 300 Azoth-Salz.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Belohnungsoptionen werden nach dem Abschluss eines Kontrollpunkts enthüllt.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Serien abgeschlossen</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Azoth-Salz</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Belohnungen</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">Die PvP-Belohnungsserien enthalten PvP-spezifische Belohnungen für PvP-Aktivitäten im Spiel. Du kannst die Belohnungsserien abschließen und erneut angehen, um andere Belohnungen zu erhalten. Je mehr Belohnungsserien du absolvierst, desto hochwertiger werden die Belohnungen.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, an 3-gg-3-Arenen teilnimmst und EP dazugewinnst, während du markiert bist.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, oder 3-gegen-3-Arenen absolvierst.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen, an PvP-Missionen beteiligst oder Spieler in der offenen Welt im PvP besiegst und EP dazugewinnst, während du markiert bist.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Wähle aus einzigartigen Belohnungen aus, darunter prestigeträchtige Rüstungen und Waffen, Emotes, Währung und Verbrauchsgegenstände.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Serien abgeschlossen</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+ benannte Ausrüstung \n+ Mehr Währung</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+Prestige-Ausrüstung \n+ Emote \n+ Salzphiolen-Pakete</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+ Gips \n+ Mehr Währung \n+ Mehr Schattensplitter</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+ Emote \n+ Schattensplitter </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+ Emote \n+ Schattensplitter</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Belohnungsauswahl: \n+ Emote \n+ Mehr Währung \n+ Mehr Beute</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Serien-Meilenstein bei:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Serien-Meilenstein</string>
@@ -435,18 +440,18 @@
 	<string key="crafting_cannot_repair">Reparatur nicht möglich</string>
 	<string key="crafting_requires_station">Das geht nur an der richtigen Werkstelle.</string>
 	<string key="crafting_repair_no_requirements">Für die Reparatur dieses Gegenstands gelten keine Voraussetzungen.</string>
-	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems} {itemName}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_fixed_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName} und {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_fixed_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numItems}x {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}-{max} {itemName}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}-{max} {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}x – {max}x {itemName} und {numRepairParts} Ersatzteile. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}x-{max}x {itemName} und {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Durch das Zerlegen dieses Gegenstands erhältst du {min}x-{max}x {itemName}, {numRepairParts} Ersatzteile und {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front"> Es besteht eine geringe Wahrscheinlichkeit, den eingesetzten Edelstein zurückzuerhalten.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Es besteht die Möglichkeit, den eingesetzten Edelstein zurückzuerhalten.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Zusätzliche Gegenstände wie {itemName} können ebenfalls erworben werden.</string>
 	<string key="inv_salvage_tooltip_recipe">Durch das Zerlegen dieses Gegenstands lernst du den Plan: {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Du kennst die Rezeptur "{recipeName}" bereits.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Achtung: Es wurde Windows 7 erkannt. New World funktioniert am besten unter Windows 10 oder höher. Dies könnte eine bestmögliches Spielerlebnis verhindern.</string>
 	<string key="minspec_fail_try_again">Bitte schau ins Fehlerprotokoll, um zu bestimmen, welche Mindestanforderung nicht erfüllt wird.</string>
 	<string key="ui_rename_character">Charakter-Umbenennung</string>
+	<string key="ui_rename">Umbenennen</string>
 	<string key="ui_rename_character_title">Charaktername</string>
 	<string key="ui_rename_report_description">Dein Charaktername wurde als unangemessen gekennzeichnet. Beim nächsten Einloggen wirst du gebeten, ihn umzubenennen.</string>
 	<string key="ui_rename_required">Du musst &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt; umbenennen.</string>

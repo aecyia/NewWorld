@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Odlewanie gipsu</string>
 	<string key="GypsumRaw_GroupName">Kule gipsowe</string>
 	<string key="GypsumCasts_GroupName">Odlewy gipsowe</string>
+	<string key="InfusedCasts_GroupName">Nasycone odlewy</string>
 	<string key="GemstoneT2_GroupName">Zwykłe klejnoty</string>
 	<string key="GemstoneT3_GroupName">Doskonałe klejnoty</string>
 	<string key="GemstoneT4_GroupName">Nieskazitelne klejnoty</string>
@@ -200,7 +201,7 @@
 	<string key="HousingTrdG_Cabinets_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Szafki do domu</string>
 	<string key="HousingTrdG_Cabinets_GroupDesc" comment="Housing Furniture - Trading Post - TradingGroup">Szafki do domu</string>
 	<string key="HousingTrdG_Veg_GroupName" comment="Housing Furniture - Trading Post - TradingGroup">Rośliny do domu</string>
-	<string key="1hHatchet_GroupDesc">Wszechstronna broń, którą można wyprowadzać szybkie ataki w walce wręcz lub rzucać z dystansu. Idealna do agresywnej walki wręcz lub taktycznej walki na średnim dystansie.\n\n•Atak lekki: Zadaje {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Lekki cios kończący serię: Zadaje {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% obrażeń od cięć.\n•Atak ciężki: Zadaje {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od cięć.</string>
+	<string key="1hHatchet_GroupDesc">Wszechstronna broń, którą można wyprowadzać szybkie ataki w walce wręcz lub rzucać z dystansu. Idealna do agresywnej walki wręcz lub taktycznej walki na średnim dystansie.\n\n• Atak lekki: Zadaje {[DamageTable.Hatchet_Damage_PrimaryAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Lekki cios kończący serię: Zadaje {[DamageTable.Hatchet_Damage_PrimaryAttack_Ender.DmgCoef * 100]}% obrażeń od cięć.\n•Atak ciężki: Zadaje {[DamageTable.Hatchet_Damage_HeavyAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.Hatchet_Damage_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od cięć.</string>
 	<string key="1hHatchet_GroupName">Wytworzone siekierki</string>
 	<string key="1hHatchetAngryEarth_GroupName">Pierwotne siekierki</string>
 	<string key="1hHatchetB_GroupName">Siekierki z zimnego żelaza</string>
@@ -280,7 +281,7 @@
 	<string key="2hElementalStaff_FireFound_GroupName">Odzyskane ogniste laski</string>
 	<string key="2hElementalStaff_FireLost_GroupName">Zapomniane ogniste laski</string>
 	<string key="2hElementalStaff_FireNamed1_GroupName">Szał</string>
-	<string key="2hElementalStaff_FireNamed2_GroupName">Refren Fanatyka</string>
+	<string key="2hElementalStaff_FireNamed2_GroupName">Refren fanatyka</string>
 	<string key="2hElementalStaff_FireNamed3_GroupName">Półksiężyc</string>
 	<string key="2hElementalStaff_FireNamed4_GroupName">Pogarda</string>
 	<string key="2hElementalStaff_FireNamed5_GroupName">Agonia</string>
@@ -515,7 +516,7 @@
 	<string key="Bait_GroupName">Przynęta</string>
 	<string key="BaitFresh_GroupName">Przynęty słodkowodne</string>
 	<string key="BaitSalt_GroupName">Przynęty słonowodne</string>
-	<string key="Bandage_GroupDesc">Przedmioty leczące przypadłości, takie jak zatrucie czy choroba.</string>
+	<string key="Bandage_GroupDesc">Przedmioty leczące przypadłości takie jak zatrucie czy choroba.</string>
 	<string key="Bandage_GroupName">Lekarstwa</string>
 	<string key="BasicCooking_GroupName">Gotowanie</string>
 	<string key="BeasthunterChest_GroupName">Koszula łowczego</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Eliksiry to przedmioty tymczasowo zwiększające twoją sprawność.</string>
 	<string key="CategoryData_Alkahest">Alkahesty</string>
 	<string key="CategoryData_AlkahestDesc">Alkahesty to przedmioty służące do wytwarzania eliksirów.</string>
+	<string key="CategoryData_Ampoule">Ampułka</string>
+	<string key="CategoryData_AmpouleDesc">Ampułki to przedmioty służące do wytwarzania eliksirów przywracających.</string>
 	<string key="CategoryData_RangedWeapons">Broń dystansowa</string>
 	<string key="CategoryData_rawresources">Pozyskane surowce</string>
 	<string key="CategoryData_RefinedMaterial">Inne materiały</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Repliki ze Stoczni Dynastii</string>
 	<string key="DungeonReps6_GroupName">Repliki z Użyteczności Łazarza</string>
 	<string key="DungeonReps7_GroupName">Repliki z Ogrodu Genezy</string>
-	<string key="DungeonReps8_GroupName">CHWILOWO BRAK NAZWY</string>
+	<string key="DungeonReps8_GroupName">Repliki z Enneady</string>
 	<string key="DungeonReps9_GroupName">Repliki z Serca Burzy</string>
 	<string key="DungeonShields_GroupName">Tarcze z ekspedycji</string>
 	<string key="DungeonReps12_GroupName">Unikalne nagrody za ekspedycje</string>
@@ -1087,10 +1090,12 @@
 	<string key="GarnetCut_GroupDesc">Szlifowane i polerowane granaty</string>
 	<string key="GarnetCut_GroupName">Szlifowany granat</string>
 	<string key="GatheringFood_GroupName">Jedzenie zbierania</string>
-	<string key="GauntletIce_GroupDesc">Rękawica zużywająca manę do rzucania potężnych lodowych zaklęć. Idealnie nadaje się do nieustannego zadawania obrażeń przeciwnikom. Umożliwia wzywanie żywiołowych burz i lodu oraz wyprowadzanie zamrażających ataków, które osłabiają zdolności przeciwników i zadają im obrażenia.\n\n•Atak lekki: Zadaje {[DamageTable.IceMagic_Primary.DmgCoef * 100]}% obrażeń od lodu.\n•Atak ciężki: Zadaje {[DamageTable.IceMagic_Heavy.DmgCoef * 100]}% obrażeń od lodu.</string>
+	<string key="GauntletIce_GroupDesc">Rękawica zużywająca manę do rzucania potężnych lodowych zaklęć. Idealnie nadaje się do nieustannego zadawania obrażeń przeciwnikom. Umożliwia wzywanie żywiołowych burz i lodu oraz wyprowadzanie zamrażających ataków, które osłabiają zdolności przeciwników i zadają im obrażenia.\n\n• Atak lekki: Zadaje {[DamageTable.IceMagic_Primary.DmgCoef * 100]}% obrażeń od lodu.\n•Atak ciężki: Zadaje {[DamageTable.IceMagic_Heavy.DmgCoef * 100]}% obrażeń od lodu.</string>
 	<string key="GauntletIce_GroupName">Lodowe rękawice</string>
-	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Rękawica zużywająca manę, by osłabiać wrogów i wzmacniać sojuszników. Rękawica próżni idealnie nadaje się do nakładania premii i obrażeń periodycznych na krótkim dystansie lub nakładania negatywnych efektów i leczenia na średnim dystansie. Jest groźna zwłaszcza wtedy, gdy walczysz w grupie.\n\n•Atak lekki: Zadaje {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% obrażeń od próżni.\n•Atak ciężki: Zadaje {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% obrażeń od próżni. Ponadto zyskasz zdrowie w wysokości {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% zadanych obrażeń.\n• Zbierz esencję (przytrzymaj blok): Zamienia twoje zdrowie na manę z upływem czasu. Skaluje się z obrażeniami od broni.</string>
+	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Rękawica zużywająca manę, by osłabiać wrogów i wzmacniać sojuszników. Rękawica próżni idealnie nadaje się do nakładania premii i obrażeń periodycznych na krótkim dystansie lub nakładania negatywnych efektów i leczenia na średnim dystansie. Jest groźna zwłaszcza wtedy, gdy walczysz w grupie.\n\n• Atak lekki: Zadaje {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% obrażeń od próżni.\n•Atak ciężki: Zadaje {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% obrażeń od próżni. Ponadto zyskasz zdrowie w wysokości {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% zadanych obrażeń.\n• Zbierz esencję (przytrzymaj blok): Zamienia twoje zdrowie na manę z upływem czasu. Skaluje się z obrażeniami od broni.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Rękawice próżni</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">Wszechstronna broń biała. Wykorzystuje postawy pozwalające dostosować się do różnych sytuacji w walce. Miecz dwuręczny umożliwia prowadzenie agresywnych ataków i nie mniej agresywnej obrony. Poradzi sobie z każdym wyzwaniem.\n\n• Atak lekki 1 i 2: Zadaje {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% obrażeń od cięć.\n• Atak lekki 3: Zadaje {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% obrażeń od cięć.\n• Naładowany atak ciężki 1 i 2: Zadaje {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% obrażeń od cięć.\n• Naładowany atak ciężki 3: Zadaje {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% obrażeń od cięć.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Miecze dwuręczne</string>
 	<string key="GemAmbe_CategoryName">Bursztyny</string>
 	<string key="GemAmet_CategoryName">Ametysty</string>
 	<string key="GemAqua_CategoryName">Akwamaryny</string>
@@ -1125,7 +1130,7 @@
 	<string key="GrainT3_GroupName">Zboża klasy 3</string>
 	<string key="GrainT4_GroupName">Zboża klasy 4</string>
 	<string key="GrainT5_GroupName">Zboża klasy 5</string>
-	<string key="Greataxe_GroupDesc">Duża broń biała używana do szerokich wymachów oraz potężnych rąbnięć. Idealnie nadaje się do walki z wieloma przeciwnikami z powodu swoich ataków obszarowych. Można też zadawać nią ogromne obrażenia pojedynczemu celowi.\n\n•Atak lekki: Zadaje {[DamageTable.GreatAxe_PrimaryAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Atak ciężki: Zadaje {[DamageTable.GreatAxe_HeavyAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.GreatAxe_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od cięć.</string>
+	<string key="Greataxe_GroupDesc">Duża broń biała używana do szerokich wymachów oraz potężnych rąbnięć. Idealnie nadaje się do walki z wieloma przeciwnikami dzięki swoim atakom obszarowym. Można też zadawać nią ogromne obrażenia pojedynczemu celowi.\n\n• Atak lekki: Zadaje {[DamageTable.GreatAxe_PrimaryAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Atak ciężki: Zadaje {[DamageTable.GreatAxe_HeavyAttack.DmgCoef * 100]}% obrażeń od cięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.GreatAxe_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od cięć.</string>
 	<string key="GreatAxe_GroupName">Topór dwuręczny</string>
 	<string key="GreatAxes_GroupName">Topory dwuręczne</string>
 	<string key="GunPowder_GroupDesc">Służy do wyrobu amunicji do broni palnej.</string>
@@ -1688,15 +1693,15 @@
 	<string key="SkinningKnives_GroupName">Noże do skórowania</string>
 	<string key="SmallVines_GroupName">Małe pnącza</string>
 	<string key="Solvent_GroupName">Rozpuszczalnik</string>
-	<string key="SpearA_GroupDesc">Broń biała o dużym zasięgu bazująca głównie na pchnięciach. Idealnie nadaje się do trzymania wrogów na dystans – wystarczy zająć strategiczną pozycję i wywierać na nich nieustanną presję.\n\n•Atak lekki: Zadają {[DamageTable.2H_Spear_PrimaryAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Atak ciężki: Zadaje {[DamageTable.2H_Spear_HeavyAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.2H_Spear_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od pchnięć.</string>
+	<string key="SpearA_GroupDesc">Broń biała o dużym zasięgu bazująca głównie na pchnięciach. Idealnie nadaje się do trzymania wrogów na dystans – wystarczy zająć strategiczną pozycję i wywierać na nich nieustanną presję.\n\n• Atak lekki: Zadają {[DamageTable.2H_Spear_PrimaryAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Atak ciężki: Zadaje {[DamageTable.2H_Spear_HeavyAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.2H_Spear_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od pchnięć.</string>
 	<string key="SpearA_GroupName">Włócznie</string>
 	<string key="SpearB_GroupDesc">2-ręczna. Broń biała o sporym zasięgu zadająca znaczne obrażenia od pchnięcia.</string>
 	<string key="SpearB_GroupName">Włócznie</string>
 	<string key="Spears_GroupName">Włócznie</string>
 	<string key="SprigganKey_GroupName">Klucze do aren</string>
-	<string key="StaffFire_GroupDesc">Magiczna laska zużywająca manę do rzucania potężnych zaklęć ognia. Idealnie nadaje się do blokowania obszaru, zadawania obrażeń od ognia na dużych połaciach i podpalania celów.\n\n•Atak lekki: Zadaje {[DamageTable.Firestaff_PrimaryAttackC1.DmgCoef * 100]}% obrażeń od ognia.\n•Atak ciężki: Zadaje {[DamageTable.Firestaff_PrimaryAttackC2.DmgCoef * 100]}% obrażeń od ognia.</string>
+	<string key="StaffFire_GroupDesc">Magiczna laska zużywająca manę do rzucania potężnych zaklęć ognia. Idealnie nadaje się do blokowania obszaru, zadawania obrażeń od ognia na dużych połaciach i podpalania celów.\n\n• Atak lekki: Zadaje {[DamageTable.Firestaff_PrimaryAttackC1.DmgCoef * 100]}% obrażeń od ognia.\n•Atak ciężki: Zadaje {[DamageTable.Firestaff_PrimaryAttackC2.DmgCoef * 100]}% obrażeń od ognia.</string>
 	<string key="StaffFire_GroupName">Ogniste laski</string>
-	<string key="StaffLife_GroupDesc">Magiczna laska zużywająca manę do rzucania wzmacniających zaklęć natury. Idealnie nadaje się do wspierania sojuszników podczas walki za pomocą leczenia i premii, które zapewnia.\n\n•Atak lekki: Zadaje {[DamageTable.LifeStaff_PrimaryAttackC1.DmgCoef * 100]}% obrażeń od natury.\n•Atak ciężki: Zadaje {[DamageTable.LifeStaff_PrimaryAttackC2.DmgCoef * 100]}% obrażeń od natury.</string>
+	<string key="StaffLife_GroupDesc">Magiczna laska zużywająca manę do rzucania wzmacniających zaklęć natury. Idealnie nadaje się do wspierania sojuszników podczas walki za pomocą leczenia i premii, które zapewnia.\n\n• Atak lekki: Zadaje {[DamageTable.LifeStaff_PrimaryAttackC1.DmgCoef * 100]}% obrażeń od natury.\n•Atak ciężki: Zadaje {[DamageTable.LifeStaff_PrimaryAttackC2.DmgCoef * 100]}% obrażeń od natury.</string>
 	<string key="StaffLife_GroupName">Laski życia</string>
 	<string key="StavesFire_GroupName">Ogniste laski</string>
 	<string key="StavesLife_GroupName">Laski życia</string>
@@ -1731,7 +1736,7 @@
 	<string key="SurvivalTools_GroupName">Narzędzia traperskie</string>
 	<string key="SwordA_GroupDesc">Nierozłączna para, świetnie sprawdzająca się w walce wręcz. Zapewnia szereg zdolności ofensywnych i defensywnych. Ataki bazują na cięciach i pchnięciach, a tarcza służy do obrony.\n\n•Atak lekki: Zadaje {[DamageTable.1H_Sword_Attack1.DmgCoef * 100]}% obrażeń od cięć.\n•Lekki cios kończący serię: Zadaje {[DamageTable.1H_Sword_Attack1_Ender.DmgCoef * 100]}% obrażeń od cięć.\n•Atak ciężki: Zadaje {[DamageTable.1H_Sword_Attack2.DmgCoef * 100]}% obrażeń od pchnięć.\n•Naładowany atak ciężki: Zadaje {[DamageTable.1H_Sword_Attack2_Charged.DmgCoef * 100]}% obrażeń od pchnięć.</string>
 	<string key="SwordA_GroupName">Miecze proste</string>
-	<string key="SwordB_GroupDesc">Broń biała używana do wyprowadzania szybkich pchnięć. Premiuje koordynację i wyczucie czasu. Nadaje się idealnie do wyprowadzania w pole przeciwników, u których wywołuje krwawienie stopniowo odbierające im życie.\n\n•Atak lekki: Zadaje {[DamageTable.1H_Rapier_PrimaryAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Środkowe ataki lekkie: Zadają {[DamageTable.1H_Rapier_PrimaryTwoThirdsAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Atak ciężki: Zadaje {[DamageTable.1H_Rapier_HeavyAttack.DmgCoef * 100]}% obrażeń od pchnięć.</string>
+	<string key="SwordB_GroupDesc">Broń biała używana do wyprowadzania szybkich pchnięć. Premiuje koordynację i wyczucie czasu. Nadaje się idealnie do wyprowadzania w pole przeciwników, u których wywołuje krwawienie stopniowo odbierające im życie.\n\n• Atak lekki: Zadaje {[DamageTable.1H_Rapier_PrimaryAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Środkowe ataki lekkie: Zadają {[DamageTable.1H_Rapier_PrimaryTwoThirdsAttack.DmgCoef * 100]}% obrażeń od pchnięć.\n•Atak ciężki: Zadaje {[DamageTable.1H_Rapier_HeavyAttack.DmgCoef * 100]}% obrażeń od pchnięć.</string>
 	<string key="SwordB_GroupName">Rapier</string>
 	<string key="SwordC_GroupDesc">1-ręczny.</string>
 	<string key="SwordC_GroupName">Szabla</string>
@@ -1808,7 +1813,7 @@
 	<string key="VegetableT5_GroupName">Warzywa klasy 5</string>
 	<string key="vessel_GroupName">Naczynia</string>
 	<string key="vialPouch_GroupName">Sakiewki na fiolki</string>
-	<string key="Warhammer_GroupDesc">Potężny młot bojowy, od którego uderzeń trzęsie się ziemia. Idealnie nadaje się do utrudniania życia przeciwnikom za pomocą wstrząsów lub do zadawania miażdżących ciosów pojedynczemu celowi.\n\n•Atak lekki: Zadaje {[DamageTable.Warhammer_PrimaryAttack.DmgCoef * 100]}% obrażeń od uderzeń.\n•Atak ciężki: Zadaje {[DamageTable.Warhammer_HeavyAttack.DmgCoef * 100]}% obrażeń od uderzeń.\n•Naładowany atak ciężki: Zadaje {[DamageTable.Warhammer_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od uderzeń.</string>
+	<string key="Warhammer_GroupDesc">Potężny młot bojowy, od którego uderzeń trzęsie się ziemia. Idealnie nadaje się do utrudniania życia przeciwnikom za pomocą wstrząsów lub do zadawania miażdżących ciosów pojedynczemu celowi.\n\n• Atak lekki: Zadaje {[DamageTable.Warhammer_PrimaryAttack.DmgCoef * 100]}% obrażeń od uderzeń.\n•Atak ciężki: Zadaje {[DamageTable.Warhammer_HeavyAttack.DmgCoef * 100]}% obrażeń od uderzeń.\n•Naładowany atak ciężki: Zadaje {[DamageTable.Warhammer_HeavyAttack_Charged.DmgCoef * 100]}% obrażeń od uderzeń.</string>
 	<string key="Warhammer_GroupName">Młoty bojowe</string>
 	<string key="WarHammers_GroupName">Młoty bojowe</string>
 	<string key="water_GroupName">Woda</string>
@@ -1849,11 +1854,14 @@
 	<string key="SalvageTier4_Name">Fragmenty klasy IV</string>
 	<string key="SalvageTier5_Name">Fragmenty klasy V</string>
 	<string key="Salvage">Odzyskaj fragmenty</string>
+	<string key="Salvage_GroupName">Odzyskaj fragmenty</string>
 	<string key="SalvageExtract">Wydobądź</string>
 	<string key="SalvageCreate">Wytwórz</string>
 	<string key="SalvageResearch">Zbadaj</string>
 	<string key="SalvageCondense">Skondensuj</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Stworzenia alchemiczne</string>
+	<string key="Summer">Lato</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instrumenty</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instrumenty</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Części instrumentów</string>
@@ -1867,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Zapasy terytorialne</string>
 	<string key="TerritoryContribution_GroupName">Przekazywanie zapasów</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Komponenty instrumentów</string>
+	<string key="InstrumentGuitarPick_GroupName">Części gitary</string>
+	<string key="InstrumentDrumHead_GroupName">Części bębna</string>
+	<string key="InstrumentReed_GroupName">Części stroiku</string>
+	<string key="InstrumentSoundhole_GroupName">Części mandoliny</string>
+	<string key="InstrumentFingerboard_GroupName">Części kontrabasu</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Części gitary klasy 4</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Części bębna klasy 4</string>
+	<string key="InstrumentReedT4_GroupName">Części stroiku klasy 4</string>
+	<string key="InstrumentSoundholeT4_GroupName">Części mandoliny klasy 4</string>
+	<string key="InstrumentFingerboardT4_GroupName">Części kontrabasu klasy 4</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Komponenty szkła runicznego</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Puste oprawy ze szkła runicznego</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Bursztynowe szkło runiczne</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Ametystowe szkło runiczne</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Akwamarynowe szkło runiczne</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Karneolowe szkło runiczne</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Diamentowe szkło runiczne</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Szmaragdowe szkło runiczne</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Jaspisowe szkło runiczne</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Malachitowe szkło runiczne</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Szkło runiczne z kamieni księżycowych</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Onyksowe szkło runiczne</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Opalowe szkło runiczne</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Rubinowe szkło runiczne</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Szafirowe szkło runiczne</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Topazowe szkło runiczne</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Szkło runiczne</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Wyroby szklane</string>
+	<string key="GoldenScarabStr_GroupName">Złoty skarabeusz – siła</string>
+	<string key="GoldenScarabDex_GroupName">Złoty skarabeusz – zręczność</string>
+	<string key="GoldenScarabInt_GroupName">Złoty skarabeusz – inteligencja</string>
+	<string key="GoldenScarabFoc_GroupName">Złoty skarabeusz – skupienie</string>
+	<string key="GoldenScarabCon_GroupName">Złoty skarabeusz – kondycja</string>
+	<string key="Scarab_GroupName">Skarabeusz</string>
+	<string key="Sulfur_GroupName">Siarka</string>
+	<string key="Rune_GroupName">Runy</string>
+	<string key="DungeonNamedReplicas_GroupName">Unikalne repliki z ekspedycji</string>
+	<string key="UniqueDungeonReps1_GroupName">Unikalne repliki z wykopalisk Amrine</string>
+	<string key="UniqueDungeonReps10_GroupName">CHWILOWO BRAK NAZWY</string>
+	<string key="UniqueDungeonReps2_GroupName">Unikalne repliki ze zniszczonego obelisku</string>
+	<string key="UniqueDungeonReps3_GroupName">CHWILOWO BRAK NAZWY</string>
+	<string key="UniqueDungeonReps4_GroupName">Unikalne repliki z Głębin</string>
+	<string key="UniqueDungeonReps5_GroupName">Unikalne repliki ze Stoczni Dynastii</string>
+	<string key="UniqueDungeonReps6_GroupName">Unikalne repliki z Użyteczności Łazarza</string>
+	<string key="UniqueDungeonReps7_GroupName">Unikalne repliki z Ogrodu Genezy</string>
+	<string key="UniqueDungeonReps8_GroupName">Unikalne repliki z Enneady</string>
+	<string key="UniqueDungeonReps9_GroupName">Unikalne repliki z Serca Burzy</string>
+	<string key="UniqueDungeonReps11_GroupName">Unikalne repliki z Pąkli i czarnego prochu</string>
+	<string key="HideT5_GroupName">Skóra klasy 5</string>
+	<string key="CategoryData_ArmorHeavy">Ciężki pancerz</string>
+	<string key="CategoryData_ArmorMedium">Średni pancerz</string>
+	<string key="CategoryData_ArmorLight">Lekki pancerz</string>
+	<string key="SlotChest_GroupName">Opancerzenie korpusu</string>
+	<string key="SlotFeet_GroupName">Opancerzenie stóp</string>
+	<string key="SlotHands_GroupName">Opancerzenie rąk</string>
+	<string key="SlotHead_GroupName">Opancerzenie głowy</string>
+	<string key="SlotLegs_GroupName">Opancerzenie nóg</string>
+	<string key="ScarabAmulets_GroupName">Amulety – złoty skarabeusz</string>
+	<string key="ScarabRings_GroupName">Pierścienie – złoty skarabeusz</string>
+	<string key="ScarabEarrings_GroupName">Kolczyki – złoty skarabeusz</string>
+	<string key="ScarabMeleeWeapons_GroupName">Broń biała – złoty skarabeusz</string>
+	<string key="ScarabMagicStaves_GroupName">Magiczne laski – złoty skarabeusz</string>
+	<string key="ScarabStaffFire_GroupName">Ogniste laski – złoty skarabeusz</string>
+	<string key="ScarabStaffLife_GroupName">Laski życia – złoty skarabeusz</string>
+	<string key="ScarabGauntletIce_GroupName">Lodowe rękawice – złoty skarabeusz</string>
+	<string key="ScarabGauntletVoid_GroupName">Rękawice próżni – złoty skarabeusz</string>
+	<string key="ScarabRangedWeapons_GroupName">Broń dystansowa – złoty skarabeusz</string>
+	<string key="ScarabArmorPlate_GroupName">Pancerz płytowy – złoty skarabeusz</string>
+	<string key="ScarabArmorFur_GroupName">Pancerz futrzany – złoty skarabeusz</string>
+	<string key="ScarabArmorCloth_GroupName">Pancerz płócienny – złoty skarabeusz</string>
+	<string key="ScarabArmorLeather_GroupName">Pancerz skórzany – złoty skarabeusz</string>
+	<string key="ScarabArmorRobe_GroupName">Szaty – złoty skarabeusz</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Ciężki pancerz płytowy – złoty skarabeusz</string>
+	<string key="WinterConvergence_GroupName">Zimowa Konwergencja (wydarzenie)</string>
+	<string key="NightveilHallow_GroupName">Święto nocnego całunu (wydarzenie)</string>
+	<string key="SummerMedleyfaire_GroupName">Festiwal Składanek (wydarzenie)</string>
 </resources>
 

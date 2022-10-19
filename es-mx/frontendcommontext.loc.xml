@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Se ha bloqueado tu cuenta debido a una actividad sospechosa. Comunícate con atención al cliente para más información.</string>
 	<string key="mm_loginservices_warning_title">ADVERTENCIA</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se actualizó. Puedes cambiarlo en cualquier momento en el panel de IU de la compañía [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se actualizó. Puedes cambiarlo en cualquier momento en el panel de IU de la compañía [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">Te suspendieron por hackear el juego.</string>
 	<string key="mm_loginservices_warning_BannedCheating">Fuiste advertido por trampa.</string>
 	<string key="mm_loginservices_warning_BannedExploit">Fuiste advertido por aprovecharte de errores.</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Fuiste advertido por filtrar contenido protegido.</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Fuiste advertido por comportamiento perturbador.</string>
 	<string key="mm_loginservices_warning_OffensiveName">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se actualizó. Puedes cambiarlo en cualquier momento en el panel de IU de la compañía [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se actualizó. Puedes cambiarlo en cualquier momento en el panel de IU de la compañía [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">Fuiste advertido por trampa.</string>
 	<string key="mm_loginservices_warning_Exploit">Fuiste advertido por aprovecharte de errores.</string>
 	<string key="mm_loginservices_warning_Botting">Fuiste advertido por usar bots.</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Inicio de sesión denegado: FTUE ya se completó.</string>
 	<string key="mm_loginservices_InternalError">Fallo en el inicio de sesión, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Fallo en el servidor de inicio de sesión, inténtalo de nuevo más tarde.</string>
+	<string key="mm_loginservices_InternalFailureException">Fallo en el servidor de inicio de sesión, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_CredentialsError">Credenciales no válidas para inicio de sesión.</string>
 	<string key="mm_loginservices_NameLengthError">Longitud de nombre no válida.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Este nombre está en uso.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">No se ha podido conectar con el servicio de inicio de sesión. Espera. Reconectando…</string>
 	<string key="mm_loginservices_TooManyRequestsException">El servidor de inicio de sesión está demasiado ocupado, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_NoConnection">El servicio de inicio de sesión no está disponible en este momento. Es posible que tengas problemas de conexión a internet. Espera. Reconectando…</string>
+	<string key="mm_loginservices_SteamAuthRequired">Error de autenticación de Steam.\nCierra el juego, reinicia Steam e inténtalo de nuevo.</string>
+	<string key="mm_loginservices_NO_GATEWAY">La configuración de inicio de sesión no es válida.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Estás en espera para el mundo abierto...</string>
 	<string key="mm_loginservices_location_FTUE000">Estás en espera como jugador nuevo...</string>
 	<string key="mm_loginservices_location_FTUE9011">Estás en espera como jugador nuevo...</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Error del servidor: no se pudo iniciar la replicación.</string>
 	<string key="mm_rejected_Server_Crash">Se perdió la conexión con el servidor de juego de forma inesperada. Vuelve a intentarlo más tarde.</string>
 	<string key="mm_rejected_Free_Session_Expired">El tiempo de prueba gratis ha finalizado.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">El ticket de inicio de sesión no es válido para el mundo</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Acceso denegado: No tienes derecho a ingresar a este mundo.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Expulsado</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Fuiste expulsado del juego.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Fuiste expulsado del juego por estar inactivo durante mucho tiempo.</string>
@@ -230,7 +235,7 @@
 	<string key="mm_queuewithestimate">Tiempo estimado: {time}\nPosición en la lista de espera: {rank}\n{status}</string>
 	<string key="mm_queuewithcappedestimate">Tiempo estimado: &gt;{time}\nPosición en cola: {rank}\n{status}</string>
 	<string key="mm_queueestimateunknown">Tiempo estimado: desconocido\nPosición en cola: Desconocido\n{status}</string>
-	<string key="mm_queuepopuptitle">Esperando para iniciar sesión…</string>
+	<string key="mm_queuepopuptitle">Esperando para iniciar sesión</string>
 	<string key="mm_queuejoinfailed">No se pudo entrar en cola de inicio de sesión. Inténtalo nuevamente.</string>
 	<string key="mm_queuerefresherror">Error al comunicarse con la cola de inicio de sesión. Reintentando…</string>
 	<string key="mm_server_message_title">Mensaje del servidor</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">Cómo funciona</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Pista de PvP</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punto de control{checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgresa en la pista por medio de misiones de PvP, guerras, avances de puesto de avanzada, capturas de fuertes, derrotas a otros jugadores, arenas de 3v3 y ganar EXP cuando estés marcado para PvP.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punto de control {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgresa en la pista por medio de misiones de PvP, guerras, avances a un puesto de avanzada, capturas de fuertes, derrotas a otros jugadores y arenas de 3v3.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Debes completar todos los puntos de control antes de iniciar la siguiente pista. Si eliges una recompensa de cada punto de control, iniciarás la siguiente pista de forma automática.\n\nSi renuncias a las recompensas de un punto de control, recibirás 300 unidades de sal de azoth cuando inicie la siguiente pista.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Las opciones de recompensa se revelan tras haber completado el punto de control.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Pistas completadas</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Sal de azoth</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Recompensas</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">La pista de recompensas de PvP contiene recompensas específicas de PvP por hacer actividades de PvP en el juego. Esta pista se puede completar y repetir para obtener una variedad de recompensas diferentes. Las recompensas de mayor prestigio estarán disponibles a medida que se completen más pistas.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progresa en la pista por medio de misiones de PvP, guerras, avances de puesto de avanzada, capturas de fuertes, derrotas a otros jugadores, arenas de 3v3 y ganar EXP cuando estés marcado para PvP.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progresa en la pista por medio de misiones de PvP, guerras, avances a un puesto de avanzada, capturas de fuertes, derrotas a otros jugadores y arenas de 3v3.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">La sal de azoth es la moneda que te permite obtener recompensas de la pista de PvP. Puedes obtener sal de azoth por medio de guerras, avances de puesto de avanzada, arenas de 3v3, misiones de PvP, eliminaciones en el PvP del mundo abierto y EXP cuando estés marcado para PvP.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Elige entre recompensas únicas como armaduras y armas de prestigio, gestos, monedas y consumibles.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Pistas completadas</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Equipamiento nombrado \n+Más monedas</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Equipamiento de prestigio \n+Gesto \n+Paquete de viales de sal</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Aljez \n+Más monedas \n+Más fragmentos umbríos</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Gesto \n+Más fragmentos umbríos </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Gesto \n+Más fragmentos umbríos</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Reserva de recompensas: \n+Gesto \n+Más monedas \n+Más objetos soltados</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Hito siguiente de la pista:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Hito de la pista</string>
@@ -435,18 +440,18 @@
 	<string key="crafting_cannot_repair">No se puede reparar</string>
 	<string key="crafting_requires_station">Debes estar en la estación correcta.</string>
 	<string key="crafting_repair_no_requirements">No existen requisitos para reparar este objeto.</string>
-	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName}.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName} y {numRepairParts} piezas de repuesto.{gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName}. {gemMessage}</string>
+	<string key="inv_salvage_tooltip_fixed_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName} y {numRepairParts} piezas de repuesto. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_fixed_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName} y {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_fixed_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numItems} {itemName}, {numRepairParts} piezas de repuesto y {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Aprovechar este artículo te devolverá: {numRepairParts} piezas de repuesto.{gemMessage}</string>
+	<string key="inv_salvage_tooltip_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numRepairParts} piezas de repuesto. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numRepairParts} piezas de reparación y {coinAmount}.{gemMessage}</string>
+	<string key="inv_salvage_tooltip_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {numRepairParts} piezas de reparación y {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {min}-{max} {itemName}.{gemMessage}</string>
-	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {min}-{max} {itemName} y {numRepairParts} piezas de repuesto.{gemMessage}</string>
+	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {min}-{max} {itemName} y {numRepairParts} piezas de repuesto. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {min}-{max} {itemName} y {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Si desarmas este objeto obtendrás {min}-{max} {itemName}, {numRepairParts} piezas de repuesto y {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Hay una pequeña posibilidad de recuperar la gema adosada.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Hay una posibilidad de recuperar la gema adosada.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">También podrías adquirir objetos adicionales como {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Si desarmas este objeto, aprenderás la receta {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Ya conoces la receta {recipeName}.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Advertencia: Tienes instalado Windows 7. New World funciona mejor en Windows 10 o una versión posterior. Puede que no tengas la mejor experiencia.</string>
 	<string key="minspec_fail_try_again">Consulta el registro de fallas para determinar con precisión cuál de los requisitos mínimos está en falla.</string>
 	<string key="ui_rename_character">Cambiar nombre del personaje</string>
+	<string key="ui_rename">Renombrar</string>
 	<string key="ui_rename_character_title">Nombre del personaje</string>
 	<string key="ui_rename_report_description">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
 	<string key="ui_rename_required">Tienes que cambiarle el nombre a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

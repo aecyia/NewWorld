@@ -12,7 +12,7 @@
 	<string key="ui_togglepvpblocked_title" comment="">PvP-Markierungswarnung</string>
 	<string key="ui_togglepvpblocked_ingroup" comment="">PvP- und PvE-Spieler können nicht in einer Gruppe platziert werden. Wenn du deine PvP-Markierung änderst, wirst du aus der Gruppe rausgeworfen.\n\nWillst du deine PvP-Markierung wirklich ändern?</string>
 	<string key="ui_togglepvpblocked_pendinginvites" comment="">Wenn du deine PvP-Markierung änderst, werden deine sämtlichen ausstehenden Gruppeneinladungen abgelehnt.\n\nWillst du deine PvP-Markierung wirklich ändern?</string>
-	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP- und PvE-Spieler können nicht in der gleichen Lobby sein. Wenn du deine PvP-Markierung änderst, wirst du aus der Lobby rausgeworfen.\n\nWillst du deine PvP-Markierung wirklich ändern?</string>
+	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_ingroupfindergroup" comment="">PvP- und PvE-Spieler können nicht in der gleichen Lobby sein. Wenn du deine PvP-Markierung änderst, wirst du aus der Lobby entfernt.\n\nWillst du deine PvP-Markierung wirklich ändern?</string>
 	<string rel_version="Feature_Group_Finder" key="ui_togglepvpblocked_pendinggroupfinderapplications" comment="">Wenn du deine PvP-Markierung änderst, werden deine sämtlichen ausstehenden Lobbybewerbungen abgelehnt.\n\nWillst du deine PvP-Markierung wirklich ändern?</string>
 	<string key="ui_receivedwargroupinvitetitle" comment="">Schließe dich dem Krieg an!</string>
 	<string key="ui_receivedwargroupinvitemessage" comment="">Du wurdest eingeladen, dich von {startTime} bis {endTime} dem Krieg beim Gebiet {territoryName} anzuschließen. Nimm an, um zum Schlachtfeld teleportiert zu werden.</string>
@@ -23,6 +23,7 @@
 	<string key="ui_groupinviteacceptsentmessage" comment="">Gruppeneinladung von &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; angenommen.</string>
 	<string key="ui_groupinviteacceptraid" comment="">Gruppeneinladung angenommen</string>
 	<string key="ui_groupinvitedeclinesentmessage" comment="">Gruppeneinladung von &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; abgelehnt.</string>
+	<string key="ui_groupinvitedeclinesentmessage_withsource" comment="">Gruppeneinladung von &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; von &lt;font color="#ffffff"&gt;{sourcePlayerName}&lt;/font&gt; abgelehnt.</string>
 	<string key="ui_groupinvitedeclineraid" comment="">Gruppeneinladung abgelehnt</string>
 	<string key="ui_groupinvitedeclinerequeue" comment="">Warteschlange erneut beigetreten, weil ein Spieler abgelehnt hat.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat seine Gruppeneinladung zurückgenommen.</string>
@@ -31,6 +32,8 @@
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Gruppeneinladung an &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; zurückgenommen.</string>
 	<string key="ui_groupinvitewithdrawnraid" comment="">Gruppeneinladung zurückgenommen</string>
 	<string key="ui_leftgroupmessage" comment="">Gruppe verlassen</string>
+	<string key="ui_kickedfromgroupmessage" comment="">Du wurdest aus der Gruppe geworfen.</string>
+	<string key="ui_groupmemberkickedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; wurde aus der Gruppe geworfen.</string>
 	<string key="ui_groupmemberleftmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat die Gruppe verlassen.</string>
 	<string key="ui_groupmemberjoinedmessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat sich der Gruppe angeschlossen.</string>
 	<string key="ui_joinedgroupmessage" comment="">Gruppe angeschlossen</string>
@@ -54,7 +57,7 @@
 	<string key="ui_cannotinvite" comment="">Du kannst derzeit niemanden einladen.</string>
 	<string key="ui_cannotinviteingroup" comment="">Du kannst niemanden einladen, der bereits deiner Gruppe angehört.</string>
 	<string key="ui_cannotinvitegroupfull" comment="">Deine Gruppe ist bereits voll.</string>
-	<string key="ui_cannotinviteinraid" comment="">Während eines Krieges kannst du niemanden einladen.</string>
+	<string key="ui_cannotinviteinWar" comment="">Während eines Krieges kannst du niemanden einladen.</string>
 	<string key="ui_cannotinviteinInvasion" comment="">Während einer Invasion kannst du niemanden einladen.</string>
 	<string key="ui_cannotinvitein_pvp_wrong_faction" comment="">Muss für eine PvP-Gruppe der gleichen Fraktion angehören.</string>
 	<string key="ui_cannotleavegroup_in_arena" comment="">Du kannst deine Gruppe nicht verlassen, während du in einer Arena bist.</string>
@@ -191,6 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Automatische Neubesetzung von Spielern aus der Bereitschaftsliste basierend auf der Anmeldezeit.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Manuelle Auswahl von Spielern aus der Bereitschaftsliste, um leere Plätze neu zu besetzen.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Söldner: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt;/{nonCompanyTotal} Insgesamt: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Dieser Spieler kann nicht weiter befördert werden.</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Dieser Spieler kann nicht weiter degradiert werden.</string>

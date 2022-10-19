@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Stato</string>
 	<string key="trade_column_rarity">Rarità</string>
 	<string key="trade_column_craftsmanship">Mani-\nfattura</string>
+	<string key="trade_column_completion_time">Tempo di completamento</string>
 	<string key="trade_noitemmessage">Seleziona un oggetto da visualizzare</string>
 	<string key="trade_not_enough_money">Denaro insufficiente</string>
 	<string key="trade_none_available">Esaurito</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Periodo d'assedio</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Inizia tra</string>
 	<string key="ui_signup_your_status">Il tuo stato</string>
+	<string key="ui_signup_restriction_cooldown">A causa del tempo di ricarica della guerra, se vieni scelto sarai considerato un mercenario.\nPotrai partecipare come non mercenario dopo: {cooldownTime}</string>
 	<string key="ui_no_permission_alert">Non hai il permesso di inviare un avviso.</string>
 	<string key="ui_title_alpha">Fondatore</string>
 	<string key="ui_title_preorder">Spedizione Uno</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invito rifiutato</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invito rifiutato. Giocatore già nella lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invito rifiutato. Attivazione PvP del giocatore non corrispondente.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invito rifiutato. Giocatore al limite dei sotterranei.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invito rifiutato. Giocatore al limite di spedizioni.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invito rifiutato. Giocatore in una fazione diversa.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invita nella lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Solo il creatore della lobby può invitare.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">In cerca di nuovi membri...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">Non puoi iscriverti se sei in una lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">Non puoi unirti alla coda della spedizione se sei in una lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">Non puoi unirti alla coda della prova dell'anima mentre sei in una lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Gruppo al completo</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Apri spedizione</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">È richiesto un minimo di {amount} membri per iniziare questa spedizione.</string>

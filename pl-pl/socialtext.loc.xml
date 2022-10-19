@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Stan</string>
 	<string key="trade_column_rarity">Rzadkość</string>
 	<string key="trade_column_craftsmanship">Rzemiosło</string>
+	<string key="trade_column_completion_time">Czas ukończenia</string>
 	<string key="trade_noitemmessage">Wybierz przedmiot do obejrzenia</string>
 	<string key="trade_not_enough_money">Za mało pieniędzy</string>
 	<string key="trade_none_available">Wyprzedane</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Okres oblężenia</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Początek za</string>
 	<string key="ui_signup_your_status">Twój status</string>
+	<string key="ui_signup_restriction_cooldown">Jeśli dostaniesz się na wojnę, weźmiesz w niej udział w roli najemnika z powodu czasu odnowienia wojny.\nBranie udziału w wojnach jako gracz niebędący najemnikiem będzie możliwe za: {cooldownTime}</string>
 	<string key="ui_no_permission_alert">Nie masz pozwolenia na wysyłanie powiadomień.</string>
 	<string key="ui_title_alpha">Założyciel</string>
 	<string key="ui_title_preorder">Pierwsza ekspedycja</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Wyszukiwanie członków grupy…</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">Nie możesz się zapisać, gdy należysz do lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">Nie możesz dołączyć do kolejki do ekspedycji, gdy jesteś w lobby.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">Nie możesz dołączyć do kolejki do Próby Duszy, gdy jesteś w lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Grupa pełna</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Otwórz ekspedycję</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Do rozpoczęcia tej ekspedycji potrzeba co najmniej {amount} członków.</string>

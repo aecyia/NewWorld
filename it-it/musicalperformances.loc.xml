@@ -22,6 +22,7 @@
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Per iniziare un'esibizione devi selezionare almeno 2 parti.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">La tua esibizione è scaduta per inattività.</string>
 	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">Non puoi posizionare un'esibizione in questo punto: è troppo vicino a un'area riservata.</string>
+	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">Non è possibile avviare un'esibizione all'interno di una casa.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">Nessuna parte selezionata.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">Spartito per {instrument}</string>
 	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Raccogli le pagine per completare lo spartito di ogni strumento.</string>
@@ -72,6 +73,7 @@
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">TIMER MONETE</string>
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">IN ATTESA DI MONETE</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Termina ora e raccogli le mance</string>
+	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds} s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">ESIBIZIONE\nCOMPLETATA!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Incredibile!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Ottimo!</string>
@@ -139,12 +141,13 @@
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Name" rel_version="Feature_MusicalPerformances">Assolo</string>
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">Le prime tre note sono sempre perfette.</string>
 	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">La prima nota mancata viene ignorata.</string>
-	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">L'esibizione di gruppo ora frutta l'intero ammontare delle mance.</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">L'artista ora ottiene l'intero ammontare delle mance.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando perfettamente l'ultima nota, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando in gruppo, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Suonando in solitaria, il giocatore ottiene un aumento del 10% dei PE musicali.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Chitarra (parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Chitarra (parte 2)</string>
+	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Chitarra (parte 3)</string>
 	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flauto (parte 1)</string>
 	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flauto (parte 2)</string>
 	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Contrabbasso (parte 1)</string>
@@ -187,28 +190,17 @@
 	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Seme nella prateria selvaggia</string>
 	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Prima della Tempesta</string>
 	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Luce calante</string>
-	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformances">Corsa dei raccoglitori</string>
-	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformances">Linfa di Boscobrillante</string>
-	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformances">Vecchia baracca di Sopravvento</string>
-	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Foglie di legnoferro</string>
-	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformances">Attizza la fucina</string>
-	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformances">Trambusto all'emporio</string>
-	<string key="songtitle_Wayfaring_Stranger" rel_version="Feature_MusicalPerformances">Straniero di passaggio</string>
-	<string key="songtitle_Second_Coming" rel_version="Feature_MusicalPerformances">Ricordi di Boscobrillante</string>
-	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformances">Martello da 9 libbre</string>
-	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Compagni di Sopravvento</string>
-	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">Sali minerali</string>
-	<string key="songtitle_Tavern_Blues" rel_version="Feature_MusicalPerformances">Ultima chiamata</string>
-	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">Il mio accampamento</string>
-	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">La mia casa</string>
-	<string key="songtitle_Before_This_Time" rel_version="Feature_MusicalPerformances">Prima di adesso</string>
-	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Foglie di legno di Wyrd</string>
-	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">Suoni di campane</string>
-	<string key="songtitle_Fight" rel_version="Feature_MusicalPerformances">Vittoria in vista</string>
-	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">Tela del tessitore</string>
-	<string key="songtitle_The_OldWood" rel_version="Feature_MusicalPerformances">Il bosco vecchio</string>
-	<string key="songtitle_Honor_Of_The_Warrior" rel_version="Feature_MusicalPerformances">Onore del guerriero</string>
-	<string key="songtitle_Heed_The_Stead" rel_version="Feature_MusicalPerformances">Strada per Calata eterna</string>
-	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">Il ragazzo della montagna</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformancesV2">Foglie di legnoferro</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformancesV2">Compagni di Sopravvento</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformancesV2">Sali minerali</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformancesV2">Il mio accampamento</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformancesV2">La mia casa</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformancesV2">Foglie di legno di Wyrd</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformancesV2">Suoni di campane</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformancesV2">Tela del tessitore</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformancesV2">Il ragazzo della montagna</string>
+	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">Quel dannato pesce</string>
+	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Zuppa del giorno</string>
+	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
 </resources>
 

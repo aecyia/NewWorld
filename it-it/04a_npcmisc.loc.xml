@@ -1,11 +1,11 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="0402a_Magistrate" gender="M" rel_version="Quest_MSQ2_Revamp">Balian Clark</string>
-	<string key="0402a_Magistrate_title" gender="M" rel_version="Quest_MSQ2_Revamp">Magistrato di Calata eterna</string>
+	<string key="0402a_Magistrate_title" gender="M" rel_version="Quest_MSQ2_Revamp">Magistrato di Oxboro</string>
 	<string key="0403a_HuntsmanLee_title" gender="M" rel_version="Quest_MSQ2_Revamp">Cacciatore nobile</string>
 	<string key="0403a_HuntsmanLee" gender="M" rel_version="Quest_MSQ2_Revamp">Odnell Lee</string>
 	<string key="0404a_Constable" gender="F" rel_version="Quest_MSQ2_Revamp">Avita Maecia</string>
-	<string key="0404a_Constable_Title" gender="F" rel_version="Quest_MSQ2_Revamp">Commissaria di Calata eterna</string>
-	<string key="0405a_ArtificerPetrowski_title" gender="F" rel_version="Quest_MSQ2_Revamp">Inventrice di Calata eterna</string>
+	<string key="0404a_Constable_Title" gender="F" rel_version="Quest_MSQ2_Revamp">Commissaria di Oxboro</string>
+	<string key="0405a_ArtificerPetrowski_title" gender="F" rel_version="Quest_MSQ2_Revamp">Inventrice di Oxboro</string>
 	<string key="0405a_ArtificerPetrowski" gender="F" rel_version="Quest_MSQ2_Revamp">Tekla Petrowski</string>
 	<string key="0407_Commander_title" gender="F" rel_version="Quest_MSQ2_Revamp">Comandante dei Predoni</string>
 	<string key="0407_Commander" gender="F" rel_version="Quest_MSQ2_Revamp">Hoang Lin</string>
@@ -17,7 +17,7 @@
 	<string key="0410a_BarkeepPolly" gender="F" rel_version="Quest_MSQ2_Revamp">Cecilia Polly</string>
 	<string key="0411a_WilliamHeron_title" gender="M" rel_version="Quest_MSQ2_Revamp">Maestro studioso</string>
 	<string key="0411a_WilliamHeron" gender="M" rel_version="Quest_MSQ2_Revamp">William Heron</string>
-	<string key="0422_Innkeep_title" gender="M" rel_version="Quest_MSQ2_Revamp">Ostessa di Calata eterna</string>
+	<string key="0422_Innkeep_title" gender="M" rel_version="Quest_MSQ2_Revamp">Oste di Riposo autunnale</string>
 	<string key="0422_Innkeep" gender="M" rel_version="Quest_MSQ2_Revamp">Oseye Kamau</string>
 	<string key="0423_Fisher_title" gender="F" rel_version="Quest_MSQ2_Revamp">Maestra pescatrice</string>
 	<string key="0423_Fisher" gender="F" rel_version="Quest_MSQ2_Revamp">Dena Ruby</string>
@@ -52,11 +52,13 @@
 	<string key="0446a_AncientScroll_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Esamina</string>
 	<string key="0447a_Locket" gender="Object" rel_version="Quest_MSQ2_Revamp">Ciondolo impolverato</string>
 	<string key="0447a_Locket_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Esamina</string>
-	<string key="0448a_SyndicateAlchemist" comment="DO NOT TRANSLATE" gender="F" rel_version="Quest_MSQ2_Revamp">Zarra Torner</string>
+	<string key="0448a_SyndicateAlchemist" gender="F" rel_version="Quest_MSQ2_Revamp">Zarra Torner</string>
 	<string key="0448a_SyndicateAlchemist_title" gender="F" rel_version="Quest_MSQ2_Revamp">Alchimista dell'Unione</string>
 	<string key="0449a_HeronNote" gender="Object" rel_version="Quest_MSQ2_Revamp">Appunti scarabocchiati</string>
 	<string key="0449a_HeronNote_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Leggi</string>
-	<string key="0450a_TownGuard" comment="DO NOT TRANSLATE" gender="M" rel_version="Quest_MSQ2_Revamp">Hannos Lembe</string>
-	<string key="0450a_TownGuard_title" comment="DO NOT TRANSLATE" gender="M" rel_version="Quest_MSQ2_Revamp">Settlement Guard</string>
+	<string key="0450a_TownGuard" gender="M" rel_version="Quest_MSQ2_Revamp">Hannos Lembe</string>
+	<string key="0450a_TownGuard_title" gender="M" rel_version="Quest_MSQ2_Revamp">Guardia dell'insediamento</string>
+	<string key="0451a_MineCart" gender="Object" rel_version="Quest_MSQ2_Revamp">Carrello da miniera abbandonato</string>
+	<string key="0451a_MineCart_InteractOverride" gender="Object" rel_version="Quest_MSQ2_Revamp">Esamina</string>
 </resources>
 

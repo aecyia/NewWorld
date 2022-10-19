@@ -148,7 +148,7 @@
 	<string key="0210_0102_ReapersLocus_proposal_next2" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="F" VO="Barkeep_0210_0102_ReapersLocus_ProposalNext2" VO_Status="Recorded" dialogue-prompt="@0210_0102_ReapersLocus_proposal_prompt2">Como tantas outras coisas aqui, isso ofende as sensibilidades modernas.\n\nMas esse Ceifeiro usava algum tipo de Lócus para coletar Azoth, e é isso que eu quero. Se trouxer o Lócus, nós dois teremos motivos para comemorar.</string>
 	<string key="0210_0102_ReapersLocus_incomplete" speaker="Herbalist Lau - Brightwood" gender="F">Antes de seguir para o Obelisco Despedaçado, sugiro que encontre alguns amigos.\n\nQuem sabe o que lhe aguarda lá? Eu só preciso do Lócus do Ceifeiro.</string>
 	<string key="0210_0102_ReapersLocus_complete" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="F" VO="Barkeep_0210_0102_ReapersLocus_Complete" VO_Status="Recorded">Ah, já está na hora. Você é uma pessoa tão talentosa. Sendo honesta, esperava que voltasse muito mais cedo.\n\nMas não me leve a mal, estou muito grata. Eu fico com o Lócus, e você pode ficar com isso.</string>
-	<string key="0210_0102_d_01_TaskGoto" speaker="UI">Adentre {POITags} para coletar o Lócus do Ceifeiro de Pedra Estelar</string>
+	<string key="0210_0102_d_01_TaskGoto" speaker="UI">Adentre Túmulos de Pedra Estelar para coletar o Lócus do Ceifeiro de Pedra Estelar</string>
 	<string key="0210_0102_d_02_TaskLocus" speaker="UI">Colete {itemName} de {targetName}</string>
 	<string key="0230_0201_bellyofcorrupted_title" speaker="UI - Quest Title">O Estômago dos Corrompidos</string>
 	<string key="0230_0201_bellyofcorrupted_description" speaker="UI - Quest Description">Sabote a rede de abastecimento dos Corrompidos no Refúgio de Reida. Fale com o Patrulheiro Shui Tijong em Bosque Reluzente quando a tarefa for concluída.</string>
@@ -320,21 +320,33 @@
 	<string key="0234_0203_tildeathdouspart_complete_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO="0234_0203_tildeathdouspart_complete_next" VO_Status="Recorded" dialogue-prompt="@0234_0203_tildeathdouspart_complete_prompt">Deixe-me ver... \n\nAh, ele diz que não conseguiu suportar. Ele escolheu se tornar um Perdido para me evitar. Pelo visto, ele queria acabar com isso, a vergonha e tudo mais. \n\nQue covarde! Bem, pastor, talvez você tenha me convencido a viver! Obrigada!</string>
 	<string key="0234_0203_goto" speaker="UI">Enfrente o Pastor Walsham na Congregação de Walsham</string>
 	<string key="0234_0203_loot_goodbye" speaker="UI">Derrote {targetName} e colete {itemName}</string>
+	<string key="0222_0001_cleavector_title" speaker="UI">Despachos do Norte</string>
+	<string key="0222_0001_cleavector_description" speaker="UI">O Estalajadeiro Okorie em Bosque Reluzente diz que o assentamento não recebeu despachos de Grande Fenda. Okorie pediu para você procurar despachos perdidos em Malícia da Fenda e levá-los para o Posto Avançado de Eastburn, e informá-los de que nunca foram entregues.</string>
+	<string key="0222_0001_cleavector_start_prompt" speaker="UI - Player Prompt">“Ouviu alguma notícia?”</string>
+	<string key="0222_0001_cleavector_proposal" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording" dialogue-next="@0222_0001_cleavector_proposal_next">Hum. É por isso que me preocupo. Ingram Kent, o Estalajadeiro em Eastburn, estava enviando despachos regularmente até as últimas semanas.\n\nTemo que os despachos estejam sendo interceptados pelas forças Corrompidas entrincheiradas em Malícia da Fenda.</string>
+	<string key="0222_0001_cleavector_proposal_next_prompt" speaker="UI - Player Prompt">“Vou lá descobrir.”</string>
+	<string key="0222_0001_cleavector_proposal_next" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording" dialogue-prompt="@0222_0001_cleavector_proposal_next_prompt">Hehe. Esperava mesmo que você pudesse se voluntariar para a missão.\n\nProcure por Despachos do Posto Avançado em Malícia da Fenda; se encontrar algum, leve para o Estalajadeiro Kent para que fique sabendo. Pelo bem de todos em Eastburn, espero que tenha sucesso.</string>
+	<string key="0222_0001_cleavector_incomplete" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording">Acho que pelo menos um dos despachos de Eastburn teria conseguido chegar.</string>
+	<string key="0222_0001_cleavector_complete" speaker="Innkeep Kent - Great Cleave" name="InnkeepKent" VO_Status="Needs Recording" dialogue-next="@0222_0001_cleavector_complete_next">Realmente é uma alma corajosa para se aventurar atrás das linhas inimigas assim. Eastburn é um pequeno navio em um mar de maldade.\n\nMas o que é isso? Os despachos que enviei para Bosque Reluzente... não foram entregues? Onde você os encontrou?</string>
+	<string key="0222_0001_cleavector_complete_next_prompt" speaker="UI - Player Prompt">“Foram interceptados em Malícia da Fenda.”</string>
+	<string key="0222_0001_cleavector_complete_next" speaker="Innkeep Kent - Great Cleave" name="InnkeepKent" VO_Status="Needs Recording" dialogue-prompt="@0222_0001_cleavector_complete_next_prompt">Todos eles? Hum. Pode-se pensar que os Corrompidos foram avisados para ficarem atentos aos nossos mensageiros.\n\nIsso me faz pensar que podemos ter um traidor entre nós. Hum. Não diga nada disso a ninguém... por enquanto.</string>
+	<string key="0222_0001_goto" speaker="UI - Tracker Text">Procure por Despachos de Posto Avançado interceptados em Malícia da Fenda</string>
+	<string key="0222_0001_loot_mementos" speaker="UI - Tracker Text">Colete {itemName} e retorne ao Posto Avançado de Eastburn</string>
 	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Gladiador</string>
-	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Gladiador e depois conclua a jornada Prova do Gladiador com o Representante de Facção em Ilhéus do Sabre.</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Gladiador, depois conclua a jornada Prova do Gladiador com o Representante de Facção em Ilhéus do Sabre.</string>
 	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
 	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Viaje até Ilhéus do Sabre e conclua a Prova do Gladiador\n(Nível recomendado: 25)</string>
 	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Devastador</string>
-	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Devastador e depois conclua a jornada Prova do Devastador com o Representante de Facção em Pântano do Tecelão.</string>
+	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Devastador, depois conclua a jornada Prova do Devastador com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Devastador\n(Nível Recomendado: 35)</string>
 	<string key="98_M_0203_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Destruidor</string>
-	<string key="98_M_0203_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Destruidor e depois conclua a jornada Prova do Destruidor com o Representante de Facção em Costa Tempestuosa.</string>
+	<string key="98_M_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Destruidor, depois conclua a jornada Prova do Destruidor com o Representante de Facção em Costa Tempestuosa.</string>
 	<string key="98_M_0203_CompleteTrial_Destroyer" speaker="UI - Tracker Text">Viaje até Costa Tempestuosa e conclua a Prova do Destruidor\n(Nível Recomendado: 49)</string>
 	<string key="98_M_0304_RankUp_title" speaker="UI - Quest Title">Progresso com os Saqueadores: Comandante</string>
-	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Comandante e depois conclua a jornada Prova do Comandante com o Representante de Facção em Crosta de Ébano.</string>
+	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Comandante, depois conclua a jornada Prova do Comandante com o Representante de Facção em Crosta de Ébano.</string>
 	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Viaje até Crosta de Ébano e conclua a Prova do Comandante\n(Nível Recomendado: 60)</string>
-	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Prova do Gladiador</string>
+	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Saqueadores: Prova do Gladiador</string>
 	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Derrote o Pirata Perdido Hamidou para provar que você merece o ranque de Gladiador. Fale com a Devastadora Silas em Ilhéus do Sabre quando a tarefa for concluída.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">“Não deve ser muito difícil. Você conseguiu.”</string>
 	<string key="98_M_01_combatprowess_proposal" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_01_combatprowess_proposal_next">Oh, que linguinha afiada você tem. Pena que não tenho tempo para isso.\n\nDe qualquer modo, esse desafio será demais para você, aposto minha carreira que falhará.</string>
@@ -344,8 +356,8 @@
 	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_AvailResponse" VO_Status="Recorded">Você derrotou Hamidou? Você? Que... droga. Acabou de me custar um monte de Azoth por causa da aposta.\n\nMuito bem, já pode se considerar Gladiador. Agora, suma da minha frente antes que eu quebre sua cara.</string>
 	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Derrote o Pirata Perdido Hamidou em {POITags} para conquistar o ranque de Gladiador.</string>
 	<string key="98_M_01_combatprowess_defeat_named_target" speaker="UI">Derrote {targetName}</string>
-	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Prova do Devastador</string>
-	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">Derrote inimigos no Pântano do Tecelão para avançar ao ranque de Devastador. Fale com a Comandante Bergeron em Pântano do Tecelão quando a tarefa for concluída.</string>
+	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Saqueadores: Prova do Devastador</string>
+	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote inimigos no Pântano do Tecelão para avançar ao ranque de Devastador. Fale com a Comandante Bergeron em Pântano do Tecelão quando a tarefa for concluída.</string>
 	<string key="98_M_01b_fenravager_start_prompt" speaker="UI - Player Prompt">“Sim, mal posso esperar.”</string>
 	<string key="98_M_01b_fenravager_proposal" speaker="Commander Bergeron - Weaver's Fen" name="CommanderBergeron" gender="F" VO="98_M_01b_fenravager_proposal" VO_Status="Recorded">Cuidado com o que deseja, jovem. Nesta prova, você vai sujar suas mãos com água do pântano e sangue.\n\nViaje até o Pântano e enfrente os inimigos que encontrar. Esperarei você aqui.</string>
 	<string key="98_M_01b_fenravager_incomplete" speaker="Commander Bergeron - Weaver's Fen" gender="F">Enfrente qualquer desafio que o Pântano oferecer, e então será um Devastador.</string>
@@ -358,8 +370,8 @@
 	<string key="98_M_01b_fenravager_killtarget_cut_down_AI" speaker="UI">Abata Perdidos {targetName}</string>
 	<string key="98_M_01b_fenravager_killtarget_defeat_AI" speaker="UI">Derrote Perdidos {targetName}</string>
 	<string key="98_M_01b_fenravager_killtarget_eliminate_AI" speaker="UI">Elimine Perdidos {targetName}</string>
-	<string key="98_M_02_ultimatewarrior_title" speaker="UI - Quest Title">Prova do Destruidor</string>
-	<string key="98_M_02_ultimatewarrior_description" speaker="UI - Quest Description">Derrote inimigos em cada região do Vale das Lamentações para provar que você merece o ranque de Destruidor. Fale com o Destruidor Garcia em Costas Tempestuosas quando a tarefa for concluída.</string>
+	<string key="98_M_02_ultimatewarrior_title" speaker="UI - Quest Title">Saqueadores: Prova do Destruidor</string>
+	<string key="98_M_02_ultimatewarrior_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote inimigos em cada região do Vale das Lamentações para provar que você merece o ranque de Destruidor. Fale com o Destruidor Garcia em Costas Tempestuosas quando a tarefa for concluída.</string>
 	<string key="98_M_02_ultimatewarrior_start_prompt" speaker="UI - Player Prompt">“Por que foi um escândalo?”</string>
 	<string key="98_M_02_ultimatewarrior_proposal" speaker="Destroyer Garcia - Restless Shores" name="DestroyerGarcia" gender="M" VO="Commander_98_M_02_ultimatewarrior_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_02_ultimatewarrior_proposal_next">Porque, ao que parece, você ofendeu a Devastadora Silas de alguma forma. Ela não é do tipo que perdoa.\n\nEnfim, acha que já pode enfrentar o teste para o próximo ranque?</string>
 	<string key="98_M_02_ultimatewarrior_proposal_prompt" speaker="UI - Player Prompt">“Sim. O que devo fazer?”</string>
@@ -374,8 +386,8 @@
 	<string key="98_M_02_ultimatewarrior_killtarget_cut_down_AI" speaker="UI">Abata Anciões {targetName}</string>
 	<string key="98_M_02_ultimatewarrior_killtarget_defeat_AI" speaker="UI">Derrote Perdidos {targetName}</string>
 	<string key="98_M_02_ultimatewarrior_killtarget_eliminate_AI" speaker="UI">Elimine Corrompidos {targetName}</string>
-	<string key="98_M_03_darkvengeance_title" speaker="UI - Quest Title">Prova do Comandante</string>
-	<string key="98_M_03_darkvengeance_description" speaker="UI - Quest Description">Derrote a Devastadora Corrompida Silas para provar que você merece o ranque de Comandante. Fale com o Comandante Hartford em Crosta de Ébano quando a tarefa for concluída.</string>
+	<string key="98_M_03_darkvengeance_title" speaker="UI - Quest Title">Saqueadores: Prova do Comandante</string>
+	<string key="98_M_03_darkvengeance_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote a Devastadora Corrompida Silas para provar que você merece o ranque de Comandante. Fale com o Comandante Hartford em Crosta de Ébano quando a tarefa for concluída.</string>
 	<string key="98_M_03_darkvengeance_start_prompt" speaker="UI - Player Prompt">“Certo, vamos lá. O que devo fazer?”</string>
 	<string key="98_M_03_darkvengeance_proposal" speaker="Commander Hartford - Ebonscale" name="CommanderHartford" gender="M" VO="Commander_98_M_03_darkvengeance_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_03_darkvengeance_proposal_next">Infelizmente, seu teste terá que ser um pouco mais especial.\n\nComo deve recordar, a Devastadora Silas desenvolveu uma grande rivalidade com você. A fúria dela a transformou em uma Corrompida.</string>
 	<string key="98_M_03_darkvengeance_proposal_prompt" speaker="UI - Player Prompt">“Silas é uma Corrompida?”</string>
@@ -385,21 +397,21 @@
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Elimine a Devastadora Silas Corrompida em {POITags} para obter o ranque de Comandante</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Derrote {targetName}</string>
 	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Escrivão</string>
-	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Escrivão e depois conclua a jornada Prova do Escrivão com o Representante de Facção em Bosque Reluzente.</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Escrivão, depois conclua a jornada Prova do Escrivão com o Representante de Facção em Bosque Reluzente.</string>
 	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
 	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Viaje até Bosque Reluzente e conclua a Prova do Escrivão\n(Nível recomendado: 25)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Cronista</string>
-	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cronista e depois conclua a jornada Prova do Cronista com o Representante de Facção em Pântano do Tecelão.</string>
+	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cronista, depois conclua a jornada Prova do Cronista com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Cronista\n(Nível Recomendado: 35)</string>
 	<string key="98_S_0203_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Cabalista</string>
-	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cabalista e depois conclua a jornada Prova do Cabalista com o Representante de Facção em Vale das Lamentações.</string>
+	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cabalista, depois conclua a jornada Prova do Cabalista com o Representante de Facção em Vale das Lamentações.</string>
 	<string key="98_S_0203_CompleteTrial_Cabalist" speaker="UI - Tracker Text">Viaje até o Vale das Lamentações e conclua a Prova do Cabalista\n(Nível Recomendado: 49)</string>
 	<string key="98_S_0304_RankUp_title" speaker="UI - Quest Title">Progresso com o Sindicato: Alquimista</string>
-	<string key="98_S_0304_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Alquimista e depois conclua a jornada Prova do Alquimista com o Representante de Facção em Águas Fétidas.</string>
+	<string key="98_S_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Alquimista, depois conclua a jornada Prova do Alquimista com o Representante de Facção em Águas Fétidas.</string>
 	<string key="98_S_0304_CompleteTrial_Alchemist" speaker="UI - Tracker Text">Viaje até Águas Fétidas e conclua a Prova do Alquimista\n(Nível Recomendado: 60)</string>
-	<string key="98_S_01_theexperiment_title" speaker="UI - Quest Title">Prova do Escrivão</string>
-	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">Derrote o Gheist Perdido Malikor e use o Absorvedor Psicocinético para capturar qualquer resquício de alma e obter o ranque de Escrivão. Fale com o Escrivão Krockes em Bosque Reluzente quando a tarefa for concluída.</string>
+	<string key="98_S_01_theexperiment_title" speaker="UI - Quest Title">Sindicato: Prova do Escrivão</string>
+	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote o Gheist Perdido Malikor e use o Absorvedor Psicocinético para capturar qualquer resquício de alma e obter o ranque de Escrivão. Fale com o Escrivão Krockes em Bosque Reluzente quando a tarefa for concluída.</string>
 	<string key="98_S_01_theexperiment_start_prompt" speaker="UI - Player Prompt">“Sim. O que devo fazer?”</string>
 	<string key="98_S_01_theexperiment_proposal" speaker="Scrivener Krockes - Brightwood" name="AlchemistKrockes" gender="M" VO="Alchemist_98_S_01_theexperiment_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_01_theexperiment_proposal_next">Você chegou em ótima hora, estou pronto para testar meu novo Absorvedor Psicocinético.\n\nSabia que alguns Perdidos ainda têm vestígios de suas almas?</string>
 	<string key="98_S_01_theexperiment_proposal_prompt" speaker="UI - Player Prompt">“Tem certeza disso?”</string>
@@ -410,8 +422,8 @@
 	<string key="98_S_01_theexperiment_place_IO" speaker="UI">Posicione o Absorvedor Psicocinético</string>
 	<string key="98_S_01_theexperiment_killtarget_eliminate_AI" speaker="UI">Elimine {targetName}</string>
 	<string key="98_S_01_theexperiment_collect_IO" speaker="UI">Colete o Absorvedor Psicocinético</string>
-	<string key="98_S_01b_fenscholar_title" speaker="UI - Quest Title">Prova do Cronista</string>
-	<string key="98_S_01b_fenscholar_description" speaker="UI - Quest Description">Colete espécimes de vários Perdidos do Pântano do Tecelão e fale de novo com a Alquimista Rubis no Pântano do Tecelão para obter o ranque de Cronista.</string>
+	<string key="98_S_01b_fenscholar_title" speaker="UI - Quest Title">Sindicato: Prova do Cronista</string>
+	<string key="98_S_01b_fenscholar_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nColete espécimes de vários Perdidos do Pântano do Tecelão e fale de novo com a Alquimista Rubis no Pântano do Tecelão para obter o ranque de Cronista.</string>
 	<string key="98_S_01b_fenscholar_start_prompt" speaker="UI - Player Prompt">“Sim. Você administrará meu teste?”</string>
 	<string key="98_S_01b_fenscholar_proposal" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_proposal" VO_Status="Recorded">Isso mesmo. O Alquimista Krockes iria gostar de estar aqui para ver isso, mas não vejo motivos para atrasar ainda mais.\n\nColete espécimes de diversos Perdidos daqui do Pântano e eu lhe promoverei a Cronista.</string>
 	<string key="98_S_01b_fenscholar_incomplete" speaker="Alchemist Rubis -Weaver's Fen" gender="F">Colete espécimes para o nosso estudo aqui no Pântano e terá uma promoção em seu ranque.</string>
@@ -419,10 +431,10 @@
 	<string key="98_S_01b_fenscholar_complete_prompt" speaker="UI - Player Prompt">“Espero que sim.”</string>
 	<string key="98_S_01b_fenscholar_complete_next" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_complete_next" VO_Status="Recorded" dialogue-prompt="@98_S_01b_fenscholar_complete_prompt">Provavelmente é loucura da minha parte querer seguir os passos de Krockes, mas veremos.\n\nDe qualquer forma, você conquistou seu novo ranque. Parabéns, Cronista {playerName}.</string>
 	<string key="98_S_01b_fenscholar_harvest_item_from_target" speaker="UI">Colete {itemName} de Perdidos {targetName}</string>
-	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Prova do Cabalista</string>
-	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">Posicione Absorvedores Psicocinéticos em pontos estratégicos do Vale das Lamentações para obter o ranque de Cabalista. Fale com a Cabalista Crawford no Vale das Lamentações quando a tarefa for concluída.</string>
+	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Sindicato: Prova do Cabalista</string>
+	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nPosicione Absorvedores Psicocinéticos em pontos estratégicos do Vale das Lamentações para obter o ranque de Cabalista. Fale com a Cabalista Crawford no Vale das Lamentações quando a tarefa for concluída.</string>
 	<string key="98_S_02_necromanticchemistry_start_prompt" speaker="UI - Player Prompt">“Sim, qual é a prova?”</string>
-	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Para você, preparamos uma extensão de seu trabalho anterior com almas.\n\nVocê usou um Absorvedor Psicocinético antes, foi você que praticamente o tornou famoso!</string>
+	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Para você, preparamos uma extensão de seu trabalho anterior com traços de almas.\n\nVocê usou um Absorvedor Psicocinético antes, foi você quem praticamente o tornou famoso!</string>
 	<string key="98_S_02_necromanticchemistry_proposal_prompt" speaker="UI - Player Prompt">“E o Krockes?”</string>
 	<string key="98_S_02_necromanticchemistry_proposal_next" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_S_02_necromanticchemistry_proposal_prompt">Krockes está muito ocupado e virá depois, mas é uma emoção ter você aqui.\n\nTemos que colocar os Absorvedores Psicocinéticos em pontos estratégicos ao redor do Vale das Lamentações. Será... trabalhoso, mas esse é o preço da ciência!</string>
 	<string key="98_S_02_necromanticchemistry_incomplete" speaker="Cabalist Crawford - Mourningdale" gender="F">Esses Absorvedores Psicocinéticos não vão se colocar sozinhos.\n\nQuanto mais rápido, melhor. A coleta será maior assim.</string>
@@ -434,8 +446,8 @@
 	<string key="98_S_02_necromanticchemistry_placement_pueblonorth" speaker="UI">Vila do Culto de Nuñez (Norte)</string>
 	<string key="98_S_02_necromanticchemistry_placement_pueblosouth" speaker="UI">Vila do Culto de Nuñez (Sul)</string>
 	<string key="98_S_02_necromanticchemistry_placement_sorrowsilt" speaker="UI">Cume do Lodo de Sofrimento</string>
-	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Prova do Alquimista</string>
-	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">Derrote o Alquimista Krockes e absorva a alma dele com o Absorvedor Psicocinético, depois a leve aos Dríades de Águas Fétidas para que seja destruída, conquistando assim o ranque de Alquimista. Fale com o Alquimista Santos nas Águas Fétidas quando a tarefa for concluída.</string>
+	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Sindicato: Prova do Alquimista</string>
+	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nDerrote o Alquimista Krockes e absorva a alma dele com o Absorvedor Psicocinético, depois a leve aos Dríades de Águas Fétidas para que seja destruída, conquistando assim o ranque de Alquimista. Fale com o Alquimista Santos nas Águas Fétidas quando a tarefa for concluída.</string>
 	<string key="98_S_03_lostnotlost_start_prompt" speaker="UI - Player Prompt">“Como isso aconteceu?”</string>
 	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">Da mesma forma que sempre acontece com gente indisciplinada, apaixonada demais por sua pesquisa e sua reputação.\n\nKrockes simplesmente não era forte o suficiente, ao contrário de você. Creio que estamos prontos para o teste final, ou não?</string>
 	<string key="98_S_03_lostnotlost_proposal_prompt" speaker="UI - Player Prompt">“Sim. O que devo fazer?”</string>
@@ -448,21 +460,21 @@
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Colete o Absorvedor Psicocinético</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Destrua o Absorvedor Psicocinético com a ajuda dos Dríades</string>
 	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Cavaleiro Templário</string>
-	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cavaleiro Templário e depois conclua a jornada Prova do Cavaleiro Templário com o Representante de Facção em Bosque Reluzente.</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Cavaleiro Templário, depois conclua a jornada Prova do Cavaleiro Templário com o Representante de Facção em Bosque Reluzente.</string>
 	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Conclua missões do Quadro da Facção e fale com o Magistrado local</string>
 	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Conquiste Reputação de Facção para enfrentar a Prova para o próximo Ranque</string>
 	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Viaje até Bosque Reluzente e conclua a Prova do Cavaleiro Templário\n(Nível recomendado: 25)</string>
 	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Excubitor</string>
-	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Excubitor e depois conclua a jornada Prova do Excubitor com o Representante de Facção em Pântano do Tecelão.</string>
+	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Excubitor, depois conclua a jornada Prova do Excubitor com o Representante de Facção em Pântano do Tecelão.</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Viaje até Pântano do Tecelão e conclua a Prova do Excubitor\n(Nível Recomendado: 35)</string>
 	<string key="98_C_0203_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Lúmen</string>
-	<string key="98_C_0203_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Lúmen e depois conclua a jornada Prova do Lúmen com o Representante de Facção em Grande Fenda.</string>
+	<string key="98_C_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Lúmen, depois conclua a jornada Prova do Lúmen com o Representante de Facção em Grande Fenda.</string>
 	<string key="98_C_0203_CompleteTrial_Lumen" speaker="UI - Tracker Text">Viaje até a Grande Fenda e conclua a Prova do Lúmen\n(Nível Recomendado: 49)</string>
 	<string key="98_C_0304_RankUp_title" speaker="UI - Quest Title">Progresso com a Aliança: Árbitro</string>
-	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">Conquiste Reputação de Facção o suficiente para se qualificar para o ranque de Árbitro e depois conclua a jornada Prova do Árbitro com o Representante de Facção em Montanha Arruinada.</string>
+	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;JORNADA DE AVANÇO DA FACÇÃO&lt;/font&gt;\nConquiste Reputação de Facção o suficiente para se qualificar para o ranque de Árbitro, depois conclua a jornada Prova do Árbitro com o Representante de Facção em Montanha Arruinada.</string>
 	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Viaje até a Montanha Arruinada e conclua a Prova do Árbitro\n(Nível Recomendado: 60)</string>
-	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Prova do Cavaleiro Templário</string>
-	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">Encontre o Principiante da Aliança Bremen Luca e tente descobrir o que aconteceu com ele para avançar ao ranque de Cavaleiro Templário. Fale com a Cavaleira Templária Roose em Bosque Reluzente quando a tarefa for concluída.</string>
+	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Aliança: Prova do Cavaleiro Templário</string>
+	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nEncontre o Principiante da Aliança Bremen Luca e tente descobrir o que aconteceu com ele para avançar ao ranque de Cavaleiro Templário. Fale com a Cavaleira Templária Roose em Bosque Reluzente quando a tarefa for concluída.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">“Certo, vamos lá. O que devo fazer?”</string>
 	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Um de nós, um Principiante como você, criou uma certa feição por ideias um tanto... não convencionais.\n\nEle conquistou seguidores, e todos devem ser trazidos de volta à Aliança.</string>
 	<string key="98_C_01_theapostate_proposal_prompt" speaker="UI - Player Prompt">“Que tipo de ideias?”</string>
@@ -474,8 +486,8 @@
 	<string key="98_C_01_theapostate_goto_POI" speaker="UI">Localize o Principiante da Aliança Luca in {POITags} para obter o ranque de Cavaleiro Templário</string>
 	<string key="98_C_01_theapostate_purge_AI" speaker="UI">Elimine {targetName}</string>
 	<string key="98_C_01_theapostate_get_lore_page" speaker="UI">Recupere o diário do Apóstata Luca</string>
-	<string key="98_C_01b_fenredemption_title" speaker="UI - Quest Title">Prova do Excubitor</string>
-	<string key="98_C_01b_fenredemption_description" speaker="UI - Quest Description">Leve o descanso aos que sucumbiram no Pântano do Tecelão para avançar ao ranque de Excubitor. Fale com a Árbitra Sheng em Pântano do Tecelão quando a tarefa for concluída.</string>
+	<string key="98_C_01b_fenredemption_title" speaker="UI - Quest Title">Aliança: Prova do Excubitor</string>
+	<string key="98_C_01b_fenredemption_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nLeve o descanso aos que sucumbiram no Pântano do Tecelão para avançar ao ranque de Excubitor. Fale com a Árbitra Sheng em Pântano do Tecelão quando a tarefa for concluída.</string>
 	<string key="98_C_01b_fenredemption_start_prompt" speaker="UI - Player Prompt">“Só se me ajudar a ser de maior utilidade.”</string>
 	<string key="98_C_01b_fenredemption_proposal" speaker="Adjudicator Sheng - Weaver's Fen" gender="F" VO="98_C_01b_fenredemption_proposal" VO_Status="Recorded" dialogue-next="@98_C_01b_fenredemption_proposal_next">Não tenho dúvidas de que sim. Sinto que seu destino não é ser um Cavaleiro Templário para sempre.\n\nSoube da tragédia que ocorreu com Bremen Luca, o Apóstata.</string>
 	<string key="98_C_01b_fenredemption_proposal_prompt" speaker="UI - Player Prompt">“Foi lamentável.”</string>
@@ -485,8 +497,8 @@
 	<string key="98_C_01b_fenredemption_killtarget_cut_down_AI" speaker="UI">Abata Perdidos {targetName}</string>
 	<string key="98_C_01b_fenredemption_killtarget_defeat_AI" speaker="UI">Derrote Perdidos {targetName}</string>
 	<string key="98_C_01b_fenredemption_killtarget_eliminate_AI" speaker="UI">Elimine Perdidos {targetName}</string>
-	<string key="98_C_02_soulsalvation_title" speaker="UI - Quest Title">Prova do Lúmen</string>
-	<string key="98_C_02_soulsalvation_description" speaker="UI - Quest Description">Recupere as Contas de Oração dos Cavaleiros Templários Corrompidos para conquistar o ranque de Lúmen. Fale com a Excubitora Luca na Grande Fenda quando a tarefa for concluída.</string>
+	<string key="98_C_02_soulsalvation_title" speaker="UI - Quest Title">Aliança: Prova do Lúmen</string>
+	<string key="98_C_02_soulsalvation_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nRecupere as Contas de Oração dos Cavaleiros Templários Corrompidos para conquistar o ranque de Lúmen. Fale com a Excubitora Luca na Grande Fenda quando a tarefa for concluída.</string>
 	<string key="98_C_02_soulsalvation_start_prompt" speaker="UI - Player Prompt">“Sim, tudo pronto.”</string>
 	<string key="98_C_02_soulsalvation_proposal" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_proposal_next">Parece que você não reconhece meu nome, mas sou Livia Luca.\n\nO suposto apóstata que você caçou no Bosque Reluzente era meu único filho.</string>
 	<string key="98_C_02_soulsalvation_proposal_prompt" speaker="UI - Player Prompt">“Lamento sua perda.”</string>
@@ -497,8 +509,8 @@
 	<string key="98_C_02_soulsalvation_complete_next" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_02_soulsalvation_complete_prompt">Ah, sim, isso. Meu filho estaria passando pela mesma prova agora, sabia?\n\nMas você honrou a memória dele e fez por merecer esse ranque. Parabéns, Lúmen!</string>
 	<string key="98_C_02_soulsalvation_recover_item" speaker="UI">Recupere Contas de Oração de:</string>
 	<string key="98_C_02_soulsalvation_recover_location" speaker="UI">{POITags}</string>
-	<string key="98_C_03_thepathtodarkness_title" speaker="UI - Quest Title">Prova do Árbitro</string>
-	<string key="98_C_03_thepathtodarkness_description" speaker="UI - Quest Description">Elimine a Excubitora Corrompida Luca para obter o ranque de Árbitro. Fale com a Árbitra Maras em Montanha Arruinada quando a tarefa for concluída.</string>
+	<string key="98_C_03_thepathtodarkness_title" speaker="UI - Quest Title">Aliança: Prova do Árbitro</string>
+	<string key="98_C_03_thepathtodarkness_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;JORNADA DE PROVA DA FACÇÃO&lt;/font&gt;\nElimine a Excubitora Corrompida Luca para obter o ranque de Árbitro. Fale com a Árbitra Maras em Montanha Arruinada quando a tarefa for concluída.</string>
 	<string key="98_C_03_thepathtodarkness_start_prompt" speaker="UI - Player Prompt">“Tudo certo. Qual é a prova?”</string>
 	<string key="98_C_03_thepathtodarkness_proposal" speaker="Adjudicator Maras - Shattered Mtn" gender="F" VO="Adjudicator_98_C_03_thepathtodarkness_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_03_thepathtodarkness_proposal_next">Às vezes a sombra mais escura vem de dentro, camarada. Esse é o caso da Livia Luca.\n\nA obsessão com o legado de seu filho e sua paranoia a transformaram em uma Corrompida.</string>
 	<string key="98_C_03_thepathtodarkness_proposal_prompt" speaker="UI - Player Prompt">“E eu preciso enfrentá-la?”</string>

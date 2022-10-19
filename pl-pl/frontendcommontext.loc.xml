@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Twoje konto zostało zablokowane za podejrzane działania. Skontaktuj się z działem obsługi, aby dowiedzieć się więcej.</string>
 	<string key="mm_loginservices_warning_title">UWAGA</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Imię twojej postaci zostało uznane za niestosowne. Przy ponownym logowaniu otrzymasz prośbę o zmianę imienia.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Imię twojej kompanii zostało uznane za niestosowne i zostało zaktualizowane. Możesz je zmienić w dowolnej chwili z poziomu interfejsu kompanii [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Imię twojej kompanii zostało uznane za niestosowne i zostało zaktualizowane. Możesz je zmienić w dowolnej chwili z poziomu interfejsu kompanii [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">Twoje konto jest pod obserwacją z powodu podejrzenia hacków</string>
 	<string key="mm_loginservices_warning_BannedCheating">Twoje konto jest pod obserwacją z powodu podejrzenia oszustwa</string>
 	<string key="mm_loginservices_warning_BannedExploit">Twoje konto jest pod obserwacją z powodu podejrzenia wykorzystywania błędów (exploitów)</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Twoje konto jest pod obserwacją z powodu podejrzenia udostępniania zastrzeżonych treści</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Twoje konto jest pod obserwacją z powodu podejrzenia zachowania</string>
 	<string key="mm_loginservices_warning_OffensiveName">Imię twojej postaci zostało uznane za niestosowne. Przy ponownym logowaniu otrzymasz prośbę o zmianę imienia.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Imię twojej kompanii zostało uznane za niestosowne i zostało zaktualizowane. Możesz je zmienić w dowolnej chwili z poziomu interfejsu kompanii [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Imię twojej kompanii zostało uznane za niestosowne i zostało zaktualizowane. Możesz je zmienić w dowolnej chwili z poziomu interfejsu kompanii [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">Twoje konto jest pod obserwacją z powodu podejrzenia oszustwa</string>
 	<string key="mm_loginservices_warning_Exploit">Twoje konto jest pod obserwacją z powodu podejrzenia wykorzystywania błędów (exploitów)</string>
 	<string key="mm_loginservices_warning_Botting">Twoje konto jest pod obserwacją z powodu podejrzenia używania botów</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Odmowa logowania: Podstawy gry już zostały poznane.</string>
 	<string key="mm_loginservices_InternalError">Błąd logowania, spróbuj ponownie wkrótce.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Błąd serwera logowania, spróbuj ponownie wkrótce.</string>
+	<string key="mm_loginservices_InternalFailureException">Błąd serwera logowania, spróbuj ponownie później.</string>
 	<string key="mm_loginservices_CredentialsError">Nieprawidłowe dane usług logowania.</string>
 	<string key="mm_loginservices_NameLengthError">Nieprawidłowa długość nazwy.</string>
 	<string key="mm_loginservices_NameNotAvailableError">To imię jest zajęte.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Nie można się połączyć z usługą logowania. Trwa ponowne łączenie, proszę czekać…</string>
 	<string key="mm_loginservices_TooManyRequestsException">Serwer logowania jest zajęty, spróbuj ponownie wkrótce.</string>
 	<string key="mm_loginservices_NoConnection">Usługa logowania jest obecnie niedostępna. To może oznaczać problem z połączeniem internetowym. Trwa ponowne łączenie, proszę czekać…</string>
+	<string key="mm_loginservices_SteamAuthRequired">Błąd uwierzytelniania Steam.\nWyjdź z gry, zrestartuj Steam i spróbuj ponownie.</string>
+	<string key="mm_loginservices_NO_GATEWAY">Nieprawidłowa konfiguracja logowania.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Czekasz w kolejce do otwartego świata…</string>
 	<string key="mm_loginservices_location_FTUE000">Czekasz w kolejce jako nowy gracz…</string>
 	<string key="mm_loginservices_location_FTUE9011">Czekasz w kolejce jako nowy gracz…</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Błąd serwera: nie udało się rozpocząć replikacji.</string>
 	<string key="mm_rejected_Server_Crash">Utracono połączenie z serwerem, spróbuj ponownie później.</string>
 	<string key="mm_rejected_Free_Session_Expired">Skończył się darmowy czas rozgrywki.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Zgłoszenie logowania nie jest prawidłowe dla świata</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Odmowa dostępu: Brak uprawnień do tego świata gry.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Gracz wyrzucony</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Wyrzucono cię z gry.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Wyrzucono cię z gry z powodu zbyt długiej nieaktywności.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">Jak to działa?</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Ścieżka PvP</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punkt kontrolny ({checkpoint}):&lt;/font&gt; {currentProgression}/{maxProgression}\n\nRób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3 czy przejmowaniu fortów, a także pokonując innych graczy i zdobywając PD z aktywnym oznaczeniem do PvP.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punkt kontrolny {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nRób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek czy przejmowaniu fortów, pokonując innych graczy i zaliczając areny 3 na 3.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Musisz zaliczyć wszystkie punkty kontrolne przed rozpoczęciem następnej ścieżki. Jeśli odbierzesz nagrodę z każdego punktu kontrolnego, automatycznie rozpoczniesz następną ścieżkę.\n\nZa każdy punkt kontrolny, z którego nie odbierzesz nagrody, otrzymasz 300 jednostek azothowej soli w momencie, gdy rozpoczniesz następną ścieżkę.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Nagrody do wyboru zostaną ujawnione po zaliczeniu punktu kontrolnego.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Ukończone ścieżki</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Azothowa sól</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Nagrody</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">Ścieżka nagród PvP zawiera nagrody związane z trybem PvP, które można zdobyć za wykonywanie aktywności PvP. Po ukończeniu ścieżki można ją ponownie rozpocząć, by zdobyć inne nagrody. Im więcej ukończonych ścieżek, tym bardziej prestiżowe nagrody do zdobycia.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3 czy przejmowaniu fortów, a także pokonując innych graczy i zdobywając PD z aktywnym oznaczeniem do PvP.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek czy przejmowaniu fortów, pokonując innych graczy i zaliczając areny 3 na 3.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Azothowa sól jest walutą służącą do zdobywania nagród na ścieżce PvP. Możesz ją pozyskać, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3, wykonując misje PvP i zabijając graczy w otwartym świecie, a także zdobywając PD z aktywnym oznaczeniem do PvP.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Wybieraj spośród wyjątkowych nagród, takich jak prestiżowa broń i pancerz, gesty, waluty czy przedmioty użytkowe.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">Ukończone ścieżki: &lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt;</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Pula nagród: \n+nazwane wyposażenie \n+więcej waluty</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Pula nagród: \n+prestiżowe wyposażenie \n+gest \n+paczki fiolek z solą</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Pula nagród: \n+gips \n+więcej waluty \n+więcej odłamków umbralu</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Pula nagród: \n+gest \n+więcej odłamków umbralu </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Pula nagród: \n+gest \n+więcej odłamków umbralu</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Pula nagród: \n+gest \n+więcej waluty \n+więcej przedmiotów z łupów</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Kamień milowy ścieżki {milestone}:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Kamień milowy ścieżki{milestone}</string>
@@ -446,7 +451,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Po odzyskaniu tego przedmiotu otrzymasz: {itemName} w liczbie {min}-{max} oraz części zamienne: {numRepairParts}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Po odzyskaniu tego przedmiotu otrzymasz: {itemName} ({min}–{max}) oraz {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Po odzyskaniu tego przedmiotu otrzymasz: {itemName} ({min}–{max}), części zamienne w liczbie {numRepairParts} oraz monety ({coinAmount}). {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front"> Istnieje mała szansa na odzyskanie osadzonego klejnotu.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front"> Istnieje szansa na odzyskanie osadzonego klejnotu.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Można uzyskać też dodatkowe przedmioty, takie jak: {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Po użyciu tego przedmiotu poznasz schemat: {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Znasz już schemat: {recipeName}.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Uwaga: Wykryto Windows 7 New World działa najlepiej w systemie Windows 10 albo nowszym. Rozgrywka na starszej wersji może być nieoptymalna.</string>
 	<string key="minspec_fail_try_again">Sprawdź dziennik błędów, by ustalić, które z wymagań minimalnych nie zostało spełnione.</string>
 	<string key="ui_rename_character">Zmiana imienia postaci</string>
+	<string key="ui_rename">Zmień nazwę</string>
 	<string key="ui_rename_character_title">Imię postaci</string>
 	<string key="ui_rename_report_description">Imię twojej postaci zostało uznane za niestosowne. Przy ponownym logowaniu otrzymasz prośbę o zmianę imienia.</string>
 	<string key="ui_rename_required">Musisz zmienić to imię: &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

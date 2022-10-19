@@ -45,11 +45,11 @@
 	<string key="ui_windowed_fullscreen">Pantalla completa en ventana</string>
 	<string key="ui_borderless_window">Ventana sin bordes</string>
 	<string key="ui_resolution">Resolución</string>
-	<string key="ui_resolution_desc">Tu resolución.</string>
+	<string key="ui_resolution_desc">Tu resolución</string>
 	<string key="ui_monitor">Monitor</string>
 	<string key="ui_monitor_desc">Tu monitor</string>
 	<string key="ui_show_fps">Mostrar FPS</string>
-	<string key="ui_show_fps_desc">Muestra u oculta tus FPS.</string>
+	<string key="ui_show_fps_desc">Muestra u oculta tus FPS</string>
 	<string key="ui_enable_vsync">Sincronización vertical</string>
 	<string key="ui_enable_vsync_description">Limita los FPS para controlar la velocidad de actualización. Activa esta opción para reducir errores de pantalla partida.</string>
 	<string key="ui_enable_motionblur">Desenfoque de movimiento</string>
@@ -61,7 +61,7 @@
 	<string key="ui_graphics_objects">Detalles de los objetos</string>
 	<string key="ui_graphics_objects_description">Calidad predeterminada de los objetos en el juego.</string>
 	<string key="ui_graphics_postprocessing">Detalles del posprocesamiento</string>
-	<string key="ui_graphics_postprocessing_description">Calidad predeterminada del posprocesamiento en el juego.</string>
+	<string key="ui_graphics_postprocessing_description">Calidad predeterminada del posprocesamiento en el juego</string>
 	<string key="ui_graphics_shadows">Detalles de las sombras</string>
 	<string key="ui_graphics_shadows_description">Calidad predeterminada de las sombras en el juego, sin incluir la iluminación.</string>
 	<string key="ui_graphics_terrain">Detalles del terreno</string>
@@ -221,12 +221,10 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Silencia la música interpretada por otros jugadores</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Silenciar la música de combate</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Silencia la música de combate</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Silenciar los sonidos secundarios</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Silencia los aplausos y los efectos de actuación musical secundarios</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Volumen de instrumentos musicales</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Ajusta el volumen de la música interpretada por jugadores locales y remotos</string>
 	<string key="ui_outputconfiguration">Configuración de salida</string>
-	<string key="ui_outputconfiguration_desc">Alterna entre sonido de 360 grados para el cine en casa o 180 grados para auriculares.</string>
+	<string key="ui_outputconfiguration_desc">Alterna entre sonido de 360 grados para el cine en casa o 180 grados para auriculares</string>
 	<string key="ui_texttospeech">Texto a voz</string>
 	<string key="ui_texttospeech_desc">Activa la conversión a voz de los mensajes de chat entrantes.</string>
 	<string key="ui_tts_rate">Velocidad de texto a voz</string>
@@ -244,7 +242,7 @@
 	<string key="ui_bandwidthmode">Modo de ancho de banda</string>
 	<string key="ui_bandwidthmode_desc">Elige el ancho de banda para recibir datos del servidor. Los valores más bajos pueden afectar a la calidad.</string>
 	<string key="ui_analyticsenabled">Emitir datos de telemetría del cliente</string>
-	<string key="ui_analyticsenabled_desc">Si desactivas esta opción, dejarás de enviar al equipo de New World ciertos datos de telemetría del cliente relacionados con tu experiencia de juego y tu configuración. Si tienes problemas de red en New World, desactivar esta opción podría ser útil.</string>
+	<string key="ui_analyticsenabled_desc">Si desactivas esta opción, dejarás de enviar al equipo de New World ciertos datos de telemetría del cliente relacionados con tu experiencia de juego y tu configuración. Si tienes problemas de red en New World, desactivar esta opción podría ser útil</string>
 	<string key="ui_enable_camera_lock">Curación a objetivos</string>
 	<string key="ui_enable_camera_lock_description">Habilita el sistema de curación a objetivos.</string>
 	<string key="ui_enable_camera_lock_friendlies">Fijar aliados con la cámara</string>

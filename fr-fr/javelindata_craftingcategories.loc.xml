@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Moulage en gypse</string>
 	<string key="GypsumRaw_GroupName">Orbes de gypse</string>
 	<string key="GypsumCasts_GroupName">Moules en gypse</string>
+	<string key="InfusedCasts_GroupName">Moules imprégnés</string>
 	<string key="GemstoneT2_GroupName">Pierres précieuses standard</string>
 	<string key="GemstoneT3_GroupName">Pierres précieuses éclatantes</string>
 	<string key="GemstoneT4_GroupName">Pierres précieuses immaculées</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Les potions permettent d'améliorer temporairement vos performances.</string>
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Les alkahests sont utilisés pour fabriquer des potions.</string>
+	<string key="CategoryData_Ampoule">Ampoule</string>
+	<string key="CategoryData_AmpouleDesc">Les ampoules sont utilisées pour fabriquer des potions réflexives.</string>
 	<string key="CategoryData_RangedWeapons">Armes à distance</string>
 	<string key="CategoryData_rawresources">Ressources brutes</string>
 	<string key="CategoryData_RefinedMaterial">Matériaux transf.</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Répliques du chantier naval de la dynastie</string>
 	<string key="DungeonReps6_GroupName">Répliques de l'Instrument de Lazarus</string>
 	<string key="DungeonReps7_GroupName">Répliques du Jardin de la Genèse</string>
-	<string key="DungeonReps8_GroupName">NOM EN ATTENTE</string>
+	<string key="DungeonReps8_GroupName">Répliques de l'Ennéade</string>
 	<string key="DungeonReps9_GroupName">Répliques du Cœur de la Tempête</string>
 	<string key="DungeonShields_GroupName">Boucliers d'expédition</string>
 	<string key="DungeonReps12_GroupName">Récompenses d'expédition unique</string>
@@ -1091,6 +1094,8 @@
 	<string key="GauntletIce_GroupName">Gantel. de glace</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Des gantelets qui consomment du mana pour affaiblir les ennemis et renforcer les alliés. Spécialisés dans les améliorations à faible portée et les dégâts sur la durée ou les affaiblissements à moyenne portée et les soins, les gantelets du néant sont particulièrement dangereux lorsqu'ils sont utilisés dans un groupe.\n\n•Attaque légère : Inflige {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]} % de dégâts de néant.\n•Attaque lourde : Inflige {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]} % de dégâts de néant et vous soigne à hauteur de {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]} % des dégâts infligés.\n•Essence de récolte (maintenir la garde) : Convertit progressivement votre santé en mana. Le taux varie en fonction des dégâts de l'arme.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Gantel. du néant</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">Une arme de corps à corps polyvalente qui utilise des postures pour s'adapter aux différentes situations de combat. Elle permet des attaques incessantes doublées d'une défense agressive pour relever n'importe quel défi.\n\n•Attaques légères 1 et 2 : Inflige {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]} % de dégâts de taille.\n•Attaque légère 3 : Inflige {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]} % de dégâts de taille.\n•Attaques lourdes chargées 1 et 2 : Inflige {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]} % de dégâts de taille.\n•Attaque lourde chargée 3 : Inflige {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]} % de dégâts de taille.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Épées longues</string>
 	<string key="GemAmbe_CategoryName">Ambres</string>
 	<string key="GemAmet_CategoryName">Améthystes</string>
 	<string key="GemAqua_CategoryName">Aigues-marines</string>
@@ -1841,7 +1846,7 @@
 	<string key="Blunderbuss_GroupName">Tromblons</string>
 	<string key="PerfectSalvageArmor_Name">Restes d'armure</string>
 	<string key="PerfectSalvageWeapons_Name">Restes d'arme</string>
-	<string key="PerfectSalvageJewelry_Name">Restes de bijou</string>
+	<string key="PerfectSalvageJewelry_Name">Restes de joaillerie</string>
 	<string key="PerfectSalvageEngineer_Name">Restes d'ingénierie</string>
 	<string key="PerfectSalvageArcane_Name">Restes occultes</string>
 	<string key="SalvageTier2_Name">Restes de palier II</string>
@@ -1849,17 +1854,20 @@
 	<string key="SalvageTier4_Name">Restes de palier IV</string>
 	<string key="SalvageTier5_Name">Restes de palier V</string>
 	<string key="Salvage">Recycler restes</string>
+	<string key="Salvage_GroupName">Recycler restes</string>
 	<string key="SalvageExtract">Extraire</string>
 	<string key="SalvageCreate">Fabriquer</string>
 	<string key="SalvageResearch">Rechercher</string>
 	<string key="SalvageCondense">Condenser</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Créatures d'alchimie</string>
+	<string key="Summer">Été</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instruments</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Parties d'instrument</string>
 	<string key="CategoryData_MusicSheets" rel_version="Feature_MusicalPerformances">Partitions</string>
 	<string key="Flutes_GroupName" rel_version="Feature_MusicalPerformances">Flûte d'Azoth</string>
-	<string key="Drums_GroupName" rel_version="Feature_MusicalPerformances">Tambours</string>
+	<string key="Drums_GroupName" rel_version="Feature_MusicalPerformances">Tambour</string>
 	<string key="Guitars_GroupName" rel_version="Feature_MusicalPerformances">Guitare</string>
 	<string key="UprightBass_GroupName" rel_version="Feature_MusicalPerformances">Contrebasse</string>
 	<string key="Mandolins_GroupName" rel_version="Feature_MusicalPerformances">Mandoline</string>
@@ -1867,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Réserves de territoire</string>
 	<string key="TerritoryContribution_GroupName">Contributions de territoire</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Composants d'instrument</string>
+	<string key="InstrumentGuitarPick_GroupName">Pièces de guitare</string>
+	<string key="InstrumentDrumHead_GroupName">Pièces de tambour</string>
+	<string key="InstrumentReed_GroupName">Pièces d'anche</string>
+	<string key="InstrumentSoundhole_GroupName">Pièces de mandoline</string>
+	<string key="InstrumentFingerboard_GroupName">Pièces de contrebasse</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Pièces de guitare IV</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Pièces de tambour IV</string>
+	<string key="InstrumentReedT4_GroupName">Pièces d'anche IV</string>
+	<string key="InstrumentSoundholeT4_GroupName">Pièces de mandoline IV</string>
+	<string key="InstrumentFingerboardT4_GroupName">Pièces de contrebasse IV</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Composants de verre runique</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Montures en verre runique vides</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'ambre</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'améthyste</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'aigue-marine</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de cornaline</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de diamant</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'émeraude</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de jaspe</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de malachite</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de pierre de lune</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'onyx</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique d'opale</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de rubis</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de saphir</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Gemmes de verre runique de topaze</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Verre runique</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Verrerie</string>
+	<string key="GoldenScarabStr_GroupName">Scarabée d'or - force</string>
+	<string key="GoldenScarabDex_GroupName">Scarabée d'or - dextérité</string>
+	<string key="GoldenScarabInt_GroupName">Scarabée d'or - intelligence</string>
+	<string key="GoldenScarabFoc_GroupName">Scarabée d'or - concentration</string>
+	<string key="GoldenScarabCon_GroupName">Scarabée d'or - forme</string>
+	<string key="Scarab_GroupName">Scarabée</string>
+	<string key="Sulfur_GroupName">Soufre</string>
+	<string key="Rune_GroupName">Runes</string>
+	<string key="DungeonNamedReplicas_GroupName">Répliques uniques d'expédition</string>
+	<string key="UniqueDungeonReps1_GroupName">Répliques uniques du site de fouilles amrine</string>
+	<string key="UniqueDungeonReps10_GroupName">NOM EN ATTENTE</string>
+	<string key="UniqueDungeonReps2_GroupName">Répliques uniques de l'Obélisque brisé</string>
+	<string key="UniqueDungeonReps3_GroupName">NOM EN ATTENTE</string>
+	<string key="UniqueDungeonReps4_GroupName">Répliques uniques des Profondeurs</string>
+	<string key="UniqueDungeonReps5_GroupName">Répliques uniques du chantier naval de la dynastie</string>
+	<string key="UniqueDungeonReps6_GroupName">Répliques uniques de l'Instrument de Lazarus</string>
+	<string key="UniqueDungeonReps7_GroupName">Répliques uniques du Jardin de la Genèse</string>
+	<string key="UniqueDungeonReps8_GroupName">Répliques uniques de l'Ennéade</string>
+	<string key="UniqueDungeonReps9_GroupName">Répliques uniques du Cœur de la Tempête</string>
+	<string key="UniqueDungeonReps11_GroupName">Répliques uniques de Bernacles et Poudre noire</string>
+	<string key="HideT5_GroupName">Peaux V</string>
+	<string key="CategoryData_ArmorHeavy">Armure lourde</string>
+	<string key="CategoryData_ArmorMedium">Armure moyenne</string>
+	<string key="CategoryData_ArmorLight">Armure légère</string>
+	<string key="SlotChest_GroupName">Armure de poitrine</string>
+	<string key="SlotFeet_GroupName">Armure de pieds</string>
+	<string key="SlotHands_GroupName">Armure de mains</string>
+	<string key="SlotHead_GroupName">Armure de tête</string>
+	<string key="SlotLegs_GroupName">Armure de jambes</string>
+	<string key="ScarabAmulets_GroupName">Amulettes - scarabée d'or</string>
+	<string key="ScarabRings_GroupName">Anneaux - scarabée d'or</string>
+	<string key="ScarabEarrings_GroupName">Boucles d'oreille - scarabée d'or</string>
+	<string key="ScarabMeleeWeapons_GroupName">Armes de corps à corps - scarabée d'or</string>
+	<string key="ScarabMagicStaves_GroupName">Bâtons magiques - scarabée d'or</string>
+	<string key="ScarabStaffFire_GroupName">Bâtons de feu - scarabée d'or</string>
+	<string key="ScarabStaffLife_GroupName">Bâtons de glace - scarabée d'or</string>
+	<string key="ScarabGauntletIce_GroupName">Gantelets de glace - scarabée d'or</string>
+	<string key="ScarabGauntletVoid_GroupName">Gantelets du néant - scarabée d'or</string>
+	<string key="ScarabRangedWeapons_GroupName">Armes à distance - scarabée d'or</string>
+	<string key="ScarabArmorPlate_GroupName">Armure de plates - scarabée d'or</string>
+	<string key="ScarabArmorFur_GroupName">Armure en fourrure - scarabée d'or</string>
+	<string key="ScarabArmorCloth_GroupName">Armure en tissu - scarabée d'or</string>
+	<string key="ScarabArmorLeather_GroupName">Armure en cuir - scarabée d'or</string>
+	<string key="ScarabArmorRobe_GroupName">Robes - scarabée d'or</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Armure de plates lourde - scarabée d'or</string>
+	<string key="WinterConvergence_GroupName">(Événement) Convergence hivernale</string>
+	<string key="NightveilHallow_GroupName">(Événement) Voile nocturne</string>
+	<string key="SummerMedleyfaire_GroupName">(Événement) Mélégies estivales</string>
 </resources>
 

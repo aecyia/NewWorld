@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Muebles</string>
 	<string key="inv_outpostrush">Puesto de avanzada</string>
 	<string key="inv_pvparenas">Arenas PvP</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runas</string>
 	<string key="inv_crafting_modifiers">Mods creación</string>
 	<string key="inv_repair_kit_count">{count} kit de reparación</string>
 	<string key="inv_repair_kits">Kits de reparación</string>
@@ -64,13 +65,13 @@
 	<string key="inv_equipLoadNormal">Mediano</string>
 	<string key="inv_equipLoadSlow">Pesado</string>
 	<string key="inv_equipLoadOverburdened">Exceso de equipamiento</string>
-	<string key="inv_equipLoadTooltip">El peso combinado de la armadura y el escudo que llevas equipados determina tu carga de equipo. Cada carga de equipo ofrece una capacidad de esquivar diferente y otras bonificaciones.</string>
-	<string key="inv_equipLoadFastTooltip">Al usar una armadura liviana, ruedas rápidamente para esquivar, cubres grandes distancias y consumes {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} de resistencia. Infliges un {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % de daño adicional y tienes una bonificación adicional de curación del 30 %.</string>
-	<string key="inv_equipLoadNormalTooltip">Si usas una armadura de peso mediano, saltas rápidamente para esquivar y consumes {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} de resistencia. Las despotenciaciones de control de multitudes que aplicas duran un 10 % más. Infliges un {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % de daño adicional.</string>
-	<string key="inv_equipLoadSlowTooltip">Al usar una armadura pesada, te mueves lentamente para esquivar y consumes {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} de resistencia. La estabilidad de tu bloqueo aumenta en un 15 % y las despotenciaciones de control de multitudes que aplicas duran un 20 % más. Tu curación tiene una reducción del -30 %.</string>
+	<string key="inv_equipLoadTooltip">El peso combinado de la armadura y el escudo que llevas equipados determina tu carga de equipo. Cada carga de equipo ofrece una capacidad de esquivar diferente y varios otros efectos.</string>
+	<string key="inv_equipLoadFastTooltip">Ruedas rápidamente para esquivar y recorres una gran distancia. Esta carga de equipo tiene los efectos siguientes: \n• Coste de resistencia de esquivar: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Daño base: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % de aumento\n• Sanación a objetivos: +30 %\n•Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, la distancia de esquivar se reduce en un 20 % y no puedes correr.</string>
+	<string key="inv_equipLoadNormalTooltip">Saltas rápidamente para esquivar. Esta carga de equipo tiene los efectos siguientes: \n• Coste de resistencia de esquivar: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Daño base: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % de aumento\n• Despotenciaciones de control de multitudes: +10 % de duración\n•Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, la distancia de esquivar se reduce en un 20 % y no puedes correr.</string>
+	<string key="inv_equipLoadSlowTooltip">Esquivas con un paso en una dirección. Esta carga de equipo tiene los efectos siguientes: \n• Coste de resistencia de esquivar: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Estabilidad de bloqueo: +15 %\n• Despotenciaciones de control de multitudes: +20 % de duración\n• Sanación a objetivos: -30 %\n•Durante {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s después de recibir un golpe cuerpo a cuerpo, no puedes correr.</string>
 	<string key="inv_equipLoadOverburdenedTooltip">Si superas la carga de equipo máxima, no podrás esquivar, correr ni usar habilidades. Debes desequipar algunos objetos.</string>
 	<string key="inv_equipLoadEncumberedTooltip">Llevas demasiadas cosas en el inventario. Cuando tengas carga excesiva, no importa cuál sea tu carga de equipamiento. No puedes correr ni esquivar y perderás más resistencia al bloquear. Debes quitar algunos objetos de tu bolso.</string>
-	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Tienes más equipamiento que tu carga máxima permitida. No puedes esquivar ni correr, y se te penalizará significativamente la velocidad de recarga de resistencia. Debes desequipar algunos objetos.</string>
+	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Tienes más equipamiento que tu carga máxima permitida. No puedes esquivar ni correr y se te penalizará significativamente la velocidad de recarga de resistencia. Debes desequipar algunos objetos.</string>
 	<string key="inv_equipLoadFastNotification">La carga de equipamiento es ligera.</string>
 	<string key="inv_equipLoadNormalNotification">La carga de equipamiento es mediana.</string>
 	<string key="inv_equipLoadSlowNotification">La carga de equipamiento es pesada.</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Si desarmas este objeto, obtendrás {min}-{max} {itemName} y &lt;font color="#f25d5d"&gt;{numRepairParts} piezas de repuesto.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Si desarmas este objeto, obtendrás {numRepairParts} piezas de repuesto.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Si desarmas este objeto obtendrás {numRepairParts} piezas de reparación y {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Estás en el límite de monedas.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Se obtuvo {entry1}</string>
 	<string key="salvage_notification_obtained_2">Se obtuvo {entry1} y {entry2}</string>
 	<string key="salvage_notification_obtained_3">Se obtuvo {entry1}, {entry2} y {entry3}</string>

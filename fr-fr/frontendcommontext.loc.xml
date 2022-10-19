@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Votre compte a été bloqué pour activité suspecte. Veuillez contacter le service client pour de plus amples informations.</string>
 	<string key="mm_loginservices_warning_title">ATTENTION</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Le nom de votre personnage est considéré comme inapproprié. Il vous sera demandé de le renommer lors de votre reconnexion.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Le nom de votre compagnie est considéré comme inapproprié et a été modifié. Vous pouvez la renommer à tout moment dans le menu Compagnie de l'IU [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Le nom de votre compagnie est considéré comme inapproprié et a été modifié. Vous pouvez la renommer à tout moment dans le menu Compagnie de l'IU [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">Vous avez été signalé(e) pour piratage.</string>
 	<string key="mm_loginservices_warning_BannedCheating">Vous avez été signalé(e) pour avoir triché.</string>
 	<string key="mm_loginservices_warning_BannedExploit">Vous avez été signalé(e) pour avoir exploité un bug.</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Vous avez été signalé(e) pour avoir divulgué du contenu protégé.</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Vous avez été signalé(e) pour comportement perturbateur.</string>
 	<string key="mm_loginservices_warning_OffensiveName">Le nom de votre personnage est considéré comme inapproprié. Il vous sera demandé de le renommer lors de votre reconnexion.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Le nom de votre compagnie est considéré comme inapproprié et a été modifié. Vous pouvez la renommer à tout moment dans le menu Compagnie de l'IU [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Le nom de votre compagnie est considéré comme inapproprié et a été modifié. Vous pouvez la renommer à tout moment dans le menu Compagnie de l'IU [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">Vous avez été signalé(e) pour avoir triché.</string>
 	<string key="mm_loginservices_warning_Exploit">Vous avez été signalé(e) pour avoir exploité un bug.</string>
 	<string key="mm_loginservices_warning_Botting">Vous avez été signalé(e) pour activité de bot.</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Connexion refusée : Introduction au jeu déjà effectuée.</string>
 	<string key="mm_loginservices_InternalError">Dysfonctionnement de la connexion, veuillez réessayer plus tard.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Dysfonctionnement du serveur de connexion, veuillez réessayer plus tard.</string>
+	<string key="mm_loginservices_InternalFailureException">Dysfonctionnement du serveur de connexion, veuillez réessayer plus tard.</string>
 	<string key="mm_loginservices_CredentialsError">ID du service d'identification incorrect.</string>
 	<string key="mm_loginservices_NameLengthError">La longueur de ce nom est incorrecte.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Ce nom est déjà utilisé.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Impossible de se connecter au service d'identification. Reconnexion, veuillez patienter...</string>
 	<string key="mm_loginservices_TooManyRequestsException">Serveur de connexion saturé, veuillez réessayer plus tard.</string>
 	<string key="mm_loginservices_NoConnection">Le service d'identification n'est pas disponible pour le moment. Cela peut indiquer un problème de connexion à Internet. Reconnexion, veuillez patienter...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Échec de l'authentification de Steam.\nVeuillez quitter le jeu, relancer Steam et réessayer.</string>
+	<string key="mm_loginservices_NO_GATEWAY">Configuration de connexion invalide.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Vous faites la queue pour accéder au monde ouvert...</string>
 	<string key="mm_loginservices_location_FTUE000">Vous faites la queue en tant que nouveau joueur...</string>
 	<string key="mm_loginservices_location_FTUE9011">Vous faites la queue en tant que nouveau joueur...</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Erreur de serveur : Échec du démarrage de la copie.</string>
 	<string key="mm_rejected_Server_Crash">Perte de connexion au serveur inattendue. Veuillez réessayer plus tard.</string>
 	<string key="mm_rejected_Free_Session_Expired">La période de jeu gratuit est terminée.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Le ticket de connexion est incorrect pour le monde sélectionné.</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Accès refusé : Accès à ce monde interdit.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Éjecté</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Vous avez été éjecté de la partie.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Vous avez été éjecté de la partie parce que vous étiez absent depuis trop longtemps.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">Fonctionnement</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">JcJ</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Chaîne JcJ</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Jalon {checkpoint} :&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs, en participant aux arènes 3 contre 3 et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Jalon {checkpoint} :&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs et en participant à des arènes 3 contre 3.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Vous devez terminer tous les jalons avant de pouvoir commencer une nouvelle chaîne. Si vous choisissez une récompense à chaque jalon, vous démarrerez automatiquement la chaîne suivante.\n\nChaque jalon pour lequel vous avez renoncé à choisir une récompense vous octroiera 300 sels d'Azoth au démarrage de la chaîne suivante.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Les choix de récompenses sont révélés en atteignant le jalon.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Chaînes terminées</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Sel d'Azoth</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Récompenses</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">Une chaîne de récompenses JcJ contient des récompenses liées au JcJ obtenues en accomplissant des activités JcJ en jeu. Une chaîne peut être terminée et recommencée pour obtenir une sélection de récompenses différente. Plus vous terminez de chaînes, meilleures sont les récompenses proposées.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs, en participant aux arènes 3 contre 3 et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs et en participant à des arènes 3 contre 3.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Le sel d'Azoth est la monnaie vous permettant d'acquérir des récompenses de la chaîne JcJ. Vous pouvez obtenir du sel d'Azoth en menant des guerres, en vous battant en Déferlante, en participant aux arènes 3 contre 3, en accomplissant des missions JcJ, en tuant des joueurs dans le monde ouvert et en gagnant de l'EXP en mode JcJ.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Choisissez entre des récompenses uniques telles que des armures et des armes de prestige, des émotes, de la monnaie et des consommables.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; chaînes terminées</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Équipement nommé\n+Monnaie supplémentaire</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Équipement de prestige\n+Émote\n+Packs de fioles de sel</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Gypse\n+Monnaie supplémentaire\n+Éclats sombres supplémentaires</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Émote\n+Éclats sombres supplémentaires </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Émote\n+Éclats sombres supplémentaires</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Réserve de récompenses : \n+Émote \n+Monnaie supplémentaire \n+Objets lâchés supplémentaires</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Jalon de chaîne {milestone} à :</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Jalon de chaîne {milestone}</string>
@@ -446,7 +451,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recycler cet objet vous permettra de récupérer {min}-{max} x {itemName} et {numRepairParts} pièces de réparation. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recycler cet objet vous permettra de récupérer {min}-{max} x {itemName} et {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recycler cet objet vous permettra de récupérer {min}-{max} x {itemName}, {numRepairParts} pièces de réparation et {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Vous aurez une petite chance de récupérer la gemme sertie sur cet objet.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front"> Vous aurez une chance de récupérer la gemme sertie sur cet objet.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Il est possible d'acquérir des objets supplémentaires tels que : {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Recycler cet objet vous permettra d'apprendre la recette : {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Vous connaissez déjà la recette : {recipeName}.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Attention : Windows 7 détecté. Pour un fonctionnement optimal, il est recommandé d'utiliser Windows 10 ou une version ultérieure. Il est possible que votre expérience de jeu soit affectée.</string>
 	<string key="minspec_fail_try_again">Consultez le registre d'échec afin de déterminer quel élément de configuration n'atteint pas le minimum requis.</string>
 	<string key="ui_rename_character">Renommage du personnage</string>
+	<string key="ui_rename">Renommer</string>
 	<string key="ui_rename_character_title">Nom du personnage</string>
 	<string key="ui_rename_report_description">Le nom de votre personnage est considéré comme inapproprié. On vous demandera de le renommer lors de votre reconnexion.</string>
 	<string key="ui_rename_required">Vous devez renommer &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">No se puede agregar ninguna bonificación a este objeto.</string>
 	<string key="crafting_tree_learned">Aprendido</string>
 	<string key="crafting_tree_unlearned">No aprendido</string>
+	<string key="crafting_quality_fixed">Esta barra indica el rango de puntuación de equipo que el objeto creado puede tener.</string>
 	<string key="crafting_quality_desc">Esta barra indica el rango de puntuación de equipo que el objeto creado puede tener. La base la establece tu nivel de habilidad. Puedes usar objetos de distintas clases y rarezas para ajustar este rango.</string>
+	<string key="crafting_quality_expertise">Esta barra indica el rango de puntuación del equipo que el objeto creado puede tener. La puntuación del equipo para este objeto se calculará según tu pericia de {expertiseName} y nivel de jugador.\n(Pericia de {expertiseName} actual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">La puntuación del equipo para este objeto se calculará según tu pericia de {expertiseName} y nivel de jugador.\n(Pericia de {expertiseName} actual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Recetas de misiones</string>
 	<string key="crafting_select_resources">Seleccionar recursos</string>
 	<string key="new_recipe_unlocked">NUEVA RECETA DESBLOQUEADA</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Pigmentos.</string>
 	<string key="ui_armordyes">Pigmentos para armaduras</string>
 	<string key="ui_craftprogress">Fabricando {amount} de {maximum}</string>
-	<string key="ui_crafting_summary_header">Resultado de la fabricación</string>
+	<string key="ui_crafting_summary_header">Objetos fabricados</string>
 	<string key="ui_crafted_from">Fabricado a partir de {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Ordenar por nombre</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">SELECCIONAR {type}</string>
 	<string key="crafting_discount_base">Tarifa básica</string>
 	<string key="ui_crafting_resource_origin_message">Nota: Los recursos utilizados se toman primero de tu inventario, y luego del almacenamiento de tu asentamiento.</string>
+	<string key="cr_firstcraft_bonusavailable">Bonif. de 1.ª fabricación disponible</string>
+	<string key="cr_firstcraft_bonus">Bonificación de primera fabricación</string>
+	<string key="cr_tradeskillbonus_title">Bonificación de EXP de habilidad de oficio</string>
+	<string key="cr_tradeskillbonus_basecraft">Bonificación de EXP de habilidad de oficio</string>
+	<string key="cr_tradeskillbonus_description">Obtienes una bonificación adicional de EXP de habilidad de oficio por fabricar con una receta por primera vez.</string>
 </resources>
 

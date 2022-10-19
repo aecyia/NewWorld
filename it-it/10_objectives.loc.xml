@@ -226,7 +226,7 @@
 	<string key="1030_0205_d_01_gotoPOI" speaker="UI – Tracker Text">Dirigiti verso {POITags} per trovare le setole di cinghiale</string>
 	<string key="1030_0205_perfectcompanion_title" speaker="UI - Quest Title">Assistente perfetto</string>
 	<string key="1030_0205_perfectcompanion_description" speaker="UI – Quest Description">Recupera delle setole di cinghiale e portale a Tosch a Scogliere della sciabola, così che possa domare l'animale domestico perfetto!</string>
-	<string key="1030_0205_perfectcompanion_start_prompt" speaker="UI – Player Prompt">"Che cos'è?"</string>
+	<string key="1030_0205_perfectcompanion_start_prompt" speaker="UI – Player Prompt">"Ovvero?"</string>
 	<string key="1030_0205_perfectcompanion_proposal" speaker="Tosch the Tamer – Cutlass Keys" name="TamerTosch" gender="m" VO="1030_0205_perfectcompanion_proposal" VO_Status="Recorded" dialogue-next="@1030_0205_perfectcompanion_proposal_next">Voglio trovare l'animale domestico perfetto! Ho fatto un elenco di tutte le caratteristiche che dovrebbe avere. Pelle robusta e bella, mi tiene i piedi caldi di notte, mangia qualsiasi cosa e, inoltre, se mai dovesse ribellarsi e le cose non andassero come previsto, cotto è delizioso...</string>
 	<string key="1030_0205_perfectcompanion_proposal_prompt" speaker="UI – Player Prompt">"Non c'è bisogno che tu mi legga l'intera lista."</string>
 	<string key="1030_0205_perfectcompanion_proposal_next" speaker="Tosch the Tamer – Cutlass Keys" name="TamerTosch" gender="m" VO="1030_0205_perfectcompanion_proposal_next" VO_Status="Recorded" dialogue-prompt="@1030_0205_perfectcompanion_proposal_prompt">Certo che no! Devi solo sapere che dovrai partire alla ricerca di setole di cinghiale. \n\nÈ l'unico modo per scoprire se ho davvero ragione.</string>
@@ -342,9 +342,9 @@
 	<string key="1033_0202_trailofthemisanthrope_incomplete" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_incomplete" VO_Status="Recorded">Non riesco ancora a crederci. Dovevo immaginarlo che Broadbin mi avrebbe giocato un tiro del genere. \n\nVai a cercare lui e i suoi complici e recupera il nostro tesoro!</string>
 	<string key="1033_0202_trailofthemisanthrope_complete" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete" VO_Status="Recorded" dialogue-next="@1033_0202_trailofthemisanthrope_complete_next">Ora sì che si ragiona! Guarda quanto oro! E hai anche recuperato il forziere che lo conteneva! \n\nQualsiasi cacciatore di tesori vorrebbe averti al proprio fianco! Sei molto meglio di Broadbin, poco ma sicuro! Non so proprio come ringraziarti!</string>
 	<string key="1033_0202_trailofthemisanthrope_complete_prompt" speaker="UI – Player Prompt">"Cosa ne farai della tua metà?"</string>
-	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">Tutte queste ricchezze mi serviranno per una casa da usare come base per ulteriori cacce al tesoro! \n\nOra la domanda è dove comprarne una. Potrei acquistarla qui, ma ho sentito che anche a Acquafetida è pieno di tesori dei pirati.</string>
+	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">Tutte queste ricchezze mi serviranno per una casa da usare come base per ulteriori cacce al tesoro! \n\nOra la domanda è dove comprarne una. Potrei acquistarla qui, ma ho sentito che anche ad Acquafetida è pieno di tesori dei pirati.</string>
 	<string key="1034_0201_d_01_gotoPOI" speaker="UI – Tracker Text">Dirigiti verso i Fondali condannati e cerca la Procellaria per recuperare il sestante di Billiam</string>
-	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Sconfiggi i fantasmi del vecchio equipaggio di Billiam</string>
+	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Sconfiggi i fantasmi del vecchio equipaggio di Billiam presso Campi del fulmine</string>
 	<string key="1034_0201_d_03_have_item" speaker="UI – Tracker Text">Da un forziere sulla Procellaria, situata nei Fondali condannati, raccogli: {itemName}</string>
 	<string key="1034_0201_motherocean_title" speaker="UI - Quest Title">Madre oceano</string>
 	<string key="1034_0201_motherocean_description" speaker="UI – Quest Description">Recupera il sestante di Billiam dal relitto della Procellaria, situato nei Fondali condannati. Restituisci il sestante a Billiam il Nostalgico a Scogliere della sciabola.</string>
@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Impronte oscurate</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Raccogli cuoio di Bendatirata inzuppato da Rifugio Bendatirata, imbottitura ovattata della Palude da Karburg ed essenza d'ombra dalla Caverna dei Tagliagole. Poi visita una postazione di accessoristica di livello 3 per produrre gli Stivali dell'intento nascosto.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Ricetta consegnata.</string>
-	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Dirigiti verso {POITags} nelle Scogliere della sciabola per raccogliere cuoio di Bendatirata inzuppato</string>
-	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Dirigiti verso {POITags} nella Palude del tessitore per raccogliere imbottitura ovattata della Palude</string>
-	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Dirigiti verso {POITags} a Sponda inquieta per raccogliere essenza d'ombra</string>
+	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Dirigiti verso {POITags} nelle Scogliere della sciabola per raccogliere cuoio di Bendatirata inzuppato</string>
+	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Dirigiti verso {POITags} nella Palude del tessitore per raccogliere imbottitura ovattata della Palude</string>
+	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere essenza d'ombra</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Visita una postazione di accessoristica</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Produci: {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Tenebre avvolgenti</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Raccogli scampoli di vela della tempesta da Rottame saccheggiato, pece anti-logoramento da Vendetta di Minnow e fermagli di squalo per cacciatori da Lo squalo predone. Poi visita una postazione di accessoristica di livello 3 per produrre la Giacca dell'intento nascosto.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Ricetta consegnata.</string>
-	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Dirigiti verso {POITags} a Sponda inquieta per raccogliere scampoli di vela della tempesta</string>
-	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Dirigiti verso {POITags} a Sponda inquieta per raccogliere pece anti-logoramento</string>
-	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Dirigiti verso {POITags} a Sponda inquieta per raccogliere fermagli di squalo per cacciatori</string>
+	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere scampoli di vela della tempesta</string>
+	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere pece anti-logoramento</string>
+	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere fermagli di squalo per cacciatori</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Visita una postazione di accessoristica</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Produci: {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Celato nel crepuscolo</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Raccogli estratto di muschio torbido da Fornace, sartiame del naufrago da Sponde del naufragio e scaglie di pietra notturna da Eta Aurigae. Poi visita una postazione di accessoristica di livello 3 per produrre i Pantaloni dell'intento nascosto.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Ricetta consegnata.</string>
-	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Dirigiti verso {POITags} a Sponda inquieta per raccogliere estratto di muschio torbido</string>
-	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere sartiame del naufrago</string>
-	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere scaglie di pietra notturna</string>
+	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere estratto di muschio torbido</string>
+	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere sartiame del naufrago</string>
+	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere scaglie di pietra notturna</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Visita una postazione di accessoristica</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Produci: {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Afferrare le ombre</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Raccogli cuoio multistrato del Guardiano da Subra, tramonto risucchiante da Vettasnella e tinta del crepuscolo da Monte Altopasso. Poi visita una postazione di accessoristica di livello 3 per produrre i Guanti dell'intento nascosto.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Ricetta consegnata.</string>
-	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere cuoio multistrato del Guardiano</string>
-	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere tramonto risucchiante</string>
-	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere tinta del crepuscolo</string>
+	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere cuoio multistrato del Guardiano</string>
+	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere tramonto risucchiante</string>
+	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere tinta del crepuscolo</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Visita una postazione di accessoristica</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Produci: {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">Notte ombrosa</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Raccogli filo di oricalco impregnato dalla Miniera delle scorie inferiore, piume imbrattate da Genesi di Campo ripicca e tessuto dell'ombra da Scogliera dei rovi. Poi visita una postazione di accessoristica di livello 3 per produrre il Cappello dell'intento nascosto.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Ricetta consegnata.</string>
-	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere filo di oricalco impregnato</string>
-	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere piume imbrattate</string>
-	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere tessuto dell'ombra</string>
+	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere filo di oricalco impregnato</string>
+	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere piume imbrattate</string>
+	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Frutteto dell'Eden per raccogliere tessuto dell'ombra</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Visita una postazione di accessoristica</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Produci: {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Temperamento incisivo</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">Affilare una lama con una mola è una vera e propria arte.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Trova dell'olio per temprare la bestia: con l'acqua rovineresti la lama.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">Una lama di buona fattura è la migliore amica di un capitano, indipendentemente dallo scopo per il quale verrà utilizzata.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Dirigiti verso {POITags} a Sponda inquieta per raccogliere cuoio per else</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Raccogli {itemName} dai nemici: {targetName}</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Dirigiti verso {POITags} nella Grande Breccia per raccogliere la mola</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Raccogli {itemName} dai nemici: {targetName}</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere olio temprante</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Dai forzieri e dai nemici {targetName} raccogli: {itemName}</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere la lama dell'Olonese</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Da {targetName} raccogli: {itemName}</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Sponda inquieta per raccogliere cuoio per else</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Raccogli {itemName} dai nemici: {targetName}</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Dirigiti verso {POITags} nella Grande Breccia per raccogliere la mola</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Raccogli {itemName} dai nemici: {targetName}</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere olio temprante</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Dai forzieri e dai nemici {targetName} raccogli: {itemName}</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Dirigiti verso {POITags} a Valle del cordoglio per raccogliere la lama dell'Olonese</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Da {targetName} raccogli: {itemName}</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Ricetta consegnata.</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Visita una fucina</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Produci: {itemName}</string>

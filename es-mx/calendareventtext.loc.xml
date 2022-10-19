@@ -12,11 +12,15 @@
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NUEVA PISTA DE RECOMPENSAS DE PVP</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">La pista de recompensas de PvP contiene recompensas específicas de PvP por hacer actividades de PvP en el juego. Esta pista se puede completar y repetir para obtener una variedad de recompensas diferentes. Las recompensas de mayor prestigio estarán disponibles a medida que se completen más pistas.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP DE PVP</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progresa en la pista por medio de misiones de PvP, guerras, avances de puesto de avanzada, capturas de fuertes, derrotas a otros jugadores, arenas de 3v3 y ganar EXP cuando estés marcado para PvP.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progresa en la pista por medio de misiones de PvP, guerras, avances a un puesto de avanzada, capturas de fuertes, derrotas a otros jugadores y arenas de 3v3.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SAL DE AZOTH</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">La sal de azoth es una moneda que te permite adquirir recompensas de la pista de PvP. Puedes obtener sal de azoth por medio de guerras, avances de puesto de avanzada, arenas de 3v3, misiones de PvP, eliminaciones de jugadores en el mundo abierto y EXP cuando estés marcado para PvP.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Elige entre recompensas únicas como armaduras y armas de prestigio, gestos, monedas y consumibles.</string>
+	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Principiante</string>
+	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Centinela nocturno</string>
+	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Consagración del velo nocturno</string>
+	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Temp">Reputación del evento</string>
 	<string key="ui_event_weapon_xp_title">BONIFICACIÓN DE EXP DE ARMAS DE ESTA SEMANA</string>
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa el:&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">BONIFICACIÓN DE EXP DE RECOLECCIÓN DE ESTA SEMANA</string>
@@ -27,8 +31,32 @@
 	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa el:&lt;/font&gt;</string>
 	<string key="ui_event_extravaganza_title">FIESTA DE BONIFICACIÓN DE EXP</string>
 	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;La bonificación se activa el:&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_title">ACTIVIDADES DE FIN DE JUEGO</string>
+	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ffffff" &gt;Recientemente, alcanzaste el nivel máximo. Todavía queda mucho para hacer.&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_bullet1_title">Expediciones de fin de juego</string>
+	<string key="ui_end_game_panel1_bullet1_text">Expediciones de fin de juego, incluidas mutaciones mensuales rotativas para obtener las mejores recompensas.</string>
+	<string key="ui_end_game_panel1_bullet2_title">Avance a un puesto de avanzada</string>
+	<string key="ui_end_game_panel1_bullet2_text">Avance a un puesto de avanzada, un campo de batalla de 20 vs. 20.</string>
+	<string key="ui_end_game_panel1_bullet3_title">Arenas de élite</string>
+	<string key="ui_end_game_panel1_bullet3_text">Puntos de referencia de élite, arenas de prueba y desafíos de mundo abierto para grupos.</string>
+	<string key="ui_end_game_panel2_title">MEJORAR TU EQUIPO</string>
+	<string key="ui_end_game_panel2_subtitle">En el nivel 60, ahora puedes &lt;font color="#ffdb7a"&gt;mejorar tu equipo&lt;/font&gt; para que tenga puntuaciones más altas. Para hacerlo, deberás cosechar aljez en varias actividades y ubicaciones de nivel 60. Ve a un &lt;font color="#ffdb7a"&gt;horno de aljez&lt;/font&gt; para obtener más información.</string>
+	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Información sobre las actividades de fin de juego</string>
 	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Buscador de grupo de expedición.</string>
 	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">¡Disponible ahora desde el mapa! Puedes tener acceso a todas las expediciones (siempre y cuando las hayas visitado una vez) haciendo clic en el icono de expediciones. Desde aquí puedes explorar o publicar salas de espera de Buscador de grupo o ingresar directamente en la expedición con tu grupo existente.</string>
 	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Acerca de Buscador de grupo</string>
+	<string key="ui_event_brimstone_panel1_title" rel_version="Event_Halloween_Temp">Celebración del primer aniversario</string>
+	<string key="ui_event_brimstone_panel1_subtitle" rel_version="Event_Halloween_Temp">¡Celebra con nuevas zonas, misiones, enemigos, habilidades y recompensas!</string>
+	<string key="ui_event_brimstone_panel1_bullet1_title" rel_version="Event_Halloween_Temp">Contenido nuevo</string>
+	<string key="ui_event_brimstone_panel1_bullet1_text" rel_version="Event_Halloween_Temp">Ármate con las flamantes gran espada y gema con forma de corazón y viaja a los desiertos de Arenas de azufre, o comienza con la nueva misión de la historia principal.</string>
+	<string key="ui_event_brimstone_panel1_bullet2_title" rel_version="Event_Halloween_Temp">Evento nuevo</string>
+	<string key="ui_event_brimstone_panel1_bullet2_text" rel_version="Event_Halloween_Temp">Salvatore, el monje loco, ha establecido su morada en la plaza del pueblo de Aeternum para advertir de un terrible peligro.</string>
+	<string key="ui_event_brimstone_panel1_bullet3_title" rel_version="Event_Halloween_Temp">Cosméticos nuevos</string>
+	<string key="ui_event_brimstone_panel1_bullet3_text" rel_version="Event_Halloween_Temp">Los objetos de Arenas de azufre, gran espada y consagración del velo nocturno ya están disponibles en la tienda. ¡No olvides recoger tus diseños de aniversario gratis!</string>
+	<string key="ui_event_brimstone_panel2_title" rel_version="Event_Halloween_Temp">Arenas de Azufre</string>
+	<string key="ui_event_brimstone_panel2_subtitle" rel_version="Event_Halloween_Temp">Con las runas de habilidad de gran espada y gema con forma de corazón, explora la nueva zona de Arenas de azufre y la expedición de la Enéada, o adéntrate en la misión renovada de la historia principal, con nuevas ubicaciones, PNJ, desafíos y recompensas.\n\nPara acceder a las misiones de la historia principal en Arenas de azufre, los jugadores deben haber completado la misión "Naturaleza abnegada" en Edengrove y la misión "Trancos de las arenas", a la que se puede acceder desde varias ubicaciones.</string>
+	<string key="ui_event_brimstone_panel3_title" rel_version="Event_Halloween_Temp">Consagración del velo nocturno</string>
+	<string key="ui_event_brimstone_panel3_subtitle" rel_version="Event_Halloween_Temp">Comienza el 18/10/22 a las 12:01 a. m. PST | Finaliza el 1/11/22 a las 12:01 a. m. PST\n\n¡Presencias en la niebla! ¡Aullidos en la noche! ¡El demonio Baalphazu, el Marqués del Terror, y su horda de calamalditos macabros están convirtiendo a Aeternum en una verdadera pesadilla! Ayuda a Salvatore, el loco, en su misión para acabar con estos horribles espantos y recoge un botín de recompensas de duración limitada de la consagración del velo nocturno.\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(La misión se desbloquea en el nivel 35).&lt;/font&gt;</string>
+	<string key="ui_event_brimstone_button_about" rel_version="Event_Halloween_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Acerca de la celebración del aniversario</string>
 </resources>
 

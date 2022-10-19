@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Ha ocurrido un error de emparejamiento inesperado.</string>
 	<string key="ui_game_mode_disabled">Este modo de juego no está disponible ahora mismo.</string>
 	<string key="ui_dungeon_enter_info">Debe entrar &lt;font color={color}&gt;al menos una persona&lt;/font&gt; para mantener la expedición abierta. ¿Quieres teletransportarte ahora?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La prueba del alma está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
 	<string key="ui_dungeon_enter_info_entered">¡La expedición ya está abierta!\n&lt;font color={color}&gt;¿Quieres teletransportarte ahora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duelo</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} no es un nombre de jugador válido.</string>
@@ -84,7 +85,8 @@
 	<string key="ui_outpost_rush_title">Asalto a puesto remoto</string>
 	<string key="ui_outpost_rush_invite_status">¡Acepta para unirte a la batalla!</string>
 	<string key="ui_outpost_rush_signup_title">ASALTO A PUESTO REMOTO</string>
-	<string key="ui_outpost_rush_signup_desc">El &lt;font color="#ffe940"&gt;Asalto a puesto remoto&lt;/font&gt; es un enfrentamiento de 20 vs. 20 que se lleva a cabo en amplias islas con tres puestos remotos.\nLos jugadores compiten por capturarlos y defenderlos el mayor tiempo posible para aumentar la puntuación de su equipo.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;El Asalto a puesto remoto&lt;/font&gt; es un enfrentamiento 20 vs. 20 que se lleva a cabo en una extensa isla con tres puestos remotos.\nLos equipos compiten capturando y defendiendo estos puestos remotos para aumentar su puntuación.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;El Asalto a puesto remoto&lt;/font&gt; es un enfrentamiento 20 vs. 20 que se lleva a cabo en una extensa isla con tres puestos remotos.\nLos equipos compiten capturando y defendiendo estos puestos remotos para aumentar su puntuación.\nEste modo tiene &lt;font color="#ffe940"&gt;escalado de puntuación de equipo&lt;/font&gt;, lo que hace que todos los equipos con menos de 600 de puntuación de equipo pasen a tener 600.</string>
 	<string key="ui_outpost_rush_signup_goal1">Captura y defiende puestos remotos para aumentar la puntuación de tu equipo.</string>
 	<string key="ui_outpost_rush_signup_goal2">El primer equipo en llegar a 1000 puntos gana.</string>
 	<string key="ui_outpost_rush_signup_goal3">Utiliza los recursos especiales repartidos por la isla para atacar y defender.</string>
@@ -164,7 +166,7 @@
 	<string key="ui_outpost_rush_tutorial_desc4">La baronesa Hain es el fantasma de una noble que murió antaño que deambula por la isla. ¡Acaba con ella para conseguir un potenciador que incrementa la defensa de tu equipo y evita que la puntuación del enemigo aumente!</string>
 	<string key="ui_outpost_rush_tutorial_level_requirement">Para participar en Asalto a puesto remoto, es necesario haber alcanzado el &lt;font color="#ffe294"&gt;nivel {level}&lt;/font&gt;.</string>
 	<string key="ui_outpost_rush_locked">Bloqueado</string>
-	<string key="ui_outpost_rush_select_summoning_stone">Selecciona una piedra de invocación</string>
+	<string key="ui_outpost_rush_select_summoning_stone">Selecciona una piedra</string>
 	<string key="ui_outpost_rush_barrier">Barrera del fuerte</string>
 	<string key="ui_or_total_score">PUNTUACIÓN TOTAL</string>
 	<string key="ui_or_points_from">PUNTOS DE</string>
@@ -223,7 +225,9 @@
 	<string key="emote_unable_to_use_emote">No se pueden usar gestos en este modo de juego</string>
 	<string key="ui_durability_loss_outpost_rush">Estás en Asalto a puesto remoto. Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
 	<string key="ui_durability_loss_war">Estás en una guerra (o invasión). Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
-	<string key="ui_item_durability_loss">Todo el equipo de tu inventario ha sufrido daños debido a tu muerte.</string>
+	<string key="ui_item_durability_loss">Tu equipo ha sufrido daños tras tu muerte.</string>
+	<string key="ui_item_durability_dungeon">Estás en una expedición. Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Estás en una arena. Aunque hayas muerto, tu equipo no ha sufrido daños.</string>
 	<string key="ui_item_durability_loss_pvp">Te ha matado otro jugador. Tu equipo ha sufrido un daño reducido.</string>
 	<string key="ui_in_spectators_box">En el palco de espectadores</string>
 	<string key="ui_in_spectators_box_description">Habilidades desactivadas</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Cambiando de bando</string>
 	<string key="ui_rounds_won">Rondas ganadas</string>
 	<string key="ui_see_through_label">Modo transparente</string>
+	<string key="ui_invasion_leave">Abandonar invasión</string>
 </resources>
 

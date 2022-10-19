@@ -34,7 +34,7 @@
 	<string key="ui_voicechatsettings">Sprach-Chat</string>
 	<string key="ui_openvoicechatsettings">Einstellung für Sprach-Chat öffnen</string>
 	<string key="ui_invertlook">Kamerasteuerung umkehren</string>
-	<string key="ui_invertlook_desc">Y-Achse umkehren.</string>
+	<string key="ui_invertlook_desc">Y-Achse umkehren</string>
 	<string key="ui_looksensitivity">Kameraempfindlichkeit</string>
 	<string key="ui_looksensitivity_desc">Bewegungsgeschwindigkeit der Kamera ändern.</string>
 	<string key="ui_window_mode">Darstellungsmodus</string>
@@ -61,7 +61,7 @@
 	<string key="ui_graphics_objects">Objektdetails</string>
 	<string key="ui_graphics_objects_description">Voreinstellungen für die Qualität der Objekte im Spiel.</string>
 	<string key="ui_graphics_postprocessing">Postprocessing-Details</string>
-	<string key="ui_graphics_postprocessing_description">Voreinstellungen für die Qualität des Postprocessings im Spiel.</string>
+	<string key="ui_graphics_postprocessing_description">Voreinstellungen für die Post-Processing-Qualität im Spiel.</string>
 	<string key="ui_graphics_shadows">Schattendetails</string>
 	<string key="ui_graphics_shadows_description">Voreinstellungen für die Qualität der Schatten im Spiel, Beleuchtung ausgenommen.</string>
 	<string key="ui_graphics_terrain">Terraindetails</string>
@@ -108,7 +108,7 @@
 	<string key="ui_streamermode_server_currency">Talerübertragungen blockieren</string>
 	<string key="ui_streamermode_server_currency_desc">Talerübertragungen und -benachrichtigungen blockieren.</string>
 	<string key="ui_streamermode_server_music_invite" rel_version="Feature_MusicalPerformances">Musikeinladungen blockieren</string>
-	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Einladungen und Benachrichtigungen zu Musikvorführungen blockieren</string>
+	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Einladungen und Benachrichtigungen zu Musikvorführungen blockieren.</string>
 	<string key="ui_voicechatmode">Sprachchatmodus</string>
 	<string key="ui_voicechatmode_desc">Der aktuelle Sprachchatmodus.</string>
 	<string key="ui_voicechatmode_enabled">Aktiv</string>
@@ -221,12 +221,10 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Schalte die von anderen Spielern vorgeführte Musik stumm.</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Kampfmusik stummschalten</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Schalte die Kampfmusik stumm.</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Sekundäres Vorführungsaudio stummschalten</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Schalte Klatschen und sekundäre musikalische Vorführungseffekte stumm.</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Lautstärke der Musikinstrumente</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Regle die Musik, die von lokalen und externen Spielern mit Musikinstrumenten gespielt wird.</string>
 	<string key="ui_outputconfiguration">Ausgabekonfiguration</string>
-	<string key="ui_outputconfiguration_desc">Wechsele zwischen 360-Grad-Surround-Sound fürs Heimkino und 180-Grad-Sound für Kopfhörer.</string>
+	<string key="ui_outputconfiguration_desc">Wechsle zwischen 360-Grad-Surround-Sound fürs Heimkino und 180-Grad-Sound für Kopfhörer.</string>
 	<string key="ui_texttospeech">Text-to-Speech</string>
 	<string key="ui_texttospeech_desc">Aktiviert Text-to-Speech (Vorlesefunktion) für eingehende Chat-Nachrichten.</string>
 	<string key="ui_tts_rate">Text-to-Speech-Geschwindigkeit</string>

@@ -43,8 +43,10 @@
 	<string key="owg_drop_item_title">Missionsgegenstand ablegen</string>
 	<string key="owg_drop_item_warning">Der Gegenstand wird zerstört, wenn er abgelegt oder ins Lager gepackt wird.</string>
 	<string key="owg_entershop_button">Belohnungen kaufen</string>
+	<string key="owg_price_update">Preise haben sich aufgrund von Fraktionsaktivitäten geändert</string>
 	<string key="owg_faction_select_no">Nein, ich überlege es mir noch.</string>
 	<string key="owg_faction_select_title">Dieser Fraktion beitreten?</string>
+	<string key="owg_faction_select_title_incompany">Achtung! Deine Kompanie gehört einer anderen Fraktion an!</string>
 	<string key="owg_faction_select_warning">Die Entscheidung kannst du nicht rückgängig machen.</string>
 	<string key="owg_faction_select_yes">Ja, ich möchte mich der Fraktion {faction} anschließen.</string>
 	<string key="owg_faction_select_confirm">Du kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist dauerhaft – du kannst deine Fraktion einmalig im Bio-Bildschirm wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
@@ -101,7 +103,7 @@
 	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">PVP-BELOHNUNGSSERIE</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">Die PvP-Belohnungsserien enthalten PvP-spezifische Belohnungen für PvP-Aktivitäten im Spiel. Du kannst die Belohnungsserien abschließen und erneut angehen, um andere Belohnungen zu erhalten. Je mehr Belohnungsserien du absolvierst, desto hochwertiger werden die Belohnungen.</string>
 	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PVP-EP</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, an 3-gg-3-Arenen teilnimmst und EP dazugewinnst, während du markiert bist.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Erziele Fortschritte in der Belohnungsserie, indem du PvP-Missionen abschließt, dich am Außenpostensturm, an Kriegen oder der Eroberung von Festungen beteiligst, andere Spieler besiegst, oder 3-gegen-3-Arenen absolvierst.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTH-SALZ</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azoth-Salz ist die Währung, mit der du aus der PvP-Serie Belohnungen erhältst. Du erhältst Azoth-Salz, indem du dich an Kriegen, am Außenpostensturm, in 3-gg-3-Arenen, an PvP-Missionen beteiligst oder Spieler in der offenen Welt im PvP besiegst und EP dazugewinnst, während du markiert bist.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">BELOHNUNGEN</string>
@@ -240,8 +242,8 @@
 	<string key="owg_pvp_cannotacceptmission_nofaction">Du kannst erst eine &lt;font color="#eaeaea"&gt;PvP-Mission&lt;/font&gt; annehmen, wenn du einer Fraktion beigetreten bist.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">Du kannst erst eine &lt;font color="#eaeaea"&gt;PvP-Mission&lt;/font&gt; annehmen, wenn du dich in einer Zufluchtsstätte befindest.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">Du kannst derzeit keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; dieses Typs annehmen.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">Du kannst keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen, solange du dich in einer Lobby befindest, in der die Aktivierung der PvP-Markierung nicht gestattet ist.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">Du kannst keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen, solange du ausstehende Lobby-Einladungen hast, die die Aktivierung der PvP-Markierung verhindern.</string>
+	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">Du kannst keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen, solange du dich in einer Lobby befindest, in der die Aktivierung der PvP-Markierung nicht gestattet ist.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">Du kannst keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen, solange du ausstehende Lobby-Einladungen hast, die die Aktivierung der PvP-Markierung verhindern.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">Du kannst derzeit keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen.</string>
 	<string key="owg_tooltip_warning">Du kannst nur eine Mission gleichzeitig bearbeiten.</string>
 	<string key="owg_unlock_previous_rank">Rang {rankName} freigeschaltet</string>
@@ -274,11 +276,29 @@
 	<string key="ui_faction_desc1">Schlaue Jünger, die gerissen für Wahrheit und Fortschritt kämpfen.</string>
 	<string key="ui_faction_desc2">Stolze Krieger, die ehrenhaft um Ruhm und Selbstverbesserung kämpfen.</string>
 	<string key="ui_faction_desc3">Göttliche Recken, die voller Überzeugung für Rechtschaffenheit und Gerechtigkeit eintreten.</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection">Meistere die Geheimnisse von Aeternum, denn Wissen ist Macht</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection">Fordere Ehre und Ruhm durch Waffenstärke</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection">Schwinge das Licht der Gerechtigkeit und vertreibe die Dunkelheit</string>
+	<string key="ui_become_a">Werde ein</string>
+	<string key="ui_faction_calltoaction_title1">Kluger Weiser</string>
+	<string key="ui_faction_calltoaction_title2">Stolzer Krieger</string>
+	<string key="ui_faction_calltoaction_title3">Göttlicher Befehlsgeber</string>
 	<string key="ui_faction_none">Keine</string>
 	<string key="ui_faction_name1">Das Syndikat</string>
 	<string key="ui_faction_name2">Die Marodeure</string>
 	<string key="ui_faction_name3">Das Bündnis</string>
+	<string key="ui_faction_name_with_article1">Das Syndikat</string>
+	<string key="ui_faction_name_with_article2">Die Marodeure</string>
+	<string key="ui_faction_name_with_article3">Das Bündnis</string>
+	<string key="ui_faction_join_name1">Tritt dem Syndikat bei</string>
+	<string key="ui_faction_join_name2">Tritt den Marodeuren bei</string>
+	<string key="ui_faction_join_name3">Tritt dem Bündnis bei</string>
+	<string key="ui_stats_friends_in_faction">{friendCountInFaction} Freunde in der Fraktion</string>
+	<string key="ui_stats_faction_tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt;-Marken</string>
+	<string key="ui_stats_faction_rep">{factionRep} Fraktionsruf</string>
+	<string key="ui_faction_items_label">Erledige Missionen, um Gegenstände zu verdienen wie</string>
 	<string key="ui_faction_unaligned">Fraktionslos</string>
+	<string key="ui_unlocks_pvp">Ermöglicht PvP</string>
 	<string key="CMissionExplore_Name">Entdecker gesucht</string>
 	<string key="CMissionExplore_Desc">Suche nach &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; an folgendem Ort: &lt;font color="#eaeaea"&gt;{POITags}&lt;/font&gt;. Kehre für die Lieferung hierher zurück.</string>
 	<string key="CMissionAcquireBlock_Name">Steinmetze benötigt</string>
@@ -296,6 +316,7 @@
 	<string key="CMissionHuntCreature_Name">{enemyName}-Jäger gesucht</string>
 	<string key="CMissionHuntCreature_Desc">Jage: &lt;font color="#eaeaea"&gt;{killAmount} {enemyName}&lt;/font&gt;</string>
 	<string key="CMissionAcquire1_Desc">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt;</string>
+	<string key="CMissionAcquire1_Desc_Cook">Koche und liefere &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt;.</string>
 	<string key="M_fetch_title">Erkunden und finden</string>
 	<string key="M_fetch_desc">Suche  nach &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt;.</string>
 	<string key="M_kill_token_title">Töte und sammle</string>
@@ -338,7 +359,7 @@
 	<string key="FactionMission_RAID_title">Raubzug: {POITags}</string>
 	<string key="FactionMission_RAID_desc">Wir haben in dieser Region eine Gefahr für die Interessen der Marodeure ausgemacht.\n\nReise nach {POITags}, besiege jeden &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; und zeige keine Gnade.</string>
 	<string key="FactionMission_EXPLORE_title">Ausspähen: {POITags}</string>
-	<string key="FactionMission_EXPLORE_desc">Betreibe hier Aufklärung, um den Marodeuren einen Vorteil zu verschaffen. \n\nDein Bericht ist entscheidend für unsere Strategie.</string>
+	<string key="FactionMission_EXPLORE_desc">Betreibe Aufklärung bei {POITags}, um den Marodeuren einen Vorteil zu verschaffen. \n\nDein Bericht ist entscheidend für unsere Strategie.</string>
 	<string key="FactionMission_LOOT_title">Plündere: {POITags}</string>
 	<string key="FactionMission_LOOT_desc">In {POITags} gibt es Dinge, die für den Feldzug der Marodeure von großem Wert sein könnten. \n\nBeschaffe alle &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; auf welche Art auch immer.</string>
 	<string key="FactionMission_HUNT_title">Jage: {POITags}</string>
@@ -360,23 +381,23 @@
 	<string key="FactionMission_C_HUNT_title">Jage: {POITags}</string>
 	<string key="FactionMission_C_HUNT_desc">Wir benötigen Nahrung für die Sache des Bündnisses.\n\nJage in {POITags} heimische Tiere &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; und bring deine Beute her.</string>
 	<string key="FactionMission_PILLAGE_title">Sabotage</string>
-	<string key="FactionMission_PILLAGE_desc">Schwäche unseren Feind, indem du seine Rohstoffe zerstörst.</string>
+	<string key="FactionMission_PILLAGE_desc">Schwäche unseren Feind, indem du seine Rohstoffe bei {POITags} zerstörst.</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_title">Machtdemonstration (PvP)</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_desc">Ganz Aeternum gehört uns. Beweise es unseren Feinden.</string>
 	<string key="FactionMission_INFILTRATE_title">Infiltration (PvP)</string>
-	<string key="FactionMission_INFILTRATE_desc">Birg das Marodeursobjekt und warte dann auf weitere Anweisungen.</string>
+	<string key="FactionMission_INFILTRATE_desc">Beschaffe Marodeurs-Objekte aus {POITags}.</string>
 	<string key="FactionMission_DISRUPT_title">Störung (PvP)</string>
-	<string key="FactionMission_DISRUPT_desc">Erbeute oder vernichte Rohstoffe, bevor sie gegen uns verwendet werden können.</string>
+	<string key="FactionMission_DISRUPT_desc">Erbeute oder vernichte Rohstoffe bei {POITags}, bevor sie gegen uns verwendet werden können.</string>
 	<string key="FactionMission_STABILIZE_title">Stabilisation (PvP)</string>
-	<string key="FactionMission_STABILIZE_desc">Dieser Ort ist von strategischer Bedeutung. Lass ihn nicht dem Feind in die Hände fallen.</string>
+	<string key="FactionMission_STABILIZE_desc">{POITags} ist von strategischer Bedeutung. Lass ihn nicht dem Feind in die Hände fallen.</string>
 	<string key="FactionMission_GATHERINTEL_title">Informationsbeschaffung (PvP)</string>
-	<string key="FactionMission_GATHERINTEL_desc">Beschaffe wichtige Experimentdaten und warte dann auf weitere Anweisungen.</string>
+	<string key="FactionMission_GATHERINTEL_desc">Beschaffe wichtige Experimentdaten aus dem Lager bei {POITags}.</string>
 	<string key="FactionMission_TITHE_title">Zehnt (PvP)</string>
 	<string key="FactionMission_TITHE_desc">Hungere den Feind aus und nähre den Funken.</string>
 	<string key="FactionMission_SANCTIFY_title">Weihung (PvP)</string>
-	<string key="FactionMission_SANCTIFY_desc">Befreie dieses Gebiet. Sei stark und wandle im Licht.</string>
+	<string key="FactionMission_SANCTIFY_desc">Befreie {POITags}. Sei stark und wandle im Licht.</string>
 	<string key="FactionMission_PRESERVE_title">Schutz (PvP)</string>
-	<string key="FactionMission_PRESERVE_desc">Überbringe die frohe Botschaft des Funkens.</string>
+	<string key="FactionMission_PRESERVE_desc">Segne {POITags} mit dem Licht des Funkens.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Raubzug: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Begib dich für die Marodeure nach {POITags} und bezwinge alle &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; dort. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Begib dich für die Marodeure nach {POITags} und bezwinge &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedition)&lt;/font&gt;</string>
@@ -512,13 +533,18 @@
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Marodeure erdulden es nicht, dass die &lt;font color="#eaeaea"&gt;Verderbnis&lt;/font&gt; in unsere Gebiete eindringt.\n\nWenn du einen Ausbruch siehst, verschließe ihn wieder.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">Wir haben nun die Macht, das Vordringen der &lt;font color="#eaeaea"&gt;Verderbnis&lt;/font&gt; zu verhindern.\n\nVersiegle alle &lt;font color="#eaeaea"&gt;Verderbnisausbrüche&lt;/font&gt;, die du siehst.</string>
 	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">Die &lt;font color="#eaeaea"&gt;Verderbnisausbrüche&lt;/font&gt; drohen den Funken auszulöschen\n\nDu musst jeden Ausbruch, den du findest, vernichten.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einem Steinmetztisch.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einem Steinmetztisch.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
+	<string key="CMissionAcquireStoneworker">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einem Steinmetztisch.</string>
+	<string key="CMissionAcquireWoodWorker">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
+	<string key="CMissionAcquireOutfitter">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
+	<string key="CMissionAcquireEngineer">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
+	<string key="ui_already_in_faction">Du befindest dich bereits in der Fraktion.</string>
+	<string key="ui_cant_switch_faction_pvp">Fraktionswechsel nicht möglich, wenn du für PvP markiert bist.</string>
+	<string key="ui_cant_switch_faction_azoth">Nicht genug Azoth</string>
+	<string key="ui_cant_switch_faction_sanctuary">Du musst in einer Zufluchtsstätte sein, um Fraktionen wechseln zu können.</string>
+	<string key="ui_cant_switch_faction_war">Solange du zu einem Krieg angemeldet bist, ist kein Fraktionswechsel möglich.</string>
+	<string key="ui_cant_switch_faction_intro">Du hast dich bei dieser Fraktion noch nicht bewährt. Sprich mit einem Fraktionsvertreter, um beizutreten.</string>
+	<string key="ui_cant_switch_faction_incompany">Du bist derzeit in einer Kompanie, die mit einer anderen Fraktion verbündet ist. Wenn du fortfährst, wirst du aus dieser Kompanie entfernt.\n\nDu kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist dauerhaft – du kannst deine Fraktion erstmalig im Bio-Bildschirm wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
+	<string key="ui_join">Beitreten</string>
+	<string key="ui_faction_join_restrictions">Du kannst einmal alle 60 Tage die Fraktion wechseln. Du kannst nur Kompanien deiner eigenen Fraktion beitreten.</string>
 </resources>
 

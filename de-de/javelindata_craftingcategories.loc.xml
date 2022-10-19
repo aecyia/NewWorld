@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Gipsguss</string>
 	<string key="GypsumRaw_GroupName">Gipskugeln</string>
 	<string key="GypsumCasts_GroupName">Gipsabgüsse</string>
+	<string key="InfusedCasts_GroupName">Behandelte Abgüsse</string>
 	<string key="GemstoneT2_GroupName">Standard-Edelsteinbrocken</string>
 	<string key="GemstoneT3_GroupName">Brillante Edelsteinbrocken</string>
 	<string key="GemstoneT4_GroupName">Makellose Edelsteinbrocken</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Tränke sind Gegenstände, die deine Leistungsfähigkeit kurzzeitig steigern.</string>
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Alkahest wird zur Herstellung von Tränken verwendet.</string>
+	<string key="CategoryData_Ampoule">Ampulle</string>
+	<string key="CategoryData_AmpouleDesc">Ampullen werden zur Herstellung von Reflexionstränken verwendet.</string>
 	<string key="CategoryData_RangedWeapons">Fernkampfwaffen</string>
 	<string key="CategoryData_rawresources">Unbehandelte Rohstoffe</string>
 	<string key="CategoryData_RefinedMaterial">Veredeltes</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Nachbildungen von der Schiffswerft der Dynastie</string>
 	<string key="DungeonReps6_GroupName">Nachbildungen vom Lazarus-Instrumentarium</string>
 	<string key="DungeonReps7_GroupName">Nachbildungen vom Garten des Ursprungs</string>
-	<string key="DungeonReps8_GroupName">NAME AUSSTEHEND</string>
+	<string key="DungeonReps8_GroupName">Nachbildungen der Enneade</string>
 	<string key="DungeonReps9_GroupName">Nachbildungen des Herzens des Sturmwinds</string>
 	<string key="DungeonShields_GroupName">Expeditions-Schilde</string>
 	<string key="DungeonReps12_GroupName">Einzigartige Expeditionsbelohnungen</string>
@@ -1091,6 +1094,8 @@
 	<string key="GauntletIce_GroupName">Eisstulpen</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Stulpen, die Mana verbrauchen, um Feinde zu schwächen und Verbündete zu stärken. Unheilsstulpen sind auf Nahkampf-Boni und Schaden über Zeit oder Schwächungen mit mittlerer Reichweite spezialisiert und in einer Gruppe besonders gefährlich.\n\n• Leichter Angriff: Verursacht {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]} % Unheilsschaden.\n• Schwerer Angriff: Verursacht {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]} % Unheilsschaden und heilt dich um {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]} % des verursachten Schadens.\n• Essenz-Ernte ("Blocken" gedrückt halten): Wandelt deine Gesundheit nach und nach in Mana um. Die Rate hängt vom Waffenschaden ab.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Unheilsstulpen</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">Eine vielseitige Nahkampfwaffe, die Haltungen nutzt, um sich an verschiedene Kampfsituationen anzupassen. Sie verkörpert unnachgiebige Offensive gepaart mit einer aggressiven Verteidigung, um sich durch jede Herausforderung zu schneiden.\n\n• Leichter Angriff 1 und 2: Verursacht {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]} % Schnittschaden.\n• Leichter Angriff 3: Verursacht {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]} % Schnittschaden.\n• Aufgeladener schwerer Angriff 1 und 2: Verursacht {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]} % Schnittschaden.\n• Aufgeladener schwerer Angriff 3: Verursacht {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]} % Schnittschaden.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Großschwerter</string>
 	<string key="GemAmbe_CategoryName">Bernsteinbrocken</string>
 	<string key="GemAmet_CategoryName">Amethystbrocken</string>
 	<string key="GemAqua_CategoryName">Aquamarine</string>
@@ -1849,11 +1854,14 @@
 	<string key="SalvageTier4_Name">Rang-IV-Fetzen</string>
 	<string key="SalvageTier5_Name">Rang-V-Fetzen</string>
 	<string key="Salvage">Fetzen zerlegen</string>
+	<string key="Salvage_GroupName">Fetzen zerlegen</string>
 	<string key="SalvageExtract">Extrahieren</string>
 	<string key="SalvageCreate">Fabrizieren</string>
 	<string key="SalvageResearch">Forschung</string>
 	<string key="SalvageCondense">Kondensieren</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Alchemiekreaturen</string>
+	<string key="Summer">Sommer</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Musikinstrumente</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Musikinstrumente</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Instrumententeile</string>
@@ -1867,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Gebietsvorräte</string>
 	<string key="TerritoryContribution_GroupName">Gebietsbeteiligungen</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Musikinstrument-Komponenten</string>
+	<string key="InstrumentGuitarPick_GroupName">Gitarrenstücke</string>
+	<string key="InstrumentDrumHead_GroupName">Trommelstücke</string>
+	<string key="InstrumentReed_GroupName">Schilfstücke</string>
+	<string key="InstrumentSoundhole_GroupName">Mandolinenstücke</string>
+	<string key="InstrumentFingerboard_GroupName">Bassstücke</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Rang-4-Gitarrenstücke</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Rang-4-Trommelstücke</string>
+	<string key="InstrumentReedT4_GroupName">Rang-4-Schilfstücke</string>
+	<string key="InstrumentSoundholeT4_GroupName">Rang-4-Mandolinenstücke</string>
+	<string key="InstrumentFingerboardT4_GroupName">Rang-4-Bassstücke</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Runenglaskomponenten</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Leere Runenglasfassungen</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Bernsteine</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Amethyste</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Aquamarine</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Karneole</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Diamanten</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Smaragde</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Jaspis</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Malachite</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Mondsteine</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Onyxe</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Opale</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Rubine</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Saphire</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas-Topase</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Runenglas</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Glaswaren</string>
+	<string key="GoldenScarabStr_GroupName">Goldener Skarabäus – Stärke</string>
+	<string key="GoldenScarabDex_GroupName">Goldener Skarabäus – Geschick</string>
+	<string key="GoldenScarabInt_GroupName">Goldener Skarabäus – Intelligenz</string>
+	<string key="GoldenScarabFoc_GroupName">Goldener Skarabäus – Konzentration</string>
+	<string key="GoldenScarabCon_GroupName">Goldener Skarabäus – Konstitution</string>
+	<string key="Scarab_GroupName">Skarabäus</string>
+	<string key="Sulfur_GroupName">Schwefel</string>
+	<string key="Rune_GroupName">Runen</string>
+	<string key="DungeonNamedReplicas_GroupName">Einzigartige Expeditionsnachbildungen</string>
+	<string key="UniqueDungeonReps1_GroupName">Einzigartige Nachbildungen der Amrhein-Ausgrabung</string>
+	<string key="UniqueDungeonReps10_GroupName">NAME AUSSTEHEND</string>
+	<string key="UniqueDungeonReps2_GroupName">Einzigartige Nachbildungen des Zerstörten Obelisken</string>
+	<string key="UniqueDungeonReps3_GroupName">NAME AUSSTEHEND</string>
+	<string key="UniqueDungeonReps4_GroupName">Einzigartige Nachbildungen von Die Untiefen</string>
+	<string key="UniqueDungeonReps5_GroupName">Einzigartige Nachbildungen von der Schiffswerft der Dynastie</string>
+	<string key="UniqueDungeonReps6_GroupName">Einzigartige Nachbildungen vom Lazarus-Instrumentarium</string>
+	<string key="UniqueDungeonReps7_GroupName">Einzigartige Nachbildungen vom Garten des Ursprungs</string>
+	<string key="UniqueDungeonReps8_GroupName">Einzigartige Nachbildungen der Enneade</string>
+	<string key="UniqueDungeonReps9_GroupName">Einzigartige Nachbildungen des Herzens des Sturmwinds</string>
+	<string key="UniqueDungeonReps11_GroupName">Einzigartige Nachbildungen von Seepocken und Schwarzpulver</string>
+	<string key="HideT5_GroupName">Rang-5-Häute</string>
+	<string key="CategoryData_ArmorHeavy">Schwere Rüstung</string>
+	<string key="CategoryData_ArmorMedium">Mittlere Rüstung</string>
+	<string key="CategoryData_ArmorLight">Leichte Rüstung</string>
+	<string key="SlotChest_GroupName">Brustpanzerung</string>
+	<string key="SlotFeet_GroupName">Fußpanzerung</string>
+	<string key="SlotHands_GroupName">Handpanzerung</string>
+	<string key="SlotHead_GroupName">Kopfpanzerung</string>
+	<string key="SlotLegs_GroupName">Beinpanzerung</string>
+	<string key="ScarabAmulets_GroupName">Amulette – Goldener Skarabäus</string>
+	<string key="ScarabRings_GroupName">Ringe – Goldener Skarabäus</string>
+	<string key="ScarabEarrings_GroupName">Ohrringe – Goldener Skarabäus</string>
+	<string key="ScarabMeleeWeapons_GroupName">Nahkampfwaffen – Goldener Skarabäus</string>
+	<string key="ScarabMagicStaves_GroupName">Magische Stäbe – Goldener Skarabäus</string>
+	<string key="ScarabStaffFire_GroupName">Feuerstäbe – Goldener Skarabäus</string>
+	<string key="ScarabStaffLife_GroupName">Eisstäbe – Goldener Skarabäus</string>
+	<string key="ScarabGauntletIce_GroupName">Eisstulpen – Goldener Skarabäus</string>
+	<string key="ScarabGauntletVoid_GroupName">Unheilsstulpen – Goldener Skarabäus</string>
+	<string key="ScarabRangedWeapons_GroupName">Fernkampfwaffen – Goldener Skarabäus</string>
+	<string key="ScarabArmorPlate_GroupName">Plattenrüstung – Goldener Skarabäus</string>
+	<string key="ScarabArmorFur_GroupName">Fellrüstung – Goldener Skarabäus</string>
+	<string key="ScarabArmorCloth_GroupName">Tuchrüstung – Goldener Skarabäus</string>
+	<string key="ScarabArmorLeather_GroupName">Lederrüstung – Goldener Skarabäus</string>
+	<string key="ScarabArmorRobe_GroupName">Roben – Goldener Skarabäus</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Schwere Plattenrüstung – Goldener Skarabäus</string>
+	<string key="WinterConvergence_GroupName">(Ereignis) Die Winterkonvergenz</string>
+	<string key="NightveilHallow_GroupName">(Ereignis) Nachtschleierzeit</string>
+	<string key="SummerMedleyfaire_GroupName">(Ereignis) Sommer-Medleyfaire</string>
 </resources>
 

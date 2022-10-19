@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Une erreur de matchmaking inattendue s'est produite.</string>
 	<string key="ui_game_mode_disabled">Ce mode de jeu est actuellement désactivé.</string>
 	<string key="ui_dungeon_enter_info">&lt;font color={color}&gt;Une personne au moins&lt;/font&gt; doit entrer pour que l'expédition reste ouverte. Voulez-vous vous téléporter à l'intérieur ?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;L'Épreuve de l'âme est disponible&lt;/font&gt;. Voulez-vous vous téléporter à l'intérieur ?</string>
 	<string key="ui_dungeon_enter_info_entered">L'expédition est ouverte !\n&lt;font color={color}&gt;Voulez-vous vous y téléporter ?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Défier le joueur</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} n'est pas un nom de joueur valide.</string>
@@ -84,11 +85,12 @@
 	<string key="ui_outpost_rush_title">Déferlante</string>
 	<string key="ui_outpost_rush_invite_status">Acceptez de rejoindre le combat !</string>
 	<string key="ui_outpost_rush_signup_title">DÉFERLANTE</string>
-	<string key="ui_outpost_rush_signup_desc">La &lt;font color="#ffe940"&gt;Déferlante&lt;/font&gt; est un match à 20 contre 20 qui se déroule sur une grande île dotée de trois avant-postes.\nLes joueurs doivent capturer et tenir ces avant-postes aussi longtemps que possible pour augmenter le score de leur équipe.</string>
+	<string key="ui_outpost_rush_signup_desc">La &lt;font color="#ffe940"&gt;Déferlante&lt;/font&gt; est un match à 20 contre 20 qui se déroule sur une grande île dotée de trois avant-postes.\nLes équipes doivent capturer et tenir ces avant-postes afin d'augmenter leur score.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">La &lt;font color="#ffe940"&gt;Déferlante&lt;/font&gt; est un match à 20 contre 20 qui se déroule sur une grande île dotée de trois avant-postes.\nLes équipes doivent capturer et tenir ces avant-postes afin d'augmenter leur score.\nCe mode entraîne un &lt;font color="#ffe940"&gt;Équilibrage au score d'équipement&lt;/font&gt;, augmentant le score d'équipement à 600 pour l'équipement ayant un score inférieur à 600.</string>
 	<string key="ui_outpost_rush_signup_goal1">Capturez et tenez des avant-postes pour augmenter le score de votre équipe.</string>
 	<string key="ui_outpost_rush_signup_goal2">La première équipe à atteindre un score de 1 000 l'emporte.</string>
 	<string key="ui_outpost_rush_signup_goal3">Utilisez les ressources spéciales de l'île pour attaquer et vous défendre.</string>
-	<string key="ui_outpost_rush_signup_points_number">1 000</string>
+	<string key="ui_outpost_rush_signup_points_number"> .000</string>
 	<string key="ui_outpost_rush_signup_points_text">POINTS</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Jouer</string>
 	<string key="ui_outpost_rush_signup_joingroup">Jouer avec votre groupe</string>
@@ -223,7 +225,9 @@
 	<string key="emote_unable_to_use_emote">Impossible d'utiliser une émote dans ce mode de jeu.</string>
 	<string key="ui_durability_loss_outpost_rush">Vous êtes dans une Déferlante, votre équipement n'a pas été endommagé lors de votre mort.</string>
 	<string key="ui_durability_loss_war">Vous êtes en guerre (ou dans une invasion), votre équipement n'a pas été endommagé lors de votre mort.</string>
-	<string key="ui_item_durability_loss">Votre mort a endommagé tout votre équipement.</string>
+	<string key="ui_item_durability_loss">Votre équipement a été endommagé lors de votre mort.</string>
+	<string key="ui_item_durability_dungeon">Vous êtes dans une expédition, votre équipement n'a pas été endommagé lors de votre mort.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Vous êtes dans une arène, votre équipement n'a pas été endommagé lors de votre mort.</string>
 	<string key="ui_item_durability_loss_pvp">Vous avez été tué(e) par un autre joueur, votre équipement a subi des dégâts réduits.</string>
 	<string key="ui_in_spectators_box">Dans la zone des spectateurs</string>
 	<string key="ui_in_spectators_box_description">Capacités désactivées</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Changement de côté</string>
 	<string key="ui_rounds_won">Manches gagnées</string>
 	<string key="ui_see_through_label">Mode transparent</string>
+	<string key="ui_invasion_leave">Quitter l'invasion</string>
 </resources>
 

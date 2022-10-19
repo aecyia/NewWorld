@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Estado</string>
 	<string key="trade_column_rarity">Sing.</string>
 	<string key="trade_column_craftsmanship">Artesanía</string>
+	<string key="trade_column_completion_time">Tiempo de finalización</string>
 	<string key="trade_noitemmessage">Seleccionar un objeto para visualizar</string>
 	<string key="trade_not_enough_money">No hay suficiente dinero</string>
 	<string key="trade_none_available">Agotado</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Período de asedio</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Comienza en</string>
 	<string key="ui_signup_your_status">Tu estado</string>
+	<string key="ui_signup_restriction_cooldown">Debido al tiempo de reutilización de guerra, si eres elegido se te contará como mercenario.\nPodrás participar con otro rol en las guerras luego de: {cooldownTime}.</string>
 	<string key="ui_no_permission_alert">No tienes permiso para enviar una alerta.</string>
 	<string key="ui_title_alpha">Platija</string>
 	<string key="ui_title_preorder">Primera expedición</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitación rechazada</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invitación rechazada. El jugador ya está en la sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invitación rechazada. El jugador tiene una activación de la marca de PvP incompatible.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitación rechazada. El jugador está en el límite de la mazmorra.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitación rechazada. El jugador está en el límite de la expedición.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invitación rechazada. El jugador está en una facción diferente.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invitar a sala de espera</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Solo el creador de la sala de espera puede invitar.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Buscando más miembros...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">No puedes registrarte mientras estás en una sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">No puedes entrar a la cola de la expedición mientras estás en una sala de espera.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">No puedes entrar a la cola de la prueba de alma mientras estás en una sala de espera.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Grupo lleno</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Abrir expedición</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Se requiere un mínimo de {amount} miembros para iniciar esta expedición.</string>

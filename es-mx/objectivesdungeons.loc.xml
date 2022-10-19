@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Consigue el corazón de guardián antiguo.</string>
 	<string key="dungeon_reekwater_task_boss_01">Trae el corazón de guardián antiguo al dispositivo en el centro de la Instrumentalidad de Lazarus.</string>
 	<string key="dungeon_reekwater_task_boss_02">Derrota a Chardis.</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Sal de la Instrumentalidad de Lazarus.</string>
 	<string key="dungeon_reekwater_task_complete">Sal de la Instrumentalidad de Lazarus.</string>
 	<string key="dungeon_ebonscale00_title">El astillero de la dinastía</string>
 	<string key="dungeon_ebonscale00_description">Frustra los planes de la emperatriz</string>
@@ -73,14 +74,14 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Tira de la palanca</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Logra entrar al escondite de los piratas bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Habla con Antonio para saber más sobre los piratas bandera negra.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Usa la palanca para abrir la puerta y entrar al escondite de Bandera negra.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Usa un arma de ataque a distancia para activar la palanca y entrar al escondite de Bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Rastrea al almirante Pólvora y su tripulación.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Busca una palanca para abrir la puerta.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Encuentra un pasaje hacia el barco en la Caleta de Bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Busca otra palanca para abrir la puerta.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Adéntrate en el Pasadizo de Ron Seco.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Recorre los alrededores del pasaje bloqueado y busca una mecha para encender los explosivos.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrota a los caimanes bandera negra.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Derrota a los caimanes bandera negra y la tripulación pirata.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Pasa por la puerta abierta y sigue buscando una mecha para desbloquear el pasaje derrumbado.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Recoge la mecha de la caja de herramientas.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Lleva la mecha de vuelta al pasaje derrumbado en el Pasadizo de Ron Seco.</string>
@@ -89,7 +90,7 @@
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates" rel_version="Expedition_CutlassKeys_00">Derrota a los piratas bandera negra.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_ship" rel_version="Expedition_CutlassKeys_00">Usa la palanca para bajar el puente y subir al barco.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_pirates_ship" rel_version="Expedition_CutlassKeys_00">Derrota al último miembro de la tripulación pirata y al primer oficial Wells.</string>
-	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Encuentra la palanca para baja el puente y sal del barco.</string>
+	<string key="dungeon_cutlasskeys00_task_exit_ship" rel_version="Expedition_CutlassKeys_00">Encuentra la palanca para bajar el puente y sal del barco.</string>
 	<string key="dungeon_cutlasskeys00_task_defeat_admiral" rel_version="Expedition_CutlassKeys_00">Derrota al almirante Pólvora.</string>
 	<string key="dungeon_cutlasskeys00_task_exit_pirate_cove" rel_version="Expedition_CutlassKeys_00">Ábrete paso por la Caverna del Botín Prohibido.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_dead_mans_retreat" rel_version="Expedition_CutlassKeys_00">Dirígete a Retiro del Muerto.</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Atraviesa la barrera con 3 bastones de azoth</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Entra en la arena del comandante Thorpe</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Derrota al comandante Thorpe</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Vuelve a la Costa agitada</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Vuelve a la Costa agitada</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Destruye el monolito</string>
 	<string key="dungeon_edengrove00_title">Jardín del Génesis</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Derrota a Fulg'da, el arquero.</string>
 	<string key="dungeon_edengrove00_task_find_heart">Ve ahora al corazón de génesis infectado. Tenemos que purificarlo.</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Derrota al guardián infectado.</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Vuelve a la superficie, el corazón de génesis infectado ha sido purificado.</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Vuelve a la superficie, el corazón de génesis infectado ha sido purificado.</string>
 	<string key="DungeonUsePurifyingFlame">Requiere una llama purificadora</string>
 	<string key="DungeonDepositPurifyingFlame">Enciéndelo con la llama purificadora</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Encuentra a la emperatriz Zhou en el palacio.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">¡Destruye a la emperatriz Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Sal del astillero.</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">La Enéada</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Investiga La Enéada y descubre qué secretos ocultaron los antiguos en este lugar atemporal</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Investiga La Enéada y descubre qué secretos ocultaron los antiguos en este lugar atemporal</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 bastones de Azoth</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Derrota a Shai y a sus súbditos para abrir la puerta y explorar las profundidades de La Enéada.</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Busca una forma de superar a los defensores de La Enéada</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Derrota a Khepri celestial divino.</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Usa el poder de 3 bastones de Azoth para destruir la corrupción que bloquea el camino</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Combate a los restos de la XIX Legión</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Derrota al general Crassus.</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Llega a la cúspide de La Enéada</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Derrota a Anpu y a Heru.</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Sal de La Enéada.</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Sal de La Enéada</string>
 	<string key="dungeon_ebonscale_required_equipment">1 bastón de azoth</string>
 	<string key="dungeon_restlessshores01_required_equipment">2 bastones de azoth</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Corazón de la tempestad</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Entra por el portal en el Túnel del Vacío una vez más</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Ábrete paso por el Túnel del Vacío</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Derrota a Isabella</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Sal de la expedición del Corazón de la tempestad</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Sal de la expedición del Corazón de la tempestad</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Requiere el relicario.</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Examinar</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Necrópolis de Sutekh</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Impide que Apofis vuelva a despertar a Sutekh, el poderoso Antiguo, o todo Aeternum se sumirá en la locura.</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Acércate al sarcófago antiguo.</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Derrota a Apofis.</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Explora la Necrópolis y sal de la prueba de alma.</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 bastón de azoth</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Salir de prueba de alma</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">¿Confirmas que quieres salir de la prueba de alma?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">¿Confirmas que quieres salir de la prueba de alma?\nNo podrás volver a hacer cola para entrar durante &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt;.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">¿Salir de prueba de alma?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">No puedes viajar rápido mientras estás en la prueba de alma.</string>
 </resources>
 

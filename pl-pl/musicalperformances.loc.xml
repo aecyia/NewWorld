@@ -22,6 +22,7 @@
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Musisz mieć zaznaczone co najmniej 2 części, aby rozpocząć występ.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Przekroczono limit czas występu z powodu braku aktywności.</string>
 	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">Nie możesz tutaj umieścić występu – zbyt blisko terenu zastrzeżonego.</string>
+	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">Nie możesz rozpocząć występu, gdy przebywasz w domu.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">Nie wybrano żadnej części.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">Nuty: {instrument}</string>
 	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Zbieraj strony, by skompletować nuty dla każdego instrumentu.</string>
@@ -72,6 +73,7 @@
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">LICZNIK CZASU NAPIWKÓW</string>
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">OCZEKIWANIE NA NAPIWKI…</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Zakończ i zbierz napiwki</string>
+	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds} s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">WYSTĘP\nUKOŃCZONY!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Wspaniale!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Świetnie!</string>
@@ -139,12 +141,13 @@
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Name" rel_version="Feature_MusicalPerformances">W centrum uwagi</string>
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">Pierwsze trzy nuty są zawsze doskonałe.</string>
 	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">Ignoruje pierwszą przegapioną nutę.</string>
-	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">Grupa występująca otrzymuje pełną kwotę napiwku.</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">Wykonawca otrzymuje pełną kwotę napiwku.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Jeśli ostatnia nuta będzie doskonała, otrzymasz 10% premii do muzycznych PD.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Granie w grupie zapewnia 10% premii do muzycznych PD.</string>
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Granie w pojedynkę zapewnia 10% premii do muzycznych PD.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Gitara (część 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Gitara (część 2)</string>
+	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Gitara (część 3)</string>
 	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flet (część 1)</string>
 	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flet (część 2)</string>
 	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Kontrabas (część 1)</string>
@@ -187,28 +190,17 @@
 	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Dzikie łąkonasienie</string>
 	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Przed burzą</string>
 	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Słabnące światło</string>
-	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformances">Pośpiech zbieraczy</string>
-	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformances">Żywica z Lśniącej Kniei</string>
-	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformances">Stara chałupa we Wiatrochronie</string>
-	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Liście żelazodrzewa</string>
-	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformances">Rozpal kuźnię</string>
-	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformances">Krzątanina w faktorii</string>
-	<string key="songtitle_Wayfaring_Stranger" rel_version="Feature_MusicalPerformances">Wędrujący nieznajomy</string>
-	<string key="songtitle_Second_Coming" rel_version="Feature_MusicalPerformances">Wspomnienia z Lśniącej Kniei</string>
-	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformances">Czterokilowy młot</string>
-	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Kompania z Wiatrochronu</string>
-	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">Oda do rudości</string>
-	<string key="songtitle_Tavern_Blues" rel_version="Feature_MusicalPerformances">Ostatnia rundka</string>
-	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">Mój obóz</string>
-	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">Mój dom</string>
-	<string key="songtitle_Before_This_Time" rel_version="Feature_MusicalPerformances">Zanim to się stanie</string>
-	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Liście cieniodrzewa</string>
-	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">Bicie dzwonów</string>
-	<string key="songtitle_Fight" rel_version="Feature_MusicalPerformances">Zwycięstwo w zasięgu ręki</string>
-	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">Tkacka sieć</string>
-	<string key="songtitle_The_OldWood" rel_version="Feature_MusicalPerformances">Stary las</string>
-	<string key="songtitle_Honor_Of_The_Warrior" rel_version="Feature_MusicalPerformances">Honor walecznych</string>
-	<string key="songtitle_Heed_The_Stead" rel_version="Feature_MusicalPerformances">Droga do Jesieniowieczni</string>
-	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">Dzieciak na górze</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformancesV2">Liście żelazodrzewa</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformancesV2">Kompania z Wiatrochronu</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformancesV2">Oda do rudości</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformancesV2">Mój obóz</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformancesV2">Mój dom</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformancesV2">Liście cieniodrzewa</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformancesV2">Bicie dzwonów</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformancesV2">Tkacka sieć</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformancesV2">Dzieciak na górze</string>
+	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">Ta przeklęta ryba</string>
+	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Zupa dnia</string>
+	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
 </resources>
 

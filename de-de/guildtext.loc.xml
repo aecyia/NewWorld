@@ -55,6 +55,7 @@
 	<string key="ui_guild_creation_failed_throttled">Kompaniegründung fehlgeschlagen. Alle 24 Stunden kann maximal eine Kompanie gegründet werden.</string>
 	<string key="ui_guild_creation_failed_invalidName">Kompaniegründung fehlgeschlagen; ungültiger Name.</string>
 	<string key="ui_guild_creation_failed_notInFaction">Kompaniegründung fehlgeschlagen; du gehörst keiner Fraktion an.</string>
+	<string key="ui_guild_cannont_accept_invite_invalid_level">Einladung kann nicht angenommen werden. Du musst mindestens Stufe {requiredLevel} sein.</string>
 	<string key="ui_no_guild_message">Lade einen anderen Spieler ein, um eine Kompanie zu gründen.</string>
 	<string key="ui_guildinviteacceptedmessage">&lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt; beigetreten.</string>
 	<string key="ui_guildinviterecipientmessage">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{playerName}&lt;/font&gt; hat dich eingeladen, &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{guildName}&lt;/font&gt; beizutreten.</string>
@@ -137,7 +138,7 @@
 	<string key="ui_treasury_notification_withdrawalcappeddailylimit">Abheben aus der Schatzkammer fehlgeschlagen (über dem täglichen Limit).</string>
 	<string key="ui_treasury_notification_setdailylimitsuccess">Das tägliche Abhebungslimit wurde festgelegt auf &lt;font color={colorHex}&gt;{amount}&lt;/font&gt; {coinImage}.</string>
 	<string key="ui_treasury_notification_setdailylimitsuccessinfinite">Das tägliche Abhebungslimit wurde festgelegt auf {infinityImage}.</string>
-	<string key="ui_treasury_notification_cointransferaldisabled">Du musst mindestens Stufe {minLevel} erreicht haben, um die Gildenschatzkammer nutzen zu dürfen.</string>
+	<string key="ui_treasury_notification_cointransferaldisabled">Du musst mindestens Stufe {minLevel} erreicht haben, um die Kompanie-Schatzkammer nutzen zu dürfen.</string>
 	<string key="ui_treasury_notification_error_generic">Interaktion mit Schatzkammer fehlgeschlagen. Versuche es bitte erneut.</string>
 	<string key="ui_setSiegeWindow">Belagerungszeitfenster festlegen</string>
 	<string key="ui_forDefending">Zum Verteidigen deiner Gebiete</string>
@@ -181,6 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Offizier*in</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Du kannst keine Kompanieeinladung senden. Rang zu niedrig.</string>
 	<string key="ui_guildCannotInviteNoFaction">Du kannst keine Kompanieeinladung senden. Nicht in einer Fraktion.</string>
+	<string key="ui_guildcannotpromote_nofaction">Kann nicht zum Gouverneur befördert werden. Nicht in einer Fraktion.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Siedler</string>
 	<string key="ui_guildranksettler_SHE">Siedlerin</string>
 	<string key="ui_guildranksettler_THEY">Siedler*in</string>
@@ -200,10 +202,16 @@
 	<string key="ui_kickfromcompany">Aus Kompanie werfen</string>
 	<string key="ui_kickguildmember_confirm">Möchtest du {playerName} wirklich aus der Kompanie werfen?</string>
 	<string key="ui_leaveguild">Kompanie verlassen</string>
-	<string key="ui_leaveguild_confirm">Möchtest du die Kompanie wirklich verlassen?</string>
-	<string key="ui_leaveguild_governor_confirm">Möchtest du die Kompanie wirklich verlassen?\n\nDann wird ein anderes Mitglied zum Gouverneur befördert und sämtlicher Besitz der Kompanie verbleibt innerhalb der Kompanie mit dem neuen Gouverneur.</string>
+	<string key="ui_disbandguild">Kompanie auflösen</string>
+	<string key="ui_leaveguild_confirm">Wenn du die Kompanie verlässt, &lt;font color="#FFD600"&gt;geschieht das Folgende: \n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_final_confirm">Möchtest du die Kompanie wirklich verlassen?</string>
+	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;KOMPANIEKRIEGSABKLINGZEIT ({cooldownTimeWar}).&lt;/font&gt; Während der Abklingzeit kannst du nur als Söldner in Verteidigungskriegen kämpfen, die von der Kompanie geführt werden, der du als Nächstes beitrittst. \n\n&lt;font color="#FFD600"&gt;ABKLINGZEIT DES VORHUTBEITRAGS ZUM KOMPANIEKRIEG ({cooldownTimeInfluence}).&lt;/font&gt; Während der Abklingzeit kannst du durch das Abschließen von PvP-Missionen Einfluss für deine Fraktion verdienen, aber der verdiente Einfluss wird nicht auf die Auswahl deiner neuen Kompanie als Kriegsvorhut angerechnet.</string>
+	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Besitz ausschlagen &lt;/font&gt;Dann wird ein anderes Mitglied zum Gouverneur befördert und sämtlicher Besitz der Kompanie verbleibt innerhalb der Kompanie mit dem neuen Gouverneur.</string>
 	<string key="ui_leaveguild_alone_confirm">Du bist das einzige Mitglied der Kompanie, und wenn du die Kompanie verlässt, geht sämtlicher Besitz der Kompanie verloren und das Kompaniekonto wird deiner Geldbörse hinzugefügt.</string>
 	<string key="ui_leaveguild_alone_walletwarning">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;Wenn du das Kompaniekonto einstreichst, überschreitest du das Talerlimit. Wenn du die Kompanie jetzt auflöst, gehen sämtliche überschüssigen Taler verloren.&lt;/font&gt;</string>
+	<string key="ui_guild_influence_cooldown_heading">KRIEGSABKLINGZEIT</string>
+	<string key="ui_guild_influence_cooldown_body">Du hast vor kurzem eine Kompanie verlassen und bist noch in der Abklingzeit, um den Vorhutbeitrag und Einfluss für deine Fraktion zu verdienen.\nDein Einfluss hilft deiner Fraktion, trägt aber nicht dazu bei, dass deine Kompanie als Vorhut ausgewählt wird, wenn du den Krieg erklärst. \n Diese Abklingzeit endet in: {cooldownTime}</string>
+	<string key="ui_cannot_leaveguild_ownwarsignup">Du kannst nicht gehen, während du für einen Krieg für deine Kompanie angemeldet bist. Bitte brich zuerst deine Kriegsanmeldung(en) ab.</string>
 	<string key="ui_leftguildmessage">Die Kompanie wurde verlassen.</string>
 	<string key="ui_modifycrest">Wappen bearbeiten</string>
 	<string key="ui_guildcrestsaved">Neues Wappen gespeichert</string>
@@ -220,6 +228,7 @@
 	<string key="ui_becomegovernor">Gouverneur werden</string>
 	<string key="ui_becomegovernor_SHE">Gouverneurin werden</string>
 	<string key="ui_becomegovernor_THEY">Gouverneur*in werden</string>
+	<string key="ui_becomegovernor_requires_faction">Tritt der Gildenfraktion bei, um Gouverneur zu werden.</string>
 	<string key="ui_permission_assign_structures">{allowed} Kompaniegebäude zuweisen.</string>
 	<string key="ui_permission_build_structures">{allowed} auf Kompanieland bauen.</string>
 	<string key="ui_permission_cancel_structures">{allowed} geplante Gebäude abbrechen</string>
@@ -312,7 +321,7 @@
 	<string key="ui_wardeclarationpopup_cost">Kosten:</string>
 	<string key="ui_wardeclarationpopup_title">Kriegserklärung</string>
 	<string key="ui_wardeclarationpopup_target">gegen {guildName}</string>
-	<string key="ui_wardeclarationpopup_message">Während einem Krieg können sich beide Kompanien legal angreifen, ohne zu Kriminellen zu werden. Während des Belagerungszeitfensters der verteidigenden Kompanie kann die angreifende Kompanie deren Gebäude auch in geschützten Gebieten angreifen.</string>
+	<string key="ui_wardeclarationpopup_message">Während eines Krieges versucht die angreifende Kompanie, das Gebiet der verteidigenden Kompanie zu erobern, indem sie deren Fort innerhalb des Belagerungsfensters einnimmt.</string>
 	<string key="ui_wardeclarationpopup_declarebutton">Krieg erklären! {cost} {coinImage}</string>
 	<string key="ui_wardeclarationpopup_mywallet" comment="When presented to the user, the name for currency is always Coin">Taler</string>
 	<string key="ui_wardeclarationpopup_extendtitle">Gegenangriff</string>
@@ -456,6 +465,7 @@
 	<string key="ui_cantpromote_leaderatwar">Die Kompanieleitung kann im Krieg nicht übertragen werden.</string>
 	<string key="ui_cantpromote_lackpermissionforrank">Du hast nicht die Berechtigungen, Mitglieder auf deinen Rang oder höher zu befördern.</string>
 	<string key="ui_cantpromote_lackpermission">Dir fehlt die notwendige Berechtigung, um Mitglieder zu befördern.</string>
+	<string key="ui_cantpromote_nonfactionmember">Mitglied muss einer Fraktion beitreten, um befördert zu werden.</string>
 	<string key="ui_cantdemote_lowestrank">Bereits niedrigster Rang</string>
 	<string key="ui_cantdemote_lackpermissionforrank">Du kannst Mitglieder deines Rangs oder höher nicht degradieren.</string>
 	<string key="ui_cantdemote_lackpermission">Dir fehlt die notwendige Berechtigung, um Mitglieder zu degradieren.</string>
@@ -487,6 +497,7 @@
 	<string key="ui_forcedrename">Kompanie-Umbenennung</string>
 	<string key="ui_forcedrename_title">Änderung des Kompanienamens</string>
 	<string key="ui_forcedrename_description">Der Name deiner Kompanie verstößt gegen unsere Richtlinien. Wir haben dir einen temporären Namen zugewiesen, der jederzeit geändert werden kann.\n\nVerhaltensgrundsätze:\n&lt;font color="#0000ff"&gt;&lt;a data="coc"&gt;Verhaltensgrundsätze anzeigen&lt;/a&gt;&lt;/font&gt;\n\nWenn du der Meinung bist, diese Strafe zu Unrecht erhalten zu haben, kannst du Einspruch einlegen unter:\n&lt;font color="#0000ff"&gt;&lt;a data="appealban"&gt;Entscheidung anfechten&lt;/a&gt;&lt;/font&gt;\n\nMöchtest du deinen Kompanienamen jetzt aktualisieren?</string>
+	<string key="ui_forcedrename_message">Das System hat den Kompanienamen zu &lt;font color="#9e947e"&gt;{guildName}&lt;/font&gt; geändert.</string>
 	<string key="ui_conquest_active_attack">Angriff</string>
 	<string key="ui_conquest_active_defend">Verteidigung</string>
 	<string key="ui_conquest_upcoming_attack">Angriff beginnt in</string>
@@ -540,6 +551,7 @@
 	<string key="ui_siege_signup_description_defenders">Du hilfst der verteidigenden Kompanie, das Gebiet zu halten.\nVerteidiger spielen vom &lt;font color="#ffffff"&gt;Inneren des Forts aus&lt;/font&gt; und das Ziel ist die Verhinderung der Eroberung des Gebietsanspruchspunkts.</string>
 	<string key="ui_siege_signup_description_invasion">Die verderbte Armee wird &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; angreifen, um das Gebiet zu erobern und die Siedlung zu zerstören.\nKämpfe für das Gebiet, schütze die Siedlung, sei Teil der großen Schlacht und erhalte Belohnungen!</string>
 	<string key="ui_invasion_desc_short">Die verderbte Armee wird &lt;font color="#ffffff"&gt;Fort {territoryName}&lt;/font&gt; angreifen, um das Gebiet zu erobern und die Siedlung zu zerstören.</string>
+	<string key="ui_siege_signup_myfaction">Meine Fraktion:</string>
 	<string key="ui_siege_signup_successfultitle">Erfolgreich eingetragen!</string>
 	<string key="ui_siege_signup_war_successfulmessage">Wir benachrichtigen dich, sobald du für den Krieg ausgewählt wurdest.</string>
 	<string key="ui_siege_signup_invasion_successfulmessage">Du erhältst 5 Minuten vor der Invasion eine Benachrichtigung.</string>
@@ -552,6 +564,7 @@
 	<string key="ui_siege_signup_failed_notinfaction">Du musst einer Fraktion beitreten, um an einem Krieg teilnehmen zu können.</string>
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Du musst mindestens Stufe {minLevel} erreicht haben, um dich einzutragen.</string>
 	<string key="ui_siege_signup_failed_banned">Du wurdest von der herrschenden Kompanie aus der Liste entfernt und kannst dich dieser Armee nicht erneut anschließen.</string>
+	<string key="ui_siege_signup_failed_on_defensive_cooldown">Du hast vor kurzem eine Kompanie verlassen und kannst 72 Stunden lang nicht in einem Verteidigungskrieg für deine Kompanie kämpfen</string>
 	<string key="ui_siege_signup_failed">Bei deinem Eintragungsversuch für einen Krieg gab es ein Problem.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Möchtest du fortfahren?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Du bist bereits für einen Krieg eingetragen, der etwa zur selben Zeit stattfindet.\nMöchtest du deine Eintragung für {territoryName} verwerfen?</string>
@@ -569,6 +582,7 @@
 	<string key="ui_siege_set_roster_failed_invalid_player">Ein ausgewählter Spieler konnte nicht verschoben werden. Versuche es bitte erneut.</string>
 	<string key="ui_siege_set_roster_failed_no_more_selections">Keine weiteren manuellen Auswahlen erlaubt, bitte entferne zuerst einen Spieler.</string>
 	<string key="ui_siege_set_roster_failed_waiting_for_invite_response">Spieler mit ausstehender Einladung können nicht verschoben werden.</string>
+	<string key="ui_siege_set_roster_failed_non_company_slots_full">Es können keine weiteren Söldner (Nicht-Kompaniemitglieder) hinzugefügt werden.</string>
 	<string key="ui_siege_set_roster_failed">Bei der Spielerlistenbearbeitung gab es ein Problem.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted">Dir fehlt die notwendige Berechtigung, um den Auffüllungsstatus zu ändern.</string>
 	<string key="ui_siege_set_backfill_failed_not_permitted_invasion">Für Invasionen kann der Auffüllungsstatus nicht geändert werden</string>

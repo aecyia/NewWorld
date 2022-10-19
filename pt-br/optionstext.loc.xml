@@ -47,28 +47,28 @@
 	<string key="ui_resolution">Resolução</string>
 	<string key="ui_resolution_desc">Sua resolução.</string>
 	<string key="ui_monitor">Monitor</string>
-	<string key="ui_monitor_desc">Seu Monitor</string>
+	<string key="ui_monitor_desc">Seu monitor.</string>
 	<string key="ui_show_fps">Exibir FPS</string>
 	<string key="ui_show_fps_desc">Exiba ou oculte seu FPS.</string>
 	<string key="ui_enable_vsync">Sincronização Vertical</string>
 	<string key="ui_enable_vsync_description">Limite a taxa de quadros à taxa de atualização de seu monitor. Ative para reduzir rasgos da tela.</string>
 	<string key="ui_enable_motionblur">Desfoque de Movimento</string>
 	<string key="ui_enable_motionblur_description">Ative ou desative o desfoque de movimento.</string>
-	<string key="ui_graphics_effect">Detalhes dos efeitos</string>
+	<string key="ui_graphics_effect">Detalhes dos Efeitos</string>
 	<string key="ui_graphics_effect_description">Qualidade predefinida de efeitos, partículas e efeitos volumétricos no jogo.</string>
-	<string key="ui_graphics_lighting">Detalhes de iluminação</string>
+	<string key="ui_graphics_lighting">Detalhes de Iluminação</string>
 	<string key="ui_graphics_lighting_description">Qualidade predefinida da iluminação no jogo, sem contar com as sombras.</string>
-	<string key="ui_graphics_objects">Detalhes dos objetos</string>
+	<string key="ui_graphics_objects">Detalhes dos Objetos</string>
 	<string key="ui_graphics_objects_description">Qualidade predefinida dos objetos no jogo.</string>
-	<string key="ui_graphics_postprocessing">Detalhes de pós-processamento</string>
+	<string key="ui_graphics_postprocessing">Detalhes de Pós-processamento</string>
 	<string key="ui_graphics_postprocessing_description">Qualidade predefinida de pós-processamento no jogo.</string>
-	<string key="ui_graphics_shadows">Detalhes das sombras</string>
+	<string key="ui_graphics_shadows">Detalhes das Sombras</string>
 	<string key="ui_graphics_shadows_description">Qualidade predefinida das sombras no jogo, sem contar com a iluminação.</string>
-	<string key="ui_graphics_terrain">Detalhes de terreno</string>
+	<string key="ui_graphics_terrain">Detalhes de Terreno</string>
 	<string key="ui_graphics_terrain_description">Qualidade predefinida do terreno no jogo.</string>
-	<string key="ui_graphics_textures">Detalhes de textura</string>
+	<string key="ui_graphics_textures">Detalhes de Textura</string>
 	<string key="ui_graphics_textures_description">Qualidade predefinida das texturas no jogo.</string>
-	<string key="ui_graphics_water">Detalhes de água</string>
+	<string key="ui_graphics_water">Detalhes de Água</string>
 	<string key="ui_graphics_water_description">Qualidade predefinida da água no jogo.</string>
 	<string key="ui_graphics_emote_fx">Efeitos especiais de Gestos</string>
 	<string key="ui_graphics_emote_fx_description">Alterna a exibição de efeitos especiais dos gestos de outros jogadores.</string>
@@ -108,7 +108,7 @@
 	<string key="ui_streamermode_server_currency">Bloquear Transferências de Moedas</string>
 	<string key="ui_streamermode_server_currency_desc">Bloqueie transferências de moedas e as respectivas notificações.</string>
 	<string key="ui_streamermode_server_music_invite" rel_version="Feature_MusicalPerformances">Bloquear Convites de Música</string>
-	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Bloqueie convites de Apresentações Musicais e as respectivas notificações.</string>
+	<string key="ui_streamermode_server_music_invite_desc" rel_version="Feature_MusicalPerformances">Bloqueie convites de apresentações musicais e as respectivas notificações.</string>
 	<string key="ui_voicechatmode">Modo de Chat de Voz</string>
 	<string key="ui_voicechatmode_desc">Seu modo de chat de voz atual.</string>
 	<string key="ui_voicechatmode_enabled">Ativado</string>
@@ -172,7 +172,7 @@
 	<string key="es-ES">Español — ES</string>
 	<string key="es-MX">Español — MX</string>
 	<string key="pt-BR">Português — BR</string>
-	<string key="ui_profanity_filter">Filtro de linguagem</string>
+	<string key="ui_profanity_filter">Filtro de Linguagem</string>
 	<string key="ui_profanity_filter_desc">Filtre palavras impróprias do chat.</string>
 	<string key="ui_subtitles">Legendas</string>
 	<string key="ui_subtitles_desc">Ative a exibição de legendas para diálogos.</string>
@@ -202,17 +202,17 @@
 	<string key="ui_textSize_desc">Aumente o tamanho das Exibições de Nome e das dicas de Interação.</string>
 	<string key="ui_options_textSize_regular">Regular</string>
 	<string key="ui_options_textSize_bigger">Maior</string>
-	<string key="ui_cameraShake">Habilitar vibração da câmera</string>
+	<string key="ui_cameraShake">Habilitar Vibração da Câmera</string>
 	<string key="ui_cameraShake_desc">A vibração da câmera pode ser desorientadora para alguns jogadores.</string>
 	<string key="ui_strafeCamera">Movimento lateral</string>
 	<string key="ui_strafeCamera_desc">O personagem sempre olha na direção da câmera.</string>
-	<string key="ui_alwaysShowReticle">Sempre exibir retícula</string>
+	<string key="ui_alwaysShowReticle">Sempre Exibir Retícula</string>
 	<string key="ui_alwaysShowReticle_desc">A retícula é visível mesmo quando sua arma está guardada.</string>
 	<string key="ui_show_pvp_xp">Exibir EXP PvP na Tela</string>
 	<string key="ui_show_pvp_xp_desc">Desative esta opção para ocultar ganhos de EXP PvP.</string>
 	<string key="ui_showInspectHint">Dica de Atalho das Ações Sociais</string>
 	<string key="ui_showInspectHint_desc">Ao olhar para um jogador próximo, exibe as dicas de atalhos das ações sociais na exibição de nome.</string>
-	<string key="ui_restore_defaults">Restaurar padrões</string>
+	<string key="ui_restore_defaults">Restaurar Padrões</string>
 	<string key="ui_restore_defaults_desc">Restaura essas opções para suas configurações padrão.</string>
 	<string key="ui_restore_defaults_prompt">Tem certeza que deseja restaurar essas opções para a configuração padrão?</string>
 	<string key="ui_audiooutput_headphones">Fones de Ouvido</string>
@@ -221,12 +221,10 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Silencia a música reproduzida por outros jogadores.</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Silenciar a Música de Combate</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Silencia a música de combate.</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Silenciar o Áudio de Apresentações Secundárias</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Silencia os efeitos de palmas e apresentações musicais secundárias.</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Volume de Instrumentos Musicais</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Ajusta o volume da música de jogadores locais e remotos que estejam tocando instrumentos musicais.</string>
 	<string key="ui_outputconfiguration">Configuração de Saída</string>
-	<string key="ui_outputconfiguration_desc">Alterne entre uma distribuição de áudio de 360° para Home Theaters ou 180° para Fones de Ouvido.</string>
+	<string key="ui_outputconfiguration_desc">Alterne entre uma distribuição de áudio de 360° para home theaters ou 180° para fones de ouvido.</string>
 	<string key="ui_texttospeech">Texto para Fala</string>
 	<string key="ui_texttospeech_desc">Ative o Texto para Fala para mensagens de chat recebidas.</string>
 	<string key="ui_tts_rate">Taxa do Texto para Fala</string>
@@ -244,7 +242,7 @@
 	<string key="ui_bandwidthmode">Modo de Largura de Banda</string>
 	<string key="ui_bandwidthmode_desc">O Modo de Largura de Banda a ser usado ao receber dados do servidor. Valores baixos podem afetar a qualidade.</string>
 	<string key="ui_analyticsenabled">Transmitir dados de telemetria do cliente</string>
-	<string key="ui_analyticsenabled_desc">Se você desabilitar esta função, deixará de enviar para a equipe do New World alguns dados de telemetria do cliente relacionados à sua experiência de jogo e suas configurações. Se você estiver com problemas de rede no New World, desabilitar esta função pode ajudar.</string>
+	<string key="ui_analyticsenabled_desc">Se você desabilitar esta função, deixará de enviar para a equipe do New World alguns dados de telemetria do cliente relacionados à sua experiência de jogo e suas configurações. Se você estiver com problemas de rede no New World, desabilitar esta função poderá ajudar.</string>
 	<string key="ui_enable_camera_lock">Cura Direcionada</string>
 	<string key="ui_enable_camera_lock_description">Ativa o sistema de cura direcionada.</string>
 	<string key="ui_enable_camera_lock_friendlies">Travar Câmera em Aliados</string>

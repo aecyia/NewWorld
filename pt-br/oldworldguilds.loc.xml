@@ -43,8 +43,10 @@
 	<string key="owg_drop_item_title">Soltar Item de Missão</string>
 	<string key="owg_drop_item_warning">Soltar ou Armazenar este item o destruirá.</string>
 	<string key="owg_entershop_button">Comprar Recompensas</string>
+	<string key="owg_price_update">Os preços mudaram devido à atividade da Facção</string>
 	<string key="owg_faction_select_no">Não, deixe-me pensar sobre isso.</string>
 	<string key="owg_faction_select_title">Juntar-se a esta Facção?</string>
+	<string key="owg_faction_select_title_incompany">Aviso! Sua companhia tem uma facção diferente!</string>
 	<string key="owg_faction_select_warning">Esta decisão não pode ser desfeita.</string>
 	<string key="owg_faction_select_yes">Sim, prometer sua lealdade à facção {faction}.</string>
 	<string key="owg_faction_select_confirm">Você só poderá entrar para uma Companhia com jogadores da mesma facção. Caso esteja com a sinalização de PvP ativa, você só poderá fazer grupo com jogadores da mesma facção. Você talvez queira conferir a facção que seus amigos escolheram em New World antes de começar.\n\nSua escolha não é permanente; você pode mudar de facção uma vez na tela de Biografia. Depois disso, você pode mudar de novo a cada &lt;font color="#FFD45F"&gt;60 dias&lt;/font&gt;.</string>
@@ -101,7 +103,7 @@
 	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">TRILHA DE RECOMPENSAS PVP</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">A Trilha de Recompensas PvP contém recompensas específicas de PvP por realizar atividades PvP no jogo. A trilha pode ser concluída e executada novamente para obter uma seleção diferente de recompensas, com recompensas mais prestigiosas disponíveis à medida que mais trilhas são concluídas.</string>
 	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">EXP PVP</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Faça progresso em sua trilha participando de Missões PvP, Arenas 3v3, Guerras e Investidas do Posto Avançado, capturando fortes, derrotando outros jogadores e recebendo EXP enquanto estiver sinalizado.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Faça progresso em sua trilha participando de Missões PvP, Guerras, Investidas do Posto Avançado e Arenas 3v3, capturando fortes e derrotando outros jogadores.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">SAL DE AZOTH</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Sal de Azoth é a moeda que te dá recompensas da Trilha PvP. Você pode ganhar Sal de Azoth participando de Guerras, Investidas do Posto Avançado, Arenas 3v3 e Missões PvP, abatendo jogadores no mundo aberto PvP e recebendo EXP enquanto estiver sinalizado.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
@@ -240,8 +242,8 @@
 	<string key="owg_pvp_cannotacceptmission_nofaction">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; até que se junte a uma facção.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; até que esteja em um santuário.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; deste tipo no momento.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; enquanto está em um Saguão de PvE, pois isso impossibilita ativar sua sinalização de PvP.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; enquanto está com convites de Saguão, pois isso impossibilita ativar sua sinalização de PvP.</string>
+	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; enquanto está em um Saguão de PvE, pois isso impossibilita ativar sua sinalização de PvP.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; enquanto está com convites de Saguão, pois isso impossibilita ativar sua sinalização de PvP.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; no momento.</string>
 	<string key="owg_tooltip_warning">Somente 1 Missão pode estar ativa por vez.</string>
 	<string key="owg_unlock_previous_rank">Ranque Desbloqueado {rankName}</string>
@@ -274,11 +276,29 @@
 	<string key="ui_faction_desc1">Discípulos espertos que lutam com Astúcia pelo bem da Verdade e do Progresso</string>
 	<string key="ui_faction_desc2">Guerreiros orgulhosos que lutam com Honra pela Glória e aprimoramento próprio</string>
 	<string key="ui_faction_desc3">Campeões divinos que lutam com Convicção pela Retidão e Justiça</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection">Domine os segredos de Aeternum, pois conhecimento é poder</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection">Reivindique honra e glória por meio da força das armas</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection">Empunhe a Luz da Justiça e bana a escuridão</string>
+	<string key="ui_become_a">Torne-se um</string>
+	<string key="ui_faction_calltoaction_title1">Sábio Inteligente</string>
+	<string key="ui_faction_calltoaction_title2">Guerreiro Orgulhoso</string>
+	<string key="ui_faction_calltoaction_title3">Campeão Divino</string>
 	<string key="ui_faction_none">Nenhuma</string>
 	<string key="ui_faction_name1">Sindicato</string>
 	<string key="ui_faction_name2">Saqueadores</string>
 	<string key="ui_faction_name3">Aliança</string>
+	<string key="ui_faction_name_with_article1">O Sindicato</string>
+	<string key="ui_faction_name_with_article2">Os Saqueadores</string>
+	<string key="ui_faction_name_with_article3">A Aliança</string>
+	<string key="ui_faction_join_name1">Junte-se ao Sindicato</string>
+	<string key="ui_faction_join_name2">Junte-se aos Saqueadores</string>
+	<string key="ui_faction_join_name3">Junte-se à Aliança</string>
+	<string key="ui_stats_friends_in_faction">{friendCountInFaction} Amigos na Facção</string>
+	<string key="ui_stats_faction_tokens">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt; Tokens</string>
+	<string key="ui_stats_faction_rep">{factionRep} de Reputação de Facção</string>
+	<string key="ui_faction_items_label">Faça missões para ganhar itens como</string>
 	<string key="ui_faction_unaligned">Sem alinhamento</string>
+	<string key="ui_unlocks_pvp">Desbloqueia PvP</string>
 	<string key="CMissionExplore_Name">Precisa-se de Exploradores</string>
 	<string key="CMissionExplore_Desc">Procure &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt; em &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt;Volte aqui para fazer a entrega.</string>
 	<string key="CMissionAcquireBlock_Name">Precisa-se de Canteiros</string>
@@ -296,6 +316,7 @@
 	<string key="CMissionHuntCreature_Name">Precisa-se de Caçadores de {enemyName}</string>
 	<string key="CMissionHuntCreature_Desc">Cace &lt;font color="#eaeaea"&gt;{killAmount}x {enemyName}&lt;/font&gt;</string>
 	<string key="CMissionAcquire1_Desc">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt;.</string>
+	<string key="CMissionAcquire1_Desc_Cook">Cozinhe e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
 	<string key="M_fetch_title">Explorar e Encontrar</string>
 	<string key="M_fetch_desc">Procure &lt;font color="#eaeaea"&gt;{itemAmount}x {itemName}&lt;/font&gt;</string>
 	<string key="M_kill_token_title">Derrote e conquiste</string>
@@ -338,7 +359,7 @@
 	<string key="FactionMission_RAID_title">Assaltar: {POITags}</string>
 	<string key="FactionMission_RAID_desc">Identificamos uma ameaça aos interesses dos Saqueadores nesta região.\n\nVá até {POITags} e derrote cada &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;... sem piedade.</string>
 	<string key="FactionMission_EXPLORE_title">Fazer reconhecimento: {POITags}</string>
-	<string key="FactionMission_EXPLORE_desc">Faça o reconhecimento aqui para dar uma vantagem aos Saqueadores. \n\nSeu relatório é crucial para formular nossa estratégia.</string>
+	<string key="FactionMission_EXPLORE_desc">Faça o reconhecimento em {POITags} para dar uma vantagem aos Saqueadores. \n\nSeu relatório é crucial para formular nossa estratégia.</string>
 	<string key="FactionMission_LOOT_title">Saquear: {POITags}</string>
 	<string key="FactionMission_LOOT_desc">Existem itens em {POITags} que podem ser valiosos para a campanha dos Saqueadores. \n\nConsiga cada &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; custe o que custar.</string>
 	<string key="FactionMission_HUNT_title">Cace: {POITags}</string>
@@ -360,23 +381,23 @@
 	<string key="FactionMission_C_HUNT_title">Cace: {POITags}</string>
 	<string key="FactionMission_C_HUNT_desc">Precisamos de suprimentos para dar apoio à causa da Aliança.\n\nCace &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; que ficam em {POITags} e nos traga os rendimentos.</string>
 	<string key="FactionMission_PILLAGE_title">Sabotagem</string>
-	<string key="FactionMission_PILLAGE_desc">Enfraqueça nosso inimigo destruindo seus recursos.</string>
+	<string key="FactionMission_PILLAGE_desc">Enfraqueça nosso inimigo destruindo seus recursos em {POITags}.</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_title">Mostrar Força (PvP)</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_desc">Toda Aeternum pertence a nós. Prove isso.</string>
 	<string key="FactionMission_INFILTRATE_title">Infiltrar (PvP)</string>
-	<string key="FactionMission_INFILTRATE_desc">Recupere o ativo dos Saqueadores e aguarde mais instruções.</string>
+	<string key="FactionMission_INFILTRATE_desc">Recupere ativos dos Saqueadores de {POITags}.</string>
 	<string key="FactionMission_DISRUPT_title">Romper (PvP)</string>
-	<string key="FactionMission_DISRUPT_desc">Capture ou destrua os recursos antes que possam ser usados contra nós.</string>
+	<string key="FactionMission_DISRUPT_desc">Capture ou destrua os recursos em {POITags} antes que possam ser usados contra nós.</string>
 	<string key="FactionMission_STABILIZE_title">Estabilizar (PvP)</string>
-	<string key="FactionMission_STABILIZE_desc">Este local é de importância estratégica. Não o deixe cair em mãos inimigas.</string>
+	<string key="FactionMission_STABILIZE_desc">{POITags} é de importância estratégica. Não o deixe cair em mãos inimigas.</string>
 	<string key="FactionMission_GATHERINTEL_title">Coletar Informações (PvP)</string>
-	<string key="FactionMission_GATHERINTEL_desc">Recupere dados importantes do experimento e aguarde instruções.</string>
+	<string key="FactionMission_GATHERINTEL_desc">Recupere dados importantes do experimento da reserva em {POITags}.</string>
 	<string key="FactionMission_TITHE_title">Dízimo (PvP)</string>
 	<string key="FactionMission_TITHE_desc">Alimente a Centelha com a fome do inimigo.</string>
 	<string key="FactionMission_SANCTIFY_title">Santificar (PvP)</string>
-	<string key="FactionMission_SANCTIFY_desc">Libere esta área. Mantenha-se firme, ande na luz.</string>
+	<string key="FactionMission_SANCTIFY_desc">Libere {POITags}. Mantenha-se firme, ande na luz.</string>
 	<string key="FactionMission_PRESERVE_title">Preservar (PvP)</string>
-	<string key="FactionMission_PRESERVE_desc">Ajude a dar as boas novas da Centelha.</string>
+	<string key="FactionMission_PRESERVE_desc">Abençoe {POITags} com a luz da Centelha.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Assaltar: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Faça uma sondagem em {POITags} pelos Saqueadores e derrote todos &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; que precisar. \n\n &lt;font color="#eaeaea"&gt;(Expedição)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Faça uma sondagem em {POITags} pelos Saqueadores e derrote &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedição)&lt;/font&gt;</string>
@@ -512,13 +533,18 @@
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Os Saqueadores não toleram &lt;font color="#eaeaea"&gt;Corrupção&lt;/font&gt; se intrometendo em nosso território.\n\nSe você vir uma de suas incursões, feche-a.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">Agora temos o poder de impedir o avanço da &lt;font color="#eaeaea"&gt;Corrupção&lt;/font&gt;.\n\nSele qualquer &lt;font color="#eaeaea"&gt;Incursão de Corrupção&lt;/font&gt; que encontrar.</string>
 	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">&lt;font color="#eaeaea"&gt;Incursões de Corrupção&lt;/font&gt; ameaçam extinguir a Centelha.\n\nEsforce-se para eliminar qualquer incursão que encontrar.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Mesa de Cantaria.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Mesa de Cantaria.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
+	<string key="CMissionAcquireStoneworker">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Mesa de Cantaria.</string>
+	<string key="CMissionAcquireWoodWorker">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
+	<string key="CMissionAcquireOutfitter">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
+	<string key="CMissionAcquireEngineer">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
+	<string key="ui_already_in_faction">Você já está nesta facção</string>
+	<string key="ui_cant_switch_faction_pvp">Não é possível mudar de facção enquanto está com sinalização para PvP</string>
+	<string key="ui_cant_switch_faction_azoth">Azoth insuficiente</string>
+	<string key="ui_cant_switch_faction_sanctuary">Você precisa estar em um santuário para trocar de facção</string>
+	<string key="ui_cant_switch_faction_war">Não é possível trocar de facção enquanto está registrado(a) para uma guerra</string>
+	<string key="ui_cant_switch_faction_intro">Você ainda não provou seu valor para esta facção. Fale com um representante de facção para participar.</string>
+	<string key="ui_cant_switch_faction_incompany">Você está em uma companhia associada a uma facção diferente no momento. Se continuar, você será removido(a) desta Companhia.\n\nVocê só poderá entrar para uma Companhia com jogadores da mesma Facção. Caso esteja com a sinalização de PvP ativa, você só poderá fazer grupo com jogadores da mesma facção. Você talvez queira conferir a facção que seus amigos escolheram em New World antes de começar.\n\nSua escolha não é permanente; você pode mudar de facção uma vez na tela de Biografia. Depois disso, você pode mudar de novo a cada &lt;font color="#FFD45F"&gt;60 dias&lt;/font&gt;.</string>
+	<string key="ui_join">Entrar</string>
+	<string key="ui_faction_join_restrictions">Você pode trocar de facção uma vez a cada 60 dias. Você só poderá se juntar a companhias de sua própria facção.</string>
 </resources>
 

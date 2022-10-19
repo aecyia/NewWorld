@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Meubles</string>
 	<string key="inv_outpostrush">Déferlante</string>
 	<string key="inv_pvparenas">Arènes JcJ</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runes</string>
 	<string key="inv_crafting_modifiers">Mods</string>
 	<string key="inv_repair_kit_count">{count} nécessaire(s) de réparation</string>
 	<string key="inv_repair_kits">Nécessaires de réparation</string>
@@ -64,21 +65,21 @@
 	<string key="inv_equipLoadNormal">Moyen</string>
 	<string key="inv_equipLoadSlow">Lourd</string>
 	<string key="inv_equipLoadOverburdened">Suréquipé</string>
-	<string key="inv_equipLoadTooltip">La charge combinée de l'armure et du bouclier que vous portez détermine votre poids d'équipement. Du poids d'équipement dépendent vos capacités d'esquive ainsi que d'autres bonus.</string>
-	<string key="inv_equipLoadFastTooltip">Avec une armure légère, votre esquive consiste en une roulade rapide qui couvre une grande distance et consomme de la {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} vitalité. Vous bénéficiez d'un bonus de dégâts de {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % et d'un bonus aux soins de 30 %.</string>
-	<string key="inv_equipLoadNormalTooltip">Avec une armure de poids moyen, votre esquive consiste en un bond rapide et consomme de la {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} vitalité. La durée des effets de contrôle de foule que vous appliquez augmente de 10 %. Vous infligez {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % de dégâts supplémentaires.</string>
-	<string key="inv_equipLoadSlowTooltip">Avec une armure lourde, votre esquive consiste en un pas chassé lent qui consomme de la {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} vitalité. Votre capacité de blocage augmente de 15 % et la durée des effets de contrôle de foule que vous appliquez augmente de 20 %. Vos soins sont réduits de 30 %.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">Lorsque vous dépassez le poids d'équipement maximal, vous ne pouvez plus esquiver, sprinter ou utiliser de capacités. Vous devriez déséquiper quelques objets.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Vous avez trop d'objets dans votre inventaire. Lorsque l'inventaire est encombré, les effets subis sont indépendants de votre poids d'équipement. Vous ne pouvez ni sprinter ni esquiver et vous perdez davantage de vitalité en parant. Retirez quelques objets de votre havresac.</string>
-	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Vous dépassez le poids d'équipement maximal : impossible d'esquiver ou de sprinter et la vitesse de recharge de la vitalité est bien plus lente. Vous devriez déséquiper quelques objets.</string>
+	<string key="inv_equipLoadTooltip">La charge combinée de l'armure et du bouclier que vous portez détermine votre poids d'équipement. Ce dernier procure une esquive unique et divers autres effets.</string>
+	<string key="inv_equipLoadFastTooltip">Votre esquive est une roulade rapide couvrant une grande distance. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} \n• Dégâts de base : augmentation de {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]} % \n• Soins prodigués : augmentation de 30 % \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadNormalTooltip">Votre esquive est un bond rapide. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} \n• Dégâts de base : augmentation de {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]} % \n• Affaiblissements dus au contrôle de foule : augmentation de 10 % de la durée \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]}s après avoir pris un coup au corps à corps, la distance d'esquive est réduite de 20 % et vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadSlowTooltip">Votre esquive est un pas chassé. Ce poids d'équipement a les effets suivants : \n• Coût en vitalité de l'esquive : {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} \n• Capacité de blocage : augmentation de 15 % \n• Affaiblissements dus au contrôle de foule : augmentation de 20 % de la durée \n• Soins prodigués : réduction de 30 % \n• Pendant {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]}s après avoir pris un coup au corps à corps, vous ne pouvez pas courir.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">Lorsque vous dépassez le poids d'équipement maximal, vous ne pouvez plus esquiver, courir ou utiliser de capacités. Vous devriez déséquiper quelques objets.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Vous avez trop d'objets dans votre inventaire. Lorsque l'inventaire est encombré, les effets subis sont indépendants de votre poids d'équipement. Vous ne pouvez ni courir ou esquiver et vous perdez davantage de vitalité en parant. Retirez quelques objets de votre havresac.</string>
+	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Vous dépassez le poids d'équipement maximal : Impossible d'esquiver ou de courir et la vitesse de régénération de la vitalité est bien plus lente. Vous devriez déséquiper quelques objets.</string>
 	<string key="inv_equipLoadFastNotification">Poids d'équipement léger</string>
 	<string key="inv_equipLoadNormalNotification">Poids d'équipement moyen</string>
 	<string key="inv_equipLoadSlowNotification">Poids d'équipement lourd</string>
-	<string key="inv_equipLoadOverburdenedNotification">Suréquipé - Impossible d'esquiver ou de sprinter</string>
-	<string key="inv_equipLoadEncumberedNotification">Encombré - Impossible d'esquiver, de sauter ou de sprinter</string>
+	<string key="inv_equipLoadOverburdenedNotification">Suréquipé - Impossible d'esquiver ou de courir</string>
+	<string key="inv_equipLoadEncumberedNotification">Encombré - Impossible d'esquiver, de sauter ou de courir</string>
 	<string key="inv_encumbranceTooltip">Votre encombrement correspond au poids total de ce que contient votre sac. Les objets équipés ne l'affectent pas. Utilisez des sacs pour augmenter l'encombrement maximal de l'inventaire.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Si le poids des objets est inférieur à la limite de l'inventaire, vous n'êtes pas encombré.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Lorsque vous avez trop d'objets dans votre inventaire, vous ne pouvez pas esquiver, courir ou sprinter. Une fois l'encombrement maximal atteint, vous ne pouvez plus vous déplacer ni attaquer. Retirez quelques objets de votre havresac.</string>
+	<string key="inv_encumbranceEncumberedTooltip">Lorsque vous avez trop d'objets dans votre inventaire, vous ne pouvez pas esquiver ou courir. Une fois l'encombrement maximal atteint, vous ne pouvez plus vous déplacer ni attaquer. Retirez quelques objets de votre havresac.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Caractéristiques insuffisantes</string>
 	<string key="inv_encumbranceAttackNotification">Encombré : impossible d'attaquer</string>
 	<string key="inv_insufficientManaNotification">Mana insuffisant</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Recycler cet objet vous permettra de récupérer {min}-{max} {itemName}et &lt;font color="#f25d5d"&gt;{numRepairParts} pièce(s) de réparation.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Recycler cet objet vous permettra de récupérer {numRepairParts} pièce(s) de réparation.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Recycler cet objet vous permettra de récupérer {numRepairParts} pièces de réparation et {coinAmount}.</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Vous avez atteint votre limite de pièces.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Obtenu : {entry1}</string>
 	<string key="salvage_notification_obtained_2">Obtenu : {entry1} et {entry2}</string>
 	<string key="salvage_notification_obtained_3">Obtenu : {entry1}, {entry2} et {entry3}</string>

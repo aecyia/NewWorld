@@ -22,6 +22,7 @@
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Il vous faut sélectionner au moins 2 parties pour commencer un spectacle.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Votre spectacle a expiré pour cause d'inactivité.</string>
 	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">Vous ne pouvez pas organiser de spectacle ici : trop près d'une zone interdite</string>
+	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">Vous ne pouvez pas lancer un spectacle à l'intérieur d'une maison.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">Aucune partie sélectionnée.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">Partition de musique pour {instrument}</string>
 	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Récupérez les pages afin de compléter la partition de musique pour chaque instrument.</string>
@@ -72,6 +73,7 @@
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">DÉLAI AVANT POURBOIRE</string>
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">EN ATTENTE DE POURBOIRES...</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Terminer maintenant et récupérer les pourboires</string>
+	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds}s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">SPECTACLE\nTERMINÉ !</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Incroyable !</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Super !</string>
@@ -139,12 +141,13 @@
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Name" rel_version="Feature_MusicalPerformances">En vedette</string>
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">Les trois premières notes sont toujours parfaitement exécutées.</string>
 	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">La première fausse note est ignorée.</string>
-	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">Le groupe de spectacle recevra désormais la totalité des pourboires.</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">L'interprète recevra désormais la totalité des pourboires.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Exécuter la dernière note à la perfection récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Jouer dans un groupe récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Jouer en solo récompense le joueur avec un boost de 10 % d'EXP de musique.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitare (1re partie)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitare (2e partie)</string>
+	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitare (3e partie)</string>
 	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flûte (1re partie)</string>
 	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flûte (2e partie)</string>
 	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Contrebasse (1re partie)</string>
@@ -187,28 +190,17 @@
 	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Reine des prés sauvage</string>
 	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Avant l'orage</string>
 	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Lumière déclinante</string>
-	<string key="songtitle_Gatherers_Rush" rel_version="Feature_MusicalPerformances">Ruée des cueilleurs</string>
-	<string key="songtitle_Sap_Of_Brightwood" rel_version="Feature_MusicalPerformances">Sève de Boisclair</string>
-	<string key="songtitle_Old_Windsward_Shack" rel_version="Feature_MusicalPerformances">Vieille cabane de Gré-du-Vent</string>
-	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Feuilles de bois de fer</string>
-	<string key="songtitle_My_Beef_Is_With_The_Butcher" rel_version="Feature_MusicalPerformances">Attiser la forge</string>
-	<string key="songtitle_Sword_And_Board" rel_version="Feature_MusicalPerformances">Tumulte au comptoir</string>
-	<string key="songtitle_Wayfaring_Stranger" rel_version="Feature_MusicalPerformances">Un étranger loin de chez lui</string>
-	<string key="songtitle_Second_Coming" rel_version="Feature_MusicalPerformances">Souvenirs de Boisclair</string>
-	<string key="songtitle_9_Pound_Hammer" rel_version="Feature_MusicalPerformances">Un marteau de 4 kg</string>
-	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Camarades de Gré-du-Vent</string>
-	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">Minerai de rien</string>
-	<string key="songtitle_Tavern_Blues" rel_version="Feature_MusicalPerformances">Dernier appel</string>
-	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">Mon bivouac</string>
-	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">Ma maison</string>
-	<string key="songtitle_Before_This_Time" rel_version="Feature_MusicalPerformances">Avant cette époque</string>
-	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Feuilles de bois d'aléa</string>
-	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">Le son des cloches</string>
-	<string key="songtitle_Fight" rel_version="Feature_MusicalPerformances">Victoire à portée de la main</string>
-	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">La toile du tisseur</string>
-	<string key="songtitle_The_OldWood" rel_version="Feature_MusicalPerformances">Bois d'antan</string>
-	<string key="songtitle_Honor_Of_The_Warrior" rel_version="Feature_MusicalPerformances">L'honneur du guerrier</string>
-	<string key="songtitle_Heed_The_Stead" rel_version="Feature_MusicalPerformances">Route vers Haute-Chute</string>
-	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">Le gamin sur la montagne</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformancesV2">Feuilles de bois de fer</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformancesV2">Camarades de Gré-du-Vent</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformancesV2">Minerai de rien</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformancesV2">Mon bivouac</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformancesV2">Ma maison</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformancesV2">Feuilles de bois d'aléa</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformancesV2">Le son des cloches</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformancesV2">La toile du tisseur</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformancesV2">Le gamin sur la montagne</string>
+	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">Ce maudit poisson</string>
+	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Soupe du jour</string>
+	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
 </resources>
 

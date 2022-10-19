@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Statut</string>
 	<string key="trade_column_rarity">Rareté</string>
 	<string key="trade_column_craftsmanship">Savoir-\nfaire</string>
+	<string key="trade_column_completion_time">Temps d'exécution</string>
 	<string key="trade_noitemmessage">Sélectionner objet pour le voir</string>
 	<string key="trade_not_enough_money">Pas assez d'argent</string>
 	<string key="trade_none_available">Épuisé</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Fenêtre de siège</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Commence dans</string>
 	<string key="ui_signup_your_status">Votre statut</string>
+	<string key="ui_signup_restriction_cooldown">Si le choix se porte sur vous, vous compterez comme mercenaire en raison du délai d'attente de la guerre.\nVous pourrez participer aux guerres en tant que non-mercenaire dans : {cooldownTime}</string>
 	<string key="ui_no_permission_alert">Impossible d'envoyer une alerte.</string>
 	<string key="ui_title_alpha">Pionnier/Pionnière</string>
 	<string key="ui_title_preorder">Expédition I</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitation refusée</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invitation refusée. Joueur déjà dans le salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invitation refusée. Le joueur a un mode JcJ incompatible.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitation refusée. Le joueur a atteint la limite de donjons.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitation refusée. Le joueur a atteint la limite d'expéditions.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invitation refusée. Joueur dans une faction différente.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Inviter dans le salon</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Seul le créateur du salon peut envoyer des invitations.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">À la recherche de plus de membres...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">Vous ne pouvez pas vous inscrire tout en étant dans un salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">Vous ne pouvez pas être dans la file d'attente de l'expédition tout en étant dans un salon.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">Vous ne pouvez pas être dans la file d'attente de l'Épreuve de l'âme tout en étant dans un salon.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Groupe au complet</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Ouvrir l'expédition</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Un minimum de {amount} membres est requis pour commencer cette expédition.</string>

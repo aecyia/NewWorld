@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">Vos capacités de constructeur s'améliorent. Les structures que vous construisez sont un peu plus solides qu'auparavant et peuvent subir plus de dégâts avant de s'écrouler. Seules les nouvelles structures sont affectées.</string>
 	<string key="TradeskillBuilding9_Description">Vos capacités de constructeur s'améliorent. Les structures que vous construisez sont un peu plus solides qu'auparavant et peuvent subir plus de dégâts avant de s'écrouler. Seules les nouvelles structures sont affectées.</string>
 	<string key="TradeskillBuilding10_Description">MAÎTRE ARCHITECTE : Vos capacités de constructeur s'améliorent. Les structures que vous construisez sont bien plus solides qu'auparavant et peuvent subir plus de dégâts avant de s'écrouler. Seules les nouvelles structures sont affectées.</string>
-	<string key="ui_onehanded_weapons">Armes à une main</string>
-	<string key="ui_twohanded_weapons">Armes à deux mains</string>
-	<string key="ui_ranged_weapons">Armes à distance</string>
+	<string key="ui_onehanded_weapons">À une main</string>
+	<string key="ui_twohanded_weapons">À deux mains</string>
+	<string key="ui_ranged_weapons">À distance</string>
 	<string key="ui_magic_skills">Capacités de magie</string>
 	<string key="ui_weaponmastery_description">Pour améliorer vos capacités avec une arme, utilisez-la régulièrement. À chaque niveau, vous gagnez un point à dépenser pour déverrouiller des améliorations spécifiques à l'arme en question.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">L'arbre de maîtrise des armes est en cours de développement D'autres armes seront bientôt disponibles.</string>
 	<string key="ui_farmplants">Plantes agricoles</string>
 	<string key="ui_hemp">Chanvre</string>
 	<string key="ui_hempt4">Asclépiade</string>
+	<string key="ui_aloe">Gel d'aloès</string>
 	<string key="ui_hempt5">Souchet</string>
 	<string key="ui_alchemy1">Plantes magiques</string>
 	<string key="ui_alchemy2">Pierres magiques</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Magnétite</string>
 	<string key="ui_gold">Or</string>
 	<string key="ui_starmetal">Métal stellaire</string>
+	<string key="ui_sandstone">Grès</string>
 	<string key="ui_platinum">Platine</string>
+	<string key="ui_brimstone">Sulfure</string>
 	<string key="ui_orichalcum">Orichalque</string>
 	<string key="ui_wyrdwood">Bois d'aléa</string>
 	<string key="ui_ironwood">Bois de fer</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Vous pouvez dépecer des animaux de &lt;font color={levelColor}&gt;niveau {maxGatherLevel}&lt;/font&gt; maximum</string>
 	<string key="ui_skillToSkinLevel">Quand vous atteindrez le niveau de capacité {skillLevel}, vous pourrez dépecer des animaux de niveau {maxGatherLevel} maximum.</string>
 	<string key="ui_skillToSkinLevelShort">Niveau de capacité : {skillLevel} - Niveau de l'animal : {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Jeunes arbres</string>
-	<string key="iconTypeUnlock_maturetrees">Arbres adultes</string>
+	<string key="iconTypeUnlock_youngtrees">Jeunes arbres et cactus</string>
+	<string key="iconTypeUnlock_maturetrees">Arbres et cactus adultes</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Comment fonctionnent les zones de pêche</string>
 	<string key="ui_fishing_hotspot_tutorial">Une zone de pêche active est reconnaissable à ses poissons qui en bondissent.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nQuand celle-ci est active, lancez-y votre ligne. Vous verrez que ça mordra plus rapidement et vous pourrez pêcher des poissons plus rares. Lorsque vous lancez correctement votre ligne, une petite alerte vous indique que vous êtes bien dans la zone de pêche.\n\nUne zone de pêche s'épuise après un certain nombre de poissons pêchés. Une zone de pêche est épuisée lorsqu'il n'y a plus de poissons qui en bondissent.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nUne zone de pêche épuisée redevient active au bout d'un certain temps.\n\nPlus votre compétence en pêche s'améliore, plus vous trouverez de zones de pêche et de meilleure qualité.</string>
 </resources>

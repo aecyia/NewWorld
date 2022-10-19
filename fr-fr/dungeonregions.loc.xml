@@ -31,7 +31,7 @@
 	<string key="ui_area_everfall00_crypt_halls">HALLS DE LA CRYPTE</string>
 	<string key="ui_area_everfall00_crypt_regent">CRYPTE DU RÉGENT</string>
 	<string key="ui_area_everfall00_forbidden_passage">PASSAGE INTERDIT</string>
-	<string key="ui_area_everfall00_sealed_chamber">CHAMBRE SCELLÉE</string>
+	<string key="ui_area_everfall00_sealed_chamber">CHAMBRE VERROUILLÉE</string>
 	<string key="ui_area_everfall00_shattered_obelisk">OBÉLISQUE BRISÉ</string>
 	<string key="ui_icon_everfall00_title_boss_heavy">GREUNDGUL LE RÉGENT</string>
 	<string key="ui_icon_everfall00_description_boss_heavy">BOSS DU NIVEAU 36\nMONARQUE ANCIEN</string>
@@ -120,7 +120,7 @@
 	<string key="ui_icon_shattermtn00_title_isabella" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
 	<string key="ui_icon_shattermtn00_description_isabella" rel_version="Expedition_ShatterMtn_00">BOSS DU NIVEAU 66\nCHEF DES FORCES ALTÉRÉES D'AETERNUM</string>
 	<string key="ui_icon_shattermtn00_unconverted" rel_version="Expedition_ShatterMtn_00">ISABELLA</string>
-	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">NAGA ALTÉRÉ</string>
+	<string key="ui_icon_shattermtn00_title_naga" rel_version="Expedition_ShatterMtn_00">NEISHATUN</string>
 	<string key="ui_icon_shattermtn00_description_naga" rel_version="Expedition_ShatterMtn_00">BOSS DU NIVEAU 66\nGARDIEN DU TRÔNE</string>
 	<string key="ui_icon_shattermtn00_voidtunnel" rel_version="Expedition_ShatterMtn_00">PORTAIL</string>
 	<string key="ui_icon_shattermtn00_voidtunnelexit" rel_version="Expedition_ShatterMtn_00">SORTIE</string>
@@ -153,5 +153,28 @@
 	<string key="ui_icon_cutlasskeys00_waterstatue" rel_version="Expedition_CutlassKeys_00">Bénédiction de Néréide</string>
 	<string key="ui_icon_cutlasskeys00_antonio" rel_version="Expedition_CutlassKeys_00">Antonio</string>
 	<string key="ui_icon_cutlasskeys00_mariner" rel_version="Expedition_CutlassKeys_00">Tye</string>
+	<string key="ui_area_brimstone_AncientHalls" rel_version="Expedition_BrimstoneSands_00">Halls anciens</string>
+	<string key="ui_area_brimstone_CoruptionBreakthrough" rel_version="Expedition_BrimstoneSands_00">Sépulture brisée</string>
+	<string key="ui_area_brimstone_Entrance" rel_version="Expedition_BrimstoneSands_00">L'Approche</string>
+	<string key="ui_area_brimstone_EternalCourt" rel_version="Expedition_BrimstoneSands_00">Cour éternelle</string>
+	<string key="ui_area_brimstone_Garden" rel_version="Expedition_BrimstoneSands_00">Centre verdoyant</string>
+	<string key="ui_area_brimstone_ScarabBossChamber" rel_version="Expedition_BrimstoneSands_00">Siège du juge</string>
+	<string key="ui_area_brimstone_SecurityPost" rel_version="Expedition_BrimstoneSands_00">Mausolée souillé</string>
+	<string key="ui_area_brimstone_CrassusBossArena" rel_version="Expedition_BrimstoneSands_00">Sceau du Souverain</string>
+	<string key="ui_area_brimstone_GuardianGates_Entrance" rel_version="Expedition_BrimstoneSands_00">Le débarcadère</string>
+	<string key="ui_area_brimstone_GuardianGates_Left" rel_version="Expedition_BrimstoneSands_00">Vestiges de royauté</string>
+	<string key="ui_area_brimstone_GuardianGates_Main" rel_version="Expedition_BrimstoneSands_00">Pagode ancestrale</string>
+	<string key="ui_area_brimstone_GuardianGates_Right" rel_version="Expedition_BrimstoneSands_00">Autel altéré</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_End" rel_version="Expedition_BrimstoneSands_00">Crypte intemporelle</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_Main" rel_version="Expedition_BrimstoneSands_00">La Falaise immortelle</string>
+	<string key="ui_area_brimstone_HallOfEndlessWarriors_Right" rel_version="Expedition_BrimstoneSands_00">Monument altéré</string>
+	<string key="ui_area_brimstone_ArrivalArea" rel_version="Expedition_BrimstoneSands_00">Terrasse du Créateur</string>
+	<string key="ui_area_brimstone_GuardiansOfEnnead" rel_version="Expedition_BrimstoneSands_00">Le sommet</string>
+	<string key="ui_icon_brimstone_title_scarab" rel_version="Expedition_BrimstoneSands_00">Divinité mineure Khépri</string>
+	<string key="ui_icon_brimstone_description_scarab" rel_version="Expedition_BrimstoneSands_00">Gardien du temple</string>
+	<string key="ui_icon_brimstone_title_crassus" rel_version="Expedition_BrimstoneSands_00">Général Crassus</string>
+	<string key="ui_icon_brimstone_description_crassus" rel_version="Expedition_BrimstoneSands_00">Chef de la 19e légion</string>
+	<string key="ui_icon_brimstone_title_goliaths" rel_version="Expedition_BrimstoneSands_00">Anpu et Heru</string>
+	<string key="ui_icon_brimstone_description_goliaths" rel_version="Expedition_BrimstoneSands_00">Idoles Anciennes</string>
 </resources>
 

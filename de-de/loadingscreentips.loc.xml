@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">Die Verlorenen</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">Die Verlorenen sind der beste Beweis, dass ewiges Leben nicht immer mit märchenhafter Unsterblichkeit gleichzusetzen ist. Manch einer muss einen furchtbaren Preis dafür zahlen. Zu einem Verlorenen wird man durch einen endlosen Kreislauf von Tod und Wiedergeburt, durch den die Seele so lange geschunden wird, bis nichts mehr von ihr übrig ist.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">Die Verlorenen</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Verlorene reagieren empfindlich auf Schlag-, Eis- und Naturschaden, widerstehen allerdings Stich- und Unheilsschaden.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Verlorene reagieren empfindlich auf Schlag-, Eis- und Naturschaden.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Die Ahnen</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">Die Ursprünge der Ahnen und Einzelheiten ihrer Zivilisation sind längst in Vergessenheit geraten. Von ihnen sind nur noch Relikte übrig: verwitterte Monumente, Ruinen von Städten und Legionen von skeletthaften Kriegern.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Die Ahnen</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Ahnenwächter reagieren empfindlich auf Schlag-, Blitz- und Unheilsschaden, widerstehen allerdings Schnitt- und Feuerschaden.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Ahnenwächter reagieren empfindlich auf Schlag-, Blitz- und Unheilsschaden.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">Zornige Erdkreaturen</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">Die Zornigen Erdkreaturen sind der offensichtlichste Beweis für die Vereinigung von Azoth und Natur. Diese vielfältigen pflanzenartigen Wesen verdanken ihren Namen der entschlossenen Wildheit, mit der sie die Wildnis von Aeternum verteidigen.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">Zornige Erdkreaturen</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Zornige Erdkreaturen reagieren empfindlich auf Schnitt- und Feuerschaden, widerstehen allerdings Stich- und Blitzschaden.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Zornige Erdkreaturen reagieren empfindlich auf Schnitt- und Feuerschaden.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">Die Verderbten</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">Die Verderbten sind die unsterblichen Sklaven einer uralten und unbekannten Macht, die alles in ihrer Reichweite korrumpiert.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">Die Verderbten</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Verderbte reagieren empfindlich auf Stich-, Arkan- und Naturschaden, widerstehen allerdings Schlag- und Eisschaden.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Verderbte reagieren empfindlich auf Stich-, Arkan- und Naturschaden.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Schnellreise</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">Die Kosten für schnelles Reisen hängen vom Gewicht deines Inventars ab. Reise mit leichtem Gepäck, Freund.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Zitteraale und Schwertfische lassen sich zu erlesenen Fischfilets zerlegen.</string>
 	<string key="tip_ftue_keybindings-title">[Platzhalter]</string>
 	<string key="tip_ftue_keybindings-content">[Platzhalter]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arenen</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Hast du schon eine gefunden? Eine Arena ist ein seltenes Ereignis, bei dem du und deine Freunde sich im Kampf einer brandgefährlichen, legendären Kreatur stellen müssen.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Prüfungen</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Hast du schon eine gefunden? Eine Prüfung ist ein seltenes Ereignis, bei dem du und deine Freunde sich im Kampf einer brandgefährlichen, legendären Kreatur stellen müssen.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Außenpostensturm</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Suche Scott Newman im Schluchtpunkt-Außenposten auf oder sprich mit deinem Fraktionsvertreter, um in seinem "20 vs. 20"-Match anzutreten.</string>
 	<string key="tip_overworld_gameModes_war01-title">Krieg</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Platzhalter]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Skorpion</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Wenn du zu weit vom Weg abkommst, riskierst du, von den Ranken der Verderbnis verschlungen zu werden.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">Die raue, erbitterte Sonne der Schwefelsandwüste erfordert einen guten Schutz, um zu überleben.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">Die Sprache der Ahnen ist im Sand der Zeit versunken. Bis jetzt …</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Ein monströses Ungeheuer ist in der Wüste erwacht. Örtliche Legenden nennen ihn "den Verzehrer".</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Es heißt, dass die Ahnen tief im Herzen einer massiven Mauer, die zwischen der Schwefelsandwüste und Bruchberg errichtet wurde, Rituale abhielten.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crassus und seine verderbte 19. Legion sind eine ewige Bedrohung für die Sicherheit und Stabilität von Neukorsika.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Einer der ältesten lebenden Menschen auf Aeternum, Imhotep der Weise, wandert angeblich auf der Suche nach Wissen durch die Wüsten.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Sei vorsichtig, wenn du durch die Schwefeltümpel der Schwefelsandwüste wanderst. Wenn dich die riesigen Echsen nicht erwischen, dann bestimmt das brodelnde, kochende Wasser …</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">Sandstein gibt es in der Schwefelsandwüste reichlich und er kann zu Glasgegenständen geschmolzen werden.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Durstig? Versuche, einen Kaktus zu fällen, um ein wenig Wasser zu bekommen.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Niemand weiß, wie die Gürteltiere in die Schwefelsandwüste gekommen sind, aber sie scheinen trotzdem prächtig zu gedeihen.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Mitten in der Schwefelsandwüste ist ein großer Baum gewachsen. Manche sagen sogar, dass der Baum immer noch hoch in seinen Ästen Blüten trägt.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Manche glauben, dass ein tödlicher Mantikor im Schwefelsand sein Unwesen treibt, also sei vorsichtig …</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Legenden besagen, dass irgendwo in der Schwefelsandwüste ein Ahne schläft.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Die riesigen Skorpione, die durch die Wüste streifen, besitzen mehr Waffen als nur Zangen und Klauen.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Ahnenglyphen sind der Schlüssel, um Truhen zu öffnen, versiegelte Ruinen zu erkunden und vieles mehr. Wie viele findest du?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Möchtegern-Grabräuber aufgepasst: Die ruhelosen Toten bewachen manchmal ihre irdischen Schätze.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Einige der anubischen Konstrukte, die sich in der Schwefelsandwüste herumtreiben, können abgebaut werden, um Rohstoffe zu gewinnen.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">Hinter der vergoldeten Fassade von Neukorsika verbirgt sich ein Schlangennest aus Politik, Intrigen und Paranoia.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">Die Legionäre der Schwefelsandwüste haben nichts von ihrer legendären Disziplin und ihrem Kampfgeschick verloren, obwohl sie verderbt sind.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marcus Antonius gründete die 19. "Seelegion", die ihn allerdings nicht vor dem Untergang in der Schlacht von Actium bewahren konnte.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">Die sterbende Königin Kleopatra wurde von den Römern in die Schwefelsandwüste gebracht, um ihr Leben zu retten.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">Seelenwächter sind in der Schwefelsandwüste selten. Aber da sowohl die Ahnen als auch die Verderbnis in Aufruhr sind, könnte sich das bald ändern.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Es gibt Legenden von geheimnisvollen, gestaltwandelnden Geistern, die als Ifrit bekannt sind und die Ödnis der Wüste heimsuchen. Mit manchen kann man verhandeln.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Wenn du eine vertraute Stimme hörst, die aus der Dunkelheit der Einöde ruft, geh nicht näher heran.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">In der Schwefelsandwüste sind merkwürdige Abscheulichkeiten aufgetaucht, die das Ergebnis einer Zauberei der Ahnen sind.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">In der Schwefelsandwüste haben zwei große Zivilisationen das Land im Laufe der Jahrtausende geprägt: die Ägypter und die Römer.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Die anubischen Ahnen sind viel robuster als die staubigen Skelette, die andere Ahnenruinen bewachen. Sei vorsichtig.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">Die kreisförmigen Steintore, die über die Schwefelsandwüste verstreut sind, sind nicht nur wunderschön, sondern auch voller Magie.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Gewaltige Ströme von Azoth fließen durch die Große Pyramide von Akhet. Hoffentlich wird diese Macht nie für schändliche Zwecke missbraucht …</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Schwefelsandwüste</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">Die Zornige Erdkreatur der Schwefelsandwüste hat keine Angst vor Feuer und benutzt oft brennenden Schwefel, um ihre Feinde zu vernichten.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Tiefe Schlucht</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Platzhalter]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Würgegriffstraße</string>

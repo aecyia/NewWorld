@@ -240,9 +240,9 @@
 	<string key="1031_0201_adisturbingsilence_start_prompt" speaker="UI – Player Prompt">«¿A qué viene eso?».</string>
 	<string key="1031_0201_adisturbingsilence_proposal" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_proposal" VO_Status="Recorded" dialogue-next="@1031_0201_adisturbingsilence_proposal_next">Ah, claro, nos rodea la voz de la naturaleza. Pero es que añoro algo diferente. La voz de mi mujer, por ejemplo. \n\nLos viajes por los pantanos hacen que me ausente de mi hogar más tiempo del que me gustaría. Me doy cuenta de que la echo de menos.</string>
 	<string key="1031_0201_adisturbingsilence_proposal_prompt" speaker="UI – Player Prompt">«¿No está en casa?».</string>
-	<string key="1031_0201_adisturbingsilence_proposal_next" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_proposal_next" VO_Status="Recorded" dialogue-prompt="@1031_0201_adisturbingsilence_proposal_prompt">La última vez que hablamos, Jocelyn se enfadó porque el trabajo me separaba de ella constantemente. Dijo que, de querer estar sola, no se hubiese casado. \n\nElla se largó echando humo a la Colonia del Náufrago. No la veo desde entonces.</string>
+	<string key="1031_0201_adisturbingsilence_proposal_next" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_proposal_next" VO_Status="Recorded" dialogue-prompt="@1031_0201_adisturbingsilence_proposal_prompt">La última vez que hablamos, Jocelyn se enfadó porque el trabajo me separaba de ella constantemente. Dijo que, de querer estar sola, no se hubiese casado. \n\nSe largó echando humo a la Colonia del Náufrago. No la veo desde entonces.</string>
 	<string key="1031_0201_adisturbingsilence_incomplete" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_incomplete" VO_Status="Recorded">Hablar contigo llena en parte ese silencio, pero vuelvo a añorar la voz de mi mujer. Busca a Jocelyn en la Colonia del Náufrago.</string>
-	<string key="1031_0201_adisturbingsilence_complete" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_complete" VO_Status="Recorded" dialogue-next="@1031_0201_adisturbingsilence_complete_next">¿No has visto a Jocelyn? Estaba seguro de que estaría en la colonia. Todavía recuerdo sus palabras como si fuese ayer:\n\n«Me voy a la Colonia del Náufrago y ¡ni se te ocurra seguirme con tu rollo de caminante de los pantanos!».</string>
+	<string key="1031_0201_adisturbingsilence_complete" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_complete" VO_Status="Recorded" dialogue-next="@1031_0201_adisturbingsilence_complete_next">¿No has visto a Jocelyn? Estaba seguro de que estaría en la colonia. Todavía recuerdo sus palabras como si fuese ayer: \n\n«Me voy a la Colonia del Náufrago y ¡ni se te ocurra seguirme con tu rollo de caminante de los pantanos!».</string>
 	<string key="1031_0201_adisturbingsilence_complete_prompt" speaker="UI – Player Prompt">«Allí no quedaba nadie, salvo los perdidos».</string>
 	<string key="1031_0201_adisturbingsilence_complete_next" speaker="Swamp Walker Nekumanesh – Cutlass Keys" name="WalkerNekumanesh" gender="m" VO="1031_0201_adisturbingsilence_complete_next" VO_Status="Recorded" dialogue-prompt="@1031_0201_adisturbingsilence_complete_prompt">Siempre le gustó hablar con los perdidos. Decía que se les daba bien escuchar. \n\nPero se habrá cansado de ellos y se habrá marchado. Me pregunto a dónde. No queda más remedio que seguir buscando.</string>
 	<string key="1031_0202_d_01_gotoPOI" speaker="UI – Tracker Text">Pregunta a los habitantes de la pesquería del Lenguado por Jocelyn</string>
@@ -344,7 +344,7 @@
 	<string key="1033_0202_trailofthemisanthrope_complete_prompt" speaker="UI – Player Prompt">«¿Qué vas a hacer con tu mitad?».</string>
 	<string key="1033_0202_trailofthemisanthrope_complete_next" speaker="Claire Fergus – Cutlass Keys" name="ClaireFergus" gender="f" VO="1033_0202_trailofthemisanthrope_complete_next" VO_Status="Recorded" dialogue-prompt="@1033_0202_trailofthemisanthrope_complete_prompt">¡Comprar una casa que usaré como base para más salidas en busca de tesoros! \n\nAhor la cuestión es dónde me la compro. Podría comprar una aquí, pero he oído que el asentamiento de Aguas Fétidas también está repleto de tesoros piratas.</string>
 	<string key="1034_0201_d_01_gotoPOI" speaker="UI – Tracker Text">Ve a los Bajíos Condenados y explora el barco Petrel de la Tormenta para recuperar el sextante de Billiam</string>
-	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Derrota a los fantasmas de la antigua tripulación de Billiam</string>
+	<string key="1034_0201_d_02_kill" speaker="UI – Tracker Text">Derrota a los fantasmas de la antigua tripulación de Billiam en los Campos de Rayos</string>
 	<string key="1034_0201_d_03_have_item" speaker="UI – Tracker Text">Consigue {itemName} de un cofre del Petrel de la Tormenta, situado en los Bajíos Condenados</string>
 	<string key="1034_0201_motherocean_title" speaker="UI - Quest Title">Búsqueda en el mar</string>
 	<string key="1034_0201_motherocean_description" speaker="UI – Quest Description">Recupera el sextante de Billiam del naufragio del Petrel de la Tormenta, situado en los Bajíos Condenados. Devuélvele el sextante al melancólico Billiam en Cayos del Alfanje.</string>
@@ -414,41 +414,41 @@
 	<string key="1002_0104_01_Boots_objective_title" speaker="UI - Quest Title">Pisadas oscuras</string>
 	<string key="1002_0104_01_Boots_objective_desc" speaker="UI – Quest Description">Obtén cuero de Tiraparche empapado de la Cubierta de Tiraparche, relleno amortiguado de la ciénaga de Karburg y esencia de sombra de la Caverna del Degollador. Después, ve a una estación de equipamiento de clase 3 para fabricar las botas taimadas.</string>
 	<string key="1002_0104_01_Boots_task_01" speaker="Should not display">Receta entregada.</string>
-	<string key="1002_0104_01_Boots_task_02" speaker="UI – Tracker Text" comment="Pullpatch Cover">Ve a la {POITags} en Cayos del Alfanje para obtener el cuero de Tiraparche empapado</string>
-	<string key="1002_0104_01_Boots_task_04" speaker="UI – Tracker Text" comment="Karburg">Ve a la {POITags} en la Ciénaga de los Tejedores para obtener relleno amortiguado de la ciénaga</string>
-	<string key="1002_0104_01_Boots_task_06" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Ve a la {POITags} en Costa de la Zozobra para obtener la esencia de sombra</string>
+	<string key="1002_0104_01_Boots_task_02" comment="Pullpatch Cover" speaker="UI – Tracker Text">Ve a la {POITags} en Cayos del Alfanje para obtener el cuero de Tiraparche empapado</string>
+	<string key="1002_0104_01_Boots_task_04" comment="Karburg" speaker="UI – Tracker Text">Ve a la {POITags} en la Ciénaga de los Tejedores para obtener relleno amortiguado de la ciénaga</string>
+	<string key="1002_0104_01_Boots_task_06" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Ve a la {POITags} en Costa de la Zozobra para obtener la esencia de sombra</string>
 	<string key="1002_0104_01_Boots_task_08" speaker="UI – Tracker Text">Visita una estación de equipamiento</string>
 	<string key="1002_0104_01_Boots_task_09" speaker="UI – Tracker Text">Fabrica: {itemName}</string>
 	<string key="1002_0104_02_Coat_objective_title" speaker="UI - Quest Title">Manto de oscuridad</string>
 	<string key="1002_0104_02_Coat_objective_desc" speaker="UI – Quest Description">Obtén restos de recorretormentas del Naufragio Arrasado, brea repeleinfección de Venganza de Minnow y broches de tiburón de cazador del Tiburón Saqueador. Después, ve a una estación de equipamiento de clase 3 para fabricar el abrigo taimado.</string>
 	<string key="1002_0104_02_Coat_task_01" speaker="Should not display">Receta entregada.</string>
-	<string key="1002_0104_02_Coat_task_02" speaker="UI – Tracker Text" comment="Ravaged Wreck">Ve a {POITags} en Costa de la Zozobra para obtener los restos de recorretormentas</string>
-	<string key="1002_0104_02_Coat_task_04" speaker="UI – Tracker Text" comment="Minnow's Revenge">Ve a {POITags} en Costa de la Zozobra para obtener la brea repeleinfección</string>
-	<string key="1002_0104_02_Coat_task_06" speaker="UI – Tracker Text" comment="The Plundering Shark">Ve a {POITags} en Costa de la Zozobra para obtener los broches de tiburón de cazador</string>
+	<string key="1002_0104_02_Coat_task_02" comment="Ravaged Wreck" speaker="UI – Tracker Text">Ve a {POITags} en Costa de la Zozobra para obtener los restos de recorretormentas</string>
+	<string key="1002_0104_02_Coat_task_04" comment="Minnow's Revenge" speaker="UI – Tracker Text">Ve a {POITags} en Costa de la Zozobra para obtener la brea repeleinfección</string>
+	<string key="1002_0104_02_Coat_task_06" comment="The Plundering Shark" speaker="UI – Tracker Text">Ve a {POITags} en Costa de la Zozobra para obtener los broches de tiburón de cazador</string>
 	<string key="1002_0104_02_Coat_task_08" speaker="UI – Tracker Text">Visita una estación de equipamiento</string>
 	<string key="1002_0104_02_Coat_task_09" speaker="UI – Tracker Text">Fabrica: {itemName}</string>
 	<string key="1002_0104_03_Pants_objective_title" speaker="UI - Quest Title">Velo crepuscular</string>
 	<string key="1002_0104_03_Pants_objective_desc" speaker="UI – Quest Description">Obtén extracto de musgo de las tinieblas de Fornax, jarcias de náufrago de la Costa de los Náufragos y esquirlas de piedra nocturna de Haedus. Después, ve a una estación de equipamiento de clase 3 para fabricar las calzas taimadas.</string>
 	<string key="1002_0104_03_Pants_task_01" speaker="Should not display">Receta entregada.</string>
-	<string key="1002_0104_03_Pants_task_02" speaker="UI – Tracker Text" comment="Fornax">Ve a {POITags} en Costa de la Zozobra para obtener el extracto de musgo de las tinieblas</string>
-	<string key="1002_0104_03_Pants_task_04" speaker="UI – Tracker Text" comment="Castaway Shores">Viaja a la {POITags} en el Valle del Pesar para obtener jarcias de náufrago</string>
-	<string key="1002_0104_03_Pants_task_06" speaker="UI – Tracker Text" comment="Haedus">Ve a {POITags} en el Valle del Pesar para obtener esquirlas de piedra nocturna</string>
+	<string key="1002_0104_03_Pants_task_02" comment="Fornax" speaker="UI – Tracker Text">Ve a {POITags} en Costa de la Zozobra para obtener el extracto de musgo de las tinieblas</string>
+	<string key="1002_0104_03_Pants_task_04" comment="Castaway Shores" speaker="UI – Tracker Text">Viaja a la {POITags} en el Valle del Pesar para obtener jarcias de náufrago</string>
+	<string key="1002_0104_03_Pants_task_06" comment="Haedus" speaker="UI – Tracker Text">Ve a {POITags} en el Valle del Pesar para obtener esquirlas de piedra nocturna</string>
 	<string key="1002_0104_03_Pants_task_08" speaker="UI – Tracker Text">Visita una estación de equipamiento</string>
 	<string key="1002_0104_03_Pants_task_09" speaker="UI – Tracker Text">Fabrica: {itemName}</string>
 	<string key="1002_0104_04_Gloves_objective_title" speaker="UI - Quest Title">Asiendo la oscuridad</string>
 	<string key="1002_0104_04_Gloves_objective_desc" speaker="UI – Quest Description">Obtén cuero con capas de guardián de Subra, crepúsculo embotellado de Litheltop y tinte del anochecer de la Montaña de Paso Alto. Después, ve a una estación de equipamiento de clase 3 para fabricar los guantes taimados.</string>
 	<string key="1002_0104_04_Gloves_task_01" speaker="Should not display">Receta entregada.</string>
-	<string key="1002_0104_04_Gloves_task_02" speaker="UI – Tracker Text" comment="Subra">Ve a {POITags} en el Valle del Pesar para obtener cuero con capas de guardián</string>
-	<string key="1002_0104_04_Gloves_task_04" speaker="UI – Tracker Text" comment="Litheltop">Ve a {POITags} en la Arboleda del Edén para obtener crepúsculo embotellado</string>
-	<string key="1002_0104_04_Gloves_task_06" speaker="UI – Tracker Text" comment="High-Pass Mountain">Ve a la {POITags} en el Valle del Pesar para obtener tinte del anochecer</string>
+	<string key="1002_0104_04_Gloves_task_02" comment="Subra" speaker="UI – Tracker Text">Ve a {POITags} en el Valle del Pesar para obtener cuero con capas de guardián</string>
+	<string key="1002_0104_04_Gloves_task_04" comment="Litheltop" speaker="UI – Tracker Text">Ve a {POITags} en la Arboleda del Edén para obtener crepúsculo embotellado</string>
+	<string key="1002_0104_04_Gloves_task_06" comment="High-Pass Mountain" speaker="UI – Tracker Text">Ve a la {POITags} en el Valle del Pesar para obtener tinte del anochecer</string>
 	<string key="1002_0104_04_Gloves_task_08" speaker="UI – Tracker Text">Visita una estación de equipamiento</string>
 	<string key="1002_0104_04_Gloves_task_09" speaker="UI – Tracker Text">Fabrica: {itemName}</string>
 	<string key="1002_0104_05_Hat_objective_title" speaker="UI - Quest Title">Sombras de la noche</string>
 	<string key="1002_0104_05_Hat_objective_desc" speaker="UI – Quest Description">Obtén hilo de oricalco imbuido de la Mina de Escoria Inferior, plumas manchadas de Génesis del Rencor y tejido umbrío de Zarzantilado. Después, ve a una estación de equipamiento de clase 3 para fabricar el sombrero taimado.</string>
 	<string key="1002_0104_05_Hat_task_01" speaker="Should not display">Receta entregada.</string>
-	<string key="1002_0104_05_Hat_task_02" speaker="UI – Tracker Text" comment="Lower Slag Mine">Ve a la {POITags} en la Arboleda del Edén para obtener hilo de oricalco imbuido</string>
-	<string key="1002_0104_05_Hat_task_04" speaker="UI – Tracker Text" comment="Genesis of Spite">Ve a {POITags} en la Arboleda del Edén para obtener plumas manchadas</string>
-	<string key="1002_0104_05_Hat_task_06" speaker="UI – Tracker Text" comment="Bramblecliff">Ve a {POITags} en la Arboleda del Edén para obtener tejido umbrío</string>
+	<string key="1002_0104_05_Hat_task_02" comment="Lower Slag Mine" speaker="UI – Tracker Text">Ve a la {POITags} en la Arboleda del Edén para obtener hilo de oricalco imbuido</string>
+	<string key="1002_0104_05_Hat_task_04" comment="Genesis of Spite" speaker="UI – Tracker Text">Ve a {POITags} en la Arboleda del Edén para obtener plumas manchadas</string>
+	<string key="1002_0104_05_Hat_task_06" comment="Bramblecliff" speaker="UI – Tracker Text">Ve a {POITags} en la Arboleda del Edén para obtener tejido umbrío</string>
 	<string key="1002_0104_05_Hat_task_08" speaker="UI – Tracker Text">Visita una estación de equipamiento</string>
 	<string key="1002_0104_05_Hat_task_09" speaker="UI – Tracker Text">Fabrica: {itemName}</string>
 	<string key="1004_0103_Weapon_Keen_Temper_objective_title" speaker="UI - Quest Title">Diligencia</string>
@@ -465,14 +465,14 @@
 	<string key="1004_0103_Grindstone_Quest_objective_desc" speaker="UI – Quest Description">Afilar una hoja con una piedra de afilar es un arte en sí.</string>
 	<string key="1004_0103_QuenchingOil_Quest_objective_desc" speaker="UI – Quest Description">Consigue aceite para saciar a la bestia, ya que el agua burbujearía en la hoja.</string>
 	<string key="1004_0103_CaptainsBlade_Quest_objective_desc" speaker="UI – Quest Description">Un filo hecho y derecho es el mejor amigo de todo capitán, sean cuales sean sus valores.</string>
-	<string key="1004_0103_HiltLeather_Quest_task_01" speaker="UI – Tracker Text" comment="Cutthroat Cavern">Ve a {POITags} en Costa de la Zozobra para obtener cuero para empuñaduras</string>
-	<string key="1004_0103_HiltLeather_Quest_task_02" speaker="UI – Tracker Text" comment="Hilt Leather">Obtén {itemName} de los enemigos: {targetName}</string>
-	<string key="1004_0103_Grindstone_Quest_task_01" speaker="UI – Tracker Text" comment="The Hollowing">Ve a {POITags} en la Gran Grieta para obtener la piedra de afilar</string>
-	<string key="1004_0103_Grindstone_Quest_task_02" speaker="UI – Tracker Text" comment="Grindstone">Obtén {itemName} de los enemigos: {targetName}</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_01" speaker="UI – Tracker Text" comment="Foulroot">Ve a {POITags} en el Valle del Pesar para obtener aceite de temple</string>
-	<string key="1004_0103_QuenchingOil_Quest_task_02" speaker="UI – Tracker Text" comment="Quenching Oil">Obtén {itemName} de los cofres y los enemigos: {targetName}</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_01" speaker="UI – Tracker Text" comment="Broken Promise">Ve a {POITags} en el Valle del Pesar para obtener la hoja de l'Olonnois</string>
-	<string key="1004_0103_CaptainsBlade_Quest_task_02" speaker="UI – Tracker Text" comment="Blade of l'Olonnois">Obtén {itemName} de {targetName}</string>
+	<string key="1004_0103_HiltLeather_Quest_task_01" comment="Cutthroat Cavern" speaker="UI – Tracker Text">Ve a {POITags} en Costa de la Zozobra para obtener cuero para empuñaduras</string>
+	<string key="1004_0103_HiltLeather_Quest_task_02" comment="Hilt Leather" speaker="UI – Tracker Text">Obtén {itemName} de los enemigos: {targetName}</string>
+	<string key="1004_0103_Grindstone_Quest_task_01" comment="The Hollowing" speaker="UI – Tracker Text">Ve a {POITags} en la Gran Grieta para obtener la piedra de afilar</string>
+	<string key="1004_0103_Grindstone_Quest_task_02" comment="Grindstone" speaker="UI – Tracker Text">Obtén {itemName} de los enemigos: {targetName}</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_01" comment="Foulroot" speaker="UI – Tracker Text">Ve a {POITags} en el Valle del Pesar para obtener aceite de temple</string>
+	<string key="1004_0103_QuenchingOil_Quest_task_02" comment="Quenching Oil" speaker="UI – Tracker Text">Obtén {itemName} de los cofres y los enemigos: {targetName}</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_01" comment="Broken Promise" speaker="UI – Tracker Text">Ve a {POITags} en el Valle del Pesar para obtener la hoja de l'Olonnois</string>
+	<string key="1004_0103_CaptainsBlade_Quest_task_02" comment="Blade of l'Olonnois" speaker="UI – Tracker Text">Obtén {itemName} de {targetName}</string>
 	<string key="1004_0103_Combine_Quest_task_03" speaker="Should not display">Receta entregada.</string>
 	<string key="1004_0103_Combine_Quest_task_04" speaker="UI – Tracker Text">Ve a una fragua</string>
 	<string key="1004_0103_Combine_Quest_task_05" speaker="UI – Tracker Text">Crea: {itemName}</string>

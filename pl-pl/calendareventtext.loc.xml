@@ -12,11 +12,15 @@
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">DODANO NOWĄ ŚCIEŻKĘ NAGRÓD PVP</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Ścieżka nagród PvP zawiera nagrody związane z trybem PvP, które można zdobyć za wykonywanie aktywności PvP. Po ukończeniu ścieżki można ją ponownie rozpocząć, by zdobyć inne nagrody. Im więcej ukończonych ścieżek, tym bardziej prestiżowe nagrody do zdobycia.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">PD PVP</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3 czy przejmowaniu fortów, a także pokonując innych graczy i zdobywając PD z aktywnym oznaczeniem do PvP.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek czy przejmowaniu fortów, pokonując innych graczy i zaliczając areny 3 na 3.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">AZOTHOWA SÓL</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Azothowa sól jest walutą służącą do zdobywania nagród na ścieżce PvP. Możesz ją pozyskać, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3, wykonując misje PvP i zabijając graczy w otwartym świecie, a także zdobywając PD z aktywnym oznaczeniem do PvP.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">NAGRODY</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Wybieraj spośród wyjątkowych nagród, takich jak prestiżowa broń i pancerz, gesty, waluty czy przedmioty użytkowe.</string>
+	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Pisklak</string>
+	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Wartownik nocnego całunu</string>
+	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Święto nocnego całunu</string>
+	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Temp">Reputacja w wydarzeniu</string>
 	<string key="ui_event_weapon_xp_title">PREMIA PD DO BRONI W TYM TYGODNIU</string>
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Premia aktywna od:&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">PREMIA PD DO ZBIERACTWA W TYM TYGODNIU</string>
@@ -27,8 +31,32 @@
 	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Premia aktywna od:&lt;/font&gt;</string>
 	<string key="ui_event_extravaganza_title">ŚWIĘTO PREMII PD</string>
 	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Premia aktywna od:&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_title">AKTYWNOŚCI KOŃCOWEJ FAZY GRY</string>
+	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ffffff" &gt;Ostatnio udało ci się osiągnąć maksymalny poziom – ale to nie koniec.&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_bullet1_title">Ekspedycje końcowej fazy gry</string>
+	<string key="ui_end_game_panel1_bullet1_text">Ekspedycje końcowej fazy gry, w tym rotacyjne cotygodniowe mutacje, podczas których można zdobyć najlepsze nagrody.</string>
+	<string key="ui_end_game_panel1_bullet2_title">Napad na posterunek</string>
+	<string key="ui_end_game_panel1_bullet2_text">Napad na posterunek, czyli pole bitwy 20 na 20.</string>
+	<string key="ui_end_game_panel1_bullet3_title">Elitarne lokacje</string>
+	<string key="ui_end_game_panel1_bullet3_text">Elitarne punkty orientacyjne, areny prób i wyzwania w otwartym świecie dla grup.</string>
+	<string key="ui_end_game_panel2_title">ULEPSZ SWOJE WYPOSAŻENIE</string>
+	<string key="ui_end_game_panel2_subtitle">Na 60. poziomie możesz &lt;font color="#ffdb7a"&gt;ulepszać swoje wyposażenie&lt;/font&gt;, zwiększając liczbę punktów wyposażenia. By to zrobić, musisz zdobyć gips w lokacjach i podczas aktywności przeznaczonych dla postaci na 60. poziomie. Odwiedź &lt;font color="#ffdb7a"&gt;piec do obróbki gipsu&lt;/font&gt;, by dowiedzieć się więcej.</string>
+	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Aktywności końcowej fazy gry</string>
 	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Wyszukiwanie grupy na ekspedycję!</string>
 	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Teraz dostępne z poziomu mapy! Uzyskaj dostęp do wszystkich ekspedycji (o ile zostały już odwiedzone) po kliknięciu ikony ekspedycji. Stąd możesz przeglądać lub publikować lobby wyszukiwania grupy lub wejść bezpośrednio do ekspedycji z istniejącą grupą.</string>
 	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt;O wyszukiwaniu grupy</string>
+	<string key="ui_event_brimstone_panel1_title" rel_version="Event_Halloween_Temp">Pierwsza rocznica gry</string>
+	<string key="ui_event_brimstone_panel1_subtitle" rel_version="Event_Halloween_Temp">Świętuj pierwszą rocznicę gry razem z nami! Czekają na Ciebie nowe obszary, zadania, wrogowie, umiejętności i nagrody!</string>
+	<string key="ui_event_brimstone_panel1_bullet1_title" rel_version="Event_Halloween_Temp">Nowa zawartość</string>
+	<string key="ui_event_brimstone_panel1_bullet1_text" rel_version="Event_Halloween_Temp">Uzbrój się w nowy miecz dwuręczny i klejnot serca i ruszaj na rozległe pustynie Piaskobrzegów albo rozpocznij nowe zadanie z wątku głównego!</string>
+	<string key="ui_event_brimstone_panel1_bullet2_title" rel_version="Event_Halloween_Temp">Nowe wydarzenie</string>
+	<string key="ui_event_brimstone_panel1_bullet2_text" rel_version="Event_Halloween_Temp">Szalony mnich Salvatore przestrzega mieszkańców Aeternum przed straszliwym zagrożeniem – w tym celu odwiedza rynki osad.</string>
+	<string key="ui_event_brimstone_panel1_bullet3_title" rel_version="Event_Halloween_Temp">Nowe przedmioty kosmetyczne</string>
+	<string key="ui_event_brimstone_panel1_bullet3_text" rel_version="Event_Halloween_Temp">Przedmioty związane z Piaskobrzegami, mieczem dwuręcznym i świętem nocnego całunu są już dostępne w sklepie. Nie zapomnij odebrać darmowych skórek rocznicowych!</string>
+	<string key="ui_event_brimstone_panel2_title" rel_version="Event_Halloween_Temp">Piaskobrzegi</string>
+	<string key="ui_event_brimstone_panel2_subtitle" rel_version="Event_Halloween_Temp">Wyposaż się w miecz dwuręczny i korzystaj z umiejętności runicznych klejnotu serca, eksplorując nowe terytorium, Piaskobrzegi i ekspedycję do Enneady albo sprawdź odnowione zadania z wątku głównego – czekają na Ciebie nowe lokacje, NPC, wyzwania i nagrody.\n\nZadania z wątku głównego w Piaskobrzegach dostępne są po ukończeniu zadania „Bezinteresowna natura” w Rajskim Gaju oraz zadania „Kroczący pośród piasków”, które można rozpocząć w wielu miejscach. </string>
+	<string key="ui_event_brimstone_panel3_title" rel_version="Event_Halloween_Temp">Święto nocnego całunu</string>
+	<string key="ui_event_brimstone_panel3_subtitle" rel_version="Event_Halloween_Temp">Data rozpoczęcia: 21.01 CET, 18.10.2022 r. | Data zakończenia: 21.01 CET, 1.11.2022 r.\n\nKształty we mgle! Wrzaski w ciemnościach! Demon Baalfazu, Markiz Grozy, terroryzuje Aeternum wraz ze swą hordą upiornych dyniołaków, chcąc zamienić wyspę w krainę koszmarów! Pomóż Szalonemu Salvatore w wygnaniu tych plugawych istot i zdobądź czasowo limitowane nagrody święta nocnego całunu!\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Zadania odblokowują się na 35. poziomie)&lt;/font&gt;</string>
+	<string key="ui_event_brimstone_button_about" rel_version="Event_Halloween_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Pierwsza rocznica gry</string>
 </resources>
 

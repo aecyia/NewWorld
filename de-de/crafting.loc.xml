@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">Diesem Gegenstand kann kein Bonus hinzugefügt werden.</string>
 	<string key="crafting_tree_learned">Erlernt</string>
 	<string key="crafting_tree_unlearned">Ungelernt</string>
+	<string key="crafting_quality_fixed">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird.</string>
 	<string key="crafting_quality_desc">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird. Deine Fähigkeitsstufe bestimmt den Grundwert. Die Ränge und Seltenheitsgrade der Rohstoffe wirken sich auf diesen Bereich aus.</string>
+	<string key="crafting_quality_expertise">Diese Leiste zeigt den Rüstwertbereich an, in dem der Gegenstand sich befinden wird. Der Rüstwert für diesen Gegenstand wird auf Grundlage deiner {expertiseName} Kompetenz und Spielerstufe berechnet.\n(Aktuelle {expertiseName} Kompetenz: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">Der Rüstwert für diesen Gegenstand wird auf Grundlage deiner {expertiseName} Kompetenz und Spielerstufe berechnet.\n(Aktuelle {expertiseName} Kompetenz: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Rezepte aus Aufgaben</string>
 	<string key="crafting_select_resources">Rohstoffe auswählen</string>
 	<string key="new_recipe_unlocked">NEUES REZEPT FREIGESCHALTET</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Farbstoffe</string>
 	<string key="ui_armordyes">Rüstungsfarbstoffe</string>
 	<string key="ui_craftprogress">Herstellung: {amount} von {maximum}</string>
-	<string key="ui_crafting_summary_header">Herstellungsresultate</string>
+	<string key="ui_crafting_summary_header">Hergestellte Gegenstände</string>
 	<string key="ui_crafted_from">Hergestellt aus {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Nach Name sortieren</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">{type} AUSWÄHLEN</string>
 	<string key="crafting_discount_base">Grundgebühr</string>
 	<string key="ui_crafting_resource_origin_message">Hinweis: Verwendete Rohstoffe werden erst deinem Inventar und dann dem Siedlungslager entnommen.</string>
+	<string key="cr_firstcraft_bonusavailable">Erstherstellungsbonus verfügbar</string>
+	<string key="cr_firstcraft_bonus">Erstherstellungsbonus</string>
+	<string key="cr_tradeskillbonus_title">Fähigkeits-EP-Bonus</string>
+	<string key="cr_tradeskillbonus_basecraft">Fähigkeits-EP-Bonus</string>
+	<string key="cr_tradeskillbonus_description">Wenn du zum ersten Mal ein Rezept herstellst, erhältst du einen zusätzlichen Fähigkeits-EP-Bonus.</string>
 </resources>
 

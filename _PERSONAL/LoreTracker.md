@@ -1,8 +1,8 @@
 # Lore Tracker
 
 The current list as of the update
-+ 01 September 2022 -- PTR
-+ Last Updated -- 10 September 2022
++ 16 October 2022 -- Brimstone Sands
++ Last Updated -- 19 October 2022
 
 ## A New World
 
@@ -112,7 +112,7 @@ The Stevens Expedition
 Averham's Research
 1 - Between Colleagues
 
-Chronicles of Mesnard
+A New Start
 1 - Rank Incompetence
 2 - Surveying the Lands
 
@@ -195,8 +195,8 @@ Chronicle of Ruiz Velazquez
 13 - Caves Part 1
 14 - Caves Part 2
 
-Álvaro’s Notes
-1 - Ruiz’s Request
+Álvaro's Notes
+1 - Ruiz's Request
 2 - The Captain
 3 - The Mutiny
 
@@ -241,7 +241,7 @@ The Monster of Brightrest
 To the Templar General
 1 - To the Templar General
 
-Templar Lieutenant Sato’s Log
+Templar Lieutenant Sato's Log
 1 - Investigation
 2 - Sanctuary?
 3 - Earworm
@@ -262,11 +262,11 @@ Missives from Thorpe
 2 - I Challenge You
 3 - As I Lay Dying...
 
-Yonas’ Goodbye
+Yonas' Goodbye
 1 - Sorry, Thank you, Goodbye
 
 Tall Tales of Isabella
-1 - Émile’s Investigation
+1 - Émile's Investigation
 
 A Prayer to the Motherwell
 1 - Bless Us
@@ -274,7 +274,6 @@ A Prayer to the Motherwell
 The Animals Revolt
 1 - A Notice of Concern to Carters and Porters
 2 - Diary of a Cat Lover
-3 - A Boy and His Horse
 4 - The Midnight Herd
 5 - The Merchant's Lament
 
@@ -344,7 +343,7 @@ Transmutation
 3 - Against the Sages
 4 - A New Path
 
-A New Path
+Ultimate Intentions
 1 - Drusilla's Letter
 
 The Vigil Eternal
@@ -487,14 +486,14 @@ Prayers and Portents
 4 - Brimstone Nursery Rhyme
 
 Age of the Pharoah
-1 - Pharaoh’s Decree vol. I
-2 - Pharaoh’s Decree vol. 2
+1 - Pharaoh's Decree vol. I
+2 - Pharaoh's Decree vol. 2
 3 - Witness of the Faithful vol. 1
 4 - Witness of the Faithful vol. 2
 
 The Romans' Journey
-1 - A Legionnaire’s Lament
-2 - Behold our queen’s salvation!
+1 - A Legionnaire's Lament
+2 - Behold our queen's salvation!
 3 - The Journal of Publius Canidius Crassus
 4 - Scouting Report
 5 - To Legatus Crassus
@@ -618,7 +617,7 @@ The Ever Night Letters
 13 - Hiding
 14 - Sound at the Door
 
-Davies’ Field Notes
+Davies' Field Notes
 1 - Horned-Tooth Mandje
 2 - Azoth Waters
 
@@ -630,7 +629,6 @@ Daybreak to Decrepit
 
 Fall of Kelleher
 1 - Suspicions
-2 - He's Different With Me
 
 Canary in the Mines
 1 - Tekla and Audrey
@@ -676,10 +674,6 @@ Corrupted Mining Operations
 1 - Ichorous Spread
 2 - Corrupted Observations
 
-Reese's Watch
-1 - Storms Aplenty
-2 - Supply Manifest
-3 - Pushing My Luck
 
 Life on the Fallowhill
 1 - Prosperity
@@ -848,7 +842,7 @@ Tides of Battle
 1 - Long in the Tooth
 2 - Changing of the Watch
 3 - Movement in the Snow
-4 - Watch’s End
+4 - Watch's End
 5 - Beyond the Cleave
 6 - The Red Church
 7 - Further Word
@@ -878,7 +872,7 @@ James' Letters
 1 - Request for Reassignment
 2 - One Last Love Letter
 
-The Herald’s Victory
+The Herald's Victory
 1 - Pictures On The Wall
 2 - Scorched Earth
 
@@ -919,12 +913,6 @@ Squash Farmers
 7 - Brief Respite
 8 - Tenny's Kindness
 9 - Last Judgement
-
-How Deep the Well?
-1 - Casting Stones -- REMOVED???
-2 - One Stone Too Many -- REMOVED???
-3 - Still Missing -- REMOVED???
-4 - Suspicions -- REMOVED???
 
 The Fall
 1 - Up to No Good
@@ -974,9 +962,9 @@ Monarch's Bluffs Legacies
 1 - I Know What She's Hiding
 2 - Missing Persons Report: Christopher Ward
 
-King Arthur’s Arrival
+King Arthur's Arrival
 1 - The High King
-2 - The King’s Magician
+2 - The King's Magician
 3 - A Legendary Weapon
 4 - Uniting the Land
 
@@ -990,19 +978,19 @@ The Fall of the High King
 2 - The Corruption Surge
 3 - Darkness Falls
 
-Lochnir’s Discoveries
+Lochnir's Discoveries
 1 - Altars of Power
 2 - Artifacts Of The Ancients
 3 - The Call Of The Tablet
 4 - The Circlet Of The Swords
 
-A Father’s Prayer
+A Father's Prayer
 1 - The Final Glasswork
-2 - One’s Only Child
+2 - One's Only Child
 3 - A Reassurance of Love
 
 Letter to Edda Yonkers
-1 - The Love Of One’s Life
+1 - The Love Of One's Life
 
 Letters From The Lost
 1 - Wistful Note
@@ -1015,7 +1003,7 @@ Faithful Olaf
 1 - What Would We Do Without Olaf
 
 Knights Of Teyrnon Keep
-1 - Tenny’s Doubt
+1 - Tenny's Doubt
 
 Jin Jae's Journal
 1 - For the Future of Prydwen
@@ -1316,14 +1304,10 @@ Grenville's Journey
 3 - Rolfe
 4 - The Dig Site: Day 1
 5 - Excavation: Day 15
-6 - An Unpleasant Find: Day 17
-7 - Ill Tidings: Torn Page
-8 - April Dig: Ledger
 9 - Misfortune
 10 - The Obelisks!
 11 - Growing Fears
 12 - The Spire
-13 - The Great Work
 14 - Azure Flames
 
 Grenville and the Temple
@@ -1398,7 +1382,7 @@ Ichabod's Journal
 3 - A Question in the Dark
 4 - Who is the Queen in Emerald?
 5 - The Dancers
-6 - Ichabod’s Questions
+6 - Ichabod's Questions
 7 - What Dreams May Come
 8 - Acquiring the Book
 9 - Infected With Humming
@@ -1429,9 +1413,9 @@ The Iron Rose
 4 - Recruitment Flyer
 
 Songs of the Iron: Ella Florakis
-1 - Ella’s Song, Verse 1
-2 - Ella’s Song, Verse 2
-3 - Ella’s Song, Verse 3
+1 - Ella's Song, Verse 1
+2 - Ella's Song, Verse 2
+3 - Ella's Song, Verse 3
 
 Roya's Regret
 1 - No Answer
@@ -1447,10 +1431,10 @@ Windsward Warren: A Warren Too Small
 3 - Hyssop!
 4 - Forever friends
 
-## The Inquisitor’s Trial
+## The Inquisitor's Trial
 
-The Inquisitor’s Trial
-1 - The Inquisitor’s Trial
+The Inquisitor's Trial
+1 - The Inquisitor's Trial
 
 ## The Malleus Mortuis: Hammer of the Dead
 
@@ -1467,7 +1451,7 @@ The Malleus Mortuis: Hammer of the Dead
 ## The Thing in the Swamp
 
 The Thing in the Swamp
-1 - Constable’s Log
+1 - Constable's Log
 
 ## The Varangian Knights
 

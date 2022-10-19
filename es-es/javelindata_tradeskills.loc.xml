@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">Tu habilidad como constructor aumenta. Ahora las estructuras que construyas serán ligeramente más resistentes que antes y soportarán más daño antes de derrumbarse. Solo afecta a las nuevas estructuras.</string>
 	<string key="TradeskillBuilding9_Description">Tu habilidad como constructor aumenta. Ahora las estructuras que construyas serán ligeramente más resistentes que antes y soportarán más daño antes de derrumbarse. Solo afecta a las nuevas estructuras.</string>
 	<string key="TradeskillBuilding10_Description">ARQUITECTO MAESTRO: Tu habilidad como constructor aumenta. Ahora las estructuras que construyas serán considerablemente más resistentes que antes y soportarán más daño antes de derrumbarse. Solo afecta a las nuevas estructuras.</string>
-	<string key="ui_onehanded_weapons">Armas de una mano</string>
-	<string key="ui_twohanded_weapons">Armas de dos manos</string>
-	<string key="ui_ranged_weapons">Armas a distancia</string>
+	<string key="ui_onehanded_weapons">A una mano</string>
+	<string key="ui_twohanded_weapons">A dos manos</string>
+	<string key="ui_ranged_weapons">A distancia</string>
 	<string key="ui_magic_skills">Habilidades mágicas</string>
 	<string key="ui_weaponmastery_description">Las habilidades de armas mejoran usando armas del tipo apropiado. Con cada nivel, obtienes un punto que puedes usar para desbloquear mejoras específicas de esa arma.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Los árboles de maestría de armas siguen en desarrollo. Pronto habrá nuevas armas.</string>
 	<string key="ui_farmplants">Plantas de cultivo</string>
 	<string key="ui_hemp">Cáñamo</string>
 	<string key="ui_hempt4">Hierbasedosa</string>
+	<string key="ui_aloe">Gel de aloe</string>
 	<string key="ui_hempt5">Fibra de cáñamo</string>
 	<string key="ui_alchemy1">Plantas mágicas</string>
 	<string key="ui_alchemy2">Piedras mágicas</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Calamita</string>
 	<string key="ui_gold">Oro</string>
 	<string key="ui_starmetal">Metal estelar</string>
+	<string key="ui_sandstone">Arenisca</string>
 	<string key="ui_platinum">Platino</string>
+	<string key="ui_brimstone">Azufre</string>
 	<string key="ui_orichalcum">Oricalco</string>
 	<string key="ui_wyrdwood">Madera del sino</string>
 	<string key="ui_ironwood">Palo fierro</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Puedes desollar animales que tengan hasta el &lt;font color={levelColor}&gt;nivel {maxGatherLevel}&lt;/font&gt;.</string>
 	<string key="ui_skillToSkinLevel">En el nivel de habilidad {skillLevel} podrás desollar animales que tengan hasta el nivel {maxGatherLevel}.</string>
 	<string key="ui_skillToSkinLevelShort">Nivel de habilidad: {skillLevel} - Nivel de animal: {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Pimpollos</string>
-	<string key="iconTypeUnlock_maturetrees">Árboles maduros</string>
+	<string key="iconTypeUnlock_youngtrees">Pimpollos y cactus</string>
+	<string key="iconTypeUnlock_maturetrees">Árboles maduros y cactus</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Cómo funcionan las zonas de pesca</string>
 	<string key="ui_fishing_hotspot_tutorial">Se sabe que una zona de pesca está activa cuando se ven peces saltando fuera de ella.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nSi lanzas la caña en una zona de pesca activa, los peces picarán más rápido y serán más raros. Cuando coloques tu sedal correctamente, verás una pequeña alerta que te indicará que has dado con la zona de pesca.\n\nTras la captura de un número determinado de peces en una zona de pesca, esta se agotará. Se sabe que una zona de pesca está agotada cuando no hay peces saltando.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nUna zona de pesca agotada volverá a activarse cuando haya pasado un tiempo.\n\nA medida que tu habilidad de pesca mejore, encontrarás más y mejores puntos de pesca.</string>
 </resources>

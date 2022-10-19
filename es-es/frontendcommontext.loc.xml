@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Se ha prohibido el acceso a tu cuenta por actividad sospechosa. Ponte en contacto con atención al cliente para obtener más información.</string>
 	<string key="mm_loginservices_warning_title">AVISO</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se ha actualizado. Puedes cambiarlo en cualquier momento en el panel [G] de la IU de la compañía.</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se ha actualizado. Puedes cambiarlo en cualquier momento en el panel [F4] de la IU de la compañía.</string>
 	<string key="mm_loginservices_warning_BannedHacking">Se te ha identificado por hackear.</string>
 	<string key="mm_loginservices_warning_BannedCheating">Se te ha identificado por hacer trampas.</string>
 	<string key="mm_loginservices_warning_BannedExploit">Se te ha identificado por aprovecharte de errores.</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Se te ha identificado por filtrar contenido protegido.</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Se te ha identificado por mala conducta.</string>
 	<string key="mm_loginservices_warning_OffensiveName">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se ha actualizado. Puedes cambiarlo en cualquier momento en el panel [G] de la IU de la compañía.</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">El nombre de tu compañía se ha identificado como inapropiado y se ha actualizado. Puedes cambiarlo en cualquier momento en el panel [F4] de la IU de la compañía.</string>
 	<string key="mm_loginservices_warning_Cheating">Se te ha identificado por hacer trampas.</string>
 	<string key="mm_loginservices_warning_Exploit">Se te ha identificado por aprovecharte de errores.</string>
 	<string key="mm_loginservices_warning_Botting">Se te ha identificado por utilizar bots.</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Inicio de sesión denegado: Ya se ha completado la primera experiencia del usuario.</string>
 	<string key="mm_loginservices_InternalError">Fallo al iniciar sesión, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Fallo en el servidor de inicio de sesión, inténtalo de nuevo más tarde.</string>
+	<string key="mm_loginservices_InternalFailureException">Fallo en el servidor de inicio de sesión, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_CredentialsError">Las credenciales de los servicios de inicio de sesión no son válidas.</string>
 	<string key="mm_loginservices_NameLengthError">La longitud del nombre no es válida.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Este nombre está en uso.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">No se puede conectar con el servicio de inicio de sesión. Volviendo a conectar...</string>
 	<string key="mm_loginservices_TooManyRequestsException">El servidor de inicio de sesión está demasiado lleno, inténtalo de nuevo más tarde.</string>
 	<string key="mm_loginservices_NoConnection">El servicio de inicio de sesión no está disponible en este momento. Puede que tengas problemas de conexión a internet. Volviendo a conectar...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Fallo de autenticación de Steam.\nSal del juego, reinicia Steam y vuelve a intentarlo.</string>
+	<string key="mm_loginservices_NO_GATEWAY">La configuración de inicio de sesión no es válida.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Estás en cola para el mundo abierto...</string>
 	<string key="mm_loginservices_location_FTUE000">Estás en cola como nuevo jugador...</string>
 	<string key="mm_loginservices_location_FTUE9011">Estás en cola como nuevo jugador...</string>
@@ -300,7 +303,7 @@
 	<string key="ui_how_it_works">Cómo funciona</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">JcJ</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Seguimiento JcJ</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punto de control {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nPara avanzar en tu seguimiento, participa en misiones JcJ, guerras y asaltos a puestos remotos, captura fuertes, derrota a otros jugadores, lucha en arenas de 3 contra 3 y gana EXP con el JcJ activado.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Punto de control {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nAvanza en tu seguimiento participando en misiones JcJ, guerras, Asalto a puesto remoto, capturando fuertes, derrotando a otros jugadores y en arenas 3 contra 3.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Tienes que completar todos los puntos de control antes de comenzar el próximo seguimiento. Si eliges una recompensa en cada punto de control, el siguiente seguimiento comenzará automáticamente.\n\nPor cada punto de control en el que no hayas elegido una recompensa, obtendrás 300 de sal de Azoth cuando comience el próximo seguimiento.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Las diferentes recompensas se revelarán después de completar el punto de control.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Seguimientos completados</string>
@@ -322,7 +325,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Sal de Azoth</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Recompensas</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">El seguimiento de recompensas JcJ contiene recompensas específicas de JcJ por realizar actividades JCJ en el juego. El seguimiento se puede completar y rellenar de nuevo para conseguir una selección diferente de recompensas, con regalos más prestigiosos disponibles cuantas más completes.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Para avanzar en tu seguimiento, participa en misiones JcJ, guerras y asaltos a puestos remotos, captura fuertes, derrota a otros jugadores, lucha en arenas de 3 contra 3 y gana EXP con el JcJ activado.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Avanza en tu seguimiento participando en misiones JcJ, guerras, Asalto a puesto remoto, capturando fuertes, derrotando a otros jugadores y en arenas 3 contra 3.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">La sal de Azoth es la divisa con la que obtienes recompensas del seguimiento JcJ. Para ganar sal de Azoth, participa en guerras, asaltos a puestos remotos, arenas de 3 contra 3, misiones JcJ, mata a jugadores en el mundo abierto en JcJ y gana EXP con el JcJ activado.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Elige entre distintas recompensas únicas como armaduras y armas prestigiosas, gestos, monedas y consumibles.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; seguimientos completados</string>
@@ -337,7 +340,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Equipamiento con nombre \n+Más divisas</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Equipamiento de prestigio \n+Gesto \n+Paquetes de viales de sal</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Aljez \n+Más divisas \n+Más fragmentos umbríos</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Gesto \n+Más fragmentos umbríos </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Gesto \n+Más fragmentos umbríos</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Bote de recompensas: \n+Gesto \n+Más divisas \n+Más objetos encontrados</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} hito de seguimiento en:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} hito de seguimiento</string>
@@ -446,7 +449,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Aprovechar este artículo te devolverá {min}-{max} {itemName} y {numRepairParts} piezas de reparación.{gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Aprovechar este artículo te devolverá {min} de {max} {itemName} y {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Aprovechar este artículo te devolverá {min} de {max}, {numRepairParts} piezas de reparación y {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Hay una pequeña posibilidad de recuperar la gema incrustada.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">Hay una posibilidad de recuperar la gema incrustada.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">También podrías adquirir objetos adicionales como {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Aprovechar este artículo te enseñará la receta: {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Ya conoces la receta de {recipeName}.</string>
@@ -472,6 +475,7 @@
 	<string key="minspec_os_win7_warning">Aviso: Tienes instalado Windows 7. New World funciona mejor en Windows 10 o una versión posterior. Puede que tu experiencia no sea la óptima.</string>
 	<string key="minspec_fail_try_again">Comprueba el registro del error para determinar qué requisito mínimo es el que está fallando.</string>
 	<string key="ui_rename_character">Cambiar nombre del personaje</string>
+	<string key="ui_rename">Cambiar nombre</string>
 	<string key="ui_rename_character_title">Nombre del personaje</string>
 	<string key="ui_rename_report_description">El nombre de tu personaje se ha identificado como inapropiado. Cuando vuelvas a iniciar sesión, se te pedirá que lo cambies.</string>
 	<string key="ui_rename_required">Tienes que cambiarle el nombre a &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

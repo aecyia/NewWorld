@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">Do tego przedmiotu nie można dodać żadnych premii.</string>
 	<string key="crafting_tree_learned">Znane</string>
 	<string key="crafting_tree_unlearned">Nieznane</string>
+	<string key="crafting_quality_fixed">Ten pasek pokazuje, ile punktów wyposażenia będzie mógł uzyskać wytwarzany przedmiot.</string>
 	<string key="crafting_quality_desc">Ten pasek pokazuje, ile punktów wyposażenia będzie mógł uzyskać wytwarzany przedmiot. Dolna wartość zależy od twojego poziomu umiejętności. Możesz używać surowców różniących się klasą i rzadkością, by dostosować jego długość.</string>
+	<string key="crafting_quality_expertise">Ten pasek pokazuje, ile punktów wyposażenia będzie mógł uzyskać wytwarzany przedmiot. Liczba punktów wyposażenia tego przedmiotu zostanie obliczona na podstawie twojej biegłości ({expertiseName}) i poziomu gracza.\n({expertiseName} – obecny poz. biegłości: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">Liczba punktów wyposażenia tego przedmiotu zostanie obliczona na podstawie twojej biegłości ({expertiseName}) i poziomu gracza.\n({expertiseName} – obecny poz. biegłości: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Schematy z zadań</string>
 	<string key="crafting_select_resources">Wybierz surowce</string>
 	<string key="new_recipe_unlocked">ODBLOKOWANO NOWY SCHEMAT</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Barwniki.</string>
 	<string key="ui_armordyes">Barwniki pancerza</string>
 	<string key="ui_craftprogress">Wytwarzanie: {amount} z {maximum}</string>
-	<string key="ui_crafting_summary_header">Efekty wytwarzania</string>
+	<string key="ui_crafting_summary_header">Przedmioty wytworzone</string>
 	<string key="ui_crafted_from">Wytwarza się z: {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Sortuj według nazwy</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">WYBIERZ {type}</string>
 	<string key="crafting_discount_base">Opłata bazowa</string>
 	<string key="ui_crafting_resource_origin_message">Uwaga: potrzebne zasoby zostaną w pierwszej kolejności pobrane z twojego ekwipunku, a dopiero potem z magazynu osady.</string>
+	<string key="cr_firstcraft_bonusavailable">Premia do pierw. wytworz. dostępna</string>
+	<string key="cr_firstcraft_bonus">Premia do pierwszego wytworzenia</string>
+	<string key="cr_tradeskillbonus_title">Premia PD do profesji</string>
+	<string key="cr_tradeskillbonus_basecraft">Premia PD do profesji</string>
+	<string key="cr_tradeskillbonus_description">Otrzymujesz dodatkowe PD profesji za wytworzenie przedmiotu z danego schematu po raz pierwszy.</string>
 </resources>
 

@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">I Perduti</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">I Perduti sono la prova che l'esistenza eterna e l'immortalità di cui si narra nelle favole non siano la stessa cosa. Per alcuni ha un prezzo terribile. Attraverso cicli infiniti di morte e rinascita, ci si può perdere e la propria anima può appassire fino a che non resta più niente.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">I Perduti</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">I Perduti patiscono molto i danni da colpo, ghiaccio e natura, ma resistono bene ai danni da affondo e vuoto.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">I Perduti patiscono molto i danni da colpo, ghiaccio e natura.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Gli Antichi</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">Le origini degli Antichi e qualsiasi informazione sulla loro civiltà si sono perse nelle nebbie del tempo. Tutto ciò che rimane sono reliquie: monumenti crollati, rovine di città e legioni di guerrieri scheletrici.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Gli Antichi</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">I Guardiani antichi patiscono molto i danni da colpo, fulmine e Vuoto, ma resistono bene ai danni da fendente e fuoco.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">I Guardiani antichi sono vulnerabili ai danni da colpo, fulmine e Vuoto.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">La Terra irata</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">Il profondo intreccio tra Azoth e natura è più che mai evidente nelle creature della Terra irata. Simili a piante, prendono il nome dalla ferocia con cui difendono le lande selvagge di Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">La Terra irata</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Le creature della Terra irata patiscono molto i danni da fendente e fuoco, ma resistono bene ai danni da affondo e fulmine.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Le creature della Terra irata sono vulnerabili ai danni da fendente e fuoco.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">I Corrotti</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">I Corrotti fungono da schiavi immortali di un'antica e imperscrutabile forza che distorce tutto ciò che incontra.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">I Corrotti</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">I Corrotti patiscono molto i danni da affondo, energia arcana e natura, ma resistono bene ai danni da colpo e ghiaccio.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">I Corrotti patiscono molto i danni da affondo, energia arcana e natura.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Viaggio veloce</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">Il costo del viaggio veloce è proporzionale al peso trasportato nell'inventario. Viaggiate leggeri, amici.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">I filetti di pesce delicati si ottengono recuperando anguille elettriche e pesci spada.</string>
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arene</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Ne hai già trovata una? Un'arena è un evento raro in cui tu e i tuoi amici combattete contro una letale creatura leggendaria.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Prove</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Ne hai già trovata una? Una prova è un evento raro in cui tu e i tuoi amici combattete contro una letale creatura leggendaria.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Carica all'avamposto</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Cerca Scott Newman all'avamposto di Puntabreccia o parla con il rappresentante della tua fazione per competere in questo incontro 20 vs 20.</string>
 	<string key="tip_overworld_gameModes_war01-title">Guerra</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Scorpione</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Se ti allontani troppo dalla strada maestra rischierai di restare avviluppato nei viticci della Corruzione.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">Il sole crudele e ustionante dei Deserti di zolfo richiede una protezione adeguata per sopravvivere.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">La lingua degli antichi era andata perduta tra le sabbie del tempo. Fino ad ora...</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Un mostruoso colosso si è risvegliato nel deserto. Le leggende locali lo chiamano "Il Divoratore".</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Si dice che gli Antichi svolgessero rituali nel cuore di un'imponente muraglia costruita tra i Deserti di zolfo e il Monte infranto.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crasso e la sua XIX Legione corrotta sono una minaccia eterna per la sicurezza e la stabilità di Nuova Corsica.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Si dice che uno dei più antichi esseri umani viventi su Aeternum, Imhotep il Saggio, vaghi per i deserti alla ricerca della conoscenza.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Sii prudente quando navighi nelle pozze sulfuree dei Deserti di zolfo. Se le lucertole giganti non riusciranno a prenderti, lo farà sicuramente l'acqua bollente...</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">L'arenaria è abbondante nei Deserti di zolfo e può essere fusa in oggetti di vetro.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Hai sete? Prova ad abbattere un cactus per ottenere una piccola quantità d'acqua.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Nessuno sa come gli armadilli siano giunti ai Deserti di zolfo, ma sembrano comunque prosperare.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Un grande albero è in qualche modo cresciuto in mezzo ai Deserti di zolfo. Alcuni dicono addirittura che i rami più alti ancora fioriscano.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Alcuni credono che una micidiale manticora si aggiri tra i Deserti di zolfo, fai attenzione...</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Le leggende narrano di un Antico che giace addormentato da qualche parte nei Deserti di zolfo.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Gli enormi scorpioni che si aggirano nel deserto hanno molte più armi di semplici pungiglioni e tenaglie.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Gli antichi glifi sono la chiave per sbloccare forzieri, esplorare rovine sigillate e molto altro. Quanti riuscirai a trovarne?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Aspiranti tombaroli, fate attenzione: a volte morti irrequieti fanno la guardia ai propri tesori terreni.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Alcuni dei costrutti anubiani che si aggirano per i Deserti di zolfo possono essere estratti per ottenere risorse.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">La facciata dorata di Nuova Corsica nasconde un nido di vipere fatto di politica, intrighi e paranoia.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">I legionari dei Deserti di zolfo non hanno perso nulla della propria leggendaria disciplina e abilità in combattimento, nonostante siano diventati Corrotti.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marco Antonio fondò la XIX Legione "marittima", che però non riuscì a salvarlo dalla rovina nella battaglia di Azio.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">La regina Cleopatra, in fin di vita, fu portata nei Deserti di zolfo dai romani nel tentativo di salvarle la vita.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">I Custodi di anime sono rari nei Deserti di zolfo. Ma con gli Antichi e la Corruzione in agitazione, le cose potrebbero presto cambiare.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Esistono leggende di spiriti misteriosi e mutevoli, noti come ifrit, che infestano le lande del deserto. Con alcuni si può mercanteggiare.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Se senti una voce familiare che ti chiama dall'oscurità delle terre desolate, non avvicinarti.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Nei Deserti di zolfo hanno iniziato a comparire abomini contorti, frutto di una stregoneria antica.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Nel corso dei millenni, due grandi civiltà hanno plasmato il territorio dei Deserti di zolfo: gli egizi e i romani.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Gli Antichi anubiani sono molto più robusti degli scheletri polverosi che custodiscono le altre rovine degli Antichi. Avvicinati con cautela.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">I cancelli circolari in pietra sparsi per i Deserti di zolfo sono magnifici e allo stesso tempo magici.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Vasti flussi di Azoth scorrono attraverso la Grande piramide di Akhet. Si spera che tale potere non venga mai utilizzato per scopi nefasti...</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Deserti di zolfo</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">La Terra irata dei Deserti di zolfo non teme il fuoco e spesso utilizza lo zolfo ardente per distruggere i propri nemici.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Grande Breccia</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Strada della morsa</string>

@@ -221,8 +221,6 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Disattiva la musica suonata dagli altri giocatori</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Disattiva musica combattimenti</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Disattiva la musica durante i combattimenti</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Disattiva audio secondario esibizioni</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Disattiva il suono degli applausi e degli effetti secondari durante le esibizioni musicali</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Volume strumenti musicali</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Regola il volume della musica suonata con gli strumenti musicali dai giocatori locali e in remoto</string>
 	<string key="ui_outputconfiguration">Configurazione dell'output</string>
@@ -244,7 +242,7 @@
 	<string key="ui_bandwidthmode">Modalità di larghezza di banda</string>
 	<string key="ui_bandwidthmode_desc">Modalità di larghezza di banda da usare per ricevere dati dal server. Valori bassi possono incidere sulla qualità</string>
 	<string key="ui_analyticsenabled">Trasmetti i dati di telemetria del client</string>
-	<string key="ui_analyticsenabled_desc">Se disattivi questa impostazione, smetterai di inviare determinati dati di telemetria relativi alla tua esperienza di gioco e alle impostazioni al team di New World. Se riscontri problemi di rete in New World, disattivare questa impostazione potrebbe essere d'aiuto.</string>
+	<string key="ui_analyticsenabled_desc">Se disattivi questa impostazione, smetterai di inviare determinati dati di telemetria relativi alla tua esperienza di gioco e alle impostazioni al team di New World. Se riscontri problemi di rete in New World, disattivare questa impostazione potrebbe essere d'aiuto</string>
 	<string key="ui_enable_camera_lock">Guarigione mirata</string>
 	<string key="ui_enable_camera_lock_description">Attiva il sistema di guarigione mirata</string>
 	<string key="ui_enable_camera_lock_friendlies">Blocco visuale sugli alleati</string>

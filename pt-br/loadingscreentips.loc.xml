@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">Os Perdidos</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">Os Perdidos são a prova de que a existência eterna não equivale a uma imortalidade de contos de fada; algumas pessoas pagam um preço terrível por ela. As pessoas se tornam Perdidas por meio de ciclos infindáveis de morte e renascimento que fazem sua alma definhar até que não reste mais nada.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">Os Perdidos</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Os Perdidos são vulneráveis a dano Natural, de Contusão e de Gelo, mas são resistentes a dano de Perfuração e Imaterial.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Os Perdidos são vulneráveis a Dano Natural, Dano Contundente e Dano de Gelo.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Os Anciões</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">A origem dos Anciões e qualquer conhecimento sobre a civilização deles se perdeu em lembranças antigas. Só restam relíquias: monumentos desmoronados, ruínas de cidades e legiões de guerreiros esqueléticos.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Os Anciões</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Os Guardiões Anciões são vulneráveis a dano de Contusão, Elétrico e Imaterial, mas são resistentes a dano Flamejante e Cortante.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Os Guardiões Anciões são vulneráveis a Dano Contundente, Dano Elétrico e Dano Imaterial.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">A Terra Indócil</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">A mistura do Azoth com a natureza fica mais evidente na Terra Indócil: uma variedade de criaturas vegetais que recebem esse nome por protegerem ferozmente as selvas de Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">A Terra Indócil</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">A Terra Indócil é vulnerável a Dano Flamejante e Cortante, mas são resistentes a dano Elétrico e de Perfuração.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">A Terra Indócil é vulnerável a Dano Cortante e Dano Flamejante.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">Os Corrompidos</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">Os Corrompidos são servos imortais de uma força antiga e misteriosa que distorce tudo ao seu alcance.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">Os Corrompidos</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Os Corrompidos são vulneráveis a dano Natural, de Perfuração e Arcano, mas são resistentes a dano de Gelo e de Contusão.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Os Corrompidos são vulneráveis a Dano Perfurante, Dano Arcano e Dano Natural.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Viagem Rápida</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">O custo da Viagem Rápida aumenta com a quantidade de peso que você está carregando no inventário. Evitem carregar muitas coisas, camaradas.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Você pode obter Filés de Peixe delicados ao retirar as partes úteis de Peixes-elétricos e Espadartes.</string>
 	<string key="tip_ftue_keybindings-title">[Marcador]</string>
 	<string key="tip_ftue_keybindings-content">[Marcador]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arenas</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">Você já encontrou uma? Uma Arena é um evento raro em que você e seus amigos combatem uma criatura letal e lendária.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Provas</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">Você já encontrou uma? Uma Prova é um evento raro em que você e seus amigos combatem uma criatura letal e lendária.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Investida do Posto Avançado</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Procure Scott Newman no Posto Avançado de Ponto da Fenda ou fale com o representante da sua facção para competir nesta partida de 20 vs. 20.</string>
 	<string key="tip_overworld_gameModes_war01-title">Guerra</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Marcador]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Scorpius</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Não se afaste muito do caminho para não correr o risco de sucumbir aos tentáculos da Corrupção.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">O sol duro e amargo de Areias de Enxofre requer proteção adequada para sobreviver.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">A linguagem dos Anciões se perdeu nas areias do tempo. Até agora...</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Um gigante monstruoso despertou no deserto. As lendas locais chamam ele de “O Devorador”.</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Dizem que os Anciões realizavam rituais nas profundezas do coração de uma enorme muralha, construída entre Areias de Enxofre e Montanha Arruinada.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crasso e sua 19ª Legião Corrompida são uma ameaça eterna à segurança e estabilidade de Nova Córsega.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Dizem que um dos humanos vivos mais antigos de Aeternum — Imhotep, o Sábio — vaga pelos desertos em busca de conhecimento.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Pise com cautela ao navegar pelas poças de enxofre de Areias de Enxofre. Se os lagartos gigantes não te pegarem, a água fervente e ardente com certeza vai...</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">O arenito é abundante em Areias de Enxofre e pode ser fundido em itens de vidro.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Com sede? Experimente cortar um cacto para obter pequenas quantidades de água.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Ninguém sabe como os Tatus chegaram a Areias de Enxofre, mas eles parecem estar prosperando.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Uma grande árvore de alguma forma floresceu no meio de Areias de Enxofre. Alguns até dizem que flores ainda brotam no alto de seus galhos.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Alguns acreditam que uma manticora mortal persegue as Areias de Enxofre, então viaje com cuidado…</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">As lendas dizem que um Ancião está dormindo em algum lugar em Areias de Enxofre.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Os enormes escorpiões que rondam o deserto têm mais armas do que meras pinças e garras.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Glifos Anciões são a chave para desbloquear baús, explorar ruínas seladas e muito mais. Quantos deles você consegue encontrar?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Pretensos ladrões de tumbas, tomem cuidado: os mortos inquietos às vezes protegem seus tesouros terrenos.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Algumas das construções Anubianas que rondam Areias de Enxofre podem ser mineradas para obter recursos.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">A fachada dourada de Nova Córsega esconde um ninho de víboras de política, intriga e paranoia.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">Os Legionários de Areias de Enxofre não perderam nada de sua lendária disciplina e habilidade de luta, apesar de se tornarem Corrompidos.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marco Antônio fundou a 19ª Legião “Marítima”, embora não pudessem salvá-lo da ruína na Batalha de Áccio.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">A moribunda Rainha Cleópatra foi trazida para Areias de Enxofre pelos romanos que tentaram salvar sua vida.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">Guardas Espirituais são raros em Areias de Enxofre. Mas com os Anciões e a Corrupção se agitando, isso pode mudar em breve.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Existem lendas de espíritos misteriosos que mudam de forma, conhecidos como Ifrit, que assombram os ermos do deserto. É possível negociar com alguns deles.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Se você ouvir uma voz familiar chamando da escuridão dos ermos, não se aproxime.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Abominações depravadas começaram a aparecer em Areias de Enxofre, produtos de alguma feitiçaria antiga.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Areias de Enxofre teve duas grandes civilizações que moldaram a terra ao longo dos milênios: os egípcios e os romanos.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Os Anciões Anubianos são muito mais robustos do que os esqueletos empoeirados que guardam outras ruínas Anciãs. Cuidado ao se aproximar.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">Os portões de pedra circulares espalhados por Areias de Enxofre são mágicos e magníficos.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Vastos fluxos de Azoth fluem por meio da Grande Pirâmide de Ahket. Espero que tal poder nunca seja usado para propósitos nefastos...</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Areias de Enxofre</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">A Terra Indócil de Areias de Enxofre não tem medo de fogo, e muitas vezes usa enxofre em chamas para destruir seus inimigos.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Grande Fenda</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Marcador]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Estrada do Aperto Sufocante</string>

@@ -8,6 +8,7 @@
 	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">Se te devolverá un {percent} % del coste de compra original si abandonas la casa. Todos los trofeos y muebles de la casa se llevarán al almacén del pueblo.</string>
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;Se te devolverá un {percent} % del coste de compra original si abandonas la casa.&lt;/font&gt;\nTodos los trofeos y muebles de la casa abandonada se llevarán al almacén del pueblo.\n\nPara continuar, introduce {territoryName} a continuación.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">¿Abandonar casa?</string>
+	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Debes tener al menos una ranura de almacenamiento de asentamiento libre antes de poder eliminar todos los objetos de tu casa.</string>
 	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Paga {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para restablecer el tiempo de recarga.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">Para realizar un viaje rápido necesitas {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Para realizar un viaje rápido necesitas {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -149,10 +150,10 @@
 	<string key="ui_house_overdue_label" comment="Housing Taxes">Pago del mantenimiento ATRASADO</string>
 	<string key="ui_house_property_tax_desc" comment="Housing Taxes">Necesitas {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_house_property_tax_sub_desc" comment="Housing Taxes">/ cada período de pago para mantener esta casa.</string>
-	<string key="ui_house_tax" comment="Housing Taxes">Imp. de propiedad</string>
+	<string key="ui_house_tax" comment="Housing Taxes">Mantenimiento de la propiedad</string>
 	<string key="ui_house_tax_unpaid_flyout_warning" comment="Housing Taxes">La casa se ha desactivado porque no se ha pagado el mantenimiento.</string>
 	<string key="ui_house_unpaid_taxes" comment="Housing Taxes">Cantidad atrasada</string>
-	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Impuesto de propiedad a pagar en {territoryName} en: {time}. Paga el mantenimiento para seguir usando el viaje rápido y la decoración</string>
+	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Mantenimiento de la propiedad a pagar en {territoryName} en: {time}. Paga el mantenimiento para seguir usando el viaje rápido y la decoración</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Tu casa (desactivada)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Tu casa está desactivada. ¡Paga el mantenimiento para volver a activarla!</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Pagar el mantenimiento</string>
@@ -175,7 +176,7 @@
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Cuando lo colocas en tu casa, este trofeo te sirve de inspiración.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Bonus trofeos</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Bonus de trofeos (Deshabilitados)</string>
-	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">Estando en el &lt;font color={colorHex}&gt;modo de decoración&lt;/font&gt;, utiliza &lt;font color={colorHex}&gt;rotar, recorte de cuadrícula&lt;/font&gt; y «&lt;font color={colorHex}&gt;bloquear en la superficie&lt;/font&gt;» para decorar tu casa como quieras.</string>
+	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">Estando en el &lt;font color={colorHex}&gt;modo de decoración&lt;/font&gt;, utiliza &lt;font color={colorHex}&gt;rotar, colocación de cuadrícula&lt;/font&gt; y «&lt;font color={colorHex}&gt;bloquear en la superficie&lt;/font&gt;» para decorar tu casa como quieras.</string>
 	<string key="ui_housing_tip_description2" comment="Load Screen Housing Tips">Colocar objetos que no se solapan con otros es la manera más óptima de aumentar tu &lt;font color={colorHex}&gt;puntuación de decoración&lt;/font&gt; por cada objeto colocado.</string>
 	<string key="ui_housing_tip_description3" comment="Load Screen Housing Tips">Cuelga &lt;font color={colorHex}&gt;trofeos&lt;/font&gt; para activar &lt;font color={colorHex}&gt;potenciadores pasivos&lt;/font&gt;.\n\nConsejo: Solo se pueden colocar 5 trofeos en cada casa, pero los efectos de los trofeos duplicados se pueden acumular.</string>
 	<string key="ui_housing_tip_description4" comment="Load Screen Housing Tips">El panel en la parte derecha de tu pantalla te indica la &lt;font color={colorHex}&gt;puntuación de decoración&lt;/font&gt; y las &lt;font color={colorHex}&gt;limitaciones de decoración&lt;/font&gt; de tu casa.\n\nConsejo: Colocar demasiados objetos iguales restará puntos de tu puntuación de decoración.</string>

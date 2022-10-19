@@ -107,7 +107,10 @@
 	<string key="crafting_no_bonus">Nenhum bônus pode ser adicionado a esse item.</string>
 	<string key="crafting_tree_learned">Aprendido</string>
 	<string key="crafting_tree_unlearned">Não Aprendido</string>
+	<string key="crafting_quality_fixed">Esta barra indica a variação de pontuação de equipamento dentro da qual ficará o item confeccionado.</string>
 	<string key="crafting_quality_desc">Esta barra indica a variação de pontuação de equipamento dentro da qual ficará o item confeccionado. A base dessa variação depende de seu nível de habilidade. Você também pode usar recursos de escalas e raridades diferentes para ajustar essa variação.</string>
+	<string key="crafting_quality_expertise">Esta barra indica a variação de pontuação de equipamento dentro da qual ficará o item confeccionado. A pontuação do equipamento deste item será calculada com base na sua Proficiência de {expertiseName} e no seu Nível de Jogador.\n(Proficiência de {expertiseName} Atual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
+	<string key="crafting_recipe_expertise">A pontuação do equipamento deste item será calculada com base na sua Proficiência de {expertiseName} e no seu Nível de Jogador.\n(Proficiência de {expertiseName} Atual: &lt;img src="lyshineui/images/icons/misc/icon_hwm_small_color" scale="1.2" yOffset="1"&gt;&lt;/img&gt;&lt;font color="#c59dff"&gt;{currentValue}&lt;/font&gt;)</string>
 	<string key="crafting_quest_recipes">Receitas de Missões</string>
 	<string key="crafting_select_resources">Selecionar Recursos</string>
 	<string key="new_recipe_unlocked">RECEITA NOVA DESBLOQUEADA</string>
@@ -208,7 +211,7 @@
 	<string key="ui_dyes">Tinturas.</string>
 	<string key="ui_armordyes">Tinturas de Armadura</string>
 	<string key="ui_craftprogress">Confeccionando {amount} de {maximum}</string>
-	<string key="ui_crafting_summary_header">Resultado da Confecção</string>
+	<string key="ui_crafting_summary_header"> Itens Confeccionados</string>
 	<string key="ui_crafted_from">Confeccionado com {item}</string>
 	<string key="ui_stationName">{station}</string>
 	<string key="crafting_sort_name">Ordenar por Nome</string>
@@ -225,5 +228,10 @@
 	<string key="crafting_category_select_title">SELECIONAR {type}</string>
 	<string key="crafting_discount_base">Taxa Base</string>
 	<string key="ui_crafting_resource_origin_message">Nota: Os recursos usados são tirados primeiro do seu inventário, depois do armazém do assentamento.</string>
+	<string key="cr_firstcraft_bonusavailable">Bônus da Primeira Confecção</string>
+	<string key="cr_firstcraft_bonus">(Bônus da Primeira Confecção)</string>
+	<string key="cr_tradeskillbonus_title">Bônus de EXP de Habilidade Mercante</string>
+	<string key="cr_tradeskillbonus_basecraft">Bônus de EXP de Habilidade Mercante</string>
+	<string key="cr_tradeskillbonus_description">Você recebe um bônus extra de EXP de habilidade mercante por confeccionar uma receita pela primeira vez.</string>
 </resources>
 

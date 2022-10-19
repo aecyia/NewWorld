@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">Deine Fähigkeiten als Baumeister verbessern sich. Von dir gebaute Gebäude sind nun etwas stabiler und halten mehr Schaden aus, bevor sie zusammenbrechen. Nur neue Gebäude werden davon beeinflusst.</string>
 	<string key="TradeskillBuilding9_Description">Deine Fähigkeiten als Baumeister verbessern sich. Von dir gebaute Gebäude sind nun etwas stabiler und halten mehr Schaden aus, bevor sie zusammenbrechen. Nur neue Gebäude werden davon beeinflusst.</string>
 	<string key="TradeskillBuilding10_Description">MEISTERARCHITEKT: Deine Fähigkeiten als Baumeister verbessern sich. Von dir gebaute Gebäude sind nun bedeutend stabiler und halten mehr Schaden aus, bevor sie zusammenbrechen. Nur neue Gebäude werden davon beeinflusst.</string>
-	<string key="ui_onehanded_weapons">Einhandwaffen</string>
-	<string key="ui_twohanded_weapons">Zweihandwaffen</string>
-	<string key="ui_ranged_weapons">Fernkampfwaffen</string>
+	<string key="ui_onehanded_weapons">Einhändig</string>
+	<string key="ui_twohanded_weapons">Zweihändig</string>
+	<string key="ui_ranged_weapons">Fernkampf</string>
 	<string key="ui_magic_skills">Magische Fähigkeiten</string>
 	<string key="ui_weaponmastery_description">Verbessere deine Waffenfähigkeiten, indem du bestimmte Waffentypen nutzt. Pro Stufe erhältst du einen Punkt, den du zum Freischalten bestimmter Aufrüstungen für eine Waffe nutzen kannst.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Waffenführungsdiagramme befinden sich noch in der Entwicklung. Weitere Waffen kommen bald.</string>
 	<string key="ui_farmplants">Landwirtschaftliche Pflanzen</string>
 	<string key="ui_hemp">Hanf</string>
 	<string key="ui_hempt4">Seidenpflanze</string>
+	<string key="ui_aloe">Aloe-Gel</string>
 	<string key="ui_hempt5">Drahtfaser</string>
 	<string key="ui_alchemy1">Magische Pflanzen</string>
 	<string key="ui_alchemy2">Magische Steine</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Magnetit</string>
 	<string key="ui_gold">Gold</string>
 	<string key="ui_starmetal">Sternenmetall</string>
+	<string key="ui_sandstone">Sandstein</string>
 	<string key="ui_platinum">Platin</string>
+	<string key="ui_brimstone">Schwefel</string>
 	<string key="ui_orichalcum">Orichalcum</string>
 	<string key="ui_wyrdwood">Wyrdholz</string>
 	<string key="ui_ironwood">Tropenholz</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Du kannst Tiere bis zu &lt;font color={levelColor}&gt;Stufe {maxGatherLevel}&lt;/font&gt; häuten.</string>
 	<string key="ui_skillToSkinLevel">Ab Fähigkeitsstufe {skillLevel} kannst du Tiere bis zu Stufe {maxGatherLevel} häuten.</string>
 	<string key="ui_skillToSkinLevelShort">Fähigkeitsstufe: {skillLevel} – Tierstufe: {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Junge Bäume</string>
-	<string key="iconTypeUnlock_maturetrees">Ausgewachsene Bäume</string>
+	<string key="iconTypeUnlock_youngtrees">Junge Bäume und Kakteen</string>
+	<string key="iconTypeUnlock_maturetrees">Ausgewachsene Bäume und Kakteen</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Wie Angelstellen funktionieren</string>
 	<string key="ui_fishing_hotspot_tutorial">Eine aktive Angelstelle erkennt man daran, dass dort Fische aus dem Wasser springen.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nIst sie aktiv und triffst du sie beim Auswerfen, beißen die Fische schneller und sind seltener. Platzierst du deine Schnur richtig, gibt dir ein kleiner Alarm zu erkennen, dass du die Angelstelle getroffen hast.\n\nNachdem an einer Angelstelle eine bestimmte Menge Fische gefangen wurde, ist sie erschöpft. Eine erschöpfte Angelstelle erkennt man daran, dass dort keine Fische aus dem Wasser springen.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nEine erschöpfte Angelstelle wird nach einiger Zeit wieder aktiv.\n\nJe besser deine Angel-Fähigkeit, desto mehr und bessere Angelstellen findest du.</string>
 </resources>

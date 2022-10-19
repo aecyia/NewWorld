@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">La tua competenza come costruttore cresce. Ora le strutture da te costruite sono leggermente più robuste di prima e possono sopportare più danni prima di cadere. Il cambiamento riguarda solo le nuove strutture.</string>
 	<string key="TradeskillBuilding9_Description">La tua competenza come costruttore cresce. Ora le strutture da te costruite sono leggermente più robuste di prima e possono sopportare più danni prima di cadere. Il cambiamento riguarda solo le nuove strutture.</string>
 	<string key="TradeskillBuilding10_Description">ARCHITETTO ESPERTO: La tua competenza come costruttore cresce. Ora le strutture da te costruite sono notevolmente più robuste di prima e possono sopportare più danni prima di cadere. Il cambiamento riguarda solo le nuove strutture.</string>
-	<string key="ui_onehanded_weapons">Armi a una mano</string>
-	<string key="ui_twohanded_weapons">Armi a due mani</string>
-	<string key="ui_ranged_weapons">Armi a distanza</string>
+	<string key="ui_onehanded_weapons">A una mano</string>
+	<string key="ui_twohanded_weapons">A due mani</string>
+	<string key="ui_ranged_weapons">A distanza</string>
 	<string key="ui_magic_skills">Competenze nella magia</string>
 	<string key="ui_weaponmastery_description">Più usi un'arma, più aumenti la tua abilità nel maneggiarla. Ogni livello fornisce un punto da utilizzare per sbloccare miglioramenti specifici per l'arma.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Sezione ancora in fase di sviluppo. Nuove armi prossimamente.</string>
 	<string key="ui_farmplants">Piante agricole</string>
 	<string key="ui_hemp">Canapa</string>
 	<string key="ui_hempt4">Erbaseta</string>
+	<string key="ui_aloe">Gel di aloe</string>
 	<string key="ui_hempt5">Fibra intrecciante</string>
 	<string key="ui_alchemy1">Piante magiche</string>
 	<string key="ui_alchemy2">Pietre magiche</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Magnetite</string>
 	<string key="ui_gold">Oro</string>
 	<string key="ui_starmetal">Metallo stellare</string>
+	<string key="ui_sandstone">Arenaria</string>
 	<string key="ui_platinum">Platino</string>
+	<string key="ui_brimstone">Zolfo</string>
 	<string key="ui_orichalcum">Oricalco</string>
 	<string key="ui_wyrdwood">Legno di Wyrd</string>
 	<string key="ui_ironwood">Legnoferro</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Puoi scuoiare animali fino al &lt;font color={levelColor}&gt;livello {maxGatherLevel}&lt;/font&gt;</string>
 	<string key="ui_skillToSkinLevel">A livello competenza {skillLevel} sarai in grado di scuoiare animali fino al livello {maxGatherLevel}</string>
 	<string key="ui_skillToSkinLevelShort">Livello competenza: {skillLevel} - Livello animale: {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Alberi giovani</string>
-	<string key="iconTypeUnlock_maturetrees">Alberi maturi</string>
+	<string key="iconTypeUnlock_youngtrees">Alberi giovani e cactus</string>
+	<string key="iconTypeUnlock_maturetrees">Alberi maturi e cactus</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Come funzionano i punti di pesca</string>
 	<string key="ui_fishing_hotspot_tutorial">Un punto di pesca è attivo quando ci sono pesci che guizzano fuori dall'acqua.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nLancia la lenza al suo interno mentre è attivo per pescare più rapidamente e catturare pesci più rari. Quando la lenza è posizionata correttamente verrà visualizzato un piccolo messaggio indicante che hai centrato il punto di pesca.\n\nDopo aver pescato abbastanza pesci, il un punto di pesca si esaurirà. Un punto di pesca è esaurito quando non ci sono più pesci che guizzano fuori dall'acqua.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nIl punto di pesca esaurito tornerà attivo dopo un determinato periodo di tempo.\n\nCon il miglioramento delle tue abilità di pesca riuscirai a trovare sempre più punti di pesca, e di miglior qualità.</string>
 </resources>

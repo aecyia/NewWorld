@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">Les dévoyés</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">La vie éternelle n'est pas toujours telle qu'on se l'imagine. Les dévoyés en sont la preuve : certains paient leur immortalité au prix fort. Le cycle sans fin de morts et de renaissances érode leur âme jusqu'à ce qu'il n'en reste plus rien.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">Les dévoyés</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Les dévoyés sont vulnérables aux dégâts d'attaque, de glace et de nature. Ils résistent cependant aux dégâts d'estoc et de néant.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Les dévoyés sont vulnérables aux dégâts de frappe, de glace et de nature.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Les Anciens</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">Les origines des Anciens sont tombées dans l'oubli, tout comme leur civilisation. Il n'en reste aujourd'hui plus que des vestiges : des monuments en ruine, des cités délabrées et des légions de guerriers osseux.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Les Anciens</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Les gardiens anciens sont vulnérables aux dégâts d'attaque, de foudre et de néant. Ils résistent cependant aux dégâts de taille et de feu.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Les gardiens anciens sont vulnérables aux dégâts de frappe, de foudre et de néant.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">La Terre enragée</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">La Terre enragée illustre parfaitement le mariage que l'Azoth et la nature peuvent opérer. Ces créatures végétales doivent leur nom à la férocité avec laquelle elles protègent les contrées sauvages d'Aeternum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">La Terre enragée</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Les créatures de la Terre enragée sont vulnérables aux dégâts de taille et de feu. Elles résistent cependant aux dégâts d'estoc et de foudre.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Les créatures de la Terre enragée sont vulnérables aux dégâts de taille et de feu.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">Les altérés</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">Immortels, les altérés sont condamnés à servir une force ancienne et mystérieuse qui corrompt tout sur son passage.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">Les altérés</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Les altérés sont vulnérables aux dégâts d'estoc, de magie occulte et de nature. Ils résistent cependant aux dégâts d'attaque et de glace.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Les altérés sont vulnérables aux dégâts d'estoc, de magie occulte et de nature.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Transfert rapide</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">Le coût du transfert rapide est proportionnel à la charge que vous transportez dans votre inventaire. Voyagez léger !</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -160,11 +160,11 @@
 	<string key="tip_overworld_equipment_lockingItems01-title">Verrouillage des objets</string>
 	<string key="tip_overworld_equipment_lockingItems01-content">Cliquez sur l'objet de votre choix dans l'inventaire et sélectionnez « Verrouiller » [{hint1}] pour le protéger du recyclage. Une icône en forme de verrou apparaîtra alors sur l'objet verrouillé.</string>
 	<string key="tip_overworld_factions_types01-title">Ombre</string>
-	<string key="tip_overworld_factions_types01-content">Des disciples éclairés qui luttent de façon rusée pour le bien de la vérité et du progrès.</string>
+	<string key="tip_overworld_factions_types01-content">Des disciples éclairés qui recourent à la ruse au nom de la vérité et du progrès.</string>
 	<string key="tip_overworld_factions_types02-title">Maraudeurs</string>
-	<string key="tip_overworld_factions_types02-content">De fiers guerriers qui combattent avec honneur pour la gloire et le développement personnel.</string>
+	<string key="tip_overworld_factions_types02-content">De fiers guerriers qui combattent avec honneur pour la gloire et le dépassement de soi.</string>
 	<string key="tip_overworld_factions_types03-title">Engagés</string>
-	<string key="tip_overworld_factions_types03-content">Des champions divins qui luttent avec conviction pour la droiture et la justice.</string>
+	<string key="tip_overworld_factions_types03-content">Des champions divins qui luttent avec conviction pour le bien et la justice.</string>
 	<string key="tip_overworld_factions_benefits01-title">Factions</string>
 	<string key="tip_overworld_factions_benefits01-content">Rejoignez une faction pour vous battre en JcJ, contrôler des territoires et prendre part à des guerres.</string>
 	<string key="tip_overworld_factions_benefits02-title">Avantage de faction</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Recyclez des anguilles électriques et des espadons pour obtenir des filets de poisson délicats.</string>
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arènes</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">En avez-vous trouvé ? Les arènes représentent de rares occasions d'affronter des créatures mortelles et légendaires aux côtés de vos amis.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Épreuves</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">En avez-vous trouvé ? Les épreuves représentent de rares occasions d'affronter des créatures mortelles et légendaires aux côtés de vos amis.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Déferlante</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Adressez-vous à Scott Newman à l'avant-poste de Piton-de-Faille ou à votre représentant de faction pour participer à ce match à 20 contre 20.</string>
 	<string key="tip_overworld_gameModes_war01-title">Guerre</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Scorpion</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Écartez-vous trop du chemin, et vous risquez de vous perdre dans les méandres de l'altération.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">Pour survivre au soleil impitoyable de Sulfure, il faut une protection adéquate.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">La langue des Anciens était tombée dans l'oubli... jusqu'à aujourd'hui.</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Un monstre titanesque s'est éveillé dans le désert. Les légendes du coin l'appellent « le Dévoreur ».</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">On raconte que les Anciens accomplissaient des rituels au cœur de la muraille gigantesque édifiée entre Sulfure et la Montagne du Haut-Chaos.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Crassus et sa 19e légion altérée représentent une menace éternelle pour la sécurité et la stabilité de la Nouvelle-Corse.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">On raconte qu'Imhotep le Sage, l'un des êtres humains vivants les plus âgés d'Aeternum, erre dans les déserts en quête de savoir.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Aux bassins de soufre de Sulfure, la prudence est de mise. Même si vous survivez aux lézards géants, les eaux bouillonnantes, elles, ne vous épargneront pas...</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">À Sulfure, le sable ne manque pas. Il peut être fondu pour fabriquer des objets de verre.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">Une petite soif ? Vous pouvez couper un cactus pour récupérer un peu d'eau.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Personne ne sait comment les tamanoirs sont arrivés à Sulfure, mais ils ont l'air de s'y plaire.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Un grand arbre a miraculeusement poussé au beau milieu de Sulfure. Il paraît même que ses branches les plus hautes fleurissent toujours.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Il paraît qu'une dangereuse manticore rôde dans les dunes de Sulfure. Prenez garde...</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">La légende raconte qu'un Ancien sommeille quelque part à Sulfure.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Les gigantesques scorpions qui peuplent le désert possèdent bien plus que de simples pinces.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Les glyphes anciens permettent de déverrouiller des coffres, d'explorer des ruines scellées, et bien plus. Combien en trouverez-vous ?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Avis aux pilleurs de tombes : les morts tourmentés protègent parfois leurs trésors...</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Vous pouvez extraire des ressources sur certaines des créatures anubiennes qui peuplent Sulfure.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">Politique, intrigues, paranoïa... Derrière la façade dorée de la Nouvelle-Corse se cache un véritable nid de vipères.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">Malgré leur altération, les légionnaires de Sulfure n'ont rien perdu de leur discipline légendaire et de leurs compétences de combat.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marc Antoine a eu beau fonder la 19e légion « maritime », celle-ci n'a pas pu le sauver lors de la bataille d'Actium.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">Les Romains ont amené la reine Cléopâtre mourante à Sulfure pour lui sauver la vie.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">Les Protecteurs des âmes se font rares à Sulfure. Mais avec l'éveil des Anciens et la propagation de l'altération, cela pourrait bientôt changer.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Des légendes racontent que de mystérieux esprits capables de changer de forme, les Éfrits, hantent les étendues désertiques... Certains d'entre eux seraient même ouverts au marchandage...</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Si vous entendez une voix familière dans les ténèbres du désert, n'allez pas vers elle.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Des abominations sans nom, produits d'une magie des Anciens, sont apparues à Sulfure.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">Au cours du millénaire, Sulfure a vu deux grandes civilisations façonner son territoire : les Égyptiens et les Romains.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Les Anciens anubiens sont bien plus robustes que les squelettes poussiéreux qui gardent les autres ruines. Approchez-les avec prudence.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">Les portes de pierre circulaires disséminées dans tout Sulfure sont aussi magiques que magnifiques.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">De vastes courants d'Azoth traversent la grande pyramide d'Akhet. Espérons que tout ce pouvoir ne sera jamais utilisé à de sombres desseins...</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Sulfure</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">La Terre enragée de Sulfure ne craint pas le feu ; elle se sert même souvent de soufre brûlant pour éradiquer ses ennemis.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">La grande Faille</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Route du goulot</string>

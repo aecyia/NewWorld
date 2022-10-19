@@ -11,6 +11,7 @@
 	<string key="DyePlantBrown_DisplayName">Prismafiore marrone</string>
 	<string key="DyePlantBlack_DisplayName">Prismafiore nero</string>
 	<string key="DyePlantMagenta_DisplayName">Prismafiore magenta</string>
+	<string key="DyePlantDesertRose_DisplayName" rel_version="Territory_Brimstone_Sands">Prismafiore rosa del deserto</string>
 	<string key="DeadTree_DisplayName">Albero morto</string>
 	<string key="BlueberryBushSmall_DisplayName">Cespuglio di mirtilli</string>
 	<string key="BlueberryBushMedium_DisplayName">Cespuglio di mirtilli</string>
@@ -92,7 +93,9 @@
 	<string key="OreVeinMedium_DisplayName">Filone di ferro</string>
 	<string key="OreVeinLarge_DisplayName">Filone di ferro</string>
 	<string key="TurkeyNest_DisplayName">Nido di tacchino</string>
+	<string key="TurkeyVultureNest_DisplayName" rel_version="Territory_Brimstone_Sands">Trespolo di avvoltoio</string>
 	<string key="Turkey_DisplayName">Tacchino</string>
+	<string key="TurkeyVulture_DisplayName" rel_version="Territory_Brimstone_Sands">Avvoltoio</string>
 	<string key="TurkeyDomestic_DisplayName">Tacchino domestico</string>
 	<string key="PigDomestic_DisplayName">Maiale domestico</string>
 	<string key="Elk_DisplayName">Alce maschio</string>
@@ -102,6 +105,7 @@
 	<string key="BearBlack_DisplayName">Orso nero</string>
 	<string key="BearElemental_DisplayName">Elementale della montagna</string>
 	<string key="Yeti_DisplayName">Yeti</string>
+	<string key="Fox_DisplayName">Volpe</string>
 	<string key="Wolf_DisplayName">Lupo della foresta</string>
 	<string key="Ghost_Hungry_DisplayName">Fantasma</string>
 	<string key="Risen_DisplayName">Avvizzito</string>
@@ -146,6 +150,7 @@
 	<string key="FarmTurkey_DisplayName">Pulcino di tacchino</string>
 	<string key="Piglet_DisplayName">Maialino</string>
 	<string key="TurkeyEgg_DisplayName">Uovo di tacchino</string>
+	<string key="TurkeyVultureEgg_DisplayName" rel_version="Territory_Brimstone_Sands">Uovo di avvoltoio</string>
 	<string key="FarmPig_DisplayName">Maialino</string>
 	<string key="FarmWheat_DisplayName">Grano coltivato</string>
 	<string key="FarmHemp_DisplayName">Canapa coltivata</string>
@@ -245,6 +250,15 @@
 	<string key="OrichalcumLarge_DisplayName">Filone di oricalco</string>
 	<string key="OrichalcumDestroy_DisplayName">Strano filone di oricalco</string>
 	<string key="DarknessOrichalcumSpire_DisplayName">Pinnacolo di oricalco corrotto</string>
+	<string key="GypsumOreLarge_DisplayName" rel_version="Territory_Brimstone_Sands">Filone di gesso</string>
+	<string key="GypsumOreMedium_DisplayName" rel_version="Territory_Brimstone_Sands">Filone di gesso</string>
+	<string key="GypsumOreSmall_DisplayName" rel_version="Territory_Brimstone_Sands">Filone di gesso</string>
+	<string key="SandstoneLarge_DisplayName" rel_version="Territory_Brimstone_Sands">Arenaria</string>
+	<string key="SandstoneMedium_DisplayName" rel_version="Territory_Brimstone_Sands">Arenaria</string>
+	<string key="SandstoneSmall_DisplayName" rel_version="Territory_Brimstone_Sands">Arenaria</string>
+	<string key="BrimstoneLarge_DisplayName" rel_version="Territory_Brimstone_Sands">Zolfo</string>
+	<string key="BrimstoneMedium_DisplayName" rel_version="Territory_Brimstone_Sands">Zolfo</string>
+	<string key="BrimstoneSmall_DisplayName" rel_version="Territory_Brimstone_Sands">Zolfo</string>
 	<string key="HoneySmall_DisplayName">Albero di miele</string>
 	<string key="HoneyMedium_DisplayName">Albero di miele</string>
 	<string key="HoneyLarge_DisplayName">Albero di miele grande</string>
@@ -323,6 +337,7 @@
 	<string key="AlchemistBasket_DisplayName">Cesto del bottino</string>
 	<string key="Box_DisplayName">Scatola del bottino</string>
 	<string key="LootContainer_WeaponsChestBeach_DisplayName">Forziere di armi</string>
+	<string key="LootContainer_ArmorChestBeach_DisplayName">Forziere di armature</string>
 	<string key="LootContainer_DisplayName">Contenitore</string>
 	<string key="LootContainer_DisplayName_Small">Contenitore</string>
 	<string key="LootContainer_DisplayName_Medium">Contenitore</string>
@@ -361,7 +376,9 @@
 	<string key="LootContainer_Settlement_Sandpaper_DisplayName">Prendi la carta vetrata</string>
 	<string key="LootContainer_Settlement_Water_DisplayName">Tira l'acqua</string>
 	<string key="LootContainer_OpenStoneTomb_DisplayName">Apri il sarcofago</string>
-	<string key="LootContainer_StoneTomb_DisplayName">Ruba le offerte sepolcrali</string>
+	<string key="LootContainer_StoneTomb_DisplayName">Prendi offerte sepolcrali</string>
+	<string key="LootContainer_AnubianStoneTomb_DisplayName">Prendi offerte antiche</string>
+	<string key="LootContainer_WeaponPile_DisplayName">Cumulo di armi</string>
 	<string key="Item_PotionHealT1_DisplayName">Tintura curativa distillata</string>
 	<string key="Item_ClothT2_DisplayName">Stracci</string>
 	<string key="Darkness_Monolith_DisplayName">Monolite corrotto</string>
@@ -465,9 +482,9 @@
 	<string key="0520_StygianChannelSegment_DisplayName">Prendi il segmento del canale stigio</string>
 	<string key="0521_WyrdwoodSeedPod_DisplayName">Raccogli il baccello di legno di Wyrd</string>
 	<string key="0601_DirtHole_DisplayName">Raccogli il campione</string>
-	<string key="0602_SpiceSackGreen_DisplayName">Raccogli il sacco di cardamomo</string>
-	<string key="0602_SpiceSackRed_DisplayName">Raccogli il sacco di pepe</string>
-	<string key="0602_SpiceSackYellow_DisplayName">Raccogli il sacco di zafferano</string>
+	<string key="0602_SpiceSackGreen_DisplayName">Sacco di cardamomo</string>
+	<string key="0602_SpiceSackRed_DisplayName">Sacco di pepe</string>
+	<string key="0602_SpiceSackYellow_DisplayName">Sacco di zafferano</string>
 	<string key="0603_PrototypeAzothBomb_DisplayName">Piazza esplosivo</string>
 	<string key="0604_AncientArtifactA_DisplayName">Manufatto antico</string>
 	<string key="0605_AncientArtifactB_DisplayName">Manufatto antico</string>
@@ -536,13 +553,14 @@
 	<string key="9926_0103_ActivityReport_DisplayName" rel_version="AI_Evil_Knights_P2">Recupera il rapporto sull'attività</string>
 	<string key="9932_0104_RomacNotebook_DisplayName" rel_version="AI_Evil_Knights_P2">Recupera il diario di Romac</string>
 	<string key="MSQ_ShipsLocker_DisplayName">Forziere della nave</string>
-	<string key="MSQ_Flag_DisplayName">Raccogli la bandiera della nave</string>
+	<string key="MSQ_Flag_DisplayName">Bandiera della nave</string>
 	<string key="MSQ_SalvagePile_A_DisplayName">Cumulo di oggetti di recupero</string>
 	<string key="MSQ_SalvagePile_B_DisplayName">Cumulo di oggetti di recupero</string>
 	<string key="MSQ_SalvagePile_C_DisplayName">Cumulo di oggetti di recupero</string>
 	<string key="AzothWater_Displayname">Sorgente di Azoth</string>
 	<string key="AzothSeal_DisplayName">Sigillo antico di Azoth</string>
 	<string key="HeartforgeEncounterBattery_DisplayName">Accendi il fuoco della Fucina dei cuori</string>
+	<string key="Anubian_Horus_Power_Source_DisplayName">Disattiva l'obelisco dell'Enneade</string>
 	<string key="PressurePlate_Ancient_DisplayName">Glifo antico di Azoth</string>
 	<string key="AncientArtifactLocked">Manufatto antico</string>
 	<string key="MSQ_OldStoneRemembers_Interact">Iscrizioni in lingua antica</string>
@@ -576,6 +594,11 @@
 	<string key="MSQ_0050_Fungus2_DisplayName">Gloriaflos reale</string>
 	<string key="MSQ_0050_Fungus3_DisplayName">Mistitazza rugiadosa</string>
 	<string key="MSQ_0050_Fungus4_DisplayName">Nevelucente elusiva</string>
+	<string key="MSQ_0053_SpecialEarthspine" rel_version="Quest_MSQ2_Revamp">Spina di terra coltivata</string>
+	<string key="MSQ_0053_SpecialDragonglory" rel_version="Quest_MSQ2_Revamp">Dragloria impregnata</string>
+	<string key="MSQ_0053_SpecialFungalSpores" rel_version="Quest_MSQ2_Revamp">Fungo incantato</string>
+	<string key="MSQ_0053_SpecialAirStone" rel_version="Quest_MSQ2_Revamp">Terriccio fertile</string>
+	<string key="MSQ_0053_SpecialAzothWater" rel_version="Quest_MSQ2_Revamp">Acqua del boschetto</string>
 	<string key="MSQ_0090_FindYrsa1_DisplayName">Segni di una lotta</string>
 	<string key="MSQ_0090_FindYrsa2_DisplayName">Scia insanguinata</string>
 	<string key="MSQ_0054_Motherwell_DisplayName">Logora il Pozzo materno</string>
@@ -620,10 +643,14 @@
 	<string key="dungeon_restlessshores_interact_sprigganshrine">Santuario antico</string>
 	<string key="dungeon_restlessshores_interact_corruptshrine">Santuario corrotto</string>
 	<string key="DungeonEbonscale_Interact_PowderKeg">Posiziona barile di polvere da sparo</string>
+	<string key="DungeonBrimstone_ProximityGlyph" rel_version="Expedition_BrimstoneSands_00">Attiva il glifo</string>
+	<string key="Dungeon_AncientConsole" rel_version="Expedition_BrimstoneSands_00">Attiva il quadro di comandi degli Antichi</string>
+	<string key="Dungeon_AncientConsole_Locked" rel_version="Expedition_BrimstoneSands_00">Attiva tutti e sei i glifi</string>
 	<string key="1650_0101_Idol_DisplayName">Ispeziona l'idolo crollato</string>
-	<string key="1602_0101_Note_DisplayName">Recupera gli appunti archeologici</string>
+	<string key="1602_0101_Note_DisplayName">Prendi il rapporto della Legione</string>
 	<string key="1602_0101_Tablet_DisplayName">Recupera la Tavoletta degli Antichi</string>
 	<string key="1602_0401_StatuePanacea_DisplayName">Applica panacea</string>
+	<string key="1605_0901_EnneadPrimeLock_DisplayName">Inserisci la chiave primaria</string>
 	<string key="LootContainer_Dungeon_Small_DisplayName">Nascondiglio della Spedizione</string>
 	<string key="LootContainer_Dungeon_Medium_DisplayName">Scrigno della Spedizione</string>
 	<string key="LootContainer_Dungeon_Large_DisplayName">Forziere della Spedizione</string>
@@ -693,6 +720,43 @@
 	<string key="DungeonCutlassKeys00_ChestFuse_DisplayName" rel_version="Expedition_CutlassKeys_00">Cassetta degli attrezzi</string>
 	<string key="DungeonCutlassKeys00_WaterStatue_DisplayName" rel_version="Expedition_CutlassKeys_00">Offerta della Nereide</string>
 	<string key="DungeonCutlassKeys00_Spring_DisplayName" rel_version="Expedition_CutlassKeys_00">Offri</string>
+	<string key="Cactus_Tree_Tiny_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus giovane</string>
+	<string key="Cactus_Tree_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus giovane</string>
+	<string key="Cactus_Tree_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus giovane</string>
+	<string key="Cactus_Tree_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus adulto</string>
+	<string key="Cactus_Tree_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus adulto</string>
+	<string key="Cactus_Bush_Tiny_DisplayName" rel_version="Territory_Brimstone_Sands">Pianta grassa giovane</string>
+	<string key="Cactus_Bush_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Pianta grassa giovane</string>
+	<string key="Cactus_Bush_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Pianta grassa giovane</string>
+	<string key="Cactus_Bush_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Pianta grassa adulta</string>
+	<string key="Cactus_Bush_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Pianta grassa adulta</string>
+	<string key="Cactus_Bush_PricklyPear_Tiny_DisplayName" rel_version="Territory_Brimstone_Sands">Fico d'india giovane</string>
+	<string key="Cactus_Bush_PricklyPear_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Fico d'india giovane</string>
+	<string key="Cactus_Bush_PricklyPear_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Fico d'india giovane</string>
+	<string key="Cactus_Bush_PricklyPear_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Fico d'india adulto</string>
+	<string key="Cactus_Bush_PricklyPear_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Fico d'india adulto</string>
+	<string key="Scorpion_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpione</string>
+	<string key="Scorpion_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpione</string>
+	<string key="Scorpion_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Scorpioncino</string>
+	<string key="Scorpion_Sulfur_DisplayName" rel_version="Territory_Brimstone_Sands">Capo sulfureo</string>
+	<string key="SandElementalShaman_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Nucleo di Psamathe</string>
+	<string key="Scarab_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Automa di scarabeo</string>
+	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Automa di Anubi</string>
+	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Automa di sfinge</string>
+	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Offerte sepolcrali élite</string>
+	<string key="Nightveil_Settlement_Stage_Master_DisplayName" rel_version="Event_Halloween_Temp">Palco principale della fiera</string>
+	<string key="Nightveil_Settlement_Stage_T1_DisplayName" rel_version="Event_Halloween_Temp">Vortice lugubre</string>
+	<string key="Nightveil_Settlement_Stage_T2_DisplayName" rel_version="Event_Halloween_Temp">Vortice grandioso</string>
+	<string key="Nightveil_Settlement_Stage_T3_DisplayName" rel_version="Event_Halloween_Temp">Vortice opulento</string>
+	<string key="Nightveil_Settlement_Stage_Description" rel_version="Event_Halloween_Temp">Completa i progetti cittadini della fiera per aumentare la gloria e le ricompense ottenibili grazie al palco!</string>
+	<string key="Nightveil_Village_BobbingStation_DisplayName" rel_version="Event_Halloween_Temp">Pesca i premi</string>
+	<string key="Nightveil_Village_BobbingStation_Description" rel_version="Event_Halloween_Temp">Immergi la testa e pesca un premio spettrale!</string>
+	<string key="Nightveil_ThrowablePumpklin_DisplayName" rel_version="Event_Halloween_Temp">Testa di zucca</string>
+	<string key="Nightveil_SuspiciousPumpkin_DisplayName" rel_version="Event_Halloween_Temp">Zucca sospetta</string>
+	<string key="Nightveil_InvocationSigil_DisplayName" rel_version="Event_Halloween_Temp">Posiziona il sigillo di invocazione</string>
+	<string key="Nightviel_Baalphazu_Nethermaw_DisplayName" rel_version="Event_Halloween_Temp">Invoca Baalphazu</string>
+	<string key="Nightveil_Settlement_Cauldron_DisplayName" rel_version="Event_Halloween_Temp">Calderone del velo notturno</string>
+	<string key="Nightveil_Settlement_Cauldron_Description" rel_version="Event_Halloween_Temp">La stagione del Velo notturno consacrato è arrivata su Aeternum a seminare il terrore! Visita Salvatore e aiutalo ad affrontare le forze dell'oscurità per una ricompensa eccezionale!</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">Forziere dell'accampamento di guerra</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Concentrazione arcana</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Concentrazione arcana</string>
@@ -700,7 +764,7 @@
 	<string key="1130_ArcaneFocus4_DisplayName">Concentrazione arcana</string>
 	<string key="0726_BookOfIsabella_DisplayName">Libro di Isabella</string>
 	<string key="1130_CursedAxe_DisplayName">Inizia il rituale</string>
-	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Esamina la tomba del membro dell'equipaggio</string>
+	<string key="0726_Gravestone_interact" rel_version="DEPRECATED_January_2022">Inspect Crewman's Grave</string>
 	<string key="EvilKnights_Camp_StoneDoor" rel_version="AI_Evil_Knights_P2">Attiva la porta</string>
 	<string key="Dynasty_Gong_DisplayName">Gong della dinastia</string>
 	<string key="ExploreVista_EastCleave01" rel_version="Feature_RewardingExploration">Cavalletto dimenticato da tempo</string>
@@ -731,20 +795,203 @@
 	<string key="ExploreVista_WestEverfall01" rel_version="Feature_RewardingExploration">Cavalletto dimenticato da tempo</string>
 	<string key="ExploreVista_WestMourningdale01" rel_version="Feature_RewardingExploration">Cavalletto dimenticato da tempo</string>
 	<string key="ExploreVista_WestCutlass01" rel_version="Feature_RewardingExploration">Cavalletto dimenticato da tempo</string>
+	<string key="ExploreVista_EastBrimstone01" rel_version="Territory_Brimstone_Sands">Cavalletto dimenticato da tempo</string>
+	<string key="ExploreVista_EastBrimstone02" rel_version="Territory_Brimstone_Sands">Cavalletto dimenticato da tempo</string>
 	<string key="LuckShrine_MothersLove">Amore materno</string>
 	<string key="GoldPile00_DisplayName" rel_version="Feature_Unbound_Island">Nascondiglio di provviste</string>
 	<string key="0601_0101_weapon_01_hatchet_DisplayName">Scegli l'accetta segnata dalle battaglie</string>
 	<string key="0601_0101_weapon_02_warhammer_DisplayName">Scegli il martello da guerra segnato dalle battaglie</string>
 	<string key="0601_0101_weapon_03_bow_DisplayName">Scegli l'arco segnato dalle battaglie</string>
 	<string key="0601_0101_weapon_04_firestaff_DisplayName">Scegli il bastone infuocato segnato dalle battaglie</string>
-	<string key="98_Covenant_02_Captive_DisplayName">Libera il prigioniero</string>
-	<string key="98_Covenant_03_Pyre_DisplayName">Brucia il manufatto</string>
+	<string key="16BS_AncientGlyph_Backup_DisplayName" rel_version="Territory_Brimstone_Sands">Studia l'antico glifo</string>
+	<string key="16BS_AncientGlyphLock_Strange_DisplayName" rel_version="Territory_Brimstone_Sands">Glifo non identificato</string>
+	<string key="16BS_AncientGlyphLock_Strange_Description" rel_version="Territory_Brimstone_Sands">Non lontano c'è un glifo degli Antichi. Usa il tuo bastone di Azoth per scoprirne i poteri.</string>
+	<string key="16BS_AncientGlyphLock_DisplayName" rel_version="Territory_Brimstone_Sands">Traduci l'antico glifo</string>
+	<string key="16BS_AncientGlyphInscription_DisplayName" rel_version="Territory_Brimstone_Sands">Traduci l'iscrizione</string>
+	<string key="16BS_AncientGlyphLock_Sutekh_DisplayName" rel_version="Territory_Brimstone_Sands">Tomba di Sutekh</string>
+	<string key="16BS_AncientTowerDoor_DisplayName" rel_version="Territory_Brimstone_Sands">Porta del Tempio antico</string>
+	<string key="16BS_AncientGlyphWall_Exit_DisplayName" rel_version="Territory_Brimstone_Sands">Porta dell'antico glifo</string>
+	<string key="16BS_AncientGlyphLearn_DisplayName" rel_version="Territory_Brimstone_Sands">Sblocca l'antico glifo</string>
+	<string key="16BS_AncientTeleporter_DisplayName" rel_version="Territory_Brimstone_Sands">Scegli questo glifo</string>
+	<string key="16BS_AncientTeleporter_MapPillar_DisplayName" rel_version="Territory_Brimstone_Sands">Attiva l'obelisco</string>
+	<string key="16BS_AncientTeleporter_Entrance_DisplayName" rel_version="Territory_Brimstone_Sands">Attiva la piattaforma</string>
+	<string key="16BS_AncientTeleporter_ShortRange_DisplayName" rel_version="Territory_Brimstone_Sands">Traduci l'antico glifo</string>
+	<string key="16BS_AncientTeleporter_ToHermopolis_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per Ermopoli</string>
+	<string key="16BS_AncientTeleporter_HermopolisLeft_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per i Letti di Ta-Bitjet</string>
+	<string key="16BS_AncientTeleporter_HermopolisRight_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per la Fucina di Ptah</string>
+	<string key="16BS_AncientTeleporter_HermopolisCenter_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per la Lampada di Osiride</string>
+	<string key="16BS05_AncientTeleporter_Up_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per il Palazzo di Nekhbet</string>
+	<string key="16BS11_AncientTeleporter_Down_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per il Grande santuario di Thot</string>
+	<string key="16BS05_AncientTeleporter_WestWall_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per le Grandi mura di Nebet-Het</string>
+	<string key="16BS05_AncientTeleporter_EastWall_DisplayName" rel_version="Territory_Brimstone_Sands">Portale per le Grandi mura di Nebet-Het</string>
+	<string key="16BS_HeartgemUpgrade_DisplayName" rel_version="Territory_Brimstone_Sands">Recupera la gemma a cuore potenziata</string>
+	<string key="16BS_Prepare_HeartgemUpgrade_DisplayName" rel_version="Territory_Brimstone_Sands">Posiziona la gemma a cuore</string>
+	<string key="1679_0101_FrostcliffBerry_DisplayName" rel_version="Territory_Brimstone_Sands">Raccogli bacche alla Scogliera gelida</string>
+	<string key="1666_0101_CharmionScroll_DisplayName" rel_version="Territory_Brimstone_Sands">Leggi l'Eredità di Roma</string>
+	<string key="1625_0101_LegionGear_DisplayName" rel_version="Territory_Brimstone_Sands">Esamina l'equipaggiamento</string>
+	<string key="1625_0102_LegionSabotage_DisplayName" rel_version="Territory_Brimstone_Sands">Brucia le provviste</string>
+	<string key="1625_0201_ImhotepCageNodule_DisplayName" rel_version="Territory_Brimstone_Sands">Distruggi il nodulo</string>
+	<string key="1625_0202_ImhotepScroll_DisplayName" rel_version="Territory_Brimstone_Sands">Leggi l'Eredità degli Antichi</string>
+	<string key="1624_0301_AEAncientCharger_DisplayName" rel_version="Territory_Brimstone_Sands">Distruggi la fonte di energia</string>
+	<string key="1624_0301_AESeedFocus_DisplayName" rel_version="Territory_Brimstone_Sands">Rimuovi la focalizzazione</string>
+	<string key="1624_0302_GildedOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Prendi il vaso canopo</string>
+	<string key="1624_0302_GoldenSpearhead_DisplayName" rel_version="Territory_Brimstone_Sands">Prendi il vaso canopo</string>
+	<string key="1624_0302_BrokenVessel_DisplayName" rel_version="Territory_Brimstone_Sands">Apri il forziere</string>
+	<string key="1624_0302_RitualOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Posiziona il vaso canopo</string>
+	<string key="1624_0302_RitualSpearhead_DisplayName" rel_version="Territory_Brimstone_Sands">Posiziona il vaso canopo</string>
+	<string key="1624_0302_RitualVotiveAltar_DisplayName" rel_version="Territory_Brimstone_Sands">Posiziona il sigillo antico</string>
+	<string key="1624_0303_AncientSelector_DisplayName" rel_version="Territory_Brimstone_Sands">Seleziona l'antico glifo</string>
+	<string key="1624_0303_AncientActuator_DisplayName" rel_version="Territory_Brimstone_Sands">Aziona l'attivatore</string>
+	<string key="1624_0303_AncientScrolls_DisplayName" rel_version="Territory_Brimstone_Sands">Prendi le antiche pergamene</string>
+	<string key="1624_0303_HandInJar_DisplayName" rel_version="Territory_Brimstone_Sands">Prendi lo strano vaso</string>
+	<string key="1624_0401_DiskAtumStart_DisplayName" rel_version="Territory_Brimstone_Sands">Prosciuga la barriera</string>
+	<string key="1624_0401_DiskAtumDamage_DisplayName" rel_version="Territory_Brimstone_Sands">Distruggi il nucleo</string>
+	<string key="1624_0401_DiskAtumCollect_DisplayName" rel_version="Territory_Brimstone_Sands">Recupera il frammento</string>
+	<string key="1625_0601_AzothProjector_DisplayName" rel_version="Territory_Brimstone_Sands">Attiva il proiettore di Azoth</string>
+	<string key="1625_0601_AzothReflector_DisplayName" rel_version="Territory_Brimstone_Sands">Ruota il riflettore</string>
+	<string key="1625_0701_QuintTrail_DisplayName" rel_version="Territory_Brimstone_Sands">Rintraccia la quintessenza</string>
+	<string key="1625_0701_AncientCodePillar_DisplayName" rel_version="Territory_Brimstone_Sands">Attiva l'obelisco</string>
+	<string key="1624_0901_BuriedTrunk_DisplayName" rel_version="Territory_Brimstone_Sands">Scopri il baule</string>
+	<string key="1625_0903_AmbientGroup_DisplayName" rel_version="Territory_Brimstone_Sands">Parla con i cittadini</string>
+	<string key="1624_1001_VineWall_DisplayName" rel_version="Territory_Brimstone_Sands">Distruggi i rampicanti</string>
+	<string key="1624_1001_ArtemisCrystal_DisplayName" rel_version="Territory_Brimstone_Sands">Tocca il cristallo</string>
+	<string key="NPCRescue_Generic_NPC_DisplayName" rel_version="Quest_MSQ2_Revamp">Apri le catene</string>
+	<string key="MSQ_ShipWheel_DisplayName" rel_version="Quest_MSQ2_Revamp">Timone della nave</string>
+	<string key="MSQ_Grace_Trapped_DisplayName" rel_version="Quest_MSQ2_Revamp">Gabbia della Corruzione</string>
+	<string key="MSQ_ShipManifest_DisplayName" rel_version="Quest_MSQ2_Revamp">Registro nautico</string>
+	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Abbatti l'emblema della città</string>
+	<string key="98_Covenant_02_Captive_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera il prigioniero</string>
+	<string key="98_Covenant_02_Grimoire_DisplayName" rel_version="Quest_MSQ2_Revamp">Prendi il grimorio</string>
+	<string key="98_Covenant_03_Ritual_DisplayName" rel_version="Quest_MSQ2_Revamp">Completa il rituale.</string>
+	<string key="98_Covenant_03_Pyre_DisplayName" rel_version="Quest_MSQ2_Revamp">Brucia il manufatto</string>
+	<string key="98_Marauders_02_PirateBanner_DisplayName" rel_version="Quest_MSQ2_Revamp">Brucia lo stendardo dei pirati</string>
+	<string key="98_Marauders_02_ExplosiveBarrel_DisplayName" rel_version="Quest_MSQ2_Revamp">Impossessati del barile esplosivo</string>
+	<string key="98_Marauders_02_PirateHoard_DisplayName" rel_version="Quest_MSQ2_Revamp">Saccheggia il bottino dei pirati</string>
+	<string key="98_Marauders_03_ExplosivePlacementA_DisplayName" rel_version="Quest_MSQ2_Revamp">Piazza il barile esplosivo</string>
+	<string key="98_Marauders_03_ExplosivePlacementB_DisplayName" rel_version="Quest_MSQ2_Revamp">Piazza il barile esplosivo</string>
+	<string key="98_Marauders_03_CaptiveA_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera la recluta dei Predoni</string>
+	<string key="98_Marauders_03_CaptiveB_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera la guardia dei Predoni</string>
+	<string key="98_Marauders_03_CaptiveC_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera il baluardo dei Predoni</string>
+	<string key="98_Syndicate_01_WolfLure_DisplayName" rel_version="Quest_MSQ2_Revamp">Posiziona l'esca per lupi</string>
+	<string key="98_Syndicate_02_AzothTreeWater_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli l'acqua dell'albero di Azoth</string>
+	<string key="98_Syndicate_03_WaterBarrel_DisplayName" rel_version="Quest_MSQ2_Revamp">Rompi il barile d'acqua</string>
+	<string key="98_Syndicate_03_Well_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Versa la dose nel pozzo</string>
+	<string key="98_Syndicate_03_Well_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Versa la dose nel pozzo</string>
+	<string key="MSQ_Treasure_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Astrolabio</string>
+	<string key="MSQ_Treasure_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Candelabro</string>
+	<string key="MSQ_Treasure_C_DisplayName" rel_version="Quest_MSQ2_Revamp">Calice</string>
+	<string key="Gimmick_FallingRubble_DisplayName" rel_version="Quest_MSQ2_Revamp">Trappola di pietre</string>
+	<string key="BoatEncounter_Cannon_01" rel_version="Quest_MSQ2_Revamp">Fai fuoco col cannone</string>
+	<string key="Holdout_Interact_DisplayName" rel_version="Quest_MSQ2_Revamp">Inizia la prova</string>
+	<string key="Brazier_Interact_DisplayName" rel_version="Quest_MSQ2_Revamp">Accendi il braciere</string>
+	<string key="InteractObject_Interact_Corsairs_Quest" rel_version="Quest_MSQ2_Revamp">Provviste del pirata</string>
+	<string key="MSQ_HeadStatue_DisplayName" rel_version="Quest_MSQ2_Revamp">Esamina</string>
+	<string key="99A_MSQ_01_02_Armor_DisplayName" rel_version="Quest_MSQ2_Revamp">Pezzi di armatura abbandonati</string>
+	<string key="99a_MSQ_05_PopClot_DisplayName" rel_version="Quest_MSQ2_Revamp">Corruzione nascente</string>
+	<string key="99A_MSQ_06_TinctureGatherable_01_DisplayName" rel_version="Quest_MSQ2_Revamp">Sorgente di Azoth fumante</string>
+	<string key="99A_MSQ_06_TinctureGatherable_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Petalcappello verdeggiante</string>
+	<string key="99A_MSQ_06_TinctureGatherable_03_DisplayName" rel_version="Quest_MSQ2_Revamp">Crescione di fiume rigonfio</string>
+	<string key="99A_MSQ_06_TinctureCraftSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Mortaio e pestello</string>
+	<string key="99A_MSQ_09_Teleporter_DisplayName" rel_version="Quest_MSQ2_Revamp">Teletrasporto</string>
+	<string key="99A_MSQ_09_LastCache_DisplayName" rel_version="Quest_MSQ2_Revamp">Antico tesoro dei Custodi di anime</string>
+	<string key="99A_MSQ_10_SilverDeposit_DisplayName" rel_version="Quest_MSQ2_Revamp">Bagliore argenteo</string>
+	<string key="99A_MSQ_10_EzraAnvil_DisplayName" rel_version="Quest_MSQ2_Revamp">Antica fucina</string>
+	<string key="99A_MSQ_13_SmallCorruption_DisplayName" rel_version="Quest_MSQ2_Revamp">Escrescenza corrotta</string>
+	<string key="99A_MSQ_13_LargeCorruption_DisplayName" rel_version="Quest_MSQ2_Revamp">Corruzione colossale</string>
+	<string key="99A_MSQ_14b_YetiCave_DisplayName" rel_version="Quest_MSQ2_Revamp">Involucro di ghiaccio</string>
+	<string key="99A_MSQ_14b_HeartgemCraftSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Fonte di Azoth</string>
+	<string key="MB_MSQ2_Banner_Gawain_DisplayName" rel_version="Quest_MSQ2_Revamp">Vessillo di Gawain</string>
+	<string key="MB_MSQ2_Robes_Chest_DisplayName" rel_version="Quest_MSQ2_Revamp">Forziere di vesti</string>
+	<string key="MB_MSQ2_Mining_Supplies_DisplayName" rel_version="Quest_MSQ2_Revamp">Provviste minerarie</string>
+	<string key="MB_MSQ2_Crate_Interact_DisplayName" rel_version="Quest_MSQ2_Revamp">Brucia le provviste</string>
+	<string key="MB_MSQ2_Anchor_DisplayName" rel_version="Quest_MSQ2_Revamp">Distruggi l'ancora</string>
+	<string key="MB_MSQ2_Wine_DisplayName" rel_version="Quest_MSQ2_Revamp">Giara di vino</string>
+	<string key="MB_MSQ2_DefeatNavigator_Altar_DisplayName" rel_version="Quest_MSQ2_Revamp">Altare minaccioso</string>
+	<string key="MB_MSQ2_DefeatNavigator_Rubble_DisplayName" rel_version="Quest_MSQ2_Revamp">Cerca tra le macerie</string>
+	<string key="MB_MSQ2_ArtifactShards_Box_DisplayName" rel_version="Quest_MSQ2_Revamp">Vaso canopo</string>
+	<string key="MB_MSQ2_GatherJewels_stone_DisplayName" rel_version="Quest_MSQ2_Revamp">Pietra scintillante</string>
+	<string key="MB_MSQ2_Excavation_Examine_DisplayName" rel_version="Quest_MSQ2_Revamp">Esamina lo scavo</string>
+	<string key="MB_MSQ2_Excavation_Inspect_DisplayName" rel_version="Quest_MSQ2_Revamp">Ispeziona lo scavo</string>
+	<string key="MB_MSQ2_InspectStatue_Tablet_DisplayName" rel_version="Quest_MSQ2_Revamp">Studia le rune</string>
+	<string key="MB_MSQ2_RescueMiners_Miner01_DisplayName" rel_version="Quest_MSQ2_Revamp">Salva Shazaan Cortis</string>
+	<string key="MB_MSQ2_RescueMiners_Miner02_DisplayName" rel_version="Quest_MSQ2_Revamp">Salva Tomira Dudek</string>
+	<string key="MB_MSQ2_RescueMiners_Miner03_DisplayName" rel_version="Quest_MSQ2_Revamp">Salva Chandu Iyer</string>
+	<string key="MB_MSQ2_ForgeRing_Forge_DisplayName" rel_version="Quest_MSQ2_Revamp">Fucina piccola</string>
+	<string key="MB_MSQ2_CollectCrown_Pedestal_DisplayName" rel_version="Quest_MSQ2_Revamp">Ispeziona il piedistallo</string>
+	<string key="MB_MSQ2_CollectGlass_Glass_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli</string>
+	<string key="MB_MSQ2_DefeatGawain_Crown_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli</string>
+	<string key="MB_MSQ2_KnightsCrest_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli</string>
+	<string key="MB_MSQ2_DestroyShrine_Mast_DisplayName" rel_version="Quest_MSQ2_Revamp">Brucia la nave</string>
+	<string key="MB_MSQ2_DestroyShrine_Alter_DisplayName" rel_version="Quest_MSQ2_Revamp">Altare potenziato</string>
+	<string key="MB_MSQ2_BreakCurse_Device_DisplayName" rel_version="Quest_MSQ2_Revamp">Rompi il congegno</string>
+	<string key="MB_MSQ2_PlaceFlowers_Lily_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli</string>
+	<string key="MB_MSQ2_PlaceFlowers_Bouquet_DisplayName" rel_version="Quest_MSQ2_Revamp">Posiziona il bouquet</string>
+	<string key="MB_MSQ2_GatherGift_Keepsake_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli</string>
+	<string key="MB_MSQ2_SetFireToPirateSupplies_DisplayName" rel_version="Quest_MSQ2_Revamp">Brucia le provviste</string>
+	<string key="MB_MSQ2_DestroyRune_Tablet_DisplayName" rel_version="Quest_MSQ2_Revamp">Distruggi la strana tavoletta</string>
+	<string key="04A_Side03_02_0101_AncientScroll" rel_version="Quest_MSQ2_Revamp">Conoscenza perduta</string>
+	<string key="04A_Side01_01_Proximity_Trail_DisplayName" rel_version="Quest_MSQ2_Revamp">Tracce di lupo</string>
+	<string key="04A_Side01_01_AbandonedPack_DisplayName" rel_version="Quest_MSQ2_Revamp">Pacchetto lacero</string>
+	<string key="04A_Side02_01_AncientDevice_DisplayName" rel_version="Quest_MSQ2_Revamp">Congegno antico</string>
+	<string key="04A_Side02_01_AncientDevice_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Congegno antico</string>
+	<string key="04A_Side02_02_EncounterStart_01_DisplayName" rel_version="Quest_MSQ2_Revamp">Congegno antico</string>
+	<string key="04A_Side02_02_EncounterStart_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Congegno antico</string>
+	<string key="04A_Side02_03_Proximity_Investigate_01_DisplayName" rel_version="Quest_MSQ2_Revamp">Indaga</string>
+	<string key="04A_Side02_03_Proximity_Investigate_02_DisplayName" rel_version="Quest_MSQ2_Revamp">Indaga</string>
+	<string key="04A_Side02_03_Proximity_Investigate_03_DisplayName" rel_version="Quest_MSQ2_Revamp">Attiva Regolo</string>
+	<string key="04A_Side02_03_Proximity_Investigate_04_DisplayName" rel_version="Quest_MSQ2_Revamp">Attiva Leone</string>
+	<string key="04A_Side02_03_Proximity_Investigate_05_DisplayName" rel_version="Quest_MSQ2_Revamp">Attiva Ercole</string>
+	<string key="04A_Side02_05_ArmillarySphere_DisplayName" rel_version="Quest_MSQ2_Revamp">Sfera armillare</string>
+	<string key="04A_Side05_01_Mandolin_DisplayName" rel_version="Quest_MSQ2_Revamp">Mandolino</string>
+	<string key="04A_Side05_01_UBR_DisplayName" rel_version="Quest_MSQ2_Revamp">Contrabbasso</string>
+	<string key="04A_Side05_01_Guitar_DisplayName" rel_version="Quest_MSQ2_Revamp">Chitarra</string>
+	<string key="04A_Side05_01_PlayMandolin_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona il mandolino</string>
+	<string key="04A_Side05_01_PlayGuitar_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona la chitarra</string>
+	<string key="04A_Side05_01_PlayUBR_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona il contrabbasso</string>
+	<string key="04A_Side05_01_PlayFlute_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona il flauto</string>
+	<string key="04A_Side05_02_PlayForMagistrate_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona</string>
+	<string key="04A_Side05_02_PlayForCaptain_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona</string>
+	<string key="04A_Side05_02_PlayForConstable_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona</string>
+	<string key="04A_Side05_02_PlayForBarkeep_DisplayName" rel_version="Quest_MSQ2_Revamp">Suona</string>
+	<string key="04A_Side05_03_Laundry_DisplayName" rel_version="Quest_MSQ2_Revamp">Bucato maleodorante</string>
+	<string key="04A_Side05_03_Delivery_DisplayName" rel_version="Quest_MSQ2_Revamp">Pacchetto senza indicazioni</string>
+	<string key="04A_Side05_03_Delivery_DropSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Luogo della consegna</string>
+	<string key="04A_Side08_02_SecretIngredient_DisplayName" rel_version="Quest_MSQ2_Revamp">Ortensia impregnata</string>
+	<string key="04A_Side10_01_CopperSeam" rel_version="Quest_MSQ2_Revamp">Ricco filone di rame</string>
+	<string key="Gimmick_BreakingWallsCannon_DisplayName" rel_version="Quest_MSQ2_Revamp">Fai fuoco col cannone</string>
+	<string key="06A_MSQ_05_windmillTurn_DisplayName" rel_version="Quest_MSQ2_Revamp">Fai girare le pale del mulino</string>
+	<string key="06A_MSQ_05_grainSack_DisplayName" rel_version="Quest_MSQ2_Revamp">Sacchi pieni di cereali</string>
+	<string key="06A_MSQ_05_foodCart_DisplayName" rel_version="Quest_MSQ2_Revamp">Posiziona il cibo raccolto</string>
 	<string key="06A_MSQ_Lijsbet_Trapped_DisplayName">Salva Lijsbet</string>
 	<string key="06A_MSQ_Michael_Trapped_DisplayName">Salva Michael</string>
 	<string key="06A_MSQ_Nessa_Trapped_DisplayName">Salva Nessa</string>
 	<string key="06A_MSQ_Gideon_Trapped_DisplayName">Salva Gideon</string>
 	<string key="06A_MSQ_11_pirateCrates_DisplayName">Spacca la cassa</string>
+	<string key="06A_MSQ_12_marcelsHat_DisplayName" rel_version="Quest_MSQ2_Revamp">Cappello di Marcel</string>
+	<string key="06A_MSQ_13_verdantJewel_DisplayName" rel_version="Quest_MSQ2_Revamp">Posiziona la gemma verdeggiante</string>
 	<string key="06A_MSQ_14_map_DisplayName">Copia la mappa</string>
+	<string key="06A_MSQ_15_speakersChest_DisplayName" rel_version="Quest_MSQ2_Revamp">Gemma verdeggiante rubata</string>
+	<string key="06A_IR_02_WeaponsRack_DisplayName" rel_version="Quest_MSQ2_Revamp">Spada della Rosa di ferro</string>
 	<string key="Cyclic_06A_MSQ_puzzlestone_DisplayName">Ruota la pietra</string>
+	<string key="Gimmick_CaveIn_DisplayName" rel_version="Quest_MSQ2_Revamp">Barilotto di polvere da sparo</string>
+	<string key="Damned_Cultist_Chaplain_GlyphIO" rel_version="Quest_MSQ2_Revamp">Glifo misterioso di Azoth</string>
+	<string key="04A_Side04_01_Flowers" rel_version="Quest_MSQ2_Revamp">Bocciolo resiliente</string>
+	<string key="04A_Side07_01_PortBottle" rel_version="Quest_MSQ2_Revamp">Bottiglia di sake</string>
+	<string key="04A_Side07_02_DustyBottle" rel_version="Quest_MSQ2_Revamp">Bottiglia polverosa</string>
+	<string key="04A_Side09_01_AlchemyBottle" rel_version="Quest_MSQ2_Revamp">Bottiglia dell'alchimia dimenticata</string>
+	<string key="04A_Side04_02_Proximity_InvestigationSpot01" rel_version="Quest_MSQ2_Revamp">Esplora la zona</string>
+	<string key="04A_Side04_02_Proximity_InvestigationSpot02" rel_version="Quest_MSQ2_Revamp">Esplora la zona</string>
+	<string key="04A_Side04_02_Proximity_InvestigationSpot03" rel_version="Quest_MSQ2_Revamp">Esplora la zona</string>
+	<string key="04A_Side04_03_EarthPatch" rel_version="Quest_MSQ2_Revamp">Avvelena la terra</string>
+	<string key="MSQ_Thorpes_Box_DisplayName" rel_version="Quest_MSQ2_Revamp">Cassa misteriosa</string>
+	<string key="06A_Z_02_Wyrdwood_DisplayName" rel_version="Quest_MSQ2_Revamp">Raccogli il rametto di legno di Wyrd</string>
+	<string key="MB_MSQ2_ReleaseCrystal_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera energia</string>
+	<string key="MSQ_CorruptedMaw_DisplayName" rel_version="Quest_MSQ2_Revamp">Distruggi le fauci corrotte</string>
+	<string key="16_Side_12_DragonEgg_DisplayName" rel_version="Territory_Brimstone_Sands">Raccogli uova di "drago"</string>
+	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Raccogli strana spina</string>
+	<string key="NPCRescue_Dryad_DisplayName" rel_version="Quest_MSQ2_Revamp">Libera la driade</string>
+	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Attiva il quadro di comandi dei glifi</string>
+	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
+	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Ratto</string>
 </resources>
 

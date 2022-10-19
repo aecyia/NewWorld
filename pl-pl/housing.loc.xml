@@ -8,6 +8,7 @@
 	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">W razie porzucenia tego domu otrzymasz zwrot {percent}% kosztów zakupu. Wszystkie trofea i meble z domu zostaną przeniesione do magazynu miejskiego.</string>
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">W razie porzucenia tego domu otrzymasz zwrot &lt;font color="#f25d5d"&gt;{percent}% kosztów zakupu.&lt;/font&gt;\nWszystkie trofea i meble z porzuconego domu zostaną przeniesione do magazynu miejskiego.\n\nBy kontynuować, wpisz poniżej nazwę terytorium ({territoryName}).</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Porzucić dom?</string>
+	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Musisz mieć przynajmniej 1 wolne miejsce w magazynie osady, by móc usunąć wszystkie przedmioty ze swojego domu.</string>
 	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zapłać {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
 	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
@@ -157,7 +158,7 @@
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Twój dom jest nieaktywny. Zapłać podatek, by aktywować swój dom!</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Zapłać podatek</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Wystąpił błąd podczas opłacania podatku. Spróbuj ponownie.</string>
-	<string key="ui_pay_property_tax" comment="Housing Taxes">Zapłać podatek od nieruchomości</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Zapłać podatek</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Zapłać podatek od nieruchomości na mapie lub w domu.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Musisz opłacić podatek od nieruchomości, aby móc korzystać z funkcji powrotu do domu i odrodzenia się w nim, a także by móc go dekorować.\nPo zakupie domu podatek należy opłacić w ciągu: {firstCycle}, a następnie co: {otherCycle}.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Podatek od nieruchomości</string>
@@ -175,7 +176,7 @@
 	<string key="ui_housing_trophy_buff_desc_tooltip" comment="Housing Trophy Buffs">Gdy umieścisz to trofeum w swoim domu, będzie źródłem inspiracji.</string>
 	<string key="ui_housing_trophy_buffs" comment="Housing Trophy Buffs">Premie trofeów</string>
 	<string key="ui_housing_trophy_buffs_disabled" comment="Housing Trophy Buffs">Premie trofeów (wyłączone)</string>
-	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">W &lt;font color={colorHex}&gt;trybie ozdabiania&lt;/font&gt; możesz &lt;font color={colorHex}&gt;obracać obiekt, przyciągać go do siatki&lt;/font&gt; lub &lt;font color={colorHex}&gt;zablokować na powierzchni&lt;/font&gt;, by ozdobić dom tak, jak chcesz.</string>
+	<string key="ui_housing_tip_description1" comment="Load Screen Housing Tips">W &lt;font color={colorHex}&gt;trybie ozdabiania&lt;/font&gt; możesz &lt;font color={colorHex}&gt;obracać obiekt, rozmieszczać go na siatce&lt;/font&gt; lub &lt;font color={colorHex}&gt;zablokować na powierzchni&lt;/font&gt;, by ozdobić dom tak, jak chcesz.</string>
 	<string key="ui_housing_tip_description2" comment="Load Screen Housing Tips">Rozmieszczanie obiektów w taki sposób, by nie przenikały przez inne, jest najlepszym sposobem na zwiększenie &lt;font color={colorHex}&gt;liczby punktów dekoracji&lt;/font&gt;.</string>
 	<string key="ui_housing_tip_description3" comment="Load Screen Housing Tips">Umieść w swoim domu &lt;font color={colorHex}&gt;trofea&lt;/font&gt;, by aktywować &lt;font color={colorHex}&gt;premie pasywne&lt;/font&gt;.\n\nWskazówka: w każdym domu możesz umieścić maksymalnie 5 trofeów. Premie zapewniane przez trofea tego samego rodzaju mogą się ze sobą łączyć.</string>
 	<string key="ui_housing_tip_description4" comment="Load Screen Housing Tips">W panelu po prawej stronie ekranu znajdziesz &lt;font color={colorHex}&gt;liczbę punktów dekoracji&lt;/font&gt; twojego domu oraz &lt;font color={colorHex}&gt;limit ozdób&lt;/font&gt;.\n\nWskazówka: umieszczenie w domu zbyt wielu sztuk tego samego przedmiotu zmniejszy liczbę punktów dekoracji.</string>

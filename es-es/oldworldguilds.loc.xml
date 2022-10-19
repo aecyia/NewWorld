@@ -43,8 +43,10 @@
 	<string key="owg_drop_item_title">Soltar objeto de misión</string>
 	<string key="owg_drop_item_warning">Este objeto se destruirá si lo sueltas o lo almacenas.</string>
 	<string key="owg_entershop_button">Comprar recompensas</string>
+	<string key="owg_price_update">Los precios han cambiado debido a la actividad de las facciones</string>
 	<string key="owg_faction_select_no">No, deja que me lo piense.</string>
 	<string key="owg_faction_select_title">¿Quieres unirte a esta facción?</string>
+	<string key="owg_faction_select_title_incompany">¡Aviso! ¡Tu compañía tiene una facción diferente!</string>
 	<string key="owg_faction_select_warning">Esta decisión no se puede deshacer.</string>
 	<string key="owg_faction_select_yes">Sí, me quiero unir a ellos ({faction}).</string>
 	<string key="owg_faction_select_confirm">Solo podrás unirte a una compañía con jugadores de la misma facción. Si está activada para JcJ, solo podrás formar grupo con jugadores de la misma facción. Antes de unirte, puede que quieras comprobar dos veces qué facciones han elegido tus amigos en New World.\n\nTu elección no será permanente: puedes cambiar de facción desde la pantalla Bio una vez. Después, podrás cambiarla cada &lt;font color="#FFD45F"&gt;60 días&lt;/font&gt;.</string>
@@ -101,7 +103,7 @@
 	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">SEGUMIENTO DE RECOMPENSAS JCJ</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">El seguimiento de recompensas JcJ contiene recompensas específicas de JcJ por realizar actividades JCJ en el juego. El seguimiento se puede completar y rellenar de nuevo para conseguir una selección diferente de recompensas, con regalos más prestigiosos disponibles cuantas más completes.</string>
 	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">EXP JCJ</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Para avanzar en tu seguimiento, participa en misiones JcJ, guerras y asaltos a puestos remotos, captura fuertes, derrota a otros jugadores, lucha en arenas de 3 contra 3 y gana EXP con el JcJ activado.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Avanza en tu seguimiento participando en misiones JcJ, guerras, Asalto a puesto remoto, capturando fuertes, derrotando a otros jugadores y en arenas 3 contra 3.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">SAL DE AZOTH</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">La sal de Azoth es la divisa con la que obtienes recompensas del seguimiento JcJ. Para ganar sal de Azoth, participa en guerras, asaltos a puestos remotos, arenas de 3 contra 3, misiones JcJ, mata a jugadores en el mundo abierto en JcJ y gana EXP con el JcJ activado.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
@@ -240,8 +242,8 @@
 	<string key="owg_pvp_cannotacceptmission_nofaction">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; hasta que te unas a una facción.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; hasta que estés en un santuario.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">En este momento no puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; de este tipo.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; mientras estés en un vestíbulo JcE que no te permita activarte para JcJ.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; mientras tengas invitaciones a un vestíbulo que no te permitan activarte para JcJ.</string>
+	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; mientras estés en un vestíbulo JcE que no te permita activarte para JcJ.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">No puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt; mientras tengas invitaciones a un vestíbulo que no te permitan activarte para JcJ.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">En este momento no puedes aceptar una &lt;font color="#eaeaea"&gt;misión JcJ&lt;/font&gt;.</string>
 	<string key="owg_tooltip_warning">Solo puede haber 1 misión activa cada vez.</string>
 	<string key="owg_unlock_previous_rank">Has desbloqueado el rango {rankName}</string>
@@ -274,11 +276,29 @@
 	<string key="ui_faction_desc1">Discípulos astutos que combaten con pericia por el bien de la verdad y el progreso.</string>
 	<string key="ui_faction_desc2">Orgullosos guerreros que luchan con honor por la gloria y el crecimiento personal.</string>
 	<string key="ui_faction_desc3">Campeones divinos que luchan con convicción por la justicia y la rectitud.</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection">Domina los secretos de Aetérnum: el conocimiento es poder</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection">Conquista el honor y la gloria a través de las armas</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection">Porta la luz de la justicia y exilia a la oscuridad</string>
+	<string key="ui_become_a">Conviértete en un</string>
+	<string key="ui_faction_calltoaction_title1">sabio inteligente</string>
+	<string key="ui_faction_calltoaction_title2">guerrero orgulloso</string>
+	<string key="ui_faction_calltoaction_title3">campeón divino</string>
 	<string key="ui_faction_none">Ninguna</string>
 	<string key="ui_faction_name1">Sindicato</string>
 	<string key="ui_faction_name2">Saqueadores</string>
 	<string key="ui_faction_name3">Alianza</string>
+	<string key="ui_faction_name_with_article1">El Sindicato</string>
+	<string key="ui_faction_name_with_article2">Los Saqueadores</string>
+	<string key="ui_faction_name_with_article3">La Alianza</string>
+	<string key="ui_faction_join_name1">Únete al Sindicato</string>
+	<string key="ui_faction_join_name2">Únete a los Saqueadores</string>
+	<string key="ui_faction_join_name3">Únete a la Alianza</string>
+	<string key="ui_stats_friends_in_faction">{friendCountInFaction} Amigos en facción</string>
+	<string key="ui_stats_faction_tokens">Blasones de &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt;</string>
+	<string key="ui_stats_faction_rep">{factionRep} Reputación de facción</string>
+	<string key="ui_faction_items_label">Realiza misiones para conseguir objetos como</string>
 	<string key="ui_faction_unaligned">Sin alineación</string>
+	<string key="ui_unlocks_pvp">Desbloquea el JcJ</string>
 	<string key="CMissionExplore_Name">Se necesitan exploradores</string>
 	<string key="CMissionExplore_Desc">Busca &lt;font color="#eaeaea"&gt;{itemAmount} unidades de {itemName}&lt;/font&gt; en &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt;Regresa aquí para realizar la entrega.</string>
 	<string key="CMissionAcquireBlock_Name">Se necesitan canteros</string>
@@ -296,6 +316,7 @@
 	<string key="CMissionHuntCreature_Name">Se buscan cazadores de {enemyName}</string>
 	<string key="CMissionHuntCreature_Desc">Caza: &lt;font color="#eaeaea"&gt;{enemyName} ({killAmount})&lt;/font&gt;</string>
 	<string key="CMissionAcquire1_Desc">Adquiere y entrega &lt;font color="#eaeaea"&gt; {itemName} ({itemAmount})&lt;/font&gt;.</string>
+	<string key="CMissionAcquire1_Desc_Cook">Cocina y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
 	<string key="M_fetch_title">Explorar y buscar</string>
 	<string key="M_fetch_desc">Busca &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt;.</string>
 	<string key="M_kill_token_title">Derrotar y adquirir</string>
@@ -338,7 +359,7 @@
 	<string key="FactionMission_RAID_title">Asalta: {POITags}</string>
 	<string key="FactionMission_RAID_desc">Hemos identificado una amenaza para los intereses de los Saqueadores en esta región.\n\nVe a {POITags} y derrota a todos los ejemplares de &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; que sean necesarios sin piedad.</string>
 	<string key="FactionMission_EXPLORE_title">Explora: {POITags}</string>
-	<string key="FactionMission_EXPLORE_desc">Explora este terreno para dar ventaja a los Saqueadores. \n\nTu informe es esencial para diseñar nuestra estrategia.</string>
+	<string key="FactionMission_EXPLORE_desc">Explora el terreno en {POITags} para dar ventaja a los Saqueadores. \n\nTu informe es esencial para diseñar nuestra estrategia.</string>
 	<string key="FactionMission_LOOT_title">Saquea: {POITags}</string>
 	<string key="FactionMission_LOOT_desc">Hay objetos en {POITags} que podrían resultar valiosos para la campaña de los Saqueadores. \n\nConsigue cada una de las unidades de &lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; utilizando cualquier medio que sea necesario.</string>
 	<string key="FactionMission_HUNT_title">Caza: {POITags}</string>
@@ -360,23 +381,23 @@
 	<string key="FactionMission_C_HUNT_title">Caza: {POITags}</string>
 	<string key="FactionMission_C_HUNT_desc">Necesitamos suministros para apoyar la causa de la Alianza.\n\nCaza &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; en la zona de {POITags} y trae lo que consigas.</string>
 	<string key="FactionMission_PILLAGE_title">Sabotaje</string>
-	<string key="FactionMission_PILLAGE_desc">Debilita a tu enemigo destruyendo sus recursos.</string>
+	<string key="FactionMission_PILLAGE_desc">Debilita a tu enemigo destruyendo sus recursos en {POITags}.</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_title">Exhibición de fuerza (JcJ)</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_desc">Todo Aetérnum nos pertenece. Demuéstralo.</string>
 	<string key="FactionMission_INFILTRATE_title">Infiltración (JcJ)</string>
-	<string key="FactionMission_INFILTRATE_desc">Recupera el objeto de los Saqueadores y aguarda más instrucciones.</string>
+	<string key="FactionMission_INFILTRATE_desc">Recupera objetos de los Saqueadores en {POITags}.</string>
 	<string key="FactionMission_DISRUPT_title">Sabotaje (JcJ)</string>
-	<string key="FactionMission_DISRUPT_desc">Captura o destruye recursos antes de que los puedan usar en nuestra contra.</string>
+	<string key="FactionMission_DISRUPT_desc">Captura o destruye recursos en {POITags} antes de que los puedan usar en nuestra contra.</string>
 	<string key="FactionMission_STABILIZE_title">Estabilización (JcJ)</string>
-	<string key="FactionMission_STABILIZE_desc">Este punto es de importancia estratégica. No dejes que caiga en manos enemigas.</string>
+	<string key="FactionMission_STABILIZE_desc">{POITags} es de importancia estratégica. No dejes que caiga en manos enemigas.</string>
 	<string key="FactionMission_GATHERINTEL_title">Obtención de información (JcJ)</string>
-	<string key="FactionMission_GATHERINTEL_desc">Recupera importantes datos de experimentos y aguarda más instrucciones.</string>
+	<string key="FactionMission_GATHERINTEL_desc">Recupera importantes datos de experimentos del alijo en {POITags}.</string>
 	<string key="FactionMission_TITHE_title">Diezmo (JcJ)</string>
 	<string key="FactionMission_TITHE_desc">Haz que el enemigo se muera de hambre para alimentar la Chispa.</string>
 	<string key="FactionMission_SANCTIFY_title">Santificación (JcJ)</string>
-	<string key="FactionMission_SANCTIFY_desc">Libera esta zona. No flaquees y recorre el camino de la luz.</string>
+	<string key="FactionMission_SANCTIFY_desc">Libera {POITags}. No flaquees y recorre el camino de la luz.</string>
 	<string key="FactionMission_PRESERVE_title">Conservación (JcJ)</string>
-	<string key="FactionMission_PRESERVE_desc">Difunde la buena nueva de la Chispa.</string>
+	<string key="FactionMission_PRESERVE_desc">Bendice {POITags} con la luz de la Chispa.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Asalta: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">Adéntrate en {POITags} en nombre de los Saqueadores y derrota a todos los ejemplares de &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; necesarios. \n\n &lt;font color="#eaeaea"&gt;(Expedición)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">Adéntrate en {POITags} en nombre de los Saqueadores y derrota a &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. \n\n &lt;font color="#eaeaea"&gt;(Expedición)&lt;/font&gt;</string>
@@ -512,13 +533,18 @@
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Los Saqueadores no toleramos que la &lt;font color="#eaeaea"&gt;corrupción&lt;/font&gt; se abra camino en nuestro territorio.\n\nSi ves una de sus grietas, ciérrala.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">Ahora tenemos el poder para impedir el avance de la &lt;font color="#eaeaea"&gt;corrupción&lt;/font&gt;.\n\nCierra todas las &lt;font color="#eaeaea"&gt;grietas de corrupción&lt;/font&gt; que encuentres.</string>
 	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">Las &lt;font color="#eaeaea"&gt;grietas de corrupción&lt;/font&gt; amenazan con extinguir la Chispa.\n\nIntenta acabar con todas las brechas que encuentres.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una mesa de cantería.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una carpintería.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una estación de equipamiento.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en un taller de ingeniería.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una mesa de cantería.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una carpintería.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una estación de equipamiento.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en un taller de ingeniería.</string>
+	<string key="CMissionAcquireStoneworker">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una mesa de cantería.</string>
+	<string key="CMissionAcquireWoodWorker">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una carpintería.</string>
+	<string key="CMissionAcquireOutfitter">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en una estación de equipamiento.</string>
+	<string key="CMissionAcquireEngineer">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; en un taller de ingeniería.</string>
+	<string key="ui_already_in_faction">Ya estás en esta facción</string>
+	<string key="ui_cant_switch_faction_pvp">No puedes cambiar de facción con el JcJ activado</string>
+	<string key="ui_cant_switch_faction_azoth">Azoth insuficiente</string>
+	<string key="ui_cant_switch_faction_sanctuary">Debes estar en un santuario para cambiar de facción</string>
+	<string key="ui_cant_switch_faction_war">No puedes cambiar de facción si te has alistado para una guerra</string>
+	<string key="ui_cant_switch_faction_intro">Aún no le has demostrado tu valía a esta facción. Habla con un representante de la facción para unirte.</string>
+	<string key="ui_cant_switch_faction_incompany">Actualmente estás en una compañía asociada a otra facción. Si continúas, se te eliminará de esa compañía.\n\nSolo podrás unirte a una compañía con jugadores de la misma facción. Si está activada para JcJ, solo podrás formar grupo con jugadores de la misma facción. Antes de unirte, puede que quieras comprobar dos veces qué facciones han elegido tus amigos en New World.\n\nTu elección no será permanente: puedes cambiar de facción desde la pantalla Bio una vez. Después, podrás cambiarla cada &lt;font color="#FFD45F"&gt;60 días&lt;/font&gt;.</string>
+	<string key="ui_join">Unirse</string>
+	<string key="ui_faction_join_restrictions">Puedes cambiar de facción cada 60 días. Solo podrás unirte a compañías de tu misma facción.</string>
 </resources>
 

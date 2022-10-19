@@ -251,15 +251,16 @@
 	<string key="TradeskillBuilding8_Description">Crece tu habilidad como constructor. Las estructuras que construyes ahora están un poco más sólidas que antes y pueden soportar más daño antes de caerse. Solo las estructuras nuevas son afectadas.</string>
 	<string key="TradeskillBuilding9_Description">Crece tu habilidad como constructor. Las estructuras que construyes ahora están un poco más sólidas que antes y pueden soportar más daño antes de caerse. Solo las estructuras nuevas son afectadas.</string>
 	<string key="TradeskillBuilding10_Description">ARQUITECTO MAESTRO: Crece tu habilidad como constructor. Las estructuras que construyes ahora están considerablemente más sólidas que antes y pueden soportar más daño antes de caerse. Solo las estructuras nuevas son afectadas.</string>
-	<string key="ui_onehanded_weapons">Armas de una mano</string>
-	<string key="ui_twohanded_weapons">Armas de dos manos</string>
-	<string key="ui_ranged_weapons">Armas de ataque a distancia</string>
+	<string key="ui_onehanded_weapons">A una mano</string>
+	<string key="ui_twohanded_weapons">A dos manos</string>
+	<string key="ui_ranged_weapons">A distancia</string>
 	<string key="ui_magic_skills">Habilidades mágicas</string>
 	<string key="ui_weaponmastery_description">Las habilidades de armas se mejoran usando armas de ese tipo. Cada nivel otorga un punto para gastar en el desbloqueo de mejoras específicas de esa arma.</string>
 	<string key="ui_weaponmastery_in_progress" comment="this is a temporary message to explain the limited number of weapon mastery trees available">Árboles de dominio de armas aún en desarrollo. Próximamente se incluirán más.</string>
 	<string key="ui_farmplants">Plantas de granja</string>
 	<string key="ui_hemp">Cáñamo</string>
 	<string key="ui_hempt4">Maleza de seda</string>
+	<string key="ui_aloe">Gel de aloe</string>
 	<string key="ui_hempt5">Fibra tensil</string>
 	<string key="ui_alchemy1">Plantas mágicas</string>
 	<string key="ui_alchemy2">Piedras mágicas</string>
@@ -276,7 +277,9 @@
 	<string key="ui_lodestone">Magnetita</string>
 	<string key="ui_gold">Oro</string>
 	<string key="ui_starmetal">Metal de estrellas</string>
+	<string key="ui_sandstone">Arenisca</string>
 	<string key="ui_platinum">Platino</string>
+	<string key="ui_brimstone">Azufre</string>
 	<string key="ui_orichalcum">Oricalco</string>
 	<string key="ui_wyrdwood">Madera rara</string>
 	<string key="ui_ironwood">Madera férrea</string>
@@ -287,8 +290,8 @@
 	<string key="ui_canSkinLevel">Puedes desollar animales que tengan hasta el &lt;font color={levelColor}&gt;nivel {maxGatherLevel}&lt;/font&gt;</string>
 	<string key="ui_skillToSkinLevel">En el nivel de habilidad {skillLevel} podrás desollar animales que tengan hasta el nivel {maxGatherLevel}</string>
 	<string key="ui_skillToSkinLevelShort">Nivel de habilidad: {skillLevel} - Nivel de animal: {maxGatherLevel}</string>
-	<string key="iconTypeUnlock_youngtrees">Árboles jóvenes</string>
-	<string key="iconTypeUnlock_maturetrees">Árboles maduros</string>
+	<string key="iconTypeUnlock_youngtrees">Árboles jóvenes y cactus</string>
+	<string key="iconTypeUnlock_maturetrees">Árboles maduros y cactus</string>
 	<string key="ui_fishing_hotspot_tutorial_label">Cómo funcionan las zonas de pesca</string>
 	<string key="ui_fishing_hotspot_tutorial">Para saber si un punto de pesca está activo, debe haber peces saltando fuera del agua.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotactive.png" height="115"&gt;&lt;/img&gt;\nMientras el punto de pesca esté activo, al lanzar tu caña de pescar acelerarás el proceso de pesca y lograrás conseguir peces más raros. Al colocar tu sedal en forma correcta, aparecerá un pequeño mensaje de alerta que te indicará que has llegado al punto de pesca.\n\nUna vez que en un punto de pesca se haya atrapado una cierta cantidad de peces, el lugar quedará consumido. Para saber si un punto de pesca está consumido, no debe haber peces saltando.\n&lt;img src="lyshineui/images/tooltipimages/fishinghotspotdepleted.png" height="115"&gt;&lt;/img&gt;\nUn punto de pesca consumido volverá a estar activo después de algún tiempo.\n\nA medida que tu habilidad para la pesca vaya mejorando, podrás encontrar más y mejores puntos de pesca.</string>
 </resources>

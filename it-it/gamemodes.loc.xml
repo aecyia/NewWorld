@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Si è verificato un errore durante il matchmaking.</string>
 	<string key="ui_game_mode_disabled">Al momento, questa modalità di gioco è disattivata</string>
 	<string key="ui_dungeon_enter_info">Perché la spedizione resti aperta deve esserci &lt;font color={color}&gt;almeno 1 persona&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La Prova dell'anima è pronta&lt;/font&gt;. Vuoi teletrasportartici ora?</string>
 	<string key="ui_dungeon_enter_info_entered">La spedizione è aperta!\n&lt;font color={color}&gt;Vuoi teletrasportartici ora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Sfida a duello</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} non è un nome giocatore valido.</string>
@@ -84,7 +85,8 @@
 	<string key="ui_outpost_rush_title">Carica all'avamposto</string>
 	<string key="ui_outpost_rush_invite_status">Accetta per partecipare alla battaglia!</string>
 	<string key="ui_outpost_rush_signup_title">CARICA ALL'AVAMPOSTO</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti.\nI giocatori dovranno conquistare e difendere questi avamposti il più a lungo possibile, aumentando così il punteggio della propria squadra.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti.\nPer aumentare il proprio punteggio, ogni squadra dovrà conquistare e difendere questi avamposti il più a lungo possibile.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Carica all'avamposto&lt;/font&gt; è una partita 20 contro 20 ambientata su una grande isola con tre avamposti.\nPer aumentare il proprio punteggio, ogni squadra dovrà conquistare e difendere questi avamposti il più a lungo possibile.\nIn questa modalità è attiva la &lt;font color="#ffe940"&gt;calibrazione del punteggio attrezzatura&lt;/font&gt;, che aumenta a 600 il punteggio attrezzatura di tutti gli equipaggiamenti con punteggio attrezzatura inferiore a 600.</string>
 	<string key="ui_outpost_rush_signup_goal1">Conquista e difendi gli avamposti per aumentare il punteggio della tua squadra</string>
 	<string key="ui_outpost_rush_signup_goal2">Vince la prima squadra che raggiunge 1.000 punti</string>
 	<string key="ui_outpost_rush_signup_goal3">Usa le risorse speciali dell'isola per attaccare e difendere</string>
@@ -215,15 +217,17 @@
 	<string key="or_tutorial_summoning_reminder_title">USA LA PIETRA DI EVOCAZIONE</string>
 	<string key="or_tutorial_summoning_reminder_body">Raggiungi un cerchio di evocazione non occupato per evocare un potente alleato.</string>
 	<string key="or_tutorial_summoning_findstone_title">HAI BISOGNO DI UNA PIETRA DI EVOCAZIONE</string>
-	<string key="or_tutorial_summoning_findstone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dug nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
+	<string key="or_tutorial_summoning_findstone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dog nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
 	<string key="or_tutorial_summoning_nostone_title">OTTIENI UNA PIETRA DI EVOCAZIONE E RIPROVA</string>
 	<string key="or_tutorial_summoning_nostone_body">Puoi ottenerne una acquistandola nell'armeria, sconfiggendo Ug o Dug nelle miniere o donando 750 essenze di Azoth al portale corrotto.</string>
 	<string key="or_tutorial_summoning_creature_title">AL MOMENTO NON PUOI RIUTILIZZARE IL CERCHIO DI EVOCAZIONE</string>
 	<string key="or_tutorial_summoning_creature_body">Prova a usarne un altro o aspetta che questo torni disponibile.</string>
 	<string key="emote_unable_to_use_emote">In questa modalità di gioco le emote non sono disponibili</string>
 	<string key="ui_durability_loss_outpost_rush">Stai partecipando a una Carica all'avamposto, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
-	<string key="ui_durability_loss_war">Stai partecipando a un guerra (o a un'invasione), perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
-	<string key="ui_item_durability_loss">Tutto l'equipaggiamento nel tuo inventario ha subito danni alla morte.</string>
+	<string key="ui_durability_loss_war">Stai partecipando a un Guerra (o a un'invasione), perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
+	<string key="ui_item_durability_loss">Il tuo equipaggiamento ha subito danni alla morte.</string>
+	<string key="ui_item_durability_dungeon">Stai partecipando a una spedizione, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Stai partecipando a un'arena, perciò il tuo equipaggiamento non ha subito danni alla morte.</string>
 	<string key="ui_item_durability_loss_pvp">Sei stato ucciso da un altro giocatore: il tuo equipaggiamento ha subito danni ridotti.</string>
 	<string key="ui_in_spectators_box">Nella postazione spettatore</string>
 	<string key="ui_in_spectators_box_description">Abilità disattivate</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Cambio lato</string>
 	<string key="ui_rounds_won">Round vinti</string>
 	<string key="ui_see_through_label">Modalità Trasparente</string>
+	<string key="ui_invasion_leave">Abbandona invasione</string>
 </resources>
 

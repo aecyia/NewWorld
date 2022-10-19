@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Ha ocurrido un error de emparejamiento inesperado.</string>
 	<string key="ui_game_mode_disabled">Este modo de juego no está disponible ahora mismo</string>
 	<string key="ui_dungeon_enter_info">Debe entrar &lt;font color={color}&gt;al menos una persona&lt;/font&gt; para mantener la expedición abierta. ¿Quieres teletransportarte ahora?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;La prueba de alma está lista&lt;/font&gt;. ¿Quieres teletransportarte ahora?</string>
 	<string key="ui_dungeon_enter_info_entered">¡La expedición ya está abierta!\n&lt;font color={color}&gt;¿Quieres teletransportarte ahora?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Duelo con jugador</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} no es un nombre de jugador válido.</string>
@@ -84,7 +85,8 @@
 	<string key="ui_outpost_rush_title">Puesto de avanzada</string>
 	<string key="ui_outpost_rush_invite_status">¡Acepta para unirte a la batalla!</string>
 	<string key="ui_outpost_rush_signup_title">PUESTO DE AVANZADA</string>
-	<string key="ui_outpost_rush_signup_desc">El &lt;font color="#ffe940"&gt;Avance a puesto de avanzada&lt;/font&gt; es un enfrentamiento de 20 vs. 20 que se lleva a cabo en amplias islas con tres puestos de avanzada.\nLos jugadores compiten por capturarlos y defenderlos el mayor tiempo posible para aumentar la puntuación de su equipo.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;El Avance a puesto de avanzada&lt;/font&gt; es un enfrentamiento de 20v20 que se lleva a cabo en una isla con tres puestos de avanzada.\nLos equipos compiten por ocuparlos y defenderlos para aumentar la puntuación de su equipo.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;El Avance a puesto de avanzada&lt;/font&gt; es un enfrentamiento de 20v20 que se lleva a cabo en una isla con tres puestos de avanzada.\nLos equipos compiten por ocuparlos y defenderlos para aumentar la puntuación de su equipo.\nEste modo tiene &lt;font color="#ffe940"&gt;escalado de puntuación de equipo&lt;/font&gt;, lo que hace que todos los equipos con menos de 600 de puntuación del equipo pasen a tener 600.</string>
 	<string key="ui_outpost_rush_signup_goal1">Captura y defiende puestos de avanzada para aumentar la puntuación de tu equipo.</string>
 	<string key="ui_outpost_rush_signup_goal2">El primer equipo en llegar a 1000 puntos gana.</string>
 	<string key="ui_outpost_rush_signup_goal3">Utiliza los recursos especiales repartidos por la isla para atacar y defender</string>
@@ -223,7 +225,9 @@
 	<string key="emote_unable_to_use_emote">No se pueden usar gestos en este modo de juego</string>
 	<string key="ui_durability_loss_outpost_rush">Estás en un Avance a un puesto de avanzada, tu equipo no se dañó con la muerte.</string>
 	<string key="ui_durability_loss_war">Estás en una guerra (o invasión), tu equipo no se dañó con la muerte.</string>
-	<string key="ui_item_durability_loss">Todo el equipo de tu inventario se dañó con la muerte.</string>
+	<string key="ui_item_durability_loss">Tu equipo recibió daño con la muerte.</string>
+	<string key="ui_item_durability_dungeon">Estás en una expedición, tu equipo no se dañó con la muerte.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Estás en una arena, tu equipo no se dañó con la muerte.</string>
 	<string key="ui_item_durability_loss_pvp">Te mató otro jugador, tu equipo recibió daño reducido.</string>
 	<string key="ui_in_spectators_box">En la tribuna de espectadores</string>
 	<string key="ui_in_spectators_box_description">Habilidades desactivadas</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Cambio de lado</string>
 	<string key="ui_rounds_won">Rondas ganadas</string>
 	<string key="ui_see_through_label">Modo transparente</string>
+	<string key="ui_invasion_leave">Abandonar invasión</string>
 </resources>
 

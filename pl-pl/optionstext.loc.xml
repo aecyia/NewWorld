@@ -34,7 +34,7 @@
 	<string key="ui_voicechatsettings">Czat głosowy</string>
 	<string key="ui_openvoicechatsettings">Wyświetl ustawienia czatu głosowego</string>
 	<string key="ui_invertlook">Odwróć kamerę</string>
-	<string key="ui_invertlook_desc">Odwraca oś Y.</string>
+	<string key="ui_invertlook_desc">Odwraca oś Y</string>
 	<string key="ui_looksensitivity">Czułość kamery</string>
 	<string key="ui_looksensitivity_desc">Jak szybko porusza się kamera.</string>
 	<string key="ui_window_mode">Tryb okna</string>
@@ -45,11 +45,11 @@
 	<string key="ui_windowed_fullscreen">Pełny ekran w oknie</string>
 	<string key="ui_borderless_window">Okno bez ramki</string>
 	<string key="ui_resolution">Rozdzielczość</string>
-	<string key="ui_resolution_desc">Rozdzielczość obrazu.</string>
+	<string key="ui_resolution_desc">Rozdzielczość obrazu</string>
 	<string key="ui_monitor">Monitor</string>
 	<string key="ui_monitor_desc">Twój monitor</string>
 	<string key="ui_show_fps">Pokaż FPS</string>
-	<string key="ui_show_fps_desc">Wyświetla lub ukrywa liczbę klatek na sekundę.</string>
+	<string key="ui_show_fps_desc">Wyświetla lub ukrywa liczbę klatek na sekundę</string>
 	<string key="ui_enable_vsync">Synchronizacja w pionie</string>
 	<string key="ui_enable_vsync_description">Ogranicza liczbę klatek na sek. do częst. odświeżania twojego monitora. Włącz, by zmniejszyć efekt rwania się obrazu.</string>
 	<string key="ui_enable_motionblur">Rozmycie w ruchu</string>
@@ -61,7 +61,7 @@
 	<string key="ui_graphics_objects">Jakość obiektów</string>
 	<string key="ui_graphics_objects_description">Ustawienia jakości wyświetlania obiektów w grze.</string>
 	<string key="ui_graphics_postprocessing">Jakość przetwarzania</string>
-	<string key="ui_graphics_postprocessing_description">Ustawienia jakości przetwarzania obrazu w grze.</string>
+	<string key="ui_graphics_postprocessing_description">Ustawienia jakości przetwarzania obrazu w grze</string>
 	<string key="ui_graphics_shadows">Jakość cieni</string>
 	<string key="ui_graphics_shadows_description">Ustawienia jakości cieni w grze (nie dotyczy oświetlenia).</string>
 	<string key="ui_graphics_terrain">Jakość terenu</string>
@@ -221,8 +221,6 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Wycisz muzykę graną przez innych graczy</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Wycisz muzykę bojową</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Wycisz muzykę bojową</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Wycisz dodatkowe dźwięki występu</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Wycisz klaskanie i dodatkowe efekty występów muzycznych</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Głośność instrumentów muzycznych</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Dostosuj głośność muzyki granej na instrumentach przez pobliskich oraz odległych graczy</string>
 	<string key="ui_outputconfiguration">Konfiguracja wyjścia</string>

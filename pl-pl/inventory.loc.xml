@@ -23,6 +23,7 @@
 	<string key="inv_furniture">Meble</string>
 	<string key="inv_outpostrush">Napad na posterunek</string>
 	<string key="inv_pvparenas">Areny PvP</string>
+	<string key="inv_runes" rel_version="Feature_Heartgems">Runy</string>
 	<string key="inv_crafting_modifiers">Modyfikatory wytwarzania</string>
 	<string key="inv_repair_kit_count">Zestaw naprawczy: {count}</string>
 	<string key="inv_repair_kits">Zestawy naprawcze</string>
@@ -64,21 +65,21 @@
 	<string key="inv_equipLoadNormal">Średnie</string>
 	<string key="inv_equipLoadSlow">Ciężkie</string>
 	<string key="inv_equipLoadOverburdened">Nadmiar ekwipunku</string>
-	<string key="inv_equipLoadTooltip">Łączna waga noszonego pancerza i tarczy określa ciężar twojego wyposażenia. W zależności od ciężaru wyposażenia różnią się uniki i inne premie.</string>
-	<string key="inv_equipLoadFastTooltip">Nosząc lekki pancerz, możesz wykonać szybki przewrót o sporym zasięgu. Zużywa {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} pkt wytrzymałości. Masz premię {[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% do zadawanych obrażeń i 30% do leczenia.</string>
-	<string key="inv_equipLoadNormalTooltip">Nosząc pancerz o średnim ciężarze, możesz wykonać szybki odskok. Zużywa {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} pkt wytrzymałości. Czas trwania negatywnych efektów obezwładniających, które nakładasz, zostaje wydłużony o 10%. Masz premię {[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% do zadawanych obrażeń.</string>
-	<string key="inv_equipLoadSlowTooltip">Nosząc ciężki pancerz, możesz wykonać powolny zwód. Zużywa {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} pkt wytrzymałości. Zwiększa twoją stabilność blokowania o 15%. Czas trwania negatywnych efektów obezwładniających, które nakładasz, zostaje wydłużony o 20%. Otrzymujesz o 30% mniej zdrowia podczas leczenia.</string>
-	<string key="inv_equipLoadOverburdenedTooltip">Po przekroczeniu maksymalnego ciężaru wyposażenia nie możesz wykonywać uników, poruszać się sprintem i używać umiejętności. Odłóż część przedmiotów.</string>
-	<string key="inv_equipLoadEncumberedTooltip">Masz za dużo przedmiotów w ekwipunku. W przypadku przeciążenia ciężar wyposażenia nie ma znaczenia. Nie możesz biegać sprintem ani wykonywać uników, a blokowanie zużywa więcej wytrzymałości. Usuń część przedmiotów ze swojego plecaka.</string>
-	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Waga przenoszonych przez ciebie przedmiotów przekracza maksymalny ciężar wyposażenia. Nie możesz wykonywać uników ani poruszać się sprintem i otrzymujesz karę do szybkości regeneracji energii. Odłóż część przedmiotów.</string>
+	<string key="inv_equipLoadTooltip">Łączna waga noszonego pancerza i tarczy określa ciężar twojego wyposażenia. W zależności od ciężaru wyposażenia różnią się uniki i inne efekty.</string>
+	<string key="inv_equipLoadFastTooltip">Możesz wykonać szybki przewrót o sporym zasięgu. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Fast.StaminaCost]} pkt wytrzymałości \n• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultFast * 100]}% \n• Leczenie innych: +30% \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Light.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
+	<string key="inv_equipLoadNormalTooltip">Możesz wykonać szybki odskok. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll.StaminaCost]} pkt wytrzymałości \n• Obrażenia podstawowe: +{[Type_EncumbranceData.Player.EquipLoadDamageMultNormal * 100]}% \n• Efekty obezwładniające nakładane na wrogów: +10% do czasu trwania \n• Otrzymanie ciosu wręcz sprawia, że zasięg uniku ulega zmniejszeniu o 20% na {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Medium.BaseDuration]} s. W tym czasie nie możesz również biegać.</string>
+	<string key="inv_equipLoadSlowTooltip">Możesz wykonać powolny zwód. Ten ciężar wyposażenia zapewnia następujące efekty: \n• Koszt uniku: {[StaminaCosts_Player.Dodge_Roll_Slow.StaminaCost]} pkt wytrzymałości \n• Stabilność blokowania: +15% \n• Efekty obezwładniające nakładane na wrogów: +20% do czasu trwania \n• Leczenie innych: -30%\n• Otrzymanie ciosu wręcz sprawia, że nie możesz biegać przez {[StatusEffects_Common.Sprint_Delay_Combat_Timer_Heavy.BaseDuration]} s.</string>
+	<string key="inv_equipLoadOverburdenedTooltip">Po przekroczeniu maksymalnego ciężaru wyposażenia nie możesz wykonywać uników, biegać i używać umiejętności. Odłóż część przedmiotów.</string>
+	<string key="inv_equipLoadEncumberedTooltip">Masz za dużo przedmiotów w ekwipunku. W przypadku przeciążenia ciężar wyposażenia nie ma znaczenia. Nie możesz biegać ani wykonywać uników, a blokowanie zużywa więcej wytrzymałości. Usuń część przedmiotów ze swojego plecaka.</string>
+	<string key="inv_equipLoadOverburdened_Tooltip" comment="This tooltip is for the status effect icon near vitals">Waga przenoszonych przez ciebie przedmiotów przekracza maksymalny ciężar wyposażenia. Nie możesz biegać ani wykonywać uników i otrzymujesz karę do szybkości regeneracji wytrzymałości. Odłóż część przedmiotów.</string>
 	<string key="inv_equipLoadFastNotification">Twoje aktualne wyposażenie jest lekkie</string>
 	<string key="inv_equipLoadNormalNotification">Twoje aktualne wyposażenie ma średni ciężar</string>
 	<string key="inv_equipLoadSlowNotification">Twoje aktualne wyposażenie jest ciężkie</string>
-	<string key="inv_equipLoadOverburdenedNotification">Nadmiar wyposażenia – nie możesz wykonywać uników ani biegać sprintem</string>
-	<string key="inv_equipLoadEncumberedNotification">Przeciążenie – nie możesz biegać sprintem, skakać ani wykonywać uników</string>
+	<string key="inv_equipLoadOverburdenedNotification">Nadmiar wyposażenia – nie możesz biegać ani wykonywać uników</string>
+	<string key="inv_equipLoadEncumberedNotification">Przeciążenie – nie możesz biegać, skakać ani wykonywać uników</string>
 	<string key="inv_encumbranceTooltip">Twoje obciążenie to całkowity ciężar wszystkich przedmiotów w plecaku. Przedmioty w użyciu nie liczą się. Maksymalne dopuszczalne obciążenie wzrośnie dzięki plecakom.</string>
 	<string key="inv_encumbranceUnencumberedTooltip">Gdy niesiesz mniej przedmiotów niż wynosi twój limit, obciążenie nie ma na ciebie wpływu.</string>
-	<string key="inv_encumbranceEncumberedTooltip">Gdy nosisz za dużo przedmiotów, nie możesz wykonywać przewrotów, biegać zwykłym tempem ani sprintem. Po osiągnięciu maksymalnego obciążenia nie będzie można poruszać się ani atakować. Usuń część przedmiotów ze swojego plecaka.</string>
+	<string key="inv_encumbranceEncumberedTooltip">Gdy nosisz za dużo przedmiotów, nie możesz biegać ani wykonywać uników. Po osiągnięciu maksymalnego obciążenia nie będzie można poruszać się ani atakować. Usuń część przedmiotów ze swojego plecaka.</string>
 	<string key="inv_does_not_meet_weapon_requirements">Niewystarczające cechy</string>
 	<string key="inv_encumbranceAttackNotification">Przeciążenie uniemożliwia atak</string>
 	<string key="inv_insufficientManaNotification">Za mało many</string>
@@ -97,6 +98,7 @@
 	<string key="inv_repairparts_resources_atlimit">Po odzyskaniu tego przedmiotu otrzymasz: {itemName} ({min}–{max}) oraz &lt;font color="#f25d5d"&gt;części zamienne: {numRepairParts}.&lt;/font&gt;</string>
 	<string key="inv_repairparts_onlyrepairparts">Po odzyskaniu tego przedmiotu otrzymasz części zamienne w liczbie {numRepairParts}.</string>
 	<string key="inv_repairparts_onlyrepairparts_withcoin">Po odzyskaniu tego przedmiotu otrzymasz części zamienne ({numRepairParts}) oraz monety ({coinAmount}).</string>
+	<string key="inv_coin_atlimit">&lt;font color="#f25d5d"&gt;Osiągnięto limit monet.&lt;/font&gt;</string>
 	<string key="salvage_notification_obtained_1">Pozyskano: {entry1}</string>
 	<string key="salvage_notification_obtained_2">Pozyskano: {entry1} oraz {entry2}</string>
 	<string key="salvage_notification_obtained_3">Pozyskano: {entry1}, {entry2} oraz {entry3}</string>

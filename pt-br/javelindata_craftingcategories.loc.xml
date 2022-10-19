@@ -7,6 +7,7 @@
 	<string key="GypsumCasting_GroupName">Fundição de Gipsita</string>
 	<string key="GypsumRaw_GroupName">Orbes de Gipsita</string>
 	<string key="GypsumCasts_GroupName">Moldes de Gipsita</string>
+	<string key="InfusedCasts_GroupName">Moldes Infusos</string>
 	<string key="GemstoneT2_GroupName">Gemas Regulares</string>
 	<string key="GemstoneT3_GroupName">Gemas Brilhantes</string>
 	<string key="GemstoneT4_GroupName">Gemas Puras</string>
@@ -643,6 +644,8 @@
 	<string key="CategoryData_PotionDesc">Poções são itens que melhoram o desempenho temporariamente.</string>
 	<string key="CategoryData_Alkahest">Alkahest</string>
 	<string key="CategoryData_AlkahestDesc">Alkahest são itens usados para confeccionar poções.</string>
+	<string key="CategoryData_Ampoule">Ampola</string>
+	<string key="CategoryData_AmpouleDesc">Ampola são itens usados para confeccionar poções reflexivas.</string>
 	<string key="CategoryData_RangedWeapons">Armas a Distância</string>
 	<string key="CategoryData_rawresources">Matérias-primas</string>
 	<string key="CategoryData_RefinedMaterial">Materiais Refinados</string>
@@ -854,7 +857,7 @@
 	<string key="DungeonReps5_GroupName">Réplicas do Estaleiro da Dinastia</string>
 	<string key="DungeonReps6_GroupName">Réplicas da Importância de Lázaro</string>
 	<string key="DungeonReps7_GroupName">Réplicas do Jardim da Criação</string>
-	<string key="DungeonReps8_GroupName">NOME PENDENTE</string>
+	<string key="DungeonReps8_GroupName">Réplicas de Enéade</string>
 	<string key="DungeonReps9_GroupName">Réplicas do Coração da Tempestade</string>
 	<string key="DungeonShields_GroupName">Escudos de Expedição</string>
 	<string key="DungeonReps12_GroupName">Recompensas Únicas de Expedição</string>
@@ -1091,6 +1094,8 @@
 	<string key="GauntletIce_GroupName">Manoplas de Gelo</string>
 	<string key="GauntletVoid_GroupDesc" rel_version="Weapon_Void_Gauntlet">Manopla que consome Mana para debilitar inimigos e fortalecer aliados. Especializada em buffs de curto alcance e em causar dano ao longo do tempo ou debuffs de médio alcance e cura, a Manopla Imaterial é especialmente perigosa quando usada contra um grupo.\n\n•Ataque Leve: Causa {[DamageTable.VoidGauntlet_Primary.DmgCoef * 100]}% de Dano Imaterial.\n•Ataque Pesado: Causa {[DamageTable.VoidGauntlet_Heavy.DmgCoef * 100]}% de Dano Imaterial e cura a si mesmo em {[VoidGauntletAbilityTable.Passive_VoidGauntlet_HealOnHeavy.DmgPctToHealth * 100]}% do dano causado.\n•Colher Essência (Segurar “Bloquear”): Converte sua saúde em mana ao longo do tempo. A taxa de conversão é baseada no dano da arma.</string>
 	<string key="GauntletVoid_GroupName" rel_version="Weapon_Void_Gauntlet">Manoplas Imateriais</string>
+	<string key="GreatSword_GroupDesc" rel_version="Weapon_GreatSword">Uma versátil arma corpo a corpo que utiliza posições para se adaptar a diferentes situações de combate. Ela incorpora um ataque implacável combinado com uma defesa agressiva para superar qualquer desafio.\n\n•Ataque Leve 1 e 2: Causa {[DamageTable.GreatSword_PrimaryAttack1.DmgCoef * 100]}% de Dano Cortante.\n•Ataque Leve 3: Causa {[DamageTable.GreatSword_PrimaryAttack3.DmgCoef * 100]}% de Dano Cortante.\n•Ataque Pesado Carregado 1 e 2: Causa {[DamageTable.GreatSword_HeavyAttack1.DmgCoef * 100]}% de Dano Cortante.\n•Ataque Pesado Carregado 3: Causa {[DamageTable.GreatSword_HeavyAttack3.DmgCoef * 100]}% de Dano Cortante.</string>
+	<string key="GreatSword_GroupName" rel_version="Weapon_GreatSword">Espadas Grandes</string>
 	<string key="GemAmbe_CategoryName">Gemas de Âmbar</string>
 	<string key="GemAmet_CategoryName">Gemas de Ametista</string>
 	<string key="GemAqua_CategoryName">Gemas de Água-marinha</string>
@@ -1849,11 +1854,14 @@
 	<string key="SalvageTier4_Name">Restos de Escala IV</string>
 	<string key="SalvageTier5_Name">Restos de Escala V</string>
 	<string key="Salvage">Sucatear Restos</string>
+	<string key="Salvage_GroupName">Sucatear Restos</string>
 	<string key="SalvageExtract">Extrair</string>
 	<string key="SalvageCreate">Fabricar</string>
 	<string key="SalvageResearch">Pesquisar</string>
 	<string key="SalvageCondense">Condensar</string>
+	<string key="AlchemyAlkahestT1_GroupName">Alkahest</string>
 	<string key="AlchemyCritters_GroupName">Criaturas de Alquimia</string>
+	<string key="Summer">Verão</string>
 	<string key="Instruments_GroupName" rel_version="Feature_MusicalPerformances">Instrumentos</string>
 	<string key="CategoryData_Instruments" rel_version="Feature_MusicalPerformances">Instrumentos</string>
 	<string key="InstrumentParts_GroupName" rel_version="Feature_MusicalPerformances">Partes de Instrumento</string>
@@ -1867,5 +1875,81 @@
 	<string key="TerritorySupplies_GroupName">Suprimentos de Território</string>
 	<string key="TerritoryContribution_GroupName">Contribuições de Território</string>
 	<string key="InstrumentComponents_GroupName" rel_version="Feature_MusicalPerformances">Componentes de Instrumentos</string>
+	<string key="InstrumentGuitarPick_GroupName">Partes de Violão</string>
+	<string key="InstrumentDrumHead_GroupName">Partes de Tambores</string>
+	<string key="InstrumentReed_GroupName">Partes de Flauta</string>
+	<string key="InstrumentSoundhole_GroupName">Partes de Bandolim</string>
+	<string key="InstrumentFingerboard_GroupName">Partes de Contrabaixo</string>
+	<string key="InstrumentGuitarPickT4_GroupName">Partes de Violão Escala 4</string>
+	<string key="InstrumentDrumHeadT4_GroupName">Partes de Tambores Escala 4</string>
+	<string key="InstrumentReedT4_GroupName">Partes de Flauta Escala 4</string>
+	<string key="InstrumentSoundholeT4_GroupName">Partes de Bandolim Escala 4</string>
+	<string key="InstrumentFingerboardT4_GroupName">Partes de Contrabaixo Escala 4</string>
+	<string key="CategoryData_RuneglassFamily" rel_version="Territory_Brimstone_Sands">Componentes de Vidro Rúnico</string>
+	<string key="RuneglassEmpty_GroupName" rel_version="Territory_Brimstone_Sands">Caixas de Vidro Rúnico Vazias</string>
+	<string key="RuneglassAmber_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Âmbar</string>
+	<string key="RuneglassAmethyst_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Ametista</string>
+	<string key="RuneglassAquamarine_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Água-marinha</string>
+	<string key="RuneglassCarnelian_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Cornalina</string>
+	<string key="RuneglassDiamond_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Diamante</string>
+	<string key="RuneglassEmerald_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Esmeralda</string>
+	<string key="RuneglassJasper_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Jaspe</string>
+	<string key="RuneglassMalachite_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Malaquita</string>
+	<string key="RuneglassMoonstone_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Pedra Lunar</string>
+	<string key="RuneglassOnyx_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Ônix</string>
+	<string key="RuneglassOpal_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Opala</string>
+	<string key="RuneglassRuby_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Rubi</string>
+	<string key="RuneglassSapphire_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Safira</string>
+	<string key="RuneglassTopaz_GroupName" rel_version="Territory_Brimstone_Sands">Gemas de Vidro Rúnico de Topázio</string>
+	<string key="RuneglassFamily_GroupName" rel_version="Territory_Brimstone_Sands">Vidro Rúnico</string>
+	<string key="Glasswares_GroupName" rel_version="Territory_Brimstone_Sands">Artigos de Vidro</string>
+	<string key="GoldenScarabStr_GroupName">Escaravelho Dourado: Força</string>
+	<string key="GoldenScarabDex_GroupName">Escaravelho Dourado: Destreza</string>
+	<string key="GoldenScarabInt_GroupName">Escaravelho Dourado: Inteligência</string>
+	<string key="GoldenScarabFoc_GroupName">Escaravelho Dourado: Foco</string>
+	<string key="GoldenScarabCon_GroupName">Escaravelho Dourado: Constituição</string>
+	<string key="Scarab_GroupName">Escaravelho</string>
+	<string key="Sulfur_GroupName">Enxofre</string>
+	<string key="Rune_GroupName">Runas</string>
+	<string key="DungeonNamedReplicas_GroupName">Réplicas Únicas de Expedição</string>
+	<string key="UniqueDungeonReps1_GroupName">Réplicas Únicas da Escavação de Amrine</string>
+	<string key="UniqueDungeonReps10_GroupName">NOME PENDENTE</string>
+	<string key="UniqueDungeonReps2_GroupName">Réplicas Únicas do Obelisco Despedaçado</string>
+	<string key="UniqueDungeonReps3_GroupName">NOME PENDENTE</string>
+	<string key="UniqueDungeonReps4_GroupName">Réplicas Únicas das Profundezas</string>
+	<string key="UniqueDungeonReps5_GroupName">Réplicas Únicas do Estaleiro da Dinastia</string>
+	<string key="UniqueDungeonReps6_GroupName">Réplicas Únicas da Importância de Lázaro</string>
+	<string key="UniqueDungeonReps7_GroupName">Réplicas Únicas do Jardim da Criação</string>
+	<string key="UniqueDungeonReps8_GroupName">Réplicas Únicas da Enéade</string>
+	<string key="UniqueDungeonReps9_GroupName">Réplicas Únicas do Coração da Tempestade</string>
+	<string key="UniqueDungeonReps11_GroupName">Réplicas Únicas de Cracas e Pólvora Preta</string>
+	<string key="HideT5_GroupName">Pele de Escala 5</string>
+	<string key="CategoryData_ArmorHeavy">Armadura Pesada</string>
+	<string key="CategoryData_ArmorMedium">Armadura Média</string>
+	<string key="CategoryData_ArmorLight">Armadura Leve</string>
+	<string key="SlotChest_GroupName">Armadura de Peitoral</string>
+	<string key="SlotFeet_GroupName">Armadura de Pé</string>
+	<string key="SlotHands_GroupName">Armadura de Mão</string>
+	<string key="SlotHead_GroupName">Armadura de Cabeça</string>
+	<string key="SlotLegs_GroupName">Armadura de Perna</string>
+	<string key="ScarabAmulets_GroupName">Amuletos: Escaravelho Dourado</string>
+	<string key="ScarabRings_GroupName">Anéis: Escaravelho Dourado</string>
+	<string key="ScarabEarrings_GroupName">Brincos: Escaravelho Dourado</string>
+	<string key="ScarabMeleeWeapons_GroupName">Armas Corpo a Corpo: Escaravelho Dourado</string>
+	<string key="ScarabMagicStaves_GroupName">Bastões Mágicos: Escaravelho Dourado</string>
+	<string key="ScarabStaffFire_GroupName">Bastões Flamejantes: Escaravelho Dourado</string>
+	<string key="ScarabStaffLife_GroupName">Bastões de Gelo: Escaravelho Dourado</string>
+	<string key="ScarabGauntletIce_GroupName">Manoplas de Gelo: Escaravelho Dourado</string>
+	<string key="ScarabGauntletVoid_GroupName">Manoplas Imateriais: Escaravelho Dourado</string>
+	<string key="ScarabRangedWeapons_GroupName">Armas de Longo Alcance: Escaravelho Dourado</string>
+	<string key="ScarabArmorPlate_GroupName">Armadura de Placa: Escaravelho Dourado</string>
+	<string key="ScarabArmorFur_GroupName">Armadura de Pele: Escaravelho Dourado</string>
+	<string key="ScarabArmorCloth_GroupName">Armadura de Tecido: Escaravelho Dourado</string>
+	<string key="ScarabArmorLeather_GroupName">Armadura de Couro: Escaravelho Dourado</string>
+	<string key="ScarabArmorRobe_GroupName">Robes: Escaravelho Dourado</string>
+	<string key="ScarabArmorPlateHeavy_GroupName">Armadura de Placa Pesada: Escaravelho Dourado</string>
+	<string key="WinterConvergence_GroupName">(Evento) Convergência de Inverno</string>
+	<string key="NightveilHallow_GroupName">(Evento) Relíquia do Véu Noturno</string>
+	<string key="SummerMedleyfaire_GroupName">(Evento) Feira de Variedades do Verão</string>
 </resources>
 

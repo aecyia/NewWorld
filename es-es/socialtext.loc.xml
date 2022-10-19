@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Estado</string>
 	<string key="trade_column_rarity">Rareza</string>
 	<string key="trade_column_craftsmanship">Artesanía</string>
+	<string key="trade_column_completion_time">Tiempo de realización</string>
 	<string key="trade_noitemmessage">Selecciona un objeto para verlo.</string>
 	<string key="trade_not_enough_money">No hay suficientes monedas</string>
 	<string key="trade_none_available">Agotado</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Periodo de asedio</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Empieza en</string>
 	<string key="ui_signup_your_status">Tu estado</string>
+	<string key="ui_signup_restriction_cooldown">Debido al tiempo de recarga de la guerra, se te contará como mercenario de ser elegido.\nPodrás participar en guerras como no mercenario tras: {cooldownTime}</string>
 	<string key="ui_no_permission_alert">No tienes permiso para enviar una alerta.</string>
 	<string key="ui_title_alpha">Fundador</string>
 	<string key="ui_title_preorder">Expedición uno</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Invitación rechazada</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Invitación rechazada. El jugador ya está en el vestíbulo.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Invitación rechazada. El jugador no se ha activado para JcJ correctamente.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitación rechazada. El jugador ha alcanzado el límite de mazmorras.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Invitación rechazada. El jugador ha alcanzado el límite de expedición.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Invitación rechazada. El jugador se encuentra en una facción diferente.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Invitar al vestíbulo</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Solo el creador del vestíbulo puede invitar.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Buscando más miembros...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">No puedes inscribirte mientras estás en un vestíbulo.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">No puedes entrar en la cola de expedición mientras estás en un vestíbulo.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">No puedes entrar en la cola de prueba del alma mientras estás en un vestíbulo.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Grupo completo</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Abrir expedición</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Se necesita un mínimo de {amount} miembros para iniciar esta expedición.</string>

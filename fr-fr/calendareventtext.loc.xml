@@ -12,11 +12,15 @@
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NOUVELLE CHAÎNE DE RÉCOMPENSES JCJ AJOUTÉE</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">Une chaîne de récompenses JcJ contient des récompenses liées au JcJ obtenues en accomplissant des activités JcJ en jeu. Une chaîne peut être terminée et recommencée pour obtenir une sélection de récompenses différente. Plus vous terminez de chaînes, meilleures sont les récompenses proposées.</string>
 	<string key="ui_pvp_rewards_panel1_bullet1_title" rel_version="PvP_Rewards_Track">EXP JCJ</string>
-	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs, en participant aux arènes 3 contre 3 et en gagnant de l'EXP en mode JcJ.</string>
+	<string key="ui_pvp_rewards_panel1_bullet1_text" rel_version="PvP_Rewards_Track">Progressez en accomplissant des missions JcJ, en menant des guerres, en vous battant en Déferlante, en capturant des forteresses, en combattant d'autres joueurs et en participant à des arènes 3 contre 3.</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_title" rel_version="PvP_Rewards_Track">SEL D'AZOTH</string>
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Le sel d'Azoth est la monnaie vous permettant d'acquérir des récompenses de la chaîne JcJ. Vous pouvez obtenir du sel d'Azoth en menant des guerres, en vous battant en Déferlante, en participant aux arènes 3 contre 3, en accomplissant des missions JcJ, en tuant des joueurs dans le monde ouvert et en gagnant de l'EXP en mode JcJ.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RÉCOMPENSES</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Choisissez entre des récompenses uniques telles que des armures et des armes de prestige, des émotes, de la monnaie et des consommables.</string>
+	<string key="ui_event_halloween_rank_0" rel_version="Event_Halloween_Temp">Néophyte</string>
+	<string key="ui_event_halloween_rank_1" rel_version="Event_Halloween_Temp">Sentinelle du Voile nocturne</string>
+	<string key="ui_event_halloween_shop_header" rel_version="Event_Halloween_Temp">Voile nocturne</string>
+	<string key="ui_event_halloween_progress_name" rel_version="Event_Halloween_Temp">Réputation de l'événement</string>
 	<string key="ui_event_weapon_xp_title">SEMAINE BONUS D'EXP D'ARMES</string>
 	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
 	<string key="ui_event_gathering_xp_title">SEMAINE BONUS D'EXP DE RÉCOLTE</string>
@@ -27,8 +31,32 @@
 	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
 	<string key="ui_event_extravaganza_title">LA FÊTE DES BONUS D'EXP</string>
 	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;Début du bonus le :&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_title">ACTIVITÉS DE FIN DE JEU</string>
+	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ffffff" &gt;Vous venez d'atteindre le niveau maximum. Il reste encore plein de choses à faire.&lt;/font&gt;</string>
+	<string key="ui_end_game_panel1_bullet1_title">Expéditions de fin de jeu</string>
+	<string key="ui_end_game_panel1_bullet1_text">Des expéditions de fin de jeu, dont des mutations hebdomadaires variables pour obtenir les meilleures récompenses.</string>
+	<string key="ui_end_game_panel1_bullet2_title">Déferlante</string>
+	<string key="ui_end_game_panel1_bullet2_text">La Déferlante, un champ de bataille à 20 contre 20.</string>
+	<string key="ui_end_game_panel1_bullet3_title">Zones élites</string>
+	<string key="ui_end_game_panel1_bullet3_text">Des repères élites, des arènes d'épreuves et des défis pour groupes dans le monde ouvert.</string>
+	<string key="ui_end_game_panel2_title">AMÉLIOREZ VOTRE ÉQUIPEMENT</string>
+	<string key="ui_end_game_panel2_subtitle">Au niveau 60, vous pouvez&lt;font color="#ffdb7a"&gt; améliorer votre équipement &lt;/font&gt;à des scores d'équipement plus élevés. Pour ce faire, vous devrez récupérer du gypse dans les divers lieux et activités de niveau 60. Rendez-vous à un&lt;font color="#ffdb7a"&gt; four à gypses &lt;/font&gt;pour en savoir plus.</string>
+	<string key="ui_end_game_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; À propos des activités de fin de jeu</string>
 	<string key="ui_event_group_finder_panel1_title" rel_version="Feature_Group_Finder">Recherche de groupe d'Expédition !</string>
 	<string key="ui_event_group_finder_panel1_subtitle" rel_version="Feature_Group_Finder">Disponible depuis la carte ! Accédez à toutes les Expéditions que vous avez déjà visitées au moins une fois en cliquant sur leur icône. À partir de là, vous pouvez naviguer ou poster dans les salons de Recherche de groupe, ou accéder directement à l'Expédition avec votre groupe.</string>
 	<string key="ui_event_group_finder_button_about" rel_version="Feature_Group_Finder">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la Recherche de groupe</string>
+	<string key="ui_event_brimstone_panel1_title" rel_version="Event_Halloween_Temp">Fête du premier anniversaire</string>
+	<string key="ui_event_brimstone_panel1_subtitle" rel_version="Event_Halloween_Temp">Fêtez le premier anniversaire du jeu avec de nouvelles zones, de nouvelles quêtes, de nouveaux ennemis, de nouvelles capacités et de nouvelles récompenses !</string>
+	<string key="ui_event_brimstone_panel1_bullet1_title" rel_version="Event_Halloween_Temp">Nouveau contenu</string>
+	<string key="ui_event_brimstone_panel1_bullet1_text" rel_version="Event_Halloween_Temp">Armez-vous de la toute nouvelle épée longue et du nouveau joyau de cœur et partez explorer les déserts de Sulfure, ou bien découvrez la nouvelle quête de l'histoire principale !</string>
+	<string key="ui_event_brimstone_panel1_bullet2_title" rel_version="Event_Halloween_Temp">Nouvel événement</string>
+	<string key="ui_event_brimstone_panel1_bullet2_text" rel_version="Event_Halloween_Temp">Salvator le moine fou s'est installé sur les grand-places d'Aeternum pour annoncer à qui veut l'entendre l'approche d'un terrible danger.</string>
+	<string key="ui_event_brimstone_panel1_bullet3_title" rel_version="Event_Halloween_Temp">Nouveaux objets cosmétiques</string>
+	<string key="ui_event_brimstone_panel1_bullet3_text" rel_version="Event_Halloween_Temp">L'épée longue, ainsi que des objets de Sulfure et du Voile nocturne sont maintenant disponibles dans la boutique. N'oubliez pas de récupérer vos apparences d'anniversaire gratuites !</string>
+	<string key="ui_event_brimstone_panel2_title" rel_version="Event_Halloween_Temp">Sulfure</string>
+	<string key="ui_event_brimstone_panel2_subtitle" rel_version="Event_Halloween_Temp">Équipez-vous de la nouvelle épée longue et des nouvelles runes de capacité du joyau de cœur pour explorer la nouvelle zone de Sulfure et l'expédition de l'Ennéade ou bien découvrir une quête de l'histoire principale remaniée, avec de nouveaux lieux, PNJ, défis et récompenses.\n\nPour accéder aux quêtes de l'histoire principale de Sulfure, les joueurs doivent avoir terminé les quêtes « Une nature altruiste » (à Bois-Éden) et « Arpenteur des sables » (qui peut être commencée à plusieurs endroits différents).</string>
+	<string key="ui_event_brimstone_panel3_title" rel_version="Event_Halloween_Temp">Voile nocturne</string>
+	<string key="ui_event_brimstone_panel3_subtitle" rel_version="Event_Halloween_Temp">Commence le 18-10-2022 à 10 h 01 (heure de Paris) | Prend fin le 01-11-2022 à 10 h 01 (heure de Paris)\n\nDes silhouettes dans la brume ! Des cris dans la nuit ! Le démon Baalphazu, marquis de l'effroi, et sa horde de citrouillites macabres sèment la terreur dans tout Aeternum ! Aidez Salvator le fou dans sa quête pour bannir ces horreurs ignobles et gagner des récompenses du Voile nocturne à durée limitée !\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(La série de quêtes est déverrouillée au niveau 35)&lt;/font&gt;</string>
+	<string key="ui_event_brimstone_button_about" rel_version="Event_Halloween_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; À propos de la fête d'anniversaire</string>
 </resources>
 

@@ -10,6 +10,7 @@
 	<string key="ui_game_mode_matchmaking_failed">Wystąpił nieoczekiwany błąd dobierania graczy.</string>
 	<string key="ui_game_mode_disabled">Ten tryb gry jest obecnie niedostępny</string>
 	<string key="ui_dungeon_enter_info">W ekspedycji musi pozostać co najmniej &lt;font color={color}&gt;1 osoba&lt;/font&gt;, by nadal była otwarta. Teleportować się teraz?</string>
+	<string key="ui_dungeon_enter_info_solo">&lt;font color={color}&gt;Próba Duszy gotowa&lt;/font&gt;. Teleportować się teraz?</string>
 	<string key="ui_dungeon_enter_info_entered">Ekspedycja jest otwarta!\n&lt;font color={color}&gt;Teleportować się teraz?&lt;/font&gt;</string>
 	<string key="ui_duel_player">Pojedynek</string>
 	<string key="ui_duel_failmessage_invalidname">{playerName} jest niewłaściwym imieniem gracza.</string>
@@ -84,12 +85,13 @@
 	<string key="ui_outpost_rush_title">Napad na posterunek</string>
 	<string key="ui_outpost_rush_invite_status">Zaakceptuj, by dołączyć do bitwy!</string>
 	<string key="ui_outpost_rush_signup_title">NAPAD NA POSTERUNEK</string>
-	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Napad na posterunek&lt;/font&gt; to potyczka drużynowa (20 przeciwko 20), rozgrywana na dużej wyspie z trzema posterunkami.\nGracze rywalizują o kontrolę nad posterunkami i utrzymanie ich jak najdłużej, co zwiększa liczbę punktów ich drużyny.</string>
+	<string key="ui_outpost_rush_signup_desc">&lt;font color="#ffe940"&gt;Napad na posterunek&lt;/font&gt; to potyczka drużynowa (20 przeciwko 20), rozgrywana na dużej wyspie z trzema posterunkami.\nDrużyny rywalizują o kontrolę nad posterunkami i utrzymanie ich, by zwiększyć liczbę swoich punktów.</string>
+	<string key="ui_outpost_rush_signup_desc_gearscore">&lt;font color="#ffe940"&gt;Napad na posterunek&lt;/font&gt; to potyczka drużynowa (20 przeciwko 20), rozgrywana na dużej wyspie z trzema posterunkami.\nDrużyny rywalizują o kontrolę nad posterunkami i utrzymanie ich, by zwiększyć liczbę swoich punktów.\nW tym trybie gry działa &lt;font color="#ffe940"&gt;skalowanie pkt wyposażenia&lt;/font&gt;, co oznacza, że liczba pkt wyposażenia przedmiotów mających mniej niż 600 PW zostaje podniesiona do 600 PW na czas gry.</string>
 	<string key="ui_outpost_rush_signup_goal1">Przejmuj posterunki i utrzymuj nad nimi kontrolę, by zdobywać punkty dla swojej drużyny</string>
 	<string key="ui_outpost_rush_signup_goal2">Pierwsza drużyna, która zdobędzie 1000 punktów, wygrywa</string>
 	<string key="ui_outpost_rush_signup_goal3">Używaj specjalnych zasobów obecnych na wyspie, by atakować i się bronić</string>
 	<string key="ui_outpost_rush_signup_points_number">1000</string>
-	<string key="ui_outpost_rush_signup_points_text">PUNKTÓW</string>
+	<string key="ui_outpost_rush_signup_points_text">PUNKTY</string>
 	<string key="ui_outpost_rush_signup_joinsolo">Graj</string>
 	<string key="ui_outpost_rush_signup_joingroup">Graj z grupą</string>
 	<string key="ui_outpost_rush_signup_joinmid">Chcę dołączyć do trwających rozgrywek &lt;font color="#ffe940"&gt;(krótszy czas oczekiwania)&lt;/font&gt;</string>
@@ -222,8 +224,10 @@
 	<string key="or_tutorial_summoning_creature_body">Znajdź inny albo zaczekaj, aż ten znów będzie dostępny.</string>
 	<string key="emote_unable_to_use_emote">W tym trybie gry nie można używać gestów</string>
 	<string key="ui_durability_loss_outpost_rush">Bierzesz udział w napadzie na posterunek. Twoje wyposażenie nie zostało uszkodzone wskutek śmierci.</string>
-	<string key="ui_durability_loss_war">Bierzesz udział w wojnie lub inwazji. Twoje wyposażenie nie zostało uszkodzone wskutek śmierci.</string>
-	<string key="ui_item_durability_loss">Całe twoje wyposażenie zostało uszkodzone wskutek śmierci.</string>
+	<string key="ui_durability_loss_war">Bierzesz udział w wojnie (lub inwazji). Twoje wyposażenie nie zostało uszkodzone wskutek śmierci.</string>
+	<string key="ui_item_durability_loss">Twoje wyposażenie zostało uszkodzone wskutek śmierci.</string>
+	<string key="ui_item_durability_dungeon">Bierzesz udział w ekspedycji. Twoje wyposażenie nie zostało uszkodzone wskutek śmierci.</string>
+	<string key="ui_item_durability_arena" rel_version="Feature_PVP_Arenas">Przebywasz na arenie. Twoje wyposażenie nie zostało uszkodzone wskutek śmierci.</string>
 	<string key="ui_item_durability_loss_pvp">Zabił cię inny gracz. Twoje wyposażenie zostało nieco uszkodzone.</string>
 	<string key="ui_in_spectators_box">Loża dla widzów</string>
 	<string key="ui_in_spectators_box_description">Zdolności wyłączone</string>
@@ -242,5 +246,6 @@
 	<string key="ui_switching_sides">Zmiana stron</string>
 	<string key="ui_rounds_won">Wygrane rundy</string>
 	<string key="ui_see_through_label">Tryb transparentny</string>
+	<string key="ui_invasion_leave">Opuść inwazję</string>
 </resources>
 

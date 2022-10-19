@@ -73,7 +73,7 @@
 	<string key="mm_loginservices_Commerce">Il tuo account è stato bloccato per attività sospette. Per ulteriori informazioni contatta il servizio clienti.</string>
 	<string key="mm_loginservices_warning_title">AVVERTIMENTO</string>
 	<string key="mm_loginservices_warning_BannedOffensiveName">Il nome del tuo personaggio è stato segnalato come inappropriato. Quando accederai di nuovo, ti verrà chiesto di rinominarlo.</string>
-	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Il nome della tua compagnia è stato segnalato come inappropriato ed è stato aggiornato. Puoi cambiare nome in qualsiasi momento nel pannello dell'IU compagnia [G].</string>
+	<string key="mm_loginservices_warning_BannedOffensiveCompanyName">Il nome della tua compagnia è stato segnalato come inappropriato ed è stato aggiornato. Puoi cambiare nome in qualsiasi momento nel pannello dell'IU compagnia [F4].</string>
 	<string key="mm_loginservices_warning_BannedHacking">Sei stato segnalato per aver utilizzato hack</string>
 	<string key="mm_loginservices_warning_BannedCheating">Sei stato segnalato per aver utilizzato trucchi</string>
 	<string key="mm_loginservices_warning_BannedExploit">Sei stato segnalato per aver sfruttato un bug</string>
@@ -82,7 +82,7 @@
 	<string key="mm_loginservices_warning_BannedLeaking">Sei stato segnalato per aver diffuso contenuti protetti</string>
 	<string key="mm_loginservices_warning_BannedDisruptive">Sei stato segnalato per comportamento molesto</string>
 	<string key="mm_loginservices_warning_OffensiveName">Il nome del tuo personaggio è stato segnalato come inappropriato. Quando accederai di nuovo, ti verrà chiesto di rinominarlo.</string>
-	<string key="mm_loginservices_warning_OffensiveCompanyName">Il nome della tua compagnia è stato segnalato come inappropriato ed è stato aggiornato. Puoi cambiare nome in qualsiasi momento nel pannello dell'IU compagnia [G].</string>
+	<string key="mm_loginservices_warning_OffensiveCompanyName">Il nome della tua compagnia è stato segnalato come inappropriato ed è stato aggiornato. Puoi cambiare nome in qualsiasi momento nel pannello dell'IU compagnia [F4].</string>
 	<string key="mm_loginservices_warning_Cheating">Sei stato segnalato per aver utilizzato trucchi</string>
 	<string key="mm_loginservices_warning_Exploit">Sei stato segnalato per aver sfruttato un bug</string>
 	<string key="mm_loginservices_warning_Botting">Sei stato segnalato per aver utilizzato bot</string>
@@ -105,6 +105,7 @@
 	<string key="mm_loginservices_NotEligibleForFTUE">Accesso negato: La FTUE è già stata completata.</string>
 	<string key="mm_loginservices_InternalError">Malfunzionamento dell'accesso, riprova tra poco.</string>
 	<string key="mm_loginservices_InternalServerErrorException">Malfunzionamento dell'accesso al server, riprova tra poco.</string>
+	<string key="mm_loginservices_InternalFailureException">Malfunzionamento durante l'accesso al server, riprova più tardi.</string>
 	<string key="mm_loginservices_CredentialsError">Credenziali non valide per i servizi di accesso.</string>
 	<string key="mm_loginservices_NameLengthError">Lunghezza del nome non valida.</string>
 	<string key="mm_loginservices_NameNotAvailableError">Questo nome è già in uso.</string>
@@ -115,6 +116,8 @@
 	<string key="mm_loginservices_UnableToConnectError">Impossibile connettersi al servizio di accesso. Riconnessione in corso, attendi...</string>
 	<string key="mm_loginservices_TooManyRequestsException">I server di accesso sono sovraccarichi, riprova tra poco.</string>
 	<string key="mm_loginservices_NoConnection">Il servizio di accesso non è attualmente disponibile. Potrebbero esserci problemi di connessione a Internet. Riconnessione in corso, attendi...</string>
+	<string key="mm_loginservices_SteamAuthRequired">Autenticazione di Steam non riuscita.\nEsci dal gioco, riavvia Steam e riprova.</string>
+	<string key="mm_loginservices_NO_GATEWAY">La configurazione di accesso non è valida.</string>
 	<string key="mm_loginservices_location_DEFAULT000">Sei in coda per il mondo aperto...</string>
 	<string key="mm_loginservices_location_FTUE000">Sei in coda come nuovo giocatore...</string>
 	<string key="mm_loginservices_location_FTUE9011">Sei in coda come nuovo giocatore...</string>
@@ -173,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Errore del server: Avvio copia non riuscito.</string>
 	<string key="mm_rejected_Server_Crash">Inattesa perdita di connessione con il server di gioco, riprova più tardi.</string>
 	<string key="mm_rejected_Free_Session_Expired">Il tempo a disposizione per il gioco gratuito è terminato.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">Il ticket di accesso non è valido per il mondo</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Accesso negato: Non sei autorizzato a entrare in questo mondo.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Espulsione</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Sei stato espulso dal gioco.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Sei stato espulso dal gioco perché sei stato via troppo a lungo.</string>
@@ -300,7 +305,7 @@
 	<string key="ui_how_it_works">Come funziona</string>
 	<string key="ui_pvp_track_skills_tab" rel_version="PvP_Rewards_Track">PvP</string>
 	<string key="ui_pvp_track" rel_version="PvP_Rewards_Track">Percorso PvP</string>
-	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Checkpoint {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgredisci nel tuo percorso impegnandoti in missioni PvP, Guerra, Carica all'avamposto, conquista di forti, sconfitta di altri giocatori, arene 3 vs 3 e ottenendo PE con PvP attivo.</string>
+	<string key="ui_pvp_track_progress_bar_tooltip" rel_version="PvP_Rewards_Track">&lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Checkpoint {checkpoint}:&lt;/font&gt; {currentProgression}/{maxProgression}\n\nProgredisci nel tuo percorso impegnandoti in missioni PvP, Guerra, Carica all'avamposto, conquista di forti, sconfitta di altri giocatori e arene 3 vs 3.</string>
 	<string key="ui_pvp_track_next_track_tooltip" rel_version="PvP_Rewards_Track">Per poter iniziare il percorso successivo devi prima completare tutti i checkpoint. Se scegli una ricompensa a ogni checkpoint, inizierai automaticamente il percorso successivo.\n\nPer ogni checkpoint in cui rinunci a scegliere una ricompensa riceverai 300 unità di sale di Azoth all'inizio del percorso successivo.</string>
 	<string key="ui_pvp_track_unknown_item_tooltip" rel_version="PvP_Rewards_Track">Le possibili ricompense verranno rivelate dopo aver completato il checkpoint.</string>
 	<string key="ui_pvp_track_completions" comment="The number of times they have completed the track. Like a level" rel_version="PvP_Rewards_Track">Percorsi completati</string>
@@ -322,7 +327,7 @@
 	<string key="ui_pvp_track_tut_title3" rel_version="PvP_Rewards_Track">Sale di Azoth</string>
 	<string key="ui_pvp_track_tut_title4" rel_version="PvP_Rewards_Track">Ricompense</string>
 	<string key="ui_pvp_track_tut_desc1" rel_version="PvP_Rewards_Track">Il percorso di ricompense PvP contiene ricompense specifiche che si conseguono svolgendo attività PvP nel gioco. Il percorso può essere completato e ripetuto per ottenere una diversa selezione di ricompense, con ricompense più prestigiose che diventano disponibili man mano che vengono completati più percorsi.</string>
-	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progredisci nel tuo percorso impegnandoti in missioni PvP, Guerra, Carica all'avamposto, conquista di forti, sconfitta di altri giocatori, arene 3 vs 3 e ottenendo PE con PvP attivo.</string>
+	<string key="ui_pvp_track_tut_desc2" rel_version="PvP_Rewards_Track">Progredisci nel tuo percorso impegnandoti in missioni PvP, Guerra, Carica all'avamposto, conquista di forti, sconfitta di altri giocatori e arene 3 vs 3.</string>
 	<string key="ui_pvp_track_tut_desc3" rel_version="PvP_Rewards_Track">Il sale di Azoth è la valuta che ti consente di ottenere ricompense nei percorsi PvP. Puoi ottenere sale di Azoth impegnandoti in Guerra, Carica all'avamposto e arene 3 vs 3, missioni PvP, uccisioni di personaggi PvP in mondo aperto e ottenendo PE con PvP attivo.</string>
 	<string key="ui_pvp_track_tut_desc4" rel_version="PvP_Rewards_Track">Scegli tra ricompense uniche come armature e armi prestigiose, emote, valute e consumabili.</string>
 	<string key="ui_pvp_track_leveltext" rel_version="PvP_Rewards_Track">&lt;font color="#FFFFFF" &gt;{level}&lt;/font&gt; Percorsi completati</string>
@@ -337,7 +342,7 @@
 	<string key="ui_pvp_track_bannerrewards_2" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Equipaggiamento speciale \n+Più valuta</string>
 	<string key="ui_pvp_track_bannerrewards_3" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Equipaggiamento prestigioso \n+Emote \n+Pacchetti di fiale di sale</string>
 	<string key="ui_pvp_track_bannerrewards_4" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Gesso \n+Più valuta \n+Più schegge dell'ombra</string>
-	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Emote \n+Più schegge dell'ombra </string>
+	<string key="ui_pvp_track_bannerrewards_5" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Emote \n+Più schegge dell'ombra</string>
 	<string key="ui_pvp_track_bannerrewards_6" rel_version="PvP_Rewards_Track">Ricompense in palio: \n+Emote \nPiù valuta \n+Più oggetti lasciati</string>
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Traguardo percorso {milestone} presso:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Traguardo percorso {milestone}</string>
@@ -446,7 +451,7 @@
 	<string key="inv_salvage_tooltip_range_repairparts" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recuperando questo oggetto otterrai: {min}-{max} {itemName} e {numRepairParts} pezzi di ricambio. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recuperando questo oggetto otterrai {min}-{max} {itemName} e {coinAmount}. {gemMessage}</string>
 	<string key="inv_salvage_tooltip_range_repairparts_coin" comment="{gemMessage} may be empty or replaced by inv_salvage_tooltip_gemmessage">Recuperando questo oggetto otterrai {min}-{max} {itemName}, {numRepairParts} pezzi di ricambio e {coinAmount}. {gemMessage}</string>
-	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">C'è una piccola possibilità di recuperare la gemma incastonata.</string>
+	<string key="inv_salvage_tooltip_gemmessage" comment="this will come after a previous sentence and should have a space in front">C'è una possibilità di recuperare la gemma incastonata.</string>
 	<string key="inv_salvage_tooltip_additional_item" comment="This only applies to fishing when there is a chance to receive additional items.">Puoi acquisire anche oggetti aggiuntivi, come {itemName}.</string>
 	<string key="inv_salvage_tooltip_recipe">Recuperando questo oggetto apprenderai la ricetta: {recipeName}.</string>
 	<string key="inv_salvage_tooltip_recipe_known">Conosci già la ricetta per {recipeName}.</string>
@@ -472,6 +477,7 @@
 	<string key="minspec_os_win7_warning">Avviso: È stato rilevato Windows 7. New World funziona meglio su Windows 10 e versioni successive. La tua esperienza di gioco potrebbe non essere ottimale.</string>
 	<string key="minspec_fail_try_again">Controlla il failure log per capire qual è il requisito minimo mancante.</string>
 	<string key="ui_rename_character">Rinomina personaggio</string>
+	<string key="ui_rename">Rinomina</string>
 	<string key="ui_rename_character_title">Nome personaggio</string>
 	<string key="ui_rename_report_description">Il nome del tuo personaggio è stato segnalato come inappropriato. Quando accederai di nuovo, ti verrà chiesto di rinominarlo.</string>
 	<string key="ui_rename_required">Devi rinominare &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;{name}&lt;/font&gt;.</string>

@@ -22,6 +22,7 @@
 	<string key="ui_musical_performances_instrument_required_to_start" rel_version="Feature_MusicalPerformances">Debes seleccionar al menos 2 partes para actuar.</string>
 	<string key="ui_musical_performances_timeout_inactivity" rel_version="Feature_MusicalPerformances">Tu actuación ha caducado debido a la inactividad.</string>
 	<string key="ui_musical_performances_cannot_place_too_close_to_restricted" rel_version="Feature_MusicalPerformances">No puedes colocar una actuación aquí: demasiado cerca de una zona restringida.</string>
+	<string key="ui_musical_performances_createfailed_inhouse" rel_version="Feature_MusicalPerformances">No puedes empezar una actuación si estás dentro de una casa.</string>
 	<string key="ui_musical_performances_no_part_selected" rel_version="Feature_MusicalPerformances">No has seleccionado ninguna parte.</string>
 	<string key="ui_musical_performances_tooltip_description" rel_version="Feature_MusicalPerformances">Partitura de {instrument}</string>
 	<string key="ui_musical_performances_tooltip_tip" rel_version="Feature_MusicalPerformances">Recoge las páginas para completar la partitura de cada instrumento.</string>
@@ -72,6 +73,7 @@
 	<string key="ui_musical_performances_watching_tips_timer" rel_version="Feature_MusicalPerformances">TEMPORIZADOR DE PROPINAS</string>
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">ESPERANDO PROPINAS...</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Finalizar ahora y recibir propinas</string>
+	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds} s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">¡ACTUACIÓN\nCOMPLETADA!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">¡Increíble!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">¡Genial!</string>
@@ -139,12 +141,13 @@
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Name" rel_version="Feature_MusicalPerformances">Centro de atención</string>
 	<string key="PerkID_MusicalInstrument_OpeningNotesPerfect_Description" rel_version="Feature_MusicalPerformances">Las tres primeras notas son siempre perfectas.</string>
 	<string key="PerkID_MusicalInstrument_IgnoreMissedNotes_Description" rel_version="Feature_MusicalPerformances">Cometer un error en la primera nota no tiene importancia.</string>
-	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">El grupo de actuación recibirá ahora toda la propina.</string>
+	<string key="PerkID_MusicalInstrument_RakeReduction_Description" rel_version="Feature_MusicalPerformances">El artista recibirá ahora toda la propina.</string>
 	<string key="PerkID_MusicalInstrument_FinalNotePerfectXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar la última nota perfectamente otorga al jugador un 10 % de mejora de EXP musical.</string>
 	<string key="PerkID_MusicalInstrument_GroupXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en un grupo otorga al jugador un 10 % de mejora de EXP musical.</string>
 	<string key="PerkID_MusicalInstrument_SoloXPBonus_Description" rel_version="Feature_MusicalPerformances">Tocar en solitario otorga al jugador un 10 % de mejora de EXP musical.</string>
 	<string key="ui_music_guitar_part_1" rel_version="Feature_MusicalPerformances">Guitarra (parte 1)</string>
 	<string key="ui_music_guitar_part_2" rel_version="Feature_MusicalPerformances">Guitarra (parte 2)</string>
+	<string key="ui_music_guitar_part_3" rel_version="Feature_MusicalPerformances">Guitarra (parte 3)</string>
 	<string key="ui_music_flute_part_1" rel_version="Feature_MusicalPerformances">Flauta (parte 1)</string>
 	<string key="ui_music_flute_part_2" rel_version="Feature_MusicalPerformances">Flauta (parte 2)</string>
 	<string key="ui_music_ubass_part_1" rel_version="Feature_MusicalPerformances">Contrabajo (parte 1)</string>
@@ -187,14 +190,17 @@
 	<string key="songtitle_Seed" rel_version="Feature_MusicalPerformances">Prado salvaje</string>
 	<string key="songtitle_Set" rel_version="Feature_MusicalPerformances">Antes de la tormenta</string>
 	<string key="songtitle_Trust" rel_version="Feature_MusicalPerformances">Luz menguante</string>
-	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformances">Hojas de fierro</string>
-	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformances">Compañeros de Guardaelviento</string>
-	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformances">Mena-moré de ti</string>
-	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformances">Mi campamento</string>
-	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformances">Mi hogar</string>
-	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformances">Hojas del sino</string>
-	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformances">El tañer de las campanas</string>
-	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformances">La red de tejedora</string>
-	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformances">El niño en la montaña</string>
+	<string key="songtitle_Brown_Leaves" rel_version="Feature_MusicalPerformancesV2">Hojas de fierro</string>
+	<string key="songtitle_Down_The_Lane" rel_version="Feature_MusicalPerformancesV2">Compañeros de Guardaelviento</string>
+	<string key="songtitle_How_Ore_You_Today" rel_version="Feature_MusicalPerformancesV2">Mena-moré de ti</string>
+	<string key="songtitle_The_Camp" rel_version="Feature_MusicalPerformancesV2">Mi campamento</string>
+	<string key="songtitle_The_Camp_Grows" rel_version="Feature_MusicalPerformancesV2">Mi hogar</string>
+	<string key="songtitle_Blue_Leaves" rel_version="Feature_MusicalPerformancesV2">Hojas del sino</string>
+	<string key="songtitle_Sounds_Of_Bells" rel_version="Feature_MusicalPerformancesV2">El tañer de las campanas</string>
+	<string key="songtitle_Weavers_Webb" rel_version="Feature_MusicalPerformancesV2">La red de tejedora</string>
+	<string key="songtitle_The_Kid_On_The_Mountain" rel_version="Feature_MusicalPerformancesV2">El niño en la montaña</string>
+	<string key="songtitle_That_Damn_Fish" rel_version="Feature_MusicalPerformancesV2">Ese maldito pez</string>
+	<string key="songtitle_Soup_Of_The_Day" rel_version="Feature_MusicalPerformancesV2">Sopa del día</string>
+	<string key="songtitle_Canarios" rel_version="Feature_MusicalPerformancesV2">Canarios</string>
 </resources>
 

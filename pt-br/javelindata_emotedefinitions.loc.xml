@@ -237,6 +237,9 @@
 	<string key="ui_emote_TalkToHand_name" rel_version="Emote_TalkToHand">Fale com a Minha Mão</string>
 	<string key="ui_emote_TalkToHand_description" rel_version="Emote_TalkToHand">“Confie em mim, ela é toda ouvidos.”</string>
 	<string key="emote_TalkToHand" rel_version="Emote_TalkToHand">{playerName} faz você falar com sua mão.</string>
+	<string key="ui_emote_Panic_name" rel_version="Emote_Panic">Pânico</string>
+	<string key="ui_emote_Panic_description" rel_version="Emote_Panic">“Nada, absolutamente nada está bem.”</string>
+	<string key="emote_Panic" rel_version="Emote_Panic">{playerName} enlouquece e entra em pânico da pior maneira imaginável.</string>
 	<string key="ui_emote_BaladiDance_name" rel_version="Emote_BaladiDance">Dança Baladi</string>
 	<string key="ui_emote_BaladiDance_description" rel_version="Emote_BaladiDance">“Uma combinação hábil e sensual de movimentos.”</string>
 	<string key="emote_BaladiDance" rel_version="Emote_BaladiDance">{playerName} rodopia no ritmo da dança.</string>
@@ -261,7 +264,7 @@
 	<string key="emote_SparklerDance" rel_version="Emote_SparklerDance">{playerName} dança com faíscas.</string>
 	<string key="emote_TugOfWar" rel_version="Emote_TugOfWar">{playerName} faz a mímica de um laço e cabo de guerra.</string>
 	<string key="ui_emote_FingerGun_name" rel_version="Emote_FingerGuns">Armas com os Dedos</string>
-	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">“Acerte-os com seu melhor disparo.”</string>
+	<string key="ui_emote_FingerGun_description" rel_version="Emote_FingerGuns">“Acerte-os com seu melhor disparo.” \nGolpe Final: Este gesto causa uma quantidade pequena de dano.</string>
 	<string key="emote_FingerGun" rel_version="Emote_FingerGuns">{playerName} faz um sinal de arma com os dedos.</string>
 	<string key="ui_emote_AirGuitar_name" rel_version="Emote_AirGuitar">Fritação de Guitarra</string>
 	<string key="ui_emote_AirViolin_name" rel_version="Emote_AirViolin">Violino Triste</string>
@@ -275,6 +278,9 @@
 	<string key="ui_emote_WiggleArms_name" rel_version="Emote_WiggleArms">Dança da Moleza</string>
 	<string key="ui_emote_WiggleArms_description" rel_version="Emote_WiggleArms">“Em uma ilha repleta de horrores, às vezes é importante dar uma relaxada no seu corpo.”</string>
 	<string key="emote_WiggleArms" rel_version="Emote_WiggleArms">{playerName} relaxa o corpo.</string>
+	<string key="ui_emote_Stab_name" rel_version="Emote_Stab">Apunhalar</string>
+	<string key="ui_emote_Stab_description" rel_version="Emote_Stab">“Que comecem as apunhaladas!”</string>
+	<string key="emote_Stab" rel_version="Emote_Stab">{playerName} começa a esfaquear freneticamente.</string>
 	<string key="ui_emote_MicDrop_name" rel_version="Emote_MicDrop">Soltar Microfone</string>
 	<string key="ui_emote_MicDrop_description" rel_version="Emote_MicDrop">“Finalize seus argumentos em grande estilo.”</string>
 	<string key="emote_MicDrop" rel_version="Emote_MicDrop">{playerName} solta seu dispositivo imaginário com finalidade.</string>
@@ -283,20 +289,41 @@
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">Um Brinde!</string>
 	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">“Beba pela saúde de seus caros companheiros.”</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} brinda em nome da saúde.</string>
+	<string key="ui_emote_HearNoEvil_name" rel_version="Emote_HearNoEvil">Não Escute o Mal</string>
+	<string key="ui_emote_SeeNoEvil_name" rel_version="Emote_SeeNoEvil">Não Veja o Mal</string>
+	<string key="ui_emote_SpeakNoEvil_name" rel_version="Emote_SpeakNoEvil">Não Fale do Mal</string>
+	<string key="ui_emote_DigGrave_name" rel_version="Emote_DigGrave">Cave uma Cova</string>
 	<string key="ui_emote_TableFlip_name" rel_version="Emote_TableFlip">Virar a Mesa</string>
 	<string key="ui_emote_Vanity_name" rel_version="Emote_Vanity">Vaidade</string>
 	<string key="ui_emote_KnightThee_name" rel_version="Emote_KnightThee">Eu Te Nomeio</string>
 	<string key="ui_emote_CrazyTapDance_name" rel_version="Emote_CrazyTapDance">Sapateado Selvagem</string>
 	<string key="ui_emote_ChaplinWalk_name" rel_version="Emote_TrampWalk">Caminhada de Meliante</string>
-	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">“Quando sua raiva passa dos limites, a mesa paga o preço.”</string>
+	<string key="ui_emote_HearNoEvil_description" rel_version="Emote_HearNoEvil">“Me recuso a escutar sobre este mal.”</string>
+	<string key="ui_emote_SeeNoEvil_description" rel_version="Emote_SeeNoEvil">“Me recuso a ver este mal.”</string>
+	<string key="ui_emote_SpeakNoEvil_description" rel_version="Emote_SpeakNoEvil">“Me recuso a falar sobre este mal.”</string>
+	<string key="ui_emote_DigGrave_description" rel_version="Emote_DigGrave">“Ao partir para a vingança, cave uma cova. É tudo o que vai precisar.”</string>
+	<string key="ui_emote_TableFlip_description" rel_version="Emote_TableFlip">“Quando sua raiva passa dos limites, a mesa paga o preço.” \nGolpe Final: Este gesto causa uma quantidade pequena de dano.</string>
 	<string key="ui_emote_Vanity_description" rel_version="Emote_Vanity">“Olhe para confirmar se você é realmente a pessoa mais bonita de todas.”</string>
 	<string key="ui_emote_KnightThee_description" rel_version="Emote_KnightThee">“Conceda a honra e a obrigação do título de cavaleiro.”</string>
 	<string key="ui_emote_CrazyTapDance_description" rel_version="Emote_CrazyTapDance">“Tap tap tap tap tap tap tap.”</string>
 	<string key="ui_emote_ChaplinWalk_description" rel_version="Emote_TrampWalk">“Você pode não ter muita coisa, mas tem esse jeito de caminhar.”</string>
+	<string key="emote_HearNoEvil" rel_version="Emote_HearNoEvil">{playerName} tampa os ouvidos.</string>
+	<string key="emote_HearNoEvil_SHE" rel_version="Emote_HearNoEvil">{playerName} tampa os ouvidos.</string>
+	<string key="emote_HearNoEvil_THEY" rel_version="Emote_HearNoEvil">{playerName} tampa os ouvidos.</string>
+	<string key="emote_SeeNoEvil" rel_version="Emote_SeeNoEvil">{playerName} cobre os olhos.</string>
+	<string key="emote_SeeNoEvil_SHE" rel_version="Emote_SeeNoEvil">{playerName} cobre os olhos.</string>
+	<string key="emote_SeeNoEvil_THEY" rel_version="Emote_SeeNoEvil">{playerName} cobre os olhos.</string>
+	<string key="emote_SpeakNoEvil" rel_version="Emote_SpeakNoEvil">{playerName} cobre a boca.</string>
+	<string key="emote_SpeakNoEvil_SHE" rel_version="Emote_SpeakNoEvil">{playerName} cobre a boca.</string>
+	<string key="emote_SpeakNoEvil_THEY" rel_version="Emote_SpeakNoEvil">{playerName} cobre a boca.</string>
+	<string key="emote_DigGrave" rel_version="Emote_DigGrave">{playerName} começa a cavar uma cova.</string>
 	<string key="emote_TableFlip" rel_version="Emote_TableFlip">{playerName} vira uma mesa.</string>
 	<string key="emote_Vanity" rel_version="Emote_Vanity">{playerName} se admira no espelho.</string>
 	<string key="emote_KnightThee" rel_version="Emote_KnightThee">{playerName} confere o título de cavaleiro.</string>
 	<string key="emote_CrazyTapDance" rel_version="Emote_CrazyTapDance">{playerName} começa um sapateado selvagem.</string>
 	<string key="emote_ChaplinWalk" rel_version="Emote_TrampWalk">{playerName} faz uma caminhada engraçada com uma bengala.</string>
+	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Rodopio de Esqueleto</string>
+	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">“Faça esses ossos se moverem com um rodopio delicado.”</string>
+	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} rodopia delicadamente.</string>
 </resources>
 

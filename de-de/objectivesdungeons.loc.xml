@@ -64,6 +64,7 @@
 	<string key="dungeon_reekwater_task_control_07">Sammle das Herz eines Ahnenwächters.</string>
 	<string key="dungeon_reekwater_task_boss_01">Bringe das Herz des Ahnenwächters zu dem Gerät im Zentrum des Lazarus-Instrumentariums.</string>
 	<string key="dungeon_reekwater_task_boss_02">Besiege Chardis.</string>
+	<string key="dungeon_reekwater_task_victory_celebration">Verlasse das Lazarus-Instrumentarium.</string>
 	<string key="dungeon_reekwater_task_complete">Verlasse das Lazarus-Instrumentarium.</string>
 	<string key="dungeon_ebonscale00_title">Die Schiffswerft der Dynastie</string>
 	<string key="dungeon_ebonscale00_description">Durchkreuze die Pläne der Kaiserin.</string>
@@ -73,14 +74,14 @@
 	<string key="dungeon_cutlasskeys00_lever_interact" rel_version="Expedition_CutlassKeys_00">Hebel drücken</string>
 	<string key="dungeon_cutlasskeys00_task_explore" rel_version="Expedition_CutlassKeys_00">Erlange Zutritt zum Versteck der Piratenflaggen-Piraten.</string>
 	<string key="dungeon_cutlasskeys00_task_explore_talk" rel_version="Expedition_CutlassKeys_00">Sprich mit Antonio, um mehr über die Piratenflaggen-Piraten zu erfahren.</string>
-	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Öffne das Tor mit dem Hebel und betritt das Piratenflaggen-Versteck.</string>
+	<string key="dungeon_cutlasskeys00_task_open_entry_gate" rel_version="Expedition_CutlassKeys_00">Benutze eine Fernkampfwaffe, um den Hebel zu betätigen und das Versteck der Piratenflaggen zu betreten.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_hideout" rel_version="Expedition_CutlassKeys_00">Spüre Admiral Schwarzpulver und seine Mannschaft auf.</string>
 	<string key="dungeon_cutlasskeys00_task_destroy_barrier" rel_version="Expedition_CutlassKeys_00">Suche einen Hebel, um das Tor zu öffnen.</string>
 	<string key="dungeon_cutlasskeys00_task_dockpassage" rel_version="Expedition_CutlassKeys_00">Finde eine Passage hinunter zum Schiff in der Piratenflaggen-Bucht.</string>
 	<string key="dungeon_cutlasskeys00_task_find_lever_docks" rel_version="Expedition_CutlassKeys_00">Suche noch einen Hebel, um das Tor zu öffnen.</string>
 	<string key="dungeon_cutlasskeys00_task_enter_passage" rel_version="Expedition_CutlassKeys_00">Gehe weiter in die Trockenrum-Passage.</string>
 	<string key="dungeon_cutlasskeys00_task_open_blocked_passage" rel_version="Expedition_CutlassKeys_00">Navigiere um den blockierten Durchgang herum und suche nach einer Zündschnur, um den Sprengstoff zu zünden.</string>
-	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Besiege die Piratenflaggen-Alligatoren.</string>
+	<string key="dungeon_cutlasskeys00_task_defeat_alligators" rel_version="Expedition_CutlassKeys_00">Besiege die Piratenflaggen-Alligatoren und die Piratencrew.</string>
 	<string key="dungeon_cutlasskeys00_task_find_explosives" rel_version="Expedition_CutlassKeys_00">Gehe durch das offene Tor und suche weiter nach einer Zündschnur, um den eingestürzten Durchgang zu räumen.</string>
 	<string key="dungeon_cutlasskeys00_task_pickup_explosives" rel_version="Expedition_CutlassKeys_00">Nimm die Zündschnur aus der Werkzeugkiste.</string>
 	<string key="dungeon_cutlasskeys00_task_return_explosives" rel_version="Expedition_CutlassKeys_00">Bringe die Zündschnur zum eingestürzten Durchgang in der Trockenrum-Passage.</string>
@@ -125,6 +126,7 @@
 	<string key="dungeon_restlessshores01_task_get_thru_door">Durchbrich mit 3 Azoth-Stäben die Barriere.</string>
 	<string key="dungeon_restlessshores01_task_enter_arena">Betritt Kommandant Thorpes Arena.</string>
 	<string key="dungeon_restlessshores01_task_defeat_thorpe">Besiege Kommandant Thorpe.</string>
+	<string key="dungeon_restlessshores01_task_victory_celebration">Kehre zur Unsteten Küste zurück.</string>
 	<string key="dungeon_restlessshores01_task_return_shores">Kehre zur Unsteten Küste zurück.</string>
 	<string key="DungeonRestlessShores_MinorMonolith">Zerstöre den Monolithen.</string>
 	<string key="dungeon_edengrove00_title">Garten des Ursprungs</string>
@@ -149,6 +151,7 @@
 	<string key="dungeon_edengrove00_task_defeat_fulgda">Besiege Bogenschütze Fulg‘da.</string>
 	<string key="dungeon_edengrove00_task_find_heart">Begib dich jetzt zum Verfaulten Herzen des Ursprungs. Es muss gereinigt werden.</string>
 	<string key="dungeon_edengrove00_task_defeat_greenskeeper">Besiege den Verfaulten Gartenwächter.</string>
+	<string key="dungeon_edengrove_task_victory_celebration">Kehre an die Oberfläche zurück; das Verfaulte Herz des Ursprungs wurde geläutert.</string>
 	<string key="dungeon_edengrove00_task_use_portalstone">Kehre an die Oberfläche zurück; das Verfaulte Herz des Ursprungs wurde geläutert.</string>
 	<string key="DungeonUsePurifyingFlame">Erfordert eine Läuternde Flamme</string>
 	<string key="DungeonDepositPurifyingFlame">Mit der Läuternden Flamme entzünden</string>
@@ -177,6 +180,21 @@
 	<string key="dungeon_ebonscale00_task_find_empress">Finde Kaiserin Zhou im Palast.</string>
 	<string key="dungeon_ebonscale00_task_defeat_empress">Besiege Kaiserin Zhou!</string>
 	<string key="dungeon_ebonscale00_task_leave_dungeon">Verlasse die Schiffswerft.</string>
+	<string key="dungeon_brimstone_title" rel_version="Expedition_BrimstoneSands_00">Die Enneade</string>
+	<string key="dungeon_brimstonesands00_title" rel_version="Expedition_BrimstoneSands_00">Die Enneade</string>
+	<string key="dungeon_brimstone_description" rel_version="Expedition_BrimstoneSands_00">Untersuche die Enneade und finde heraus, welche Geheimnisse die Ahnen an diesem zeitlosen Ort verborgen haben.</string>
+	<string key="dungeon_brimstonesands00_description" rel_version="Expedition_BrimstoneSands_00">Untersuche die Enneade und finde heraus, welche Geheimnisse die Ahnen an diesem zeitlosen Ort verborgen haben.</string>
+	<string key="dungeon_brimstonesands00_required_equipment" rel_version="Expedition_BrimstoneSands_00">3 Azoth-Stäbe</string>
+	<string key="dungeon_brimstone_task_defeat_shai" rel_version="Expedition_BrimstoneSands_00">Besiege Shai und seine Vasallen, um die Tür zu öffnen und die Tiefen der Enneade zu erkunden</string>
+	<string key="dungeon_brimstone_task_reach_scarab" rel_version="Expedition_BrimstoneSands_00">Finde einen Weg an den Verteidigern der Enneade vorbei.</string>
+	<string key="dungeon_brimstone_task_defeat_scarab_boss" rel_version="Expedition_BrimstoneSands_00">Besiege den Kleinen Himmels-Khepri.</string>
+	<string key="dungeon_brimstone_task_open_corrupted_gate" rel_version="Expedition_BrimstoneSands_00">Verwende die Macht der 3 Azoth-Stäbe, um die Verderbnis zu vernichten, die den Weg blockiert.</string>
+	<string key="dungeon_brimstone_task_battle_through_legion" rel_version="Expedition_BrimstoneSands_00">Kämpfe dich durch die Überreste der 19. Legion.</string>
+	<string key="dungeon_brimstone_task_defeat_crassus" rel_version="Expedition_BrimstoneSands_00">Besiege General Crassus</string>
+	<string key="dungeon_brimstone_task_reach_apex_of_ennead" rel_version="Expedition_BrimstoneSands_00">Erreiche die Spitze der Enneade.</string>
+	<string key="dungeon_brimstone_task_defeat_goliaths" rel_version="Expedition_BrimstoneSands_00">Besiege Anpu und Heru</string>
+	<string key="dungeon_brimstone_task_victory_celebration" rel_version="Expedition_BrimstoneSands_00">Verlasse die Enneade</string>
+	<string key="dungeon_brimstone_task_exit_expedition" rel_version="Expedition_BrimstoneSands_00">Verlasse die Enneade.</string>
 	<string key="dungeon_ebonscale_required_equipment">1 Azoth-Stab</string>
 	<string key="dungeon_restlessshores01_required_equipment">3 Azoth-Stäbe</string>
 	<string key="dungeon_shattermtn00_title" rel_version="Expedition_ShatterMtn_00">Herz des Sturmwinds</string>
@@ -214,8 +232,20 @@
 	<string key="dungeon_shattermtn00_task_enter_portal_naga" rel_version="Expedition_ShatterMtn_00">Betritt das Portal zum Unheilstunnel noch einmal.</string>
 	<string key="dungeon_shattermtn00_task_void_tunnel_03" rel_version="Expedition_ShatterMtn_00">Bahne dir den Weg durch den Unheilstunnel.</string>
 	<string key="dungeon_shattermtn00_task_defeat_isabella_final" rel_version="Expedition_ShatterMtn_00">Besiege Isabella.</string>
+	<string key="dungeon_shattermtn00_task_victory_celebration" rel_version="Expedition_ShatterMtn_00">Verlasse die Expedition "Herz des Sturmwinds".</string>
 	<string key="dungeon_shattermtn00_task_dungeon_complete" rel_version="Expedition_ShatterMtn_00">Verlasse die Expedition "Herz des Sturmwinds".</string>
 	<string key="DungeonUseRelicBubble" rel_version="Expedition_ShatterMtn_00">Erfordert den Reliquienschrein</string>
 	<string key="dungeon_open_conversation" rel_version="Expedition_CutlassKeys_00">Untersuchen</string>
+	<string key="Quest_Apophis_title" rel_version="Territory_Brimstone_Sands">Nekropole von Sutekh</string>
+	<string key="Quest_Apophis_description" rel_version="Territory_Brimstone_Sands">Verhindere, dass Apophis den mächtigen Alten, Sutekh, wiedererweckt, oder ganz Aeternum wird in den Wahnsinn getrieben</string>
+	<string key="quest_apophis_task_approach" rel_version="Territory_Brimstone_Sands">Nähere dich dem Sarkophag der Ahnen</string>
+	<string key="quest_apophis_task_destroy_apophis" rel_version="Territory_Brimstone_Sands">Besiege Apophis</string>
+	<string key="quest_apophis_task_leave" rel_version="Territory_Brimstone_Sands">Erkunde die Nekropole und verlasse die Seelenprüfung</string>
+	<string key="Quest_Apophis_required_equipment" rel_version="Territory_Brimstone_Sands">1 Azoth-Stab</string>
+	<string key="ui_solo_arena_leave" rel_version="Territory_Brimstone_Sands">Verlasse die Seelenprüfung</string>
+	<string key="ui_solo_arena_leave_desc" rel_version="Territory_Brimstone_Sands">Möchtest du die Seelenprüfung wirklich verlassen?</string>
+	<string key="ui_solo_arena_leave_desc_time" rel_version="Territory_Brimstone_Sands">Willst du die Seelenprüfung wirklich verlassen?\nDu kannst dich &lt;font color="#ffdb7a"&gt;[{time}]&lt;/font&gt; lang nicht mehr in die Warteschlange für eine Seelenprüfung einreihen.</string>
+	<string key="ui_solo_arena_leave_title" rel_version="Territory_Brimstone_Sands">Seelenprüfung verlassen?</string>
+	<string key="ui_cannot_travel_solo_arena" rel_version="Territory_Brimstone_Sands">Schnellreise nicht möglich, während du in einer Seelenprüfung bist.</string>
 </resources>
 

@@ -43,8 +43,10 @@
 	<string key="owg_drop_item_title">Upuść przedmiot fabularny</string>
 	<string key="owg_drop_item_warning">Upuszczenie lub przechowanie tego przedmiotu zniszczy go.</string>
 	<string key="owg_entershop_button">Kup nagrody</string>
+	<string key="owg_price_update">Ceny uległy zmianie z powodu działań frakcji</string>
 	<string key="owg_faction_select_no">Nie, muszę to przemyśleć.</string>
 	<string key="owg_faction_select_title">Dołączyć do tej frakcji?</string>
+	<string key="owg_faction_select_title_incompany">Uwaga! Twoja kompania należy do innej frakcji!</string>
 	<string key="owg_faction_select_warning">Tej decyzji nie można cofnąć.</string>
 	<string key="owg_faction_select_yes">Tak, sprzymierz się z frakcją: {faction}.</string>
 	<string key="owg_faction_select_confirm">Kompanię mogą tworzyć tylko gracze należący do tej samej frakcji. Gracze oznaczeni do PvP mogą formować grupy tylko z graczami należącymi do tej samej frakcji. Zanim dołączysz do wybranej frakcji, warto sprawdzić, jaką frakcję wybrali twoi znajomi w New World.\n\nWybór ten nie jest nieodwracalny – możesz jednorazowo zmienić frakcję na ekranie biografii. Następnie będzie można zmienić frakcję co &lt;font color="#FFD45F"&gt;60 dni&lt;/font&gt;.</string>
@@ -101,7 +103,7 @@
 	<string key="owg_factionwarinfo_title_5" rel_version="PvP_Rewards_Track">ŚCIEŻKA NAGRÓD PVP</string>
 	<string key="owg_factionwarinfo_title_5_desc_1_bullet_1" rel_version="PvP_Rewards_Track">Ścieżka nagród PvP zawiera nagrody związane z trybem PvP, które można zdobyć za wykonywanie aktywności PvP. Po ukończeniu ścieżki można ją ponownie rozpocząć, by zdobyć inne nagrody. Im więcej ukończonych ścieżek, tym bardziej prestiżowe nagrody do zdobycia.</string>
 	<string key="owg_factionwarinfo_title_5_desc_2" rel_version="PvP_Rewards_Track">PD PVP</string>
-	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3 czy przejmowaniu fortów, a także pokonując innych graczy i zdobywając PD z aktywnym oznaczeniem do PvP.</string>
+	<string key="owg_factionwarinfo_title_5_desc_2_bullet_1" rel_version="PvP_Rewards_Track">Rób postępy na swojej ścieżce, wykonując misje PvP, biorąc udział w wojnach, napadach na posterunek czy przejmowaniu fortów, pokonując innych graczy i zaliczając areny 3 na 3.</string>
 	<string key="owg_factionwarinfo_title_5_desc_3" rel_version="PvP_Rewards_Track">AZOTHOWA SÓL</string>
 	<string key="owg_factionwarinfo_title_5_desc_3_bullet_1" rel_version="PvP_Rewards_Track">Azothowa sól jest walutą służącą do zdobywania nagród na ścieżce PvP. Możesz ją pozyskać, biorąc udział w wojnach, napadach na posterunek, starciach na arenach 3 na 3, wykonując misje PvP i zabijając graczy w otwartym świecie, a także zdobywając PD z aktywnym oznaczeniem do PvP.</string>
 	<string key="owg_factionwarinfo_title_5_desc_4" rel_version="PvP_Rewards_Track">NAGRODY</string>
@@ -240,8 +242,8 @@
 	<string key="owg_pvp_cannotacceptmission_nofaction">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;, dopóki nie dołączysz do którejś z frakcji.</string>
 	<string key="owg_pvp_cannotacceptmission_nosanctuary">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt; poza azylem.</string>
 	<string key="owg_pvp_cannotacceptmission_typeblocked">Nie możesz teraz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt; tego rodzaju.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_ingroupfindergroup">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;, gdy należysz do lobby PvE, ponieważ wówczas nie możesz oznaczyć się do trybu PvP.</string>
-	<string rel_version="Feature_Group_Finder" key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;, gdy masz zaproszenia do lobby, ponieważ wówczas nie możesz oznaczyć się do trybu PvP.</string>
+	<string key="owg_pvp_cannotacceptmission_ingroupfindergroup" rel_version="Feature_Group_Finder">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;, gdy należysz do lobby PvE, ponieważ wówczas nie możesz oznaczyć się do trybu PvP.</string>
+	<string key="owg_pvp_cannotacceptmission_pendinggroupfinderapplications" rel_version="Feature_Group_Finder">Nie możesz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;, gdy masz zaproszenia do lobby, ponieważ wówczas nie możesz oznaczyć się do trybu PvP.</string>
 	<string key="owg_pvp_cannotacceptmission_unknown">Nie możesz teraz przyjąć &lt;font color="#eaeaea"&gt;misji PvP&lt;/font&gt;.</string>
 	<string key="owg_tooltip_warning">Jednocześnie aktywna może być tylko 1 misja.</string>
 	<string key="owg_unlock_previous_rank">Odblokowano stopień: {rankName}</string>
@@ -274,11 +276,29 @@
 	<string key="ui_faction_desc1">Sprytni badacze, używający swego intelektu do walki o wiedzę i postęp</string>
 	<string key="ui_faction_desc2">Dumni, nieustannie samodoskonalący się wojownicy, walczący z honorem o chwałę</string>
 	<string key="ui_faction_desc3">Uduchowieni czempioni, żarliwie walczący o prawość i sprawiedliwość</string>
+	<string key="ui_faction_calltoaction1" rel_version="Feature_Faction_Selection">Odkryj sekrety Aeternum, albowiem wiedza to potęga</string>
+	<string key="ui_faction_calltoaction2" rel_version="Feature_Faction_Selection">Zdobądź honor i chwałę siłą broni</string>
+	<string key="ui_faction_calltoaction3" rel_version="Feature_Faction_Selection">Przegnaj ciemność z pomocą Światła Sprawiedliwości</string>
+	<string key="ui_become_a">Zostań</string>
+	<string key="ui_faction_calltoaction_title1">przenikliwym mędrcem</string>
+	<string key="ui_faction_calltoaction_title2">dumnym wojownikiem</string>
+	<string key="ui_faction_calltoaction_title3">boskim mistrzem</string>
 	<string key="ui_faction_none">Brak</string>
 	<string key="ui_faction_name1">Syndykat</string>
 	<string key="ui_faction_name2">Maruderzy</string>
 	<string key="ui_faction_name3">Przymierze</string>
+	<string key="ui_faction_name_with_article1">Syndykat</string>
+	<string key="ui_faction_name_with_article2">Maruderzy</string>
+	<string key="ui_faction_name_with_article3">Przymierze</string>
+	<string key="ui_faction_join_name1">Dołącz do syndykatu</string>
+	<string key="ui_faction_join_name2">Dołącz do maruderów</string>
+	<string key="ui_faction_join_name3">Dołącz do przymierza</string>
+	<string key="ui_stats_friends_in_faction">Znajomi we frakcji: {friendCountInFaction}</string>
+	<string key="ui_stats_faction_tokens">Żetony: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{factionTokens}&lt;/font&gt;</string>
+	<string key="ui_stats_faction_rep">Reputacja frakcji: {factionRep}</string>
+	<string key="ui_faction_items_label">Wykonuj misje, aby zdobywać takie nagrody, jak</string>
 	<string key="ui_faction_unaligned">Brak frakcji</string>
+	<string key="ui_unlocks_pvp">Odblokowuje PvP</string>
 	<string key="CMissionExplore_Name">Potrzebni odkrywcy</string>
 	<string key="CMissionExplore_Desc">Znajdź: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; w: &lt;font color="#eaeaea"&gt;{POITags}.&lt;/font&gt; Wróć tu, by dostarczyć przedmioty.</string>
 	<string key="CMissionAcquireBlock_Name">Potrzebni kamieniarze</string>
@@ -296,6 +316,7 @@
 	<string key="CMissionHuntCreature_Name">{enemyName} – potrzebni łowcy</string>
 	<string key="CMissionHuntCreature_Desc">Upoluj: &lt;font color="#eaeaea"&gt;{enemyName} ({killAmount})&lt;/font&gt;</string>
 	<string key="CMissionAcquire1_Desc">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt;.</string>
+	<string key="CMissionAcquire1_Desc_Cook">Ugotuj i dostarcz: &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;.</string>
 	<string key="M_fetch_title">Rozejrzyj się i znajdź</string>
 	<string key="M_fetch_desc">Znajdź: &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt;</string>
 	<string key="M_kill_token_title">Pokonaj i zdobądź</string>
@@ -338,7 +359,7 @@
 	<string key="FactionMission_RAID_title">Zaatakuj: {POITags}</string>
 	<string key="FactionMission_RAID_desc">Interesy maruderów w tym regionie są zagrożone.\n\nUdaj się do: {POITags} i pokonaj: &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt;. Nie dawaj pardonu!</string>
 	<string key="FactionMission_EXPLORE_title">Zbadaj: {POITags}</string>
-	<string key="FactionMission_EXPLORE_desc">Przeprowadź rekonesans, by zapewnić maruderom przewagę. \n\nTwój raport jest niezbędny do ustalenia naszej strategii.</string>
+	<string key="FactionMission_EXPLORE_desc">Przeprowadź rekonesans w lokalizacji {POITags}, by zapewnić maruderom przewagę. \n\nTwój raport jest niezbędny do ustalenia naszej strategii.</string>
 	<string key="FactionMission_LOOT_title">Złup: {POITags}</string>
 	<string key="FactionMission_LOOT_desc">W: {POITags} znajdują się przedmioty, które mogą wspomóc kampanię maruderów. \n\n&lt;font color="#eaeaea"&gt;{itemName}&lt;/font&gt; – zdobądź to za wszelką cenę.</string>
 	<string key="FactionMission_HUNT_title">Poluj w: {POITags}</string>
@@ -360,23 +381,23 @@
 	<string key="FactionMission_C_HUNT_title">Poluj w: {POITags}</string>
 	<string key="FactionMission_C_HUNT_desc">Potrzebujemy zapasów, by realizować naszą sprawę.\n\n{POITags} – zapoluj na tym terenie. &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – to twój cel. Przynieś nam zdobycz.</string>
 	<string key="FactionMission_PILLAGE_title">Sabotaż</string>
-	<string key="FactionMission_PILLAGE_desc">Osłab naszych wrogów, pozbawiając ich zasobów.</string>
+	<string key="FactionMission_PILLAGE_desc">Osłab naszych wrogów, pozbawiając ich zasobów w lokalizacji {POITags}.</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_title">Pokaz siły (PvP)</string>
 	<string key="FactionMission_SHOWOFSTRENGTH_desc">Aeternum należy do nas. Dowiedź tego.</string>
 	<string key="FactionMission_INFILTRATE_title">Infiltracja (PvP)</string>
-	<string key="FactionMission_INFILTRATE_desc">Zdobądź obiekt maruderów i czekaj na dalsze instrukcje.</string>
+	<string key="FactionMission_INFILTRATE_desc">Odzyskaj obiekty maruderów z lokalizacji {POITags}.</string>
 	<string key="FactionMission_DISRUPT_title">Zakłócenie (PvP)</string>
-	<string key="FactionMission_DISRUPT_desc">Przejmij lub zniszcz zasoby, zanim zostaną użyte przeciwko nam.</string>
+	<string key="FactionMission_DISRUPT_desc">Przejmij lub zniszcz zasoby w lokalizacji {POITags}, zanim zostaną użyte przeciwko nam.</string>
 	<string key="FactionMission_STABILIZE_title">Stabilizacja (PvP)</string>
-	<string key="FactionMission_STABILIZE_desc">To miejsce ma strategiczne znaczenie. Nie pozwól, by wróg przejął nad nim kontrolę.</string>
+	<string key="FactionMission_STABILIZE_desc">{POITags} to miejsce o strategicznym znaczeniu. Nie pozwól, by wróg przejął nad nim kontrolę.</string>
 	<string key="FactionMission_GATHERINTEL_title">Działalność wywiadowcza (PvP)</string>
-	<string key="FactionMission_GATHERINTEL_desc">Przejmij wyniki ważnego eksperymentu i czekaj na dalsze instrukcje.</string>
+	<string key="FactionMission_GATHERINTEL_desc">Odzyskaj wyniki ważnego eksperymentu ze skrytki w lokalizacji {POITags}.</string>
 	<string key="FactionMission_TITHE_title">Dziesięcina (PvP)</string>
 	<string key="FactionMission_TITHE_desc">Zagłodź wroga, nakarm Iskrę.</string>
 	<string key="FactionMission_SANCTIFY_title">Uświęcenie (PvP)</string>
-	<string key="FactionMission_SANCTIFY_desc">Wyzwól ten teren. Niech prowadzi cię światłość.</string>
+	<string key="FactionMission_SANCTIFY_desc">Wyzwól lokalizację {POITags}. Niech prowadzi cię światłość.</string>
 	<string key="FactionMission_PRESERVE_title">Ocalenie (PvP)</string>
-	<string key="FactionMission_PRESERVE_desc">Dostarcz dobrą nowinę o Iskrze.</string>
+	<string key="FactionMission_PRESERVE_desc">Pobłogosław lokalizację {POITags} światłością Iskry.</string>
 	<string key="FactionMission_EXPEDITIONRAID_title">Zaatakuj: {POITags}</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc">{POITags} – udaj się do tego miejsca. &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – to twój cel. Pokonaj wszystkich wrogów maruderów, których znajdziesz. \n\n &lt;font color="#eaeaea"&gt;(Ekspedycja)&lt;/font&gt;</string>
 	<string key="FactionMission_EXPEDITIONRAID_desc_singular">{POITags} – udaj się do tego miejsca. &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – to twój cel, pokonaj go w imieniu maruderów. \n\n &lt;font color="#eaeaea"&gt;(Ekspedycja)&lt;/font&gt;</string>
@@ -512,13 +533,18 @@
 	<string key="FactionMission_BREACH_desc" rel_version="Quest_FM_BreachMissions">Maruderzy nie tolerują &lt;font color="#eaeaea"&gt;skażenia&lt;/font&gt; panoszącego się na ich terytorium.\n\nJeśli zobaczysz jakiś wyłom skażenia, zamknij go.</string>
 	<string key="FactionMission_S_BREACH_desc" rel_version="Quest_FM_BreachMissions">Dysponujemy teraz możliwością opóźnienia postępów &lt;font color="#eaeaea"&gt;skażenia&lt;/font&gt;.\n\nZamknij każdy &lt;font color="#eaeaea"&gt;wyłom skażenia&lt;/font&gt;, który napotkasz.</string>
 	<string key="FactionMission_C_BREACH_desc" rel_version="Quest_FM_BreachMissions">&lt;font color="#eaeaea"&gt;Wyłomy skażenia&lt;/font&gt; grożą zgaszeniem Iskry.\n\nWyrusz i zniszcz wszystkie wyłomy, które znajdziesz.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stołu kamieniarskiego.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stolarni.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; z warsztatu.</string>
-	<string key="CMissionAcquireStoneworker" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stołu kamieniarskiego.</string>
-	<string key="CMissionAcquireWoodWorker" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stolarni.</string>
-	<string key="CMissionAcquireOutfitter" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
-	<string key="CMissionAcquireEngineer" rel_version="Event_Summer_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; z warsztatu.</string>
+	<string key="CMissionAcquireStoneworker">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stołu kamieniarskiego.</string>
+	<string key="CMissionAcquireWoodWorker">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stolarni.</string>
+	<string key="CMissionAcquireOutfitter">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
+	<string key="CMissionAcquireEngineer">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; z warsztatu.</string>
+	<string key="ui_already_in_faction">Już należysz do tej frakcji</string>
+	<string key="ui_cant_switch_faction_pvp">Nie możesz zmienić frakcji, gdy oznaczysz się do PvP</string>
+	<string key="ui_cant_switch_faction_azoth">Za mało azothu</string>
+	<string key="ui_cant_switch_faction_sanctuary">Musisz znajdować się w azylu, aby zmienić frakcję</string>
+	<string key="ui_cant_switch_faction_war">Nie możesz zmienić frakcji, gdy bierzesz udział w wojnie</string>
+	<string key="ui_cant_switch_faction_intro">Nie udało ci się jeszcze dowieść, że zasługujesz na przyjęcie do tej frakcji. Porozmawiaj z przedstawicielem frakcji, aby dołączyć.</string>
+	<string key="ui_cant_switch_faction_incompany">Należysz obecnie do kompanii związanej z inną frakcją. Jeśli kontynuujesz, opuścisz tę kompanię.\n\nKompanie mogą tworzyć tylko gracze należący do tej samej frakcji. Gracze oznaczeni do PvP mogą formować grupy tylko z graczami należącymi do tej samej frakcji. Zanim dołączysz do wybranej frakcji, warto sprawdzić, jaką frakcję wybrali twoi znajomi w New World.\n\nWybór ten nie jest nieodwracalny – możesz jednorazowo zmienić frakcję na ekranie biografii. Następnie będzie można zmienić frakcję co &lt;font color="#FFD45F"&gt;60 dni&lt;/font&gt;.</string>
+	<string key="ui_join">Dołącz</string>
+	<string key="ui_faction_join_restrictions">Możesz zmieniać frakcje co 60 dni. Możesz dołączać wyłącznie do kompanii powiązanych z twoją frakcją.</string>
 </resources>
 

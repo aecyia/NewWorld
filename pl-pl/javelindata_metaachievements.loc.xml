@@ -308,6 +308,9 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title" rel_version="Expedition_CutlassKeys_00">Najczystszy kil na Aeternum</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_SHE" rel_version="Expedition_CutlassKeys_00">Najczystszy kil na Aeternum</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_title_THEY" rel_version="Expedition_CutlassKeys_00">Najczystszy kil na Aeternum</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title" rel_version="Expedition_BrimstoneSands_00">Dwa w cenie jednego</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_SHE" rel_version="Expedition_BrimstoneSands_00">Dwa w cenie jednego</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_title_THEY" rel_version="Expedition_BrimstoneSands_00">Dwa w cenie jednego</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1" rel_version="Feature_Dungeon_Mutators">Szał na wykopaliskach</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_SHE" rel_version="Feature_Dungeon_Mutators">Szał na wykopaliskach</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_title1_THEY" rel_version="Feature_Dungeon_Mutators">Szał na wykopaliskach</string>
@@ -356,6 +359,12 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2" rel_version="Expedition_CutlassKeys_00">Wyspa skarbów</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_SHE" rel_version="Expedition_CutlassKeys_00">Wyspa skarbów</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacles_title2_THEY" rel_version="Expedition_CutlassKeys_00">Wyspa skarbów</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1" rel_version="Expedition_BrimstoneSands_00">Szorowanie</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1_SHE" rel_version="Expedition_BrimstoneSands_00">Szorowanie</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title1_THEY" rel_version="Expedition_BrimstoneSands_00">Szorowanie</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2" rel_version="Expedition_BrimstoneSands_00">Chwała i bogactwo</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_SHE" rel_version="Expedition_BrimstoneSands_00">Chwała i bogactwo</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_title2_THEY" rel_version="Expedition_BrimstoneSands_00">Chwała i bogactwo</string>
 	<string key="ui_metachievement_pve_arenascompleted_title">Walki na arenie</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_SHE">Walki na arenie</string>
 	<string key="ui_metachievement_pve_arenascompleted_title_THEY">Walki na arenie</string>
@@ -525,6 +534,21 @@
 	<string key="ui_metachievement_questarc_brightwood_title3">Jądro ciemności</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_SHE">Jądro ciemności</string>
 	<string key="ui_metachievement_questarc_brightwood_title3_THEY">Jądro ciemności</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1" rel_version="Territory_Brimstone_Sands">Przeklęta ekspedycja</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1_SHE" rel_version="Territory_Brimstone_Sands">Przeklęta ekspedycja</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title1_THEY" rel_version="Territory_Brimstone_Sands">Przeklęta ekspedycja</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2" rel_version="Territory_Brimstone_Sands">Poległy legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2_SHE" rel_version="Territory_Brimstone_Sands">Poległy legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title2_THEY" rel_version="Territory_Brimstone_Sands">Poległy legion</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3" rel_version="Territory_Brimstone_Sands">Jeden za wszystkich</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3_SHE" rel_version="Territory_Brimstone_Sands">Jeden za wszystkich</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title3_THEY" rel_version="Territory_Brimstone_Sands">Jeden za wszystkich</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4" rel_version="Territory_Brimstone_Sands">Pole Marsowe</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4_SHE" rel_version="Territory_Brimstone_Sands">Pole Marsowe</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title4_THEY" rel_version="Territory_Brimstone_Sands">Pole Marsowe</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5" rel_version="Territory_Brimstone_Sands">To żyje!</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5_SHE" rel_version="Territory_Brimstone_Sands">To żyje!</string>
+	<string key="ui_metachievement_questarc_brimstonesands_title5_THEY" rel_version="Territory_Brimstone_Sands">To żyje!</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1">Kuchnia kordelasowa</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1_SHE">Kuchnia kordelasowa</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_title1_THEY">Kuchnia kordelasowa</string>
@@ -564,6 +588,12 @@
 	<string key="ui_metachievement_questarc_everfall_title3">Kleikowe zamiary</string>
 	<string key="ui_metachievement_questarc_everfall_title3_SHE">Kleikowe zamiary</string>
 	<string key="ui_metachievement_questarc_everfall_title3_THEY">Kleikowe zamiary</string>
+	<string key="ui_metachievement_quest_everfall_reborn">Strażnicy dusz, odrodzeni</string>
+	<string key="ui_metachievement_quest_everfall_reborn_SHE">Strażnicy dusz, odrodzeni</string>
+	<string key="ui_metachievement_quest_everfall_reborn_THEY">Strażnicy dusz, odrodzeni</string>
+	<string key="ui_metachievement_quest_everfall_steward">Duch opiekuńczy Jesieniowieczni</string>
+	<string key="ui_metachievement_quest_everfall_steward_SHE">Duch opiekuńczy Jesieniowieczni</string>
+	<string key="ui_metachievement_quest_everfall_steward_THEY">Duch opiekuńczy Jesieniowieczni</string>
 	<string key="ui_metachievement_questarc_firstlight_title1">Ewolucja skażenia</string>
 	<string key="ui_metachievement_questarc_firstlight_title1_SHE">Ewolucja skażenia</string>
 	<string key="ui_metachievement_questarc_firstlight_title1_THEY">Ewolucja skażenia</string>
@@ -591,6 +621,12 @@
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3">Zmienna</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3_SHE">Zmienna</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_title3_THEY">Zmienna</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title">Mieczowa Tiara</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title_SHE">Mieczowa Tiara</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_title_THEY">Mieczowa Tiara</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title">Śladami sir Payne'a</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title_SHE">Śladami sir Payne'a</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_title_THEY">Śladami sir Payne'a</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1">Cena kapelana</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1_SHE">Cena kapelana</string>
 	<string key="ui_metachievement_questarc_mourningdale_title1_THEY">Cena kapelana</string>
@@ -648,6 +684,18 @@
 	<string key="ui_metachievement_questarc_windsward_title4">Dyplomacja Dautiego</string>
 	<string key="ui_metachievement_questarc_windsward_title4_SHE">Dyplomacja Dautiego</string>
 	<string key="ui_metachievement_questarc_windsward_title4_THEY">Dyplomacja Dautiego</string>
+	<string key="ui_metachievement_quest_windsward_Windmills">Walka z wiatrakami</string>
+	<string key="ui_metachievement_quest_windsward_Windmills_SHE">Walka z wiatrakami</string>
+	<string key="ui_metachievement_quest_windsward_Windmills_THEY">Walka z wiatrakami</string>
+	<string key="ui_metachievement_quest_windsward_Power">Zielona moc</string>
+	<string key="ui_metachievement_quest_windsward_Power_SHE">Zielona moc</string>
+	<string key="ui_metachievement_quest_windsward_Power_THEY">Zielona moc</string>
+	<string key="ui_metachievement_quest_windsward_Resolve">Żelazna determinacja</string>
+	<string key="ui_metachievement_quest_windsward_Resolve_SHE">Żelazna determinacja</string>
+	<string key="ui_metachievement_quest_windsward_Resolve_THEY">Żelazna determinacja</string>
+	<string key="ui_metachievement_quest_windsward_Mercy">Litość Medei</string>
+	<string key="ui_metachievement_quest_windsward_Mercy_SHE">Litość Medei</string>
+	<string key="ui_metachievement_quest_windsward_Mercy_THEY">Litość Medei</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title">Wędkarzem być…</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title_SHE">Wędkarzem być…</string>
 	<string key="ui_metachievement_questarc_fishingtraining_title_THEY">Wędkarzem być…</string>
@@ -911,6 +959,21 @@
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5">Tak powinno być</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5_SHE">Tak powinno być</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_title5_THEY">Tak powinno być</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1" rel_version="Territory_Brimstone_Sands">Zapał do zmian</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Zapał do zmian</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Zapał do zmian</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2" rel_version="Territory_Brimstone_Sands">Zbiorowy wysiłek</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Zbiorowy wysiłek</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Zbiorowy wysiłek</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3" rel_version="Territory_Brimstone_Sands">Lokalna pomoc</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Lokalna pomoc</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Lokalna pomoc</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4" rel_version="Territory_Brimstone_Sands">Usługi dla ludności</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Usługi dla ludności</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Usługi dla ludności</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5" rel_version="Territory_Brimstone_Sands">Myśl globalnie, działaj lokalnie</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5_SHE" rel_version="Territory_Brimstone_Sands">Myśl globalnie, działaj lokalnie</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_title5_THEY" rel_version="Territory_Brimstone_Sands">Myśl globalnie, działaj lokalnie</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1">Torowanie drogi</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1_SHE">Torowanie drogi</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_title1_THEY">Torowanie drogi</string>
@@ -1181,6 +1244,21 @@
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5">Porządek w kniei musi być</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5_SHE">Porządek w kniei musi być</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_title5_THEY">Porządek w kniei musi być</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1" rel_version="Territory_Brimstone_Sands">Krew na kamieniach</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Krew na kamieniach</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Krew na kamieniach</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2" rel_version="Territory_Brimstone_Sands">Gorące potyczki</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Gorące potyczki</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Gorące potyczki</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3" rel_version="Territory_Brimstone_Sands">Miara postępu</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Miara postępu</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Miara postępu</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4" rel_version="Territory_Brimstone_Sands">Niebezpieczne wyczyny</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Niebezpieczne wyczyny</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Niebezpieczne wyczyny</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5" rel_version="Territory_Brimstone_Sands">Kłody pod nogi</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5_SHE" rel_version="Territory_Brimstone_Sands">Kłody pod nogi</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_title5_THEY" rel_version="Territory_Brimstone_Sands">Kłody pod nogi</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1">Rozum odróżnia nas od innych</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1_SHE">Rozum odróżnia nas od innych</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_title1_THEY">Rozum odróżnia nas od innych</string>
@@ -1679,6 +1757,21 @@
 	<string key="ui_metachievement_skilllevelfishing_title5">Mistrz sztuki wędkarskiej</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_SHE">Mistrzyni sztuki wędkarskiej</string>
 	<string key="ui_metachievement_skilllevelfishing_title5_THEY">Maestro sztuki wędkarskiej</string>
+	<string key="ui_metachievement_skilllevelmusic_title1">Nowicjusz muzyczny</string>
+	<string key="ui_metachievement_skilllevelmusic_title1_SHE">Nowicjuszka muzyczna</string>
+	<string key="ui_metachievement_skilllevelmusic_title1_THEY">Żółtodziób muzyczny</string>
+	<string key="ui_metachievement_skilllevelmusic_title2">Uczeń muzyki</string>
+	<string key="ui_metachievement_skilllevelmusic_title2_SHE">Uczennica muzyki</string>
+	<string key="ui_metachievement_skilllevelmusic_title2_THEY">Praktyka muzyczna</string>
+	<string key="ui_metachievement_skilllevelmusic_title3">Czeladnik muzyczny</string>
+	<string key="ui_metachievement_skilllevelmusic_title3_SHE">Czeladniczka muzyczna</string>
+	<string key="ui_metachievement_skilllevelmusic_title3_THEY">Czeladnictwo muzyczne</string>
+	<string key="ui_metachievement_skilllevelmusic_title4">Ekspert muzyczny</string>
+	<string key="ui_metachievement_skilllevelmusic_title4_SHE">Ekspertka muzyczna</string>
+	<string key="ui_metachievement_skilllevelmusic_title4_THEY">As muzyki</string>
+	<string key="ui_metachievement_skilllevelmusic_title5">Mistrz muzyki</string>
+	<string key="ui_metachievement_skilllevelmusic_title5_SHE">Mistrzyni muzyki</string>
+	<string key="ui_metachievement_skilllevelmusic_title5_THEY">Maestro muzyki</string>
 	<string key="ui_metachievement_skilllevelexpert_title1">Smykałka do profesji</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_SHE">Smykałka do profesji</string>
 	<string key="ui_metachievement_skilllevelexpert_title1_THEY">Smykałka do profesji</string>
@@ -1772,6 +1865,18 @@
 	<string key="ui_metachievement_territorystanding_brightwood_title4">Lśniąca Knieja: Bożyszcze tłumu</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_SHE">Lśniąca Knieja: Bożyszcze tłumu</string>
 	<string key="ui_metachievement_territorystanding_brightwood_title4_THEY">Lśniąca Knieja: Bożyszcze tłumu</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pierwsze postępy</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1_SHE" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pierwsze postępy</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title1_THEY" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pierwsze postępy</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Dobra reputacja</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2_SHE" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Dobra reputacja</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title2_THEY" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Dobra reputacja</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pomaganie to nagroda sama w sobie</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3_SHE" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pomaganie to nagroda sama w sobie</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title3_THEY" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Pomaganie to nagroda sama w sobie</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Bożyszcze tłumu</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4_SHE" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Bożyszcze tłumu</string>
+	<string key="ui_metachievement_territorystanding_brimstone_title4_THEY" rel_version="Territory_Brimstone_Sands">Piaskobrzegi: Bożyszcze tłumu</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1">Wyspy Kordelasowe: Pierwsze postępy</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1_SHE">Wyspy Kordelasowe: Pierwsze postępy</string>
 	<string key="ui_metachievement_territorystanding_cutlasskeys_title1_THEY">Wyspy Kordelasowe: Pierwsze postępy</string>
@@ -2054,6 +2159,15 @@
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3">Przywitaj się z moją giwerą!</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_SHE">Przywitaj się z moją giwerą!</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_title3_THEY">Przywitaj się z moją giwerą!</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1">Ostrze godne zaufania</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_SHE">Ostrze godne zaufania</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title1_THEY">Ostrze godne zaufania</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2">Potęgą nie miecz, lecz ręka, która nim włada</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_SHE">Potęgą nie miecz, lecz ręka, która nim włada</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title2_THEY">Potęgą nie miecz, lecz ręka, która nim włada</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3">Wszystko rozdarte na kawałki</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3_SHE">Wszystko rozdarte na kawałki</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_title3_THEY">Wszystko rozdarte na kawałki</string>
 	<string key="ui_metachievement_repairscount_title1">Co kropelka sklei, sklei…</string>
 	<string key="ui_metachievement_repairscount_title1_SHE">Co kropelka sklei, sklei…</string>
 	<string key="ui_metachievement_repairscount_title1_THEY">Co kropelka sklei, sklei…</string>
@@ -2384,6 +2498,9 @@
 	<string key="ui_metachievement_lore_pagescount_brightwood_title">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Lśniącej Kniei&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_brightwood_title_SHE">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Lśniącej Kniei&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_brightwood_title_THEY">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Lśniącej Kniei&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title" rel_version="Territory_Brimstone_Sands">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Piaskobrzegach&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title_SHE" rel_version="Territory_Brimstone_Sands">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Piaskobrzegach&lt;/font&gt;</string>
+	<string key="ui_metachievement_lore_pagescount_brimstone_title_THEY" rel_version="Territory_Brimstone_Sands">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Piaskobrzegach&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Wyspach Kordelasowych&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title_SHE">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Wyspach Kordelasowych&lt;/font&gt;</string>
 	<string key="ui_metachievement_lore_pagescount_cutlasskeys_title_THEY">Zdobądź &lt;font face="lyshineui/fonts/Nimbus_Bold_Italic.font"&gt;Opowieści o Wyspach Kordelasowych&lt;/font&gt;</string>
@@ -2474,6 +2591,9 @@
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title">Wytwórz nazwany garłacz</string>
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_SHE">Wytwórz nazwany garłacz</string>
 	<string key="ui_metachievement_firstnamedcraft_blunderbuss_title_THEY">Wytwórz nazwany garłacz</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title">Wytwórz nazwany miecz dwuręczny</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_SHE">Wytwórz nazwany miecz dwuręczny</string>
+	<string key="ui_metachievement_firstnamedcraft_greatsword_title_THEY">Wytwórz nazwany miecz dwuręczny</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1">Więcej w tym szczęścia niż umiejętności</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_SHE">Więcej w tym szczęścia niż umiejętności</string>
 	<string key="ui_metachievement_craft_namedweaponcount_title1_THEY">Więcej w tym szczęścia niż umiejętności</string>
@@ -2612,6 +2732,9 @@
 	<string key="ui_metachievement_territorypoicount_brightwood_title">Pierwsze kroki w Lśniącej Kniei</string>
 	<string key="ui_metachievement_territorypoicount_brightwood_title_SHE">Pierwsze kroki w Lśniącej Kniei</string>
 	<string key="ui_metachievement_territorypoicount_brightwood_title_THEY">Pierwsze kroki w Lśniącej Kniei</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title" rel_version="Territory_Brimstone_Sands">Pierwsze kroki w Piaskobrzegach</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title_SHE" rel_version="Territory_Brimstone_Sands">Pierwsze kroki w Piaskobrzegach</string>
+	<string key="ui_metachievement_territorypoicount_brimstone_title_THEY" rel_version="Territory_Brimstone_Sands">Pierwsze kroki w Piaskobrzegach</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title">Pierwsze kroki na Wyspach Kordelasowych</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title_SHE">Pierwsze kroki na Wyspach Kordelasowych</string>
 	<string key="ui_metachievement_territorypoicount_cutlasskey_title_THEY">Pierwsze kroki na Wyspach Kordelasowych</string>
@@ -2699,6 +2822,9 @@
 	<string key="ui_metachievement_reached_shatteredmountainhome_title">Posterunek Górski Gmach: Niepowtarzalne przeżycie</string>
 	<string key="ui_metachievement_reached_shatteredmountainhome_title_SHE">Posterunek Górski Gmach: Niepowtarzalne przeżycie</string>
 	<string key="ui_metachievement_reached_shatteredmountainhome_title_THEY">Posterunek Górski Gmach: Niepowtarzalne przeżycie</string>
+	<string key="ui_metachievement_reached_brimstonetown_title" rel_version="Territory_Brimstone_Sands">Idź na całość w Nowej Korsyce</string>
+	<string key="ui_metachievement_reached_brimstonetown_title_SHE" rel_version="Territory_Brimstone_Sands">Idź na całość w Nowej Korsyce</string>
+	<string key="ui_metachievement_reached_brimstonetown_title_THEY" rel_version="Territory_Brimstone_Sands">Idź na całość w Nowej Korsyce</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title">W osadzie w Czarnej Łusce zaznasz królewskiego życia</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title_SHE">W osadzie w Czarnej Łusce zaznasz królewskiego życia</string>
 	<string key="ui_metachievement_reached_ebonscalehamlet_title_THEY">W osadzie w Czarnej Łusce zaznasz królewskiego życia</string>
@@ -2734,6 +2860,7 @@
 	<string key="ui_metachievement_pve_bossKill_dungeon_shipyard_desc">Pokonaj cesarzową Zhou w Stoczni Dynastii.</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_isabellalair_desc" rel_version="Expedition_ShatterMtn_00">Pokonaj Isabellę w Sercu Burzy</string>
 	<string key="ui_metachievement_pve_bossKill_dungeon_barnacles_desc" rel_version="Expedition_CutlassKeys_00">Pokonaj Królową Syren w Pąklach i czarnym prochu.</string>
+	<string key="ui_metachievement_pve_bossKill_dungeon_ennead_desc" rel_version="Expedition_BrimstoneSands_00">Pokonaj goliatów z Enneady w Enneadzie.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_amrine_generic_desc" rel_version="Feature_Dungeon_Mutators">Ukończ wykopaliska Amrine na poz. trudności: {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_obelisk_generic_desc" rel_version="Feature_Dungeon_Mutators">Ukończ Gwiezdny Kurhan na poz. trudności: {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_depths_generic_desc" rel_version="Feature_Dungeon_Mutators">Ukończ Głębiny na poz. trudności: {number}.</string>
@@ -2742,6 +2869,7 @@
 	<string key="ui_metachievement_pve_mutate_dungeon_shipyard_generic_desc" rel_version="Feature_Dungeon_Mutators">Ukończ Stocznię Dynastii na poz. trudności: {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_isabellalair_generic_desc" rel_version="Expedition_ShatterMtn_00">Ukończ: !undefined dungeon!. Poziom trudności: {number}.</string>
 	<string key="ui_metachievement_pve_mutate_dungeon_barnacle_generic_desc" rel_version="Expedition_CutlassKeys_00">Ukończ Pąkle i czarny proch na poz. trudności: {number}.</string>
+	<string key="ui_metachievement_pve_mutate_dungeon_ennead_generic_desc" rel_version="Expedition_BrimstoneSands_00">Ukończ Enneadę na poz. trudności: {number}.</string>
 	<string key="ui_metachievement_pve_arenascompleted_desc">Ukończ walki na arenie: {number}.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_covenant_desc">Osobiście pokonaj graczy należących do przymierza: {number}.</string>
 	<string key="ui_metachievement_pvp_killbyfaction_marauder_desc">Osobiście pokonaj graczy należących do maruderów: {number}.</string>
@@ -2758,6 +2886,11 @@
 	<string key="ui_metachievement_questarc_brightwood_desc1">Ukończ wątek fabularny w Lśniącej Kniei, zaczynając od &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Dziedzictwa Inkwizycji&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc2">Ukończ wątek fabularny w Lśniącej Kniei, zaczynając od &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Sekretów ziemi&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_brightwood_desc3">Ukończ wątek fabularny w Lśniącej Kniei, zaczynając od &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Mrocznego dziedzictwa&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc1" rel_version="Territory_Brimstone_Sands">Ukończ wątek fabularny w Piaskobrzegach, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Sekrety piasków&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc2" rel_version="Territory_Brimstone_Sands">Ukończ wątek fabularny w Piaskobrzegach, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Kiedyś bohater, teraz wróg&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc3" rel_version="Territory_Brimstone_Sands">Ukończ wątek fabularny w Piaskobrzegach, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Zaginieni pretorianie&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc4" rel_version="Territory_Brimstone_Sands">Ukończ wątek fabularny w Piaskobrzegach, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Przedwieczna klątwa&lt;/font&gt;.</string>
+	<string key="ui_metachievement_questarc_brimstonesands_desc5" rel_version="Territory_Brimstone_Sands">Ukończ wątek fabularny w Piaskobrzegach, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Audiencja u pontyfik&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc1">Ukończ wątek fabularny na Wyspach Kordelasowych, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Prosto z patelni&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc2">Ukończ wątek fabularny na Wyspach Kordelasowych, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;W poszukiwaniu łupów&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_cutlasskeys_desc3">Ukończ wątek fabularny na Wyspach Kordelasowych, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Wybuchowe wydobycie&lt;/font&gt;.</string>
@@ -2771,6 +2904,8 @@
 	<string key="ui_metachievement_questarc_everfall_desc1">Ukończ wątek fabularny w Jesieniowieczni, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Otwarcie szlaku zaopatrzeniowego&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc2">Ukończ wątek fabularny w Jesieniowieczni, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Przewodzą nam gwiazdy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_everfall_desc3">Ukończ wątek fabularny w Jesieniowieczni, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Plugawienie splugawionych&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_everfall_reborn_desc">Twoje starania o zostanie strażnikiem dusz zostały odnotowane przez wszystkich, zarówno sojuszników, jak i wrogów.</string>
+	<string key="ui_metachievement_quest_everfall_steward_desc">Mieszkańcy Jesieniowieczni darzą cię podziwem i szacunkiem za udzielenie im pomocy z ich rozlicznymi trudami.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc1">Ukończ wątek fabularny w Brzasku, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Jęczmień z Wiosny&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc2">Ukończ wątek fabularny w Brzasku, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Prawda i konsekwencje&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_firstlight_desc3">Ukończ wątek fabularny w Brzasku, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Jedno zagrożenie naraz&lt;/font&gt;.</string>
@@ -2780,6 +2915,8 @@
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc1">Ukończ wątek fabularny w Urwiskach Monarchy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Między nami osadami&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc2">Ukończ wątek fabularny w Urwiskach Monarchy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Smak miodu&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_monarchsbluffs_desc3">Ukończ wątek fabularny w Urwiskach Monarchy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Rewia mody&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_msq_desc">Prawowity dziedzic nosi koronę dzięki tobie! Urwiska Monarchy będą ci dozgonnie wdzięczne.</string>
+	<string key="ui_metachievement_quest_monarchsbluffs_side_desc">Każdy, kto poprosił cię o pomoc, otrzymał ją. Cóż za szlachetność! To postawa godna prawdziwego rycerza.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc1">Ukończ wątek fabularny w Żałobnicy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Widmowe łzy&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc2">Ukończ wątek fabularny w Żałobnicy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Après moi, le déluge&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_mourningdale_desc3">Ukończ wątek fabularny w Żałobnicy, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Porzucone obowiązki&lt;/font&gt;.</string>
@@ -2799,6 +2936,10 @@
 	<string key="ui_metachievement_questarc_windsward_desc2">Ukończ wątek fabularny w Wiatrochronie, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Porcja pokrzepienia&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc3">Ukończ wątek fabularny w Wiatrochronie, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Drapieżnik i ofiara&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questarc_windsward_desc4">Ukończ wątek fabularny w Wiatrochronie, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Na ratunek&lt;/font&gt;.</string>
+	<string key="ui_metachievement_quest_windsward_windmills_desc">Młyny we Wiatrochronie znów się obracają.</string>
+	<string key="ui_metachievement_quest_windsward_power_desc">Przywrócono moc wszystkim zielonym klejnotom w Wiatrochronie.</string>
+	<string key="ui_metachievement_quest_windsward_resolve_desc">Udzielono pomocy najemnikom Żelaznej Róży w założeniu nowego zakonu.</string>
+	<string key="ui_metachievement_quest_windsward_mercy_desc">Przekonano Medeę do dania Wiatrochronowi drugiej szansy.</string>
 	<string key="ui_metachievement_questarc_fishingtraining_desc">Ukończ wędkarski wątek fabularny, zaczynając od zadania &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Wędkowanie pod okiem mistrza&lt;/font&gt;.</string>
 	<string key="ui_metachievement_questtotals_generic_desc">Ukończ zadania: {number}.</string>
 	<string key="ui_metachievement_pvefactionmissions_arcana_generic_desc">Ukończ misje frakcyjne PvE związane z arkanistyką: {number}.</string>
@@ -2818,6 +2959,7 @@
 	<string key="ui_metachievement_pvefactionmissions_loot_generic_desc">Wykonaj misje ({number}): &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;odzysku&lt;/font&gt; dla przymierza, &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;łupu&lt;/font&gt; dla maruderów lub &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;kolekcjonowania&lt;/font&gt; dla syndykatu.</string>
 	<string key="ui_metachievement_pvefactionmissions_raid_generic_desc">Wykonaj misje ({number}): &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;krucjaty&lt;/font&gt; dla przymierza, &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;rajdu&lt;/font&gt; dla maruderów lub &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;oczyszczenia&lt;/font&gt; dla syndykatu.</string>
 	<string key="ui_metachievement_pvefactionmissions_brightwood_generic_desc">Ukończ misje frakcyjne PvE ({number}) w Lśniącej Kniei.</string>
+	<string key="ui_metachievement_pvefactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Ukończ misje frakcyjne PvE ({number}) w Piaskobrzegach.</string>
 	<string key="ui_metachievement_pvefactionmissions_cutlasskey_generic_desc">Ukończ misje frakcyjne PvE ({number}) na Wyspach Kordelasowych.</string>
 	<string key="ui_metachievement_pvefactionmissions_edengrove_generic_desc">Ukończ misje frakcyjne PvE ({number}) w Rajskim Gaju.</string>
 	<string key="ui_metachievement_pvefactionmissions_everfall_generic_desc">Ukończ misje frakcyjne PvE ({number}) w Jesieniowieczni.</string>
@@ -2836,6 +2978,7 @@
 	<string key="ui_metachievement_pvpfactionmissions_Intercept_generic_desc">Ukończ misje frakcyjne PvP związane z przechwytywaniem: {number}.</string>
 	<string key="ui_metachievement_pvpfactionmissions_Poach_generic_desc">Wykonaj misje ({number}): &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;dziesięciny&lt;/font&gt; dla przymierza, &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;grabieży&lt;/font&gt; dla maruderów lub &lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;zakłócenia&lt;/font&gt; dla syndykatu.</string>
 	<string key="ui_metachievement_pvpfactionmissions_brightwood_generic_desc">Ukończ misje frakcyjne PvP ({number}) w Lśniącej Kniei.</string>
+	<string key="ui_metachievement_pvpfactionmissions_brimstone_generic_desc" rel_version="Territory_Brimstone_Sands">Ukończ misje frakcyjne PvP ({number}) w Piaskobrzegach.</string>
 	<string key="ui_metachievement_pvpfactionmissions_cutlasskey_generic_desc">Ukończ misje frakcyjne PvP ({number}) na Wyspach Kordelasowych.</string>
 	<string key="ui_metachievement_pvpfactionmissions_edengrove_generic_desc">Ukończ misje frakcyjne PvP ({number}) w Rajskim Gaju.</string>
 	<string key="ui_metachievement_pvpfactionmissions_everfall_generic_desc">Ukończ misje frakcyjne PvP ({number}) w Jesieniowieczni.</string>
@@ -2869,6 +3012,7 @@
 	<string key="ui_metachievement_skilllevelmining_generic_desc">Osiągnij {number}. poziom górnictwa.</string>
 	<string key="ui_metachievement_skillleveltracknskin_generic_desc">Osiągnij {number}. poziom tropienia i skórowania.</string>
 	<string key="ui_metachievement_skilllevelfishing_generic_desc">Osiągnij {number}. poziom rybołówstwa.</string>
+	<string key="ui_metachievement_skilllevelmusic_generic_desc">Osiągnij {number}. poziom muzyki.</string>
 	<string key="ui_metachievement_skilllevelexpert_generic_desc">Osiągnij {number}. poziom wszystkich profesji.</string>
 	<string key="ui_metachievement_gearscoreprogression_desc">Zdobądź przedmiot, w który można się wyposażyć, mający min. {number} pkt wyposażenia.</string>
 	<string key="ui_metachievement_gearsstatbonus_str_generic_desc">Wyposażone przedmioty zwiększają siłę o min. {number}.</string>
@@ -2895,6 +3039,7 @@
 	<string key="ui_metachievement_weaponmastery_icegauntlet_generic_desc">Osiągnij {number}. poziom biegłości w używaniu lodowej rękawicy.</string>
 	<string key="ui_metachievement_weaponmastery_voidgauntlet_generic_desc">Osiągnij {number} poziom biegłości w używaniu rękawicy próżni.</string>
 	<string key="ui_metachievement_weaponmastery_blunderbuss_generic_desc">Osiągnij {number}. poziom biegłości w używaniu garłacza.</string>
+	<string key="ui_metachievement_weaponmastery_greatsword_generic_desc">Osiągnij {number}. poziom biegłości w używaniu miecza dwuręcznego.</string>
 	<string key="ui_metachievement_repairscount_generic_desc">Napraw przedmioty w ekwipunku: {number}.</string>
 	<string key="ui_metachievement_craftcount_armoring_generic_desc">Wytwórz przedmioty płatnerskie: {number}.</string>
 	<string key="ui_metachievement_craftcount_cooking_generic_desc">Wytwórz przedmioty kulinarne: {number}.</string>
@@ -3129,5 +3274,32 @@
 	<string key="ui_metaachievement_Music_Hard3_title_SHE">Geniuszka muzyki</string>
 	<string key="ui_metaachievement_Music_Hard3_title_THEY">Talent muzyczny</string>
 	<string key="ui_metaachievement_Music_Hard3_desc">Zdobądź wspaniałą ocenę za 25 unikalnych eksperckich piosenek.</string>
+	<string key="ui_metachievement_reached_brimstonewikala_title" rel_version="Territory_Brimstone_Sands">Proszę państwa, oto wydmy – posterunek Wikala al-Waha</string>
+	<string key="ui_metachievement_reached_brimstonetaberna_title" rel_version="Territory_Brimstone_Sands">Pokonaj upał, posterunek Taberna Mercatus</string>
+	<string key="ui_metachievement_quest_brimstonesands_allmsq_title" rel_version="Territory_Brimstone_Sands">Miecz Piaskobrzegów</string>
+	<string key="ui_metachievement_quest_brimstonesands_allzq_title" rel_version="Territory_Brimstone_Sands">Czempion Nowej Korsyki</string>
+	<string key="ui_metachievement_quest_brimstonesands_allsq_title" rel_version="Territory_Brimstone_Sands">Jastrząb pustyni</string>
+	<string key="ui_metachievement_quest_brimstonesands_coronation_title" rel_version="Territory_Brimstone_Sands">Szara eminencja</string>
+	<string key="ui_metachievement_quest_brimstonesands_devourer_title" rel_version="Territory_Brimstone_Sands">Straż Zmierzchu</string>
+	<string key="ui_metachievement_quest_brimstonesands_unlock_title" rel_version="Territory_Brimstone_Sands">Kroczący pośród piasków</string>
+	<string key="ui_metachievement_quest_brimstonesands_activateennead_title" rel_version="Territory_Brimstone_Sands">Herold Nocy</string>
+	<string key="ui_metachievement_quest_brimstonesands_thothshrine_title" rel_version="Territory_Brimstone_Sands">Osoba, która otwiera przejście</string>
+	<string key="ui_metachievement_quest_brimstonesands_heartgem_title" rel_version="Territory_Brimstone_Sands">Blask strażników dusz</string>
+	<string key="ui_metachievement_quest_brimstonesands_allmsq_desc" rel_version="Territory_Brimstone_Sands">Udało ci się wypędzić prymarnego demona Apofisa z powrotem do piasku, tym samym stając się legendą Piaskobrzegów.</string>
+	<string key="ui_metachievement_quest_brimstonesands_allzq_desc" rel_version="Territory_Brimstone_Sands">Udało ci się pokonać skażony legion i przywrócić porządek, tym samym na nowo rozbudzając nadzieję u obywateli Nowej Korsyki.</string>
+	<string key="ui_metachievement_quest_brimstonesands_allsq_desc" rel_version="Territory_Brimstone_Sands">Twe heroiczne czyny w Piaskobrzegach sprawiły, że twa legenda dotarła do najdalszych zakątków wyspy.</string>
+	<string key="ui_metachievement_quest_brimstonesands_coronation_desc" rel_version="Territory_Brimstone_Sands">Dzięki tobie Kleopatra, Królowa Piaskobrzegów, rozpoczęła nowe rządy – widzi w tobie obrońcę i osobę godną zaufania.</string>
+	<string key="ui_metachievement_quest_brimstonesands_devourer_desc" rel_version="Territory_Brimstone_Sands">Udało ci się odkryć przebudzenie Szach-Neszena zwanego Pożeraczem, Postrachu Pustyni, którego lęka się wszystko, co żywe.</string>
+	<string key="ui_metachievement_quest_brimstonesands_unlock_desc" rel_version="Territory_Brimstone_Sands">Udało ci się odkryć sekret pozwalający przetrwać piekielny ukrop Piaskobrzegów, dzięki czemu ten tajemniczy region stoi przed tobą otworem.</string>
+	<string key="ui_metachievement_quest_brimstonesands_activateennead_desc" rel_version="Territory_Brimstone_Sands">Udało ci się aktywować Wrota Nocy i wysłać sygnał w nieprzeniknioną ciemność, tak jak czynili to pradawni z przeszłych eonów.</string>
+	<string key="ui_metachievement_quest_brimstonesands_thothshrine_desc" rel_version="Territory_Brimstone_Sands">Udało ci się reaktywować cudowne portale pradawnych, umożliwiające szybką podróż poprzez rozległe tereny Piaskobrzegów.</string>
+	<string key="ui_metachievement_quest_brimstonesands_heartgem_desc" rel_version="Territory_Brimstone_Sands">Sekret ulepszenia klejnotu serca został ci wyjawiony, czyniąc z ciebie jeszcze potężniejszego czempiona Aeternum.</string>
+	<string key="ui_metachievement_lore_brimstone_ancientglyphs_title" rel_version="Territory_Brimstone_Sands">Skryba pradawnych</string>
+	<string key="ui_metachievement_lore_brimstone_ancientglyphs_desc" rel_version="Territory_Brimstone_Sands">Udało ci się znaleźć wszystkie pradawne glify. Jednak twoja podróż ku oświeceniu dopiero się zaczyna…</string>
+	<string key="ui_metachievement_hidden_brimstone">Graj dalej w Piaskobrzegach, by zdobyć to ukryte osiągnięcie.</string>
+	<string key="ui_metachievement_hidden_brimstone_ancientglyphs">Znajdź więcej pradawnych glifów w Piaskobrzegach, by zdobyć to ukryte osiągnięcie.</string>
+	<string key="ui_metachievement_hidden_monarchs">Graj dalej w Urwiskach Monarchy, by zdobyć to ukryte osiągnięcie.</string>
+	<string key="ui_metachievement_hidden_windsward">Graj dalej w Wiatrochronie, by zdobyć to ukryte osiągnięcie.</string>
+	<string key="ui_metachievement_hidden_everfall">Graj dalej w Jesieniowieczni, by zdobyć to ukryte osiągnięcie.</string>
 </resources>
 

@@ -206,9 +206,9 @@
 	<string key="ui_cameraShake_desc">La sacudida de la cámara podría desorientar a ciertos jugadores.</string>
 	<string key="ui_strafeCamera">Desplazamiento lateral</string>
 	<string key="ui_strafeCamera_desc">El personaje siempre mira en dirección a la cámara.</string>
-	<string key="ui_alwaysShowReticle">Mostrar retícula</string>
+	<string key="ui_alwaysShowReticle">Mostrar retícula siempre</string>
 	<string key="ui_alwaysShowReticle_desc">La retícula es visible incluso cuando tienes el arma envainada</string>
-	<string key="ui_show_pvp_xp">Muestra la EXP de PvP en pantalla</string>
+	<string key="ui_show_pvp_xp">Mostrar la EXP de PvP en pantalla</string>
 	<string key="ui_show_pvp_xp_desc">Desactiva esto para ocultar la ganancia de EXP de PvP.</string>
 	<string key="ui_showInspectHint">Indicación de tecla rápida de interacciones sociales</string>
 	<string key="ui_showInspectHint_desc">Al mirar a un jugador cercano, muestra la indicación de tecla rápida de interacciones sociales sobre su placa de identificación</string>
@@ -221,12 +221,10 @@
 	<string key="ui_mute_performance_desc" rel_version="Feature_MusicalPerformances">Silencia la música que tocan otros jugadores.</string>
 	<string key="ui_mute_combat_music" rel_version="Feature_MusicalPerformances">Silenciar música de combate</string>
 	<string key="ui_mute_combat_music_desc" rel_version="Feature_MusicalPerformances">Silenciar música de combate</string>
-	<string key="ui_mute_secondary_music" rel_version="Feature_MusicalPerformances">Silenciar audio de función secundario</string>
-	<string key="ui_mute_secondary_music_desc" rel_version="Feature_MusicalPerformances">Silenciar aplausos y efectos de función musical secundarios</string>
 	<string key="ui_musicInstrument_volume" rel_version="Feature_MusicalPerformances">Volumen de instrumentos musicales</string>
 	<string key="ui_musicInstrument_volume_desc" rel_version="Feature_MusicalPerformances">Ajusta la música de los jugadores locales y remotos que tocan instrumentos musicales</string>
 	<string key="ui_outputconfiguration">Configuración de salida</string>
-	<string key="ui_outputconfiguration_desc">Alterna la distribución de la señal de sonido entre 360º para Home theater y 180º para auriculares</string>
+	<string key="ui_outputconfiguration_desc">Alterna la distribución de la señal de sonido entre 360º para parlantes y 180º para auriculares</string>
 	<string key="ui_texttospeech">Texto a voz</string>
 	<string key="ui_texttospeech_desc">Habilita la función de texto a voz para los mensajes de chat entrantes</string>
 	<string key="ui_tts_rate">Velocidad de texto a voz</string>

@@ -4,19 +4,19 @@
 	<string key="tip_overworld_aeternumFactions_theLost01-title">Los perdidos</string>
 	<string key="tip_overworld_aeternumFactions_theLost01-content">Los perdidos son prueba de que la existencia eterna no es lo mismo que la inmortalidad de los cuentos; para algunos, el precio a pagar es terrible. La gente se pierde en los ciclos eternos de la muerte y el renacimiento, y su alma se marchita hasta que no queda nada más.</string>
 	<string key="tip_overworld_aeternumFactions_theLost02-title">Los perdidos</string>
-	<string key="tip_overworld_aeternumFactions_theLost02-content">Los perdidos son vulnerables al daño de impacto, hielo o naturaleza, pero resistentes al daño de estocada o vacío.</string>
+	<string key="tip_overworld_aeternumFactions_theLost02-content">Los perdidos son vulnerables al daño de impacto, hielo y naturaleza.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-title">Los antiguos</string>
 	<string key="tip_overworld_aeternumFactions_theAncients01-content">El origen de los antiguos, y cualquier conocimiento sobre su civilización, se ha perdido en el polvo de la memoria. Todo lo que queda son reliquias: monumentos derruidos, ciudades en ruinas y legiones de guerreros esqueléticos.</string>
 	<string key="tip_overworld_aeternumFactions_theAncients02-title">Los antiguos</string>
-	<string key="tip_overworld_aeternumFactions_theAncients02-content">Los guardianes antiguos son vulnerables al daño de rayo y vacío, pero resistentes al daño de corte y fuego.</string>
+	<string key="tip_overworld_aeternumFactions_theAncients02-content">Los guardianes antiguos son vulnerables al daño de impacto, rayo y vacío.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-title">Los tierramarga</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth01-content">La mezcla de Azoth y naturaleza es más evidente en los tierramarga, una variedad de criaturas de tipo planta que se llaman así por su feroz defensa de la naturaleza de Aetérnum.</string>
 	<string key="tip_overworld_aeternumFactions_theAngryEarth02-title">Los tierramarga</string>
-	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Los tierramarga son vulnerables al daño de corte y fuego, pero resistentes al daño de estocada y rayo.</string>
+	<string key="tip_overworld_aeternumFactions_theAngryEarth02-content">Los tierramarga son vulnerables al daño de corte y fuego.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-title">Los corruptos</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted01-content">Los corruptos sirven como esclavos inmortales de una fuerza antigua e ignota que deforma todo lo que está a su alcance.</string>
 	<string key="tip_overworld_aeternumFactions_theCorrupted02-title">Los corruptos</string>
-	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Los corruptos son vulnerables al daño de estocada, arcano y naturaleza, pero resistentes al daño de impacto y hielo.</string>
+	<string key="tip_overworld_aeternumFactions_theCorrupted02-content">Los corruptos son vulnerables al daño de estocada, arcano y naturaleza.</string>
 	<string key="tip_overworld_azoth_fastTravel01-title">Viaje rápido</string>
 	<string key="tip_overworld_azoth_fastTravel01-content">El coste del viaje rápido depende del peso que lleves en el inventario. Viajad con poco equipaje.</string>
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
@@ -245,8 +245,8 @@
 	<string key="tip_overworld_fishing_fishItems09-content">Los filetes de pescado delicados se pueden obtener aprovechando anguilas eléctricas y peces espada.</string>
 	<string key="tip_ftue_keybindings-title">[Placeholder]</string>
 	<string key="tip_ftue_keybindings-content">[Placeholder]</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-title">Arenas</string>
-	<string key="tip_overworld_gameModes_arenaKeys01-content">¿Has encontrado ya una? Una arena es una evento raro en el que tus amigos y tú lucháis contra una mortífera criatura legendaria.</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-title">Pruebas</string>
+	<string key="tip_overworld_gameModes_arenaKeys01-content">¿Has encontrado ya una? Una prueba es una evento raro en el que tus amigos y tú lucháis contra una mortífera criatura legendaria.</string>
 	<string key="tip_overworld_gameModes_outpostRush01-title">Asalto a puesto remoto</string>
 	<string key="tip_overworld_gameModes_outpostRush01-content">Busca a Scott Newman en el puesto remoto de Punta de la Grieta o habla con tu representante de facción para competir en este combate de 20 contra 20.</string>
 	<string key="tip_overworld_gameModes_war01-title">Guerra</string>
@@ -411,6 +411,66 @@
 	<string key="tip_overworld_zone_mourningdale_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-title">Scorpius</string>
 	<string key="tip_overworld_zone_mourningdale_eliteStronghold01-content">Aléjate demasiado del camino y te arriesgarás a perderte en las curvas de la corrupción.</string>
+	<string key="tip_overworld_zone_brimstone_lore01-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore01-content" rel_version="Territory_Brimstone_Sands">El sol intenso e implacable de Arenas de Azufre requiere una protección adecuada para sobrevivir.</string>
+	<string key="tip_overworld_zone_brimstone_lore02-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore02-content" rel_version="Territory_Brimstone_Sands">La lengua de los antiguos se creía perdida en las arenas del tiempo. Hasta ahora…</string>
+	<string key="tip_overworld_zone_brimstone_lore03-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore03-content" rel_version="Territory_Brimstone_Sands">Un monstruo colosal ha despertado en el desierto. Las leyendas locales lo llaman «el Devorador».</string>
+	<string key="tip_overworld_zone_brimstone_lore04-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore04-content" rel_version="Territory_Brimstone_Sands">Se dice que los antiguos llevaban a cabo rituales en lo más profundo de una enorme muralla construida entre las Arenas de Azufre y la Cima Quebrada.</string>
+	<string key="tip_overworld_zone_brimstone_lore05-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore05-content" rel_version="Territory_Brimstone_Sands">Craso y la Legión XIX corrupta son una eterna amenaza para la seguridad y la estabilidad de Nueva Córcega.</string>
+	<string key="tip_overworld_zone_brimstone_lore06-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore06-content" rel_version="Territory_Brimstone_Sands">Se dice que uno de los humanos vivos más antiguos de Aetérnum, Imhotep el Sabio, vaga por los desiertos en busca de conocimiento.</string>
+	<string key="tip_overworld_zone_brimstone_lore07-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore07-content" rel_version="Territory_Brimstone_Sands">Mira dónde pisas al pasar por las piscinas de azufre de las Arenas de Azufre. Si los lagartos gigantes no acaban contigo, probablemente lo haga el agua hirviendo…</string>
+	<string key="tip_overworld_zone_brimstone_lore08-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore08-content" rel_version="Territory_Brimstone_Sands">La arenisca abunda en las Arenas de Azufre y puede fundirse para elaborar objetos de cristal.</string>
+	<string key="tip_overworld_zone_brimstone_lore09-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore09-content" rel_version="Territory_Brimstone_Sands">¿Tienes sed? Corta un cactus y conseguirás una pequeña cantidad de agua.</string>
+	<string key="tip_overworld_zone_brimstone_lore10-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore10-content" rel_version="Territory_Brimstone_Sands">Nadie sabe cómo llegaron los armadillos a las Arenas de Azufre, pero se han adaptado a las mil maravillas.</string>
+	<string key="tip_overworld_zone_brimstone_lore11-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore11-content" rel_version="Territory_Brimstone_Sands">Por alguna razón, ha florecido un gran árbol en medio de las Arenas de Azufre. Hay quien dice que de sus ramas más altas aún siguen brotando flores.</string>
+	<string key="tip_overworld_zone_brimstone_lore12-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore12-content" rel_version="Territory_Brimstone_Sands">Algunos creen que una mantícora mortal acecha en las Arenas de Azufre, así que ten cuidado al viajar.</string>
+	<string key="tip_overworld_zone_brimstone_lore13-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore13-content" rel_version="Territory_Brimstone_Sands">Cuentan las leyendas que un antiguo duerme en algún lugar de las Arenas de Azufre.</string>
+	<string key="tip_overworld_zone_brimstone_lore14-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore14-content" rel_version="Territory_Brimstone_Sands">Los enormes escorpiones que merodean por el desierto tienen más armas que simples pinzas.</string>
+	<string key="tip_overworld_zone_brimstone_lore15-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore15-content" rel_version="Territory_Brimstone_Sands">Los glifos antiguos son la clave para abrir cofres, explorar ruinas inaccesibles y mucho más. ¿Cuántos podrás encontrar?</string>
+	<string key="tip_overworld_zone_brimstone_lore16-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore16-content" rel_version="Territory_Brimstone_Sands">Atención, aspirantes a asaltatumbas: a veces, los muertos se alzan para proteger sus tesoros terrenales.</string>
+	<string key="tip_overworld_zone_brimstone_lore17-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore17-content" rel_version="Territory_Brimstone_Sands">Se pueden extraer recursos de algunos de los constructos anubinos que merodean por las Arenas de Azufre.</string>
+	<string key="tip_overworld_zone_brimstone_lore18-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore18-content" rel_version="Territory_Brimstone_Sands">La fachada reluciente de Nueva Córcega oculta un nido de víboras de politiqueo, intrigas y paranoia.</string>
+	<string key="tip_overworld_zone_brimstone_lore19-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore19-content" rel_version="Territory_Brimstone_Sands">Los legionarios de las Arenas de Azufre no han perdido ni un ápice de su legendaria disciplina y destreza de combate pese a que ahora son corruptos.</string>
+	<string key="tip_overworld_zone_brimstone_lore20-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore20-content" rel_version="Territory_Brimstone_Sands">Marco Antonio fundó la Legión XIX marítima, que no fue capaz de salvarle de la derrota en la batalla de Accio.</string>
+	<string key="tip_overworld_zone_brimstone_lore21-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore21-content" rel_version="Territory_Brimstone_Sands">La reina Cleopatra, moribunda, fue llevada a las Arenas de Azufre por los romanos, que intentaron salvarle la vida.</string>
+	<string key="tip_overworld_zone_brimstone_lore22-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore22-content" rel_version="Territory_Brimstone_Sands">No hay muchos guardianes del alma en las Arenas de Azufre. Pero con la agitación que están provocando los antiguos y la corrupción, eso podría cambiar pronto.</string>
+	<string key="tip_overworld_zone_brimstone_lore23-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore23-content" rel_version="Territory_Brimstone_Sands">Existen leyendas sobre unos misteriosos espíritus cambiaformas llamados ifrits que rondan los desiertos inhóspitos. Con algunos se puede negociar.</string>
+	<string key="tip_overworld_zone_brimstone_lore24-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore24-content" rel_version="Territory_Brimstone_Sands">Si oyes una voz conocida que te llama desde la oscuridad del arenal, no te acerques.</string>
+	<string key="tip_overworld_zone_brimstone_lore25-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore25-content" rel_version="Territory_Brimstone_Sands">Han empezado a aparecer abominaciones deformes en las Arenas de Azufre, producto de alguna magia de los antiguos.</string>
+	<string key="tip_overworld_zone_brimstone_lore26-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore26-content" rel_version="Territory_Brimstone_Sands">En las Arenas de Azufre ha habido dos grandes civilizaciones que han dado forma al territorio a lo largo de los milenios: los egipcios y los romanos.</string>
+	<string key="tip_overworld_zone_brimstone_lore27-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore27-content" rel_version="Territory_Brimstone_Sands">Los antiguos anubinos son mucho más robustos que los esqueletos polvorientos que custodian otras ruinas de los antiguos. Ten cuidado al acercarte.</string>
+	<string key="tip_overworld_zone_brimstone_lore28-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore28-content" rel_version="Territory_Brimstone_Sands">Las puertas de piedra circulares esparcidas por las Arenas de Azufre son monumentales además de mágicas.</string>
+	<string key="tip_overworld_zone_brimstone_lore29-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore29-content" rel_version="Territory_Brimstone_Sands">Vastos arroyos de Azoth fluyen a través de la gran pirámide de Akhet. Con suerte, tal poder nunca se usará con fines nefastos…</string>
+	<string key="tip_overworld_zone_brimstone_lore30-title" rel_version="Territory_Brimstone_Sands">Arenas de Azufre</string>
+	<string key="tip_overworld_zone_brimstone_lore30-content" rel_version="Territory_Brimstone_Sands">Los tierramarga de las Arenas de Azufre no temen al fuego y suelen emplear azufre ardiente para destruir a sus enemigos.</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-title">Gran Grieta</string>
 	<string key="tip_overworld_zone_greatCleave_lore01-content">[Placeholder]</string>
 	<string key="tip_overworld_zone_greatCleave_eliteStronghold01-title">Camino Estrangulado</string>

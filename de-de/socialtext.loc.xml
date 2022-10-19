@@ -94,6 +94,7 @@
 	<string key="trade_column_status">Status</string>
 	<string key="trade_column_rarity">Seltenh.</string>
 	<string key="trade_column_craftsmanship">Handwerks-\nkunst</string>
+	<string key="trade_column_completion_time">Abschlusszeit</string>
 	<string key="trade_noitemmessage">Wähle einen Gegenstand zum Ansehen aus.</string>
 	<string key="trade_not_enough_money">Nicht genug Geld</string>
 	<string key="trade_none_available">Ausverkauft</string>
@@ -354,6 +355,7 @@
 	<string key="ui_signup_siege_window">Belagerungszeitfenster</string>
 	<string key="ui_signup_starts_in" comment="Time until the siege starts">Beginnt in</string>
 	<string key="ui_signup_your_status">Dein Status</string>
+	<string key="ui_signup_restriction_cooldown">Aufgrund der Kriegsabklingzeit zählst du, sofern ausgewählt, als Söldner.\nDu kannst als Nichtsöldner an Kriegen teilnehmen, nach: {cooldownTime}</string>
 	<string key="ui_no_permission_alert">Dir fehlt die notwendige Berechtigung, um Benachrichtigungen zu versenden.</string>
 	<string key="ui_title_alpha">Gründer</string>
 	<string key="ui_title_preorder">Expedition eins</string>
@@ -551,7 +553,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationdeclined">Einladung abgelehnt</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_ingroup">Einladung abgelehnt. Spieler bereits in der Lobby.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_pvpflagmismatched">Einladung abgelehnt. Spieler hat falsche PvP-Markierung.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Einladung abgelehnt. Spieler am Verlieslimit.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_atdungeonlimit">Einladung abgelehnt. Spieler am Expeditionslimit.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_invitationautodeclined_mismatchedfaction">Einladung abgelehnt. Spieler in anderer Fraktion.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite">Einladung in Lobby</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_directinvite_tooltip_not_creator">Nur der Lobby-Ersteller kann Mitglieder einladen.</string>
@@ -565,6 +567,7 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_looking_for_more">Suche nach mehr Mitgliedern ...</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_outpost_rush_signup_fail">Solange du in einer Lobby bist, kannst du dich nicht eintragen.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail">Solange du in einer Lobby bist, kannst du dich keiner Expeditions-Warteschlange anschließen.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_dungeon_queue_signup_fail_solo">Solange du in einer Lobby bist, kannst du dich keiner Seelenprüfungs-Warteschlange anschließen.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_group_full">Gruppe voll</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_open_expedition">Expedition öffnen</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_queue_hud_min_players">Um diese Expedition zu starten, sind mindestens {amount} Mitglieder erforderlich.</string>

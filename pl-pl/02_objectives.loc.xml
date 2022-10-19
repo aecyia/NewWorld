@@ -148,7 +148,7 @@
 	<string key="0210_0102_ReapersLocus_proposal_next2" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="F" VO="Barkeep_0210_0102_ReapersLocus_ProposalNext2" VO_Status="Recorded" dialogue-prompt="@0210_0102_ReapersLocus_proposal_prompt2">Podobnie do innych rzeczy tutaj, obraża to współczesną wrażliwość.\n\nJednak ten kosiarz do zbierania azothu używał jakiegoś lokusa. Tego właśnie potrzebuję. Przynieś mi lokus. Opłaci się to i mnie, i tobie.</string>
 	<string key="0210_0102_ReapersLocus_incomplete" speaker="Herbalist Lau - Brightwood" gender="F">Przed wyruszeniem do zniszczonego obelisku lepiej zebrać drużynę.\n\nKto wie co tam znajdziesz. Potrzebuję lokusa kosiarza.</string>
 	<string key="0210_0102_ReapersLocus_complete" speaker="Herbalist Lau - Brightwood" name="HerbalistLau" gender="F" VO="Barkeep_0210_0102_ReapersLocus_Complete" VO_Status="Recorded">O, najwyższy czas. Myślałam, że załatwisz to znacznie szybciej. Wiesz, bo tak świetnie sobie ze wszystkim radzisz.\n\nNie zrozum mnie źle, jestem ci bardzo wdzięczna. Ja wezmę sobie lokus, a ty weź to.</string>
-	<string key="0210_0102_d_01_TaskGoto" speaker="UI">Wejdź w głąb: {POITags} i zdobądź lokus gwiezdnego kosiarza.</string>
+	<string key="0210_0102_d_01_TaskGoto" speaker="UI">Udaj się do Gwiezdnego Kurhanu i zdobądź lokus gwiezdnego kosiarza</string>
 	<string key="0210_0102_d_02_TaskLocus" speaker="UI">Zbierz: {itemName} z: {targetName}</string>
 	<string key="0230_0201_bellyofcorrupted_title" speaker="UI - Quest Title">Dieta skażonych</string>
 	<string key="0230_0201_bellyofcorrupted_description" speaker="UI - Quest Description">Zakłóć dostawy żywności skażonych w Norze Reidy. Gdy wykonasz zadanie, porozmawiaj z pionierką Shui Tijong z Lśniącej Kniei.</string>
@@ -320,21 +320,33 @@
 	<string key="0234_0203_tildeathdouspart_complete_next" speaker="Megara Pantazis - Brightwood" name="MegaraPantazis" VO="0234_0203_tildeathdouspart_complete_next" VO_Status="Recorded" dialogue-prompt="@0234_0203_tildeathdouspart_complete_prompt">Pokaż…\n\nPisze, że nie mógł tego znieść. Postanowił zostać zagubionym, by mnie unikać. Chciał się uwolnić od wstydu i całej reszty… \n\nCo za tchórz! Chyba mnie przekonałeś, mój drogi pastorze, że jednak warto żyć! Dziękuję!</string>
 	<string key="0234_0203_goto" speaker="UI">Zmierz się z pastorem Walshamem w Kongregacji Walshama.</string>
 	<string key="0234_0203_loot_goodbye" speaker="UI">Pokonaj: {targetName} i zdobądź: {itemName}</string>
+	<string key="0222_0001_cleavector_title" speaker="UI">Meldunki z północy</string>
+	<string key="0222_0001_cleavector_description" speaker="UI">Karczmarz Okorie z Lśniącej Kniei mówił, że osada nie otrzymała żadnych meldunków z Wielkiej Wyrwy. Poprosił cię o znalezienie zaginionych meldunków w Złośliwości Wyrwy. Gdy to zrobisz, zanieś je na posterunek Eastburn i powiadom tamtejszych pracowników o tym, że meldunki nigdy nie dotarły do adresata.</string>
+	<string key="0222_0001_cleavector_start_prompt" speaker="UI - Player Prompt">"Widzieliście jakieś raporty?"</string>
+	<string key="0222_0001_cleavector_proposal" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording" dialogue-next="@0222_0001_cleavector_proposal_next">Hmm. Właśnie to mnie martwi. Ingram Kent, karczmarz z Eastburn, regularnie wysyłał nam meldunki. Ale od kilku tygodni nie dostaliśmy ani jednego.\n\nObawiam się, że meldunki zostały przejęte przez siły skażonych, które okopały się w Złośliwości Wyrwy.</string>
+	<string key="0222_0001_cleavector_proposal_next_prompt" speaker="UI - Player Prompt">"Udam się tam, żeby to sprawdzić".</string>
+	<string key="0222_0001_cleavector_proposal_next" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording" dialogue-prompt="@0222_0001_cleavector_proposal_next_prompt">Ha. Miałem nadzieję, że zgłosisz się na ochotnika.\n\nPoszukaj w Złośliwości Wyrwy meldunków z posterunku. Jeśli jakieś znajdziesz, zanieś je karczmarzowi Kentowi i opowiedz mu o wszystkim. Mam nadzieję, że ci się uda. Masz szansę pomóc całemu Eastburn.</string>
+	<string key="0222_0001_cleavector_incomplete" speaker="Innkeep Okorie - Brightwood" name="InnKeepOkorie" VO_Status="Needs Recording">Powinien do nas dotrzeć przynajmniej jeden meldunek z posterunku Eastburn.</string>
+	<string key="0222_0001_cleavector_complete" speaker="Innkeep Kent - Great Cleave" name="InnkeepKent" VO_Status="Needs Recording" dialogue-next="@0222_0001_cleavector_complete_next">Jesteś doprawdy odważną duszą, skoro zapuszczasz się tak daleko za linie wroga. Eastburn jest jak łódka na morzu zła.\n\nA co to takiego? Meldunki, które wysłałem do Lśniącej Kniei… nie dotarły do celu? Powiedz, gdzie one były?</string>
+	<string key="0222_0001_cleavector_complete_next_prompt" speaker="UI - Player Prompt">"Zostały przechwycone w Złośliwości Wyrwy".</string>
+	<string key="0222_0001_cleavector_complete_next" speaker="Innkeep Kent - Great Cleave" name="InnkeepKent" VO_Status="Needs Recording" dialogue-prompt="@0222_0001_cleavector_complete_next_prompt">Wszystkie? Hmm. Można by pomyśleć, że skażeni dostali cynk, by wypatrywać posłańców.\n\nCo z kolei skłania mnie ku myśli, że pośród nas może być zdrajca. Hmm. Póki co nikomu o tym nie mów.</string>
+	<string key="0222_0001_goto" speaker="UI - Tracker Text">Znajdź w Złośliwości Wyrwy przechwycone meldunki z posterunku</string>
+	<string key="0222_0001_loot_mementos" speaker="UI - Tracker Text">Zabierz: {itemName} i wróć na posterunek Eastburn</string>
 	<string key="98_M_0001_RankUp_title" speaker="UI - Quest Title">Awans w szeregach maruderów: gladiator</string>
-	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi gladiatora i ukończ zadanie "Próba gladiatora", które przydzieli ci przedstawiciel frakcji na Wyspach Kordelasowych.</string>
+	<string key="98_M_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi gladiatora i ukończ zadanie "Próba gladiatora", które przydzieli ci przedstawiciel frakcji na Wyspach Kordelasowych.</string>
 	<string key="98_M_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Ukończ misje z tablicy frakcyjnej, po czym zgłoś się do miejscowego sędziego.</string>
 	<string key="98_M_Reach_NextMarauderRank" speaker="UI - Tracker Text">Zdobywaj reputację frakcyjną, by stanąć do próby awansu do wyższej rangi</string>
 	<string key="98_M_0001_CompleteTrial_Gladiator" speaker="UI - Tracker Text">Udaj się na Wyspy Kordelasowe i ukończ próbę gladiatora.\n(Zalecany poziom: 25.)</string>
 	<string key="98_M_0102_RankUp_title" speaker="UI - Quest Title">Awans w szeregach maruderów: pustoszyciel</string>
-	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi pustoszyciela i ukończ zadanie "Próba pustoszyciela", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
+	<string key="98_M_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi pustoszyciela i ukończ zadanie "Próba pustoszyciela", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
 	<string key="98_M_0102_CompleteTrial_Ravager" speaker="UI - Tracker Text">Udaj się na Tkackie Mokradła i ukończ próbę pustoszyciela\n(Zalecany poziom: 35.)</string>
 	<string key="98_M_0203_RankUp_title" speaker="UI - Quest Title">Awans w szeregach maruderów: niszczyciel</string>
-	<string key="98_M_0203_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi niszczyciela i ukończ zadanie "Próba niszczyciela", które przydzieli ci przedstawiciel frakcji na Niespokojnych Brzegach.</string>
+	<string key="98_M_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi niszczyciela i ukończ zadanie "Próba niszczyciela", które przydzieli ci przedstawiciel frakcji na Niespokojnych Brzegach.</string>
 	<string key="98_M_0203_CompleteTrial_Destroyer" speaker="UI - Tracker Text">Udaj się na Niespokojne Brzegi i ukończ próbę niszczyciela\n(Zalecany poziom: 49.)</string>
 	<string key="98_M_0304_RankUp_title" speaker="UI - Quest Title">Awans w szeregach maruderów: dowódca</string>
-	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi dowódcy i ukończ zadanie "Próba dowódcy", które przydzieli ci przedstawiciel frakcji w Czarnej Łusce.</string>
+	<string key="98_M_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi dowódcy i ukończ zadanie "Próba dowódcy", które przydzieli ci przedstawiciel frakcji w Czarnej Łusce.</string>
 	<string key="98_M_0304_CompleteTrial_Commander" speaker="UI - Tracker Text">Udaj się do Czarnej Łuski i ukończ próbę dowódcy\n(Zalecany poziom: 60.)</string>
-	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Próba gladiatora</string>
+	<string key="98_M_01_combatprowess_title" speaker="UI - Quest Title">Maruderzy: Próba gladiatora</string>
 	<string key="98_M_01_combatprowess_description" speaker="UI - Quest Description">Pokonaj zagubionego pirata Hamidou, by udowodnić, że zasługujesz na rangę gladiatora. Gdy wykonasz zadanie, porozmawiaj z pustoszycielką Silas na Wyspach Kordelasowych.</string>
 	<string key="98_M_01_combatprowess_start_prompt" speaker="UI - Player Prompt">"Widać to żadna sztuka. W końcu tobie się udało".</string>
 	<string key="98_M_01_combatprowess_proposal" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_01_combatprowess_proposal_next">Ktoś tu ma niewyparzoną gębę. Szkoda, że nie mam czasu, by nauczyć cię moresu.\n\nTak czy owak, dam sobie rękę uciąć, że nie sprostasz wyzwaniu.</string>
@@ -344,8 +356,8 @@
 	<string key="98_M_01_combatprowess_complete" speaker="Ravager Silas - Cutlass Keys" name="CommanderSilas" gender="F" VO="Commander_98_M_01_combatprowess_AvailResponse" VO_Status="Recorded">Udało ci się pokonać Hamidou? Tobie? Ty… gnido. Obstawiłam, że przegrasz. Właśnie straciłam kupę azothu.\n\nNo dobrze. Od teraz jesteś gladiatorem. A teraz zjeżdżaj, zanim rozkwaszę ci nos.</string>
 	<string key="98_M_01_combatprowess_goto_POI" speaker="UI">Pokonaj zagubionego pirata Hamidou w: {POITags}, by zyskać rangę gladiatora</string>
 	<string key="98_M_01_combatprowess_defeat_named_target" speaker="UI">Pokonaj: {targetName}</string>
-	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Próba pustoszyciela</string>
-	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">Pokonaj wrogów na Tkackich Mokradłach, by zyskać rangę pustoszyciela. Gdy wykonasz zadanie, porozmawiaj z dowódcą Bergeronem z Tkackich Mokradeł.</string>
+	<string key="98_M_01b_fenravager_title" speaker="UI - Quest Title">Maruderzy: Próba pustoszyciela</string>
+	<string key="98_M_01b_fenravager_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPokonaj wrogów na Tkackich Mokradłach, by zyskać rangę pustoszyciela. Gdy wykonasz zadanie, porozmawiaj z dowódcą Bergeronem z Tkackich Mokradeł.</string>
 	<string key="98_M_01b_fenravager_start_prompt" speaker="UI - Player Prompt">"Tak, nie mogę się tego doczekać".</string>
 	<string key="98_M_01b_fenravager_proposal" speaker="Commander Bergeron - Weaver's Fen" name="CommanderBergeron" gender="F" VO="98_M_01b_fenravager_proposal" VO_Status="Recorded">Uważaj, czego pragniesz. Podczas tej próby będziesz brodzić w wodzie i krwi.\n\nRuszaj na mokradła i zmierz się z wrogami, których napotkasz. Będę tu na ciebie czekać.</string>
 	<string key="98_M_01b_fenravager_incomplete" speaker="Commander Bergeron - Weaver's Fen" gender="F">Jeśli sprostasz wyzwaniu, które postawią przed tobą mokradła, zyskasz rangę pustoszyciela.</string>
@@ -358,8 +370,8 @@
 	<string key="98_M_01b_fenravager_killtarget_cut_down_AI" speaker="UI">Zgładź zagubionych ({targetName})</string>
 	<string key="98_M_01b_fenravager_killtarget_defeat_AI" speaker="UI">Pokonaj zagubionych ({targetName})</string>
 	<string key="98_M_01b_fenravager_killtarget_eliminate_AI" speaker="UI">Zlikwiduj zagubionych ({targetName})</string>
-	<string key="98_M_02_ultimatewarrior_title" speaker="UI - Quest Title">Próba niszczyciela</string>
-	<string key="98_M_02_ultimatewarrior_description" speaker="UI - Quest Description">Zgładź wrogów w każdym regionie Żałobnicy, by udowodnić, że zasługujesz na rangę niszczyciela. Gdy wykonasz zadanie, porozmawiaj z niszczycielem Garcią na Niespokojnych Brzegach.</string>
+	<string key="98_M_02_ultimatewarrior_title" speaker="UI - Quest Title">Maruderzy: Próba niszczyciela</string>
+	<string key="98_M_02_ultimatewarrior_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nZgładź wrogów w każdym regionie Żałobnicy, by udowodnić, że zasługujesz na rangę niszczyciela. Gdy wykonasz zadanie, porozmawiaj z niszczycielem Garcią na Niespokojnych Brzegach.</string>
 	<string key="98_M_02_ultimatewarrior_start_prompt" speaker="UI - Player Prompt">"Dlaczego to był skandal?"</string>
 	<string key="98_M_02_ultimatewarrior_proposal" speaker="Destroyer Garcia - Restless Shores" name="DestroyerGarcia" gender="M" VO="Commander_98_M_02_ultimatewarrior_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_02_ultimatewarrior_proposal_next">Ponoć pustoszycielka Silas poczuła się urażona. A tak się składa, że ona podchodzi do wielu spraw śmiertelnie poważnie.\n\nAle powiedz, chcesz poddać się próbie, by zyskać wyższą rangę?</string>
 	<string key="98_M_02_ultimatewarrior_proposal_prompt" speaker="UI - Player Prompt">"Owszem. Co muszę zrobić?"</string>
@@ -374,8 +386,8 @@
 	<string key="98_M_02_ultimatewarrior_killtarget_cut_down_AI" speaker="UI">Zgładź pradawnych ({targetName})</string>
 	<string key="98_M_02_ultimatewarrior_killtarget_defeat_AI" speaker="UI">Pokonaj zagubionych ({targetName})</string>
 	<string key="98_M_02_ultimatewarrior_killtarget_eliminate_AI" speaker="UI">Zlikwiduj skażonych ({targetName})</string>
-	<string key="98_M_03_darkvengeance_title" speaker="UI - Quest Title">Próba dowódcy</string>
-	<string key="98_M_03_darkvengeance_description" speaker="UI - Quest Description">Pokonaj skażoną pustoszycielkę Silas, by udowodnić, że zasługujesz na rangę dowódcy. Gdy wykonasz zadanie, porozmawiaj z dowódcą Hartfordem z Czarnej Łuski.</string>
+	<string key="98_M_03_darkvengeance_title" speaker="UI - Quest Title">Maruderzy: Próba dowódcy</string>
+	<string key="98_M_03_darkvengeance_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPokonaj skażoną pustoszycielkę Silas, by udowodnić, że zasługujesz na rangę dowódcy. Gdy wykonasz zadanie, porozmawiaj z dowódcą Hartfordem z Czarnej Łuski.</string>
 	<string key="98_M_03_darkvengeance_start_prompt" speaker="UI - Player Prompt">"Możesz na mnie liczyć. Co mam zrobić?"</string>
 	<string key="98_M_03_darkvengeance_proposal" speaker="Commander Hartford - Ebonscale" name="CommanderHartford" gender="M" VO="Commander_98_M_03_darkvengeance_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_M_03_darkvengeance_proposal_next">Niestety, twoja próba będzie miała dość nietypowy przebieg.\n\nJak zapewne wiesz, pustoszycielka Silas ostro z tobą rywalizowała. Jej gniew doprowadził do tego, że uległa skażeniu.</string>
 	<string key="98_M_03_darkvengeance_proposal_prompt" speaker="UI - Player Prompt">"Silas jest skażona?"</string>
@@ -385,21 +397,21 @@
 	<string key="98_M_03_darkvengeance_goto_POI" speaker="UI">Pokonaj skażoną pustoszycielkę Silas w: {POITags}, by zyskać rangę dowódcy</string>
 	<string key="98_M_03_darkvengeance_killtarget_defeat_AI" speaker="UI">Pokonaj: {targetName}</string>
 	<string key="98_S_0001_RankUp_title" speaker="UI - Quest Title">Awans w szeregach syndykatu: skryba</string>
-	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi skryby i ukończ zadanie "Próba skryby", które przydzieli ci przedstawiciel frakcji w Lśniącej Kniei.</string>
+	<string key="98_S_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi skryby i ukończ zadanie "Próba skryby", które przydzieli ci przedstawiciel frakcji w Lśniącej Kniei.</string>
 	<string key="98_S_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Ukończ misje z tablicy frakcyjnej, po czym zgłoś się do miejscowego sędziego.</string>
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Zdobywaj reputację frakcyjną, by stanąć do próby awansu do wyższej rangi</string>
 	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Udaj się do Lśniącej Kniei i ukończ próbę skryby\n(Zalecany poziom: 25.)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Awans w szeregach syndykatu: kronikarz</string>
-	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi kronikarza i ukończ zadanie "Próba kronikarza", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
+	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi kronikarza i ukończ zadanie "Próba kronikarza", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Udaj się na Tkackie Mokradła i ukończ próbę kronikarza\n(Zalecany poziom: 35.)</string>
 	<string key="98_S_0203_RankUp_title" speaker="UI - Quest Title">Awans w szeregach syndykatu: kabalista</string>
-	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi kabalisty i ukończ zadanie "Próba kabalisty", które przydzieli ci przedstawiciel frakcji w Żałobnicy.</string>
+	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi kabalisty i ukończ zadanie "Próba kabalisty", które przydzieli ci przedstawiciel frakcji w Żałobnicy.</string>
 	<string key="98_S_0203_CompleteTrial_Cabalist" speaker="UI - Tracker Text">Udaj się do Żałobnicy i ukończ próbę kabalisty\n(Zalecany poziom: 49.)</string>
 	<string key="98_S_0304_RankUp_title" speaker="UI - Quest Title">Awans w szeregach syndykatu: alchemik</string>
-	<string key="98_S_0304_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi alchemika i ukończ zadanie "Próba alchemika", które przydzieli ci przedstawiciel frakcji w Cuchnącej Wodzie.</string>
+	<string key="98_S_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi alchemika i ukończ zadanie "Próba alchemika", które przydzieli ci przedstawiciel frakcji w Cuchnącej Wodzie.</string>
 	<string key="98_S_0304_CompleteTrial_Alchemist" speaker="UI - Tracker Text">Udaj się do Cuchnącej Wody i ukończ próbę alchemika\n(Zalecany poziom: 60.)</string>
-	<string key="98_S_01_theexperiment_title" speaker="UI - Quest Title">Próba skryby</string>
-	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">Pokonaj zagubionego ducha Malikora i użyj pochłaniacza psychokinetycznego do schwytania resztek duszy, by zyskać rangę skryby. Gdy wykonasz zadanie, porozmawiaj ze skrybą Krockesem z Lśniącej Kniei.</string>
+	<string key="98_S_01_theexperiment_title" speaker="UI - Quest Title">Syndykat: Próba skryby</string>
+	<string key="98_S_01_theexperiment_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPokonaj zagubionego ducha Malikora i użyj pochłaniacza psychokinetycznego do schwytania resztek duszy, by zyskać rangę skryby. Gdy wykonasz zadanie, porozmawiaj ze skrybą Krockesem z Lśniącej Kniei.</string>
 	<string key="98_S_01_theexperiment_start_prompt" speaker="UI - Player Prompt">"Owszem. Co muszę zrobić?"</string>
 	<string key="98_S_01_theexperiment_proposal" speaker="Scrivener Krockes - Brightwood" name="AlchemistKrockes" gender="M" VO="Alchemist_98_S_01_theexperiment_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_01_theexperiment_proposal_next">Przybywasz w doskonałym momencie. Mój pochłaniacz psychokinetyczny jest gotowy do przetestowania.\n\nWiesz, że niektórzy zagubieni wciąż mają resztki duszy?</string>
 	<string key="98_S_01_theexperiment_proposal_prompt" speaker="UI - Player Prompt">"Jesteś tego pewny?"</string>
@@ -410,8 +422,8 @@
 	<string key="98_S_01_theexperiment_place_IO" speaker="UI">Ustaw pochłaniacz psychokinetyczny</string>
 	<string key="98_S_01_theexperiment_killtarget_eliminate_AI" speaker="UI">Zlikwiduj: {targetName}</string>
 	<string key="98_S_01_theexperiment_collect_IO" speaker="UI">Zabierz pochłaniacz psychokinetyczny</string>
-	<string key="98_S_01b_fenscholar_title" speaker="UI - Quest Title">Próba kronikarza</string>
-	<string key="98_S_01b_fenscholar_description" speaker="UI - Quest Description">Pobierz próbki od różnych zagubionych na Tkackich Mokradłach i wróć do alchemiczki Rubis z Tkackich Mokradeł, by zyskać rangę kronikarza.</string>
+	<string key="98_S_01b_fenscholar_title" speaker="UI - Quest Title">Syndykat: Próba kronikarza</string>
+	<string key="98_S_01b_fenscholar_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPobierz próbki od różnych zagubionych na Tkackich Mokradłach i wróć do alchemiczki Rubis z Tkackich Mokradeł, by zyskać rangę kronikarza.</string>
 	<string key="98_S_01b_fenscholar_start_prompt" speaker="UI - Player Prompt">"Tak. Będziesz nadzorować moją próbę?"</string>
 	<string key="98_S_01b_fenscholar_proposal" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_proposal" VO_Status="Recorded">W rzeczy samej. Alchemik Krockes chciał przy tym być, ale ja nie widzę powodu, żeby zwlekać.\n\nZbierz dla mnie próbki różnych zagubionych z mokradeł, to awansuję cię na "kronikarza".</string>
 	<string key="98_S_01b_fenscholar_incomplete" speaker="Alchemist Rubis -Weaver's Fen" gender="F">Jeśli zbierzesz na mokradłach próbki, które posłużą do naszych badań, awansuję cię w naszej hierarchii.</string>
@@ -419,10 +431,10 @@
 	<string key="98_S_01b_fenscholar_complete_prompt" speaker="UI - Player Prompt">"Mam nadzieję, że tak".</string>
 	<string key="98_S_01b_fenscholar_complete_next" speaker="Alchemist Rubis -Weaver's Fen" name="AlchemistRubis" gender="F" VO="98_S_01b_fenscholar_complete_next" VO_Status="Recorded" dialogue-prompt="@98_S_01b_fenscholar_complete_prompt">Niby nie powinnam iść śladami Krockesa, ale zobaczymy, co z tego wyjdzie.\n\nWracając do meritum: udało ci się awansować w naszej hierarchii. Gratuluję, kronikarzu {playerName}.</string>
 	<string key="98_S_01b_fenscholar_harvest_item_from_target" speaker="UI">Pozyskaj: {itemName} od zagubionych ({targetName})</string>
-	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Próba kabalisty</string>
-	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">Umieść pochłaniacze psychokinetyczne w strategicznych punktach na terenie Żałobnicy, by zyskać rangę kabalisty. Gdy wykonasz zadanie, porozmawiaj z kabalistką Crawford z Żałobnicy.</string>
+	<string key="98_S_02_necromanticchemistry_title" speaker="UI - Quest Title">Syndykat: Próba kabalisty</string>
+	<string key="98_S_02_necromanticchemistry_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nUmieść pochłaniacze psychokinetyczne w strategicznych punktach na terenie Żałobnicy, by zyskać rangę kabalisty. Gdy wykonasz zadanie, porozmawiaj z kabalistką Crawford z Żałobnicy.</string>
 	<string key="98_S_02_necromanticchemistry_start_prompt" speaker="UI - Player Prompt">"Co to za próba?"</string>
-	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Będzie to kontynuacja twoich wcześniejszych badań nad duszami.\n\nWiesz już, jak używać pochłaniacza psychokinetycznego. Można powiedzieć, że dzięki tobie to urządzenie zyskało sławę!</string>
+	<string key="98_S_02_necromanticchemistry_proposal" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_02_necromanticchemistry_proposal_next">Będzie to kontynuacja twoich wcześniejszych badań nad fragmentami dusz.\n\nWiesz już, jak używać pochłaniacza psychokinetycznego. Można powiedzieć, że dzięki tobie to urządzenie zyskało sławę!</string>
 	<string key="98_S_02_necromanticchemistry_proposal_prompt" speaker="UI - Player Prompt">"A co z Krockesem?"</string>
 	<string key="98_S_02_necromanticchemistry_proposal_next" speaker="Cabalist Crawford - Mourningdale" name="CabalistCrawford" gender="F" VO="Alchemist_98_S_02_necromanticchemistry_CompleteNext" VO_Status="Recorded" dialogue-prompt="@98_S_02_necromanticchemistry_proposal_prompt">Krockes jest teraz zbyt zajęty, ale ja bardzo chętnie się tobą zajmę.\n\nMusimy rozmieścić pochłaniacze psychokinetyczne w strategicznych punktach na terenie Żałobnicy. To będzie… trudne, ale tak to już jest z nauką!</string>
 	<string key="98_S_02_necromanticchemistry_incomplete" speaker="Cabalist Crawford - Mourningdale" gender="F">Pochłaniacze psychokinetyczne same się nie rozmieszczą.\n\nIm szybciej to zrobisz, tym lepiej. W ten sposób więcej się zbierze.</string>
@@ -434,8 +446,8 @@
 	<string key="98_S_02_necromanticchemistry_placement_pueblonorth" speaker="UI">Pueblo kultu Nuñeza (północ)</string>
 	<string key="98_S_02_necromanticchemistry_placement_pueblosouth" speaker="UI">Pueblo kultu Nuñeza (południe)</string>
 	<string key="98_S_02_necromanticchemistry_placement_sorrowsilt" speaker="UI">Grań Rozpaczy</string>
-	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Próba alchemika</string>
-	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">Pokonaj alchemika Krockesa i schwytaj jego duszę pochłaniaczem psychokinetycznym, a następnie zabierz ją do driad w Cuchnącej Wodzie, by ją zniszczyć i dzięki temu zyskać rangę alchemika. Gdy wykonasz zadanie, porozmawiaj z alchemikiem Santosem z Cuchnącej Wody.</string>
+	<string key="98_S_03_lostnotlost_title" speaker="UI - Quest Title">Syndykat: Próba alchemika</string>
+	<string key="98_S_03_lostnotlost_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPokonaj alchemika Krockesa i schwytaj jego duszę pochłaniaczem psychokinetycznym, a następnie zabierz ją do driad w Cuchnącej Wodzie, by ją zniszczyć i dzięki temu zyskać rangę alchemika. Gdy wykonasz zadanie, porozmawiaj z alchemikiem Santosem z Cuchnącej Wody.</string>
 	<string key="98_S_03_lostnotlost_start_prompt" speaker="UI - Player Prompt">"Jak do tego doszło?"</string>
 	<string key="98_S_03_lostnotlost_proposal" speaker="Alchemist Santos - Reekwater" name="AlchemistSantos" gender="M" VO="Alchemist_98_S_03_lostnotlost_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_S_03_lostnotlost_proposal_next">Tak jak zawsze w przypadku tych niezdyscyplinowanych i zbyt zakochanych w swoich badaniach i reputacji.\n\nW przeciwieństwie do ciebie Krockesowi brakowało siły woli. Czeka cię ostatnia próba. Możemy zaczynać?</string>
 	<string key="98_S_03_lostnotlost_proposal_prompt" speaker="UI - Player Prompt">"Owszem. Co muszę zrobić?"</string>
@@ -448,21 +460,21 @@
 	<string key="98_S_03_lostnotlost_collect_IO" speaker="UI">Zabierz pochłaniacz psychokinetyczny</string>
 	<string key="98_S_03_lostnotlost_destroy_item" speaker="UI">Zniszcz pochłaniacz psychokinetyczny z pomocą driad</string>
 	<string key="98_C_0001_RankUp_title" speaker="UI - Quest Title">Awans w szeregach przymierza: templariusz</string>
-	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi templariusza i ukończ zadanie "Próba templariusza", które przydzieli ci przedstawiciel frakcji w Lśniącej Kniei.</string>
+	<string key="98_C_0001_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi templariusza i ukończ zadanie "Próba templariusza", które przydzieli ci przedstawiciel frakcji w Lśniącej Kniei.</string>
 	<string key="98_C_0001_RankUp_factionhandoff" speaker="UI - Tracker Text">Ukończ misje z tablicy frakcyjnej, po czym zgłoś się do miejscowego sędziego.</string>
 	<string key="98_C_Reach_NextCovenantRank" speaker="UI - Tracker Text">Zdobywaj reputację frakcyjną, by stanąć do próby awansu do wyższej rangi</string>
 	<string key="98_C_0001_CompleteTrial_Templar" speaker="UI - Tracker Text">Udaj się do Lśniącej Kniei i ukończ próbę templariusza\n(Zalecany poziom: 25.)</string>
 	<string key="98_C_0102_RankUp_title" speaker="UI - Quest Title">Awans w szeregach przymierza: ekskubitor</string>
-	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi ekskubitora i ukończ zadanie "Próba ekskubitora", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
+	<string key="98_C_0102_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi ekskubitora i ukończ zadanie "Próba ekskubitora", które przydzieli ci przedstawiciel frakcji na Tkackich Mokradłach.</string>
 	<string key="98_C_0102_CompleteTrial_Excubitor" speaker="UI - Tracker Text">Udaj się na Tkackie Mokradła i ukończ próbę ekskubitora\n(Zalecany poziom: 35.)</string>
 	<string key="98_C_0203_RankUp_title" speaker="UI - Quest Title">Awans w szeregach przymierza: lumen</string>
-	<string key="98_C_0203_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi lumena i ukończ zadanie "Próba lumena", które przydzieli ci przedstawiciel frakcji w Wielkiej Wyrwie.</string>
+	<string key="98_C_0203_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi lumena i ukończ zadanie "Próba lumena", które przydzieli ci przedstawiciel frakcji w Wielkiej Wyrwie.</string>
 	<string key="98_C_0203_CompleteTrial_Lumen" speaker="UI - Tracker Text">Udaj się do Wielkiej Wyrwy i ukończ próbę lumena\n(Zalecany poziom: 49.)</string>
 	<string key="98_C_0304_RankUp_title" speaker="UI - Quest Title">Awans w szeregach przymierza: arbiter</string>
-	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">Zdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi arbitra i ukończ zadanie "Próba arbitra", które przydzieli ci przedstawiciel frakcji w Strzaskanej Górze.</string>
+	<string key="98_C_0304_RankUp_description" speaker="UI - Tracker Text">&lt;font color="#eaeaea"&gt;AWANS W SZEREGACH FRAKCJI&lt;/font&gt;\nZdobądź ilość reputacji frakcyjnej wymaganą do awansu do rangi arbitra i ukończ zadanie "Próba arbitra", które przydzieli ci przedstawiciel frakcji w Strzaskanej Górze.</string>
 	<string key="98_C_0304_CompleteTrial_Adjudicator" speaker="UI - Tracker Text">Udaj się do Strzaskanej Góry i ukończ próbę arbitra\n(Zalecany poziom: 60.)</string>
-	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Próba templariusza</string>
-	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">Znajdź zaginionego nowicjusza przymierza Bremena Lucę i spróbuj ustalić, co się z nim stało, by zyskać rangę templariusza. Gdy wykonasz zadanie, porozmawiaj z templariuszką Roose z Lśniącej Kniei.</string>
+	<string key="98_C_01_theapostate_title" speaker="UI - Quest Title">Przymierze: Próba templariusza</string>
+	<string key="98_C_01_theapostate_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nZnajdź zaginionego nowicjusza przymierza Bremena Lucę i spróbuj ustalić, co się z nim stało, a zyskasz rangę templariusza. Gdy wykonasz zadanie, porozmawiaj z templariuszką Roose z Lśniącej Kniei.</string>
 	<string key="98_C_01_theapostate_start_prompt" speaker="UI - Player Prompt">"Możesz na mnie liczyć. Co mam zrobić?"</string>
 	<string key="98_C_01_theapostate_proposal" speaker="Templar Roose - Brightwood" gender="F" VO="Adjudicator_98_C_01_theapostate_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_01_theapostate_proposal_next">Jeden z naszych, nowicjusz zupełnie jak ty, zaczął głosić… niekonwencjonalne idee.\n\nZgromadził wokół siebie zwolenników. Należy sprowadzić ich wszystkich na drogę prawości.</string>
 	<string key="98_C_01_theapostate_proposal_prompt" speaker="UI - Player Prompt">"Jakie idee?"</string>
@@ -474,8 +486,8 @@
 	<string key="98_C_01_theapostate_goto_POI" speaker="UI">Wytrop nowicjusza przymierza Lucę w: {POITags}, by zyskać rangę templariusza</string>
 	<string key="98_C_01_theapostate_purge_AI" speaker="UI">Pozbądź się: {targetName}</string>
 	<string key="98_C_01_theapostate_get_lore_page" speaker="UI">Znajdź dziennik apostaty Luki</string>
-	<string key="98_C_01b_fenredemption_title" speaker="UI - Quest Title">Próba ekskubitora</string>
-	<string key="98_C_01b_fenredemption_description" speaker="UI - Quest Description">Poślij na wieczny odpoczynek poległych na Tkackich Mokradłach, by zyskać rangę ekskubitora. Gdy wykonasz zadanie, porozmawiaj z arbiterką Sheng z Tkackich Mokradeł.</string>
+	<string key="98_C_01b_fenredemption_title" speaker="UI - Quest Title">Przymierze: Próba ekskubitora</string>
+	<string key="98_C_01b_fenredemption_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nPoślij na wieczny odpoczynek poległych na Tkackich Mokradłach, by zyskać rangę ekskubitora. Gdy wykonasz zadanie, porozmawiaj z arbiterką Sheng z Tkackich Mokradeł.</string>
 	<string key="98_C_01b_fenredemption_start_prompt" speaker="UI - Player Prompt">"Tylko jeśli pomoże mi to lepiej służyć sprawie".</string>
 	<string key="98_C_01b_fenredemption_proposal" speaker="Adjudicator Sheng - Weaver's Fen" gender="F" VO="98_C_01b_fenredemption_proposal" VO_Status="Recorded" dialogue-next="@98_C_01b_fenredemption_proposal_next">Nie mam co do tego żadnych wątpliwości. Czuję, że pisane jest ci być kimś więcej niźli zwykłym templariuszem.\n\nSłyszałam o tragicznej historii tego apostaty, Bremena Luki.</string>
 	<string key="98_C_01b_fenredemption_proposal_prompt" speaker="UI - Player Prompt">"Szkoda, że tak wyszło".</string>
@@ -485,8 +497,8 @@
 	<string key="98_C_01b_fenredemption_killtarget_cut_down_AI" speaker="UI">Zgładź zagubionych ({targetName})</string>
 	<string key="98_C_01b_fenredemption_killtarget_defeat_AI" speaker="UI">Pokonaj zagubionych ({targetName})</string>
 	<string key="98_C_01b_fenredemption_killtarget_eliminate_AI" speaker="UI">Zlikwiduj zagubionych ({targetName})</string>
-	<string key="98_C_02_soulsalvation_title" speaker="UI - Quest Title">Próba lumena</string>
-	<string key="98_C_02_soulsalvation_description" speaker="UI - Quest Description">Odzyskaj modlitewne paciorki od skażonych templariuszy, by zyskać rangę lumena. Gdy wykonasz zadanie, porozmawiaj z ekskubitorką Lucą z Wielkiej Wyrwy.</string>
+	<string key="98_C_02_soulsalvation_title" speaker="UI - Quest Title">Przymierze: Próba lumena</string>
+	<string key="98_C_02_soulsalvation_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nOdzyskaj modlitewne paciorki od skażonych templariuszy, by zyskać rangę lumena. Gdy wykonasz zadanie, porozmawiaj z ekskubitorką Lucą z Wielkiej Wyrwy.</string>
 	<string key="98_C_02_soulsalvation_start_prompt" speaker="UI - Player Prompt">"Tak, zgłaszam gotowość".</string>
 	<string key="98_C_02_soulsalvation_proposal" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_02_soulsalvation_proposal_next">Chyba się nie znamy, ale jestem Liwia Luca.\n\nRzekomy apostata z Lśniącej Kniei był moim jedynym synem.</string>
 	<string key="98_C_02_soulsalvation_proposal_prompt" speaker="UI - Player Prompt">"Przykro mi z powodu twojej straty".</string>
@@ -497,8 +509,8 @@
 	<string key="98_C_02_soulsalvation_complete_next" speaker="Excubitor Luca - Great Cleave" gender="F" VO="Adjudicator_98_C_02_soulsalvation_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@98_C_02_soulsalvation_complete_prompt">No tak, racja. Wiesz, że mój syn też przechodziłby teraz próbę na lumena?\n\nUdało ci się uhonorować jego pamięć i tym samym awansować. Gratulacje, lumenie!</string>
 	<string key="98_C_02_soulsalvation_recover_item" speaker="UI">Odzyskaj modlitewne paciorki od:</string>
 	<string key="98_C_02_soulsalvation_recover_location" speaker="UI">{POITags}</string>
-	<string key="98_C_03_thepathtodarkness_title" speaker="UI - Quest Title">Próba arbitra</string>
-	<string key="98_C_03_thepathtodarkness_description" speaker="UI - Quest Description">Zgładź skażoną ekskubitorkę Lucę, by zyskać rangę arbitra. Gdy wykonasz zadanie, porozmawiaj z arbiterką Maras ze Strzaskanej Góry.</string>
+	<string key="98_C_03_thepathtodarkness_title" speaker="UI - Quest Title">Przymierze: Próba arbitra</string>
+	<string key="98_C_03_thepathtodarkness_description" speaker="UI - Quest Description">&lt;font color="#eaeaea"&gt;PRÓBA FRAKCYJNA&lt;/font&gt;\nZgładź skażoną ekskubitorkę Lucę, by zyskać rangę arbitra. Gdy wykonasz zadanie, porozmawiaj z arbiterką Maras ze Strzaskanej Góry.</string>
 	<string key="98_C_03_thepathtodarkness_start_prompt" speaker="UI - Player Prompt">"Zgłaszam gotowość. Co to za próba?"</string>
 	<string key="98_C_03_thepathtodarkness_proposal" speaker="Adjudicator Maras - Shattered Mtn" gender="F" VO="Adjudicator_98_C_03_thepathtodarkness_ProposalResponse" VO_Status="Recorded" dialogue-next="@98_C_03_thepathtodarkness_proposal_next">Czasami najmroczniejsze cienie skrywamy w samych sobie. Tak też było z Liwią Lucą.\n\nObsesja na punkcie dziedzictwa jej syna i daleko posunięta paranoja sprawiły, że uległa skażeniu.</string>
 	<string key="98_C_03_thepathtodarkness_proposal_prompt" speaker="UI - Player Prompt">"I mam się z nią zmierzyć?"</string>
