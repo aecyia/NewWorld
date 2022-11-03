@@ -565,6 +565,7 @@
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Tienes que haber alcanzado el nivel {minLevel} para registrarte.</string>
 	<string key="ui_siege_signup_failed_banned">La compañía gobernante te ha eliminado de la cuadrilla y no puedes volver a unirte a su ejército.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Has abandonado recientemente una compañía y no puedes luchar en una guerra defensiva para tu compañía durante 72 horas</string>
+	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Aún no tienes acceso a este territorio.</string>
 	<string key="ui_siege_signup_failed">Se ha producido un problema al unirte a esta guerra.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">¿Seguro?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Ya te has unido a una guerra que está programada para el mismo periodo de tiempo.\n¿Quieres dejar de estar registrado para la guerra en {territoryName}?</string>

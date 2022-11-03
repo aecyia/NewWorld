@@ -88,10 +88,13 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Przed przeniesieniem musisz znajdować się w azylu (osada, posterunek, kapliczka ducha, strażnica)</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Przed przeniesieniem nie można należeć do kompanii</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Przed przeniesieniem nie można mieć aktywnych ofert kupna/sprzedaży w faktorii</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">Nie można przenosić postaci pomiędzy światami nowego początku a innymi.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Przed przeniesieniem musisz być przynajmniej na {level}. poziomie</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Przed przeniesieniem nie możesz posiadać żadnych domów</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Aby móc ponownie przenieść postać pomiędzy światami lub regionami, musisz zaczekać, aż upłynie czas odnowienia.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Nie można aktualnie przenosić postaci z tego świata.</string>
+	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Nie można przenosić postaci ze światów nowego początku.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Ograniczenia dotyczące przedmiotów</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skórki&lt;/font&gt; wymagają wyposażenia się w przedmiot bazowy, by były widoczne. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Skórek&lt;/font&gt; nie można farbować.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Herbów kompanii&lt;/font&gt; może używać tylko zarządca (twórca) kompanii.</string>
@@ -468,6 +471,8 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">Nie możesz zmieniać światów, gdy czekasz w kolejce do napadu na posterunek.</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">Lista przenosin tego regionu jest pełna, spróbuj ponownie za kilka godzin</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Miejsca na postacie w tym regionie są pełne. Musisz usunąć lub przenieść którąś z postaci istniejących w tym regionie, zanim będzie można przenieść do niego kolejną.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">W tym świecie nowego początku można tworzyć wyłącznie nowe postacie. Nie można przenosić postaci do tego świata nowego początku lub z tego świata do innego.</string>
+	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Jedynie osoby biorące udział w Powrócie do Aeternum mogą tworzyć postaci w tym świecie. Nie można przenosić postaci do lub z tego świata.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Więcej informacji zawiera</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Przenoszenie między regionami – FAQ</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Po potwierdzeniu przeniesienia nastąpi wylogowanie do głównego menu wyboru postaci.</string>

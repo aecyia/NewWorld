@@ -664,14 +664,6 @@
 	<string key="AI_Slime_Slow_DisplayName">Appiccicoso</string>
 	<string key="AI_Slime_Slow_Tooltip">Velocità di movimento ridotta di un {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Insistente</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Incubo della zucca</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Riduce la guarigione ricevuta di un {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% per {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} s accumulandosi fino a {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} volte.</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Incubo della zucca</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Riduce la guarigione ricevuta di un {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% per {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} s accumulandosi fino a {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} volte.</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura purificante</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Rimuove Incubo della zucca e cura di un {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.HealthModifierPercent * 100]}% della salute base ogni {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.TickRate]} s.</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura purificante</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Rimuove Incubo della zucca e cura di un {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.HealthModifierPercent * 100]}% della salute base ogni {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.TickRate]} s.</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Maledizione di Baalphazu</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Subisci un {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% di danni da natura alla salute di base ogni {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} s.</string>
 	<string key="AI_SpiderBite_Tooltip">Avvelenato per un {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% di danni di base da natura ogni {[Type_StatusEffectData.AI_SpiderBite.TickRate]} secondi per {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} secondi.</string>

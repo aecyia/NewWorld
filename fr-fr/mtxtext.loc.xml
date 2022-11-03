@@ -88,10 +88,13 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Vous devez vous trouver dans un sanctuaire (colonie, avant-poste, sanctuaire spirituel ou tour de guet) avant de procéder au transfert.</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Vous ne pouvez pas appartenir à une compagnie avant de procéder au transfert.</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Vous ne pouvez pas avoir d'ordres d'achat ou de vente actifs au comptoir avant de procéder au transfert.</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">Les personnages ne peuvent pas être transférés sur et depuis des mondes nouvellement créés.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Vous devez au moins avoir atteint le niveau {level} pour effectuer un transfert.</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Vous ne pouvez pas posséder de maison avant d'effectuer un transfert.</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Vous devez attendre la fin du temps de recharge avant de pouvoir effectuer un nouveau transfert vers un autre monde ou une autre région.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Les personnages ne peuvent pas être transférés depuis ce monde pour le moment.</string>
+	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">Les personnages ne peuvent pas être transférés depuis des mondes nouvellement créés.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Restrictions d'objets</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">Les &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;apparences&lt;/font&gt; doivent être équipées sur un objet de base pour être visibles. Les &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;apparences&lt;/font&gt; ne peuvent pas être teintes.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">Seul le gouverneur (créateur) de la compagnie peut utiliser les &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;armoiries de compagnie&lt;/font&gt;.</string>
@@ -468,6 +471,8 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">Impossible de changer de monde dans la file d'attente de la Déferlante.</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">La liste de transfert de cette région est pleine, veuillez réessayer dans quelques heures.</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Les emplacements de personnage dans cette région sont pleins. Vous devez supprimer ou transférer un personnage présent dans cette région avant de pouvoir en transférer un autre ici.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Seuls de nouveaux personnages peuvent être créés sur ce monde nouvellement créé. Les personnages ne peuvent pas être transférés sur ou depuis ce monde nouvellement créé.</string>
+	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Seuls les personnages participant à Retourner à Aeternum peuvent créer des personnages sur ce monde. Les personnages ne peuvent pas être transférés sur et depuis ce monde.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Pour plus de détails, consultez la</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">FAQ Transfert de région</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">En confirmant le transfert, vous vous déconnecterez du menu principal de sélection des personnages.</string>

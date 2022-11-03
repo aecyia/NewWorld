@@ -3,8 +3,8 @@
 	<string key="cc_mouse1">LMT</string>
 	<string key="cc_mouse2">RMT</string>
 	<string key="cc_mouse3">MMT</string>
-	<string key="cc_mouse4">Maustaste 4</string>
-	<string key="cc_mouse5">Maustaste 5</string>
+	<string key="cc_mouse4">Maus 4</string>
+	<string key="cc_mouse5">Maus 5</string>
 	<string key="cc_space">Leertaste</string>
 	<string key="cc_mwheel_up">Mausrad hoch</string>
 	<string key="cc_mwheel_down">Mausrad runter</string>
@@ -667,7 +667,7 @@
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandoline</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Kontrabass</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Trommeln</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Herzjuwelplatz&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Eine auf diesen Platz gelegte Herzrune aktiviert die Runenfertigkeit.\n\nWird nach Abschluss der Herzrunenaufgabe freigeschaltet. (Verfügbar ab Stufe 60)&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Herzjuwelplatz&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Eine auf diesen Platz gelegte Herzrune aktiviert die Runenfertigkeit.\n\nWird nach Entdeckung der Aufgabe "Geheimnisse des Herzjuwels" in der Schwefelsandwüste freigeschaltet.&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Das Herzjuwel erhält Aufladung, indem bestimmte Kampfaktionen ausgeführt werden:\n\n Schaden zufügen (einschließlich abgewehrter Treffer)\n\n Schaden erleiden (einschließlich abgewehrter Treffer)\n\n Boni (einschließlich Heilung) und Schwächungen auslösen</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Herzrunenfertigkeit</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Herzrunenfertigkeit nicht verfügbar (Stille)</string>
@@ -1850,6 +1850,8 @@
 	<string key="ui_server_utc_-3">HLK</string>
 	<string key="ui_server_utc_1">MEZ</string>
 	<string key="ui_server_utc_dst_1">MESZ</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">ÄST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek}, {date}. {month}</string>
@@ -2150,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Du kannst nur 1 Charakter im &lt;/font&gt;&lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;Weltset "{worldSetName}"&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt; haben.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Du musst deinen Charakter in {worldName} löschen, wenn du in einer anderen {worldSetName}-Welt spielen willst.</string>
 	<string key="ui_clusterwarning_description2">Wenn Freunde von dir in anderen {worldSetName}-Welten spielen, kannst du nicht mit ihnen zusammen spielen.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Es können nur neue Charaktere in {worldName} erstellt werden. Charaktere können weder auf diese Neuanfang-Welt noch aus dieser übertragen werden.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Die Charakter-Erstellung auf {worldName} ist Teilnehmern an „Zurück nach Aeternum“ vorbehalten. Charaktere können weder auf diese Welt noch aus dieser übertragen werden.</string>
 	<string key="ui_clusterwarning_non_freshstart">Charaktere können in diese Welt hinein und aus ihr heraus übertragen werden.</string>
 	<string key="ui_clusterwarning_transferoutonly">Charaktere können nicht in diese Welt übertragen werden.\nCharaktere können aus dieser Welt heraus übertragen werden.</string>
 	<string key="ui_clusterwarning_transferinonly">Charaktere können in diese Welt übertragen werden.\nCharaktere können nicht aus dieser Welt heraus übertragen werden.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">Charaktere können nicht auf diese Welt übertragen werden.\nCharaktere können nicht aus dieser Welt heraus übertragen werden.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Es können keine weiteren Ziele mehr angeheftet werden.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Du kannst nur einen Charakter in der Weltgruppe von {worldSetName} besitzen.&lt;/font&gt;\n\nWenn du auf einer anderen {worldSetName}-Welt spielen möchtest, musst du zuerst deinen Charakter in {worldName} löschen und dann einen neuen in einer anderen Welt erstellen.\n\nWenn Freunde von dir in anderen {worldSetName}-Welten spielen, kannst du nicht mit ihnen zusammen spielen.</string>

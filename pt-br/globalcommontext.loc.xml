@@ -667,7 +667,7 @@
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Bandolim</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Contrabaixo</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Tambores</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Espaço de Gema de Coração&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Uma Runa de Coração colocada neste espaço desbloqueia sua habilidade.\n\nDesbloqueado após a conclusão da Jornada da Runa de Coração. (Disponível no Nível 60)&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Espaço de Gema de Coração&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Uma Runa de Coração colocada neste espaço desbloqueia a habilidade dela.\n\nDesbloqueado após a descoberta da jornada “Segredos da Gema de Coração” em Areias de Enxofre.&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">A Gema de Coração ganha carga ao realizar várias ações em combate:\n\n Causar dano (incluindo acertos bloqueados).\n\n Levar dano (incluindo acertos bloqueados).\n\n Aplicar buffs (incluindo curas) e debuffs.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Habilidade da Runa de Coração</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Habilidade da Runa de Coração Silenciada</string>
@@ -1850,6 +1850,8 @@
 	<string key="ui_server_utc_-3">BRT</string>
 	<string key="ui_server_utc_1">CET</string>
 	<string key="ui_server_utc_dst_1">CEST</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">AEST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek}, {date} de {month}</string>
@@ -2150,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Você só pode ter um personagem no &lt;/font&gt;&lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;Conjunto de Mundos {worldSetName}&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Se quiser jogar em outro Mundo de {worldSetName}, terá de excluir esse personagem em {worldName}</string>
 	<string key="ui_clusterwarning_description2">Se tiver amigos jogando em outros Mundos em {worldSetName}, você não poderá jogar com eles.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Apenas novos personagens podem ser criados em {worldName}. Não é possível transferir personagens de e para este Mundo Novo.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Apenas os participantes de Retorno a Aeternum podem criar personagens em {worldName}. Não é possível transferir personagens de e para este mundo.</string>
 	<string key="ui_clusterwarning_non_freshstart">Personagens podem ser transferidos de e para este mundo.</string>
 	<string key="ui_clusterwarning_transferoutonly">Não é possível transferir personagens para este mundo.\nÉ possível transferi-los deste mundo.</string>
 	<string key="ui_clusterwarning_transferinonly">É possível transferir personagens para este mundo.\nNão é possível transferi-los deste mundo.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">Não é possível transferir personagens para este mundo.\nNão é possível transferi-los deste mundo.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Não é possível fixar mais objetivos.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Você só pode ter 1 personagem no grupo de mundos {worldSetName}.&lt;/font&gt;\n\nSe quiser jogar num mundo diferente em {worldSetName}, será preciso excluir o personagem no mundo {worldName} e criar um personagem em outro mundo.\n\nSe tiver amigos jogando em outros mundos em {worldSetName}, você não poderá jogar com eles.</string>

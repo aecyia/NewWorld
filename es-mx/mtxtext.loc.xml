@@ -88,10 +88,13 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Debes estar en un santuario (asentamiento, puesto de avanzada, santuario espiritual o puesto de observación) antes de transferirte</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">No puedes pertenecer a una compañía antes de transferirte</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">No puedes tener pedidos de compra o venta activos de la tienda de intercambio antes de transferirte</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">No se pueden transferir personajes desde mundos desde cero o a ellos.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Debes ser de nivel {level} como mínimo antes de transferirte</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">No puedes poseer ninguna casa antes de transferirte.</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Debes esperar a que termine el tiempo de reutilización para transferirte de nuevo entre mundos o regiones.</string>
 	<string key="ui_transfer_requirement_cooldown_prefix" rel_version="Feature_MTX">&lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;</string>
+	<string key="ui_transfer_no_transfer_tooltip" rel_version="Feature_MTX">Actualmente los personajes no se pueden transferir desde este mundo.</string>
+	<string key="ui_transfer_no_transfer_tooltip_freshstart" rel_version="Feature_MTX">No se pueden transferir personajes desde mundos desde cero.</string>
 	<string key="ui_item_restrictions" rel_version="Feature_MTX">Restricciones de objetos</string>
 	<string key="ui_item_restrictions_item_skins" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Los diseños&lt;/font&gt; solo son visibles si se equipa el objeto base. &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Los diseños&lt;/font&gt; no se pueden teñir.</string>
 	<string key="ui_item_restrictions_crests" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;Las crestas de las compañías&lt;/font&gt; solo se pueden usar si eres el gobernador (creador) de una compañía.</string>
@@ -468,6 +471,8 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás a la cola de Avance a un puesto de avanzada.</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">La lista de transferencia de región está llena. Inténtalo nuevamente en unas horas.</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Todas las ranuras de personaje en esta región están llenas. Tienes que borrar o transferir un personaje existente en esta región para poder transferir uno nuevo.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Solo se pueden crear personajes nuevos en este mundo desde cero. No se pueden transferir personajes desde o a este mundo desde cero.</string>
+	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Solo los jugadores que participan en Regreso a Aeternum pueden crear personajes en este mundo. No se pueden transferir personajes desde o a este mundo.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Para obtener más información, consulta</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Preguntas frecuentes de la transferencia de región</string>
 	<string key="server_transfer_final_details" rel_version="Feature_Server_Transfer">Si confirmas la transferencia, saldrás del menú principal de selección de personajes.</string>

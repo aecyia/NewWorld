@@ -667,7 +667,7 @@
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandolina</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Kontrabas</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Bębny</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Klejnot serca&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Runa serca umieszczona w tym miejscu odblokowuje umiejętność, którą zapewnia.\n\nMożna odblokować, wykonując zadanie związane z runą serca. (dostępne od 60 poz.).&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Klejnot serca&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Runa serca umieszczona w tym miejscu odblokowuje jej umiejętność.\n\nMożna odblokować poprzez odkrycie misji "Sekrety klejnotu serca" w Piaskobrzegach.&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Klejnot serca ładuje się w trakcie walki poprzez:\n\n Zadawanie obrażeń (łącznie z zablokowanymi trafieniami).\n\n Otrzymywanie obrażeń (łącznie z zablokowanymi trafieniami).\n\n Nakładanie premii (łącznie z leczeniem) i negatywnych efektów.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Runa serca – umiejętność</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Umiejętność runy serca nieaktywna</string>
@@ -1850,6 +1850,8 @@
 	<string key="ui_server_utc_-3">BRT</string>
 	<string key="ui_server_utc_1">CET</string>
 	<string key="ui_server_utc_dst_1">CEST</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">AEST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek}, {date} {month}</string>
@@ -2150,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Możesz mieć tylko 1 postać w &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt; zestawie światów: {worldSetName}&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Jeśli chcesz grać w innym świecie z zestawu {worldSetName}, musisz usunąć tę postać w świecie {worldName}.</string>
 	<string key="ui_clusterwarning_description2">Jeśli twoi znajomi grają w innych światach z zestawu {worldSetName}, nie będziecie mogli grać razem.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">W świecie {worldName} można tworzyć wyłącznie nowe postacie. Nie można przenosić postaci do tego świata nowego początku i z tego świata do innego.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Jedynie osoby biorące udział w Powrocie do Aeternum mogą tworzyć postaci w świecie {worldName}. Nie można przenosić postaci do tego świata i z tego świata do innego.</string>
 	<string key="ui_clusterwarning_non_freshstart">Postacie można przenosić do tego świata i z tego świata do innego.</string>
 	<string key="ui_clusterwarning_transferoutonly">Nie można przenosić postaci do tego świata.\nMożna przenosić postacie z tego świata.</string>
 	<string key="ui_clusterwarning_transferinonly">Można przenosić postacie do tego świata.\nNie można przenosić postaci z tego świata.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">Nie można przenosić postaci do tego świata.\nNie można przenosić postaci z tego świata.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Nie można przypiąć kolejnych celów.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Możesz posiadać tylko 1 postać w grupie światów {worldSetName}.&lt;/font&gt;\n\nJeśli chcesz grać w innym świecie grupy {worldSetName}, musisz usunąć postać w świecie {worldName} i stworzyć nową w innym.\n\nJeśli twoi znajomi grają w innym świecie grupy {worldSetName}, nie będziecie mogli grać razem.</string>

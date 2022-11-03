@@ -667,7 +667,7 @@
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandoline</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Contrebasse</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Tambours</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Emplacement de joyau de cœur&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Une rune-cœur placée dans cet emplacement confère sa capacité.\n\nDéverrouillé après avoir accompli la quête de rune-cœur. (Disponible au niveau 60)&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Emplacement de joyau de cœur&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Une rune-cœur placée dans cet emplacement confère sa capacité.\n\nDéverrouillé après avoir accompli la quête « Les secrets du joyau de cœur » à Sulfure&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">Le joyau de cœur gagne des charges en accomplissant diverses actions au combat :\n\n Infliger des dégâts (coups bloqués y compris).\n\n Subir des dégâts (coups bloqués y compris).\n\n Appliquer des améliorations (soins y compris) et des affaiblissements.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Capacité de rune-cœur</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Capacité de rune-cœur silencieuse</string>
@@ -1850,6 +1850,8 @@
 	<string key="ui_server_utc_-3">BRT</string>
 	<string key="ui_server_utc_1">Heure d'Europe centrale</string>
 	<string key="ui_server_utc_dst_1">CEST</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">AEST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek} {month} {date}</string>
@@ -2150,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Vous ne pouvez avoir qu'un seul personnage dans l'&lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;ensemble de mondes {worldSetName}&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Pour jouer dans un autre monde de {worldSetName}, vous devrez supprimer ce personnage dans {worldName}.</string>
 	<string key="ui_clusterwarning_description2">Si vos amis jouent dans d'autres mondes de {worldSetName}, vous ne pourrez pas les rejoindre.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Seuls de nouveaux personnages peuvent être créés sur {worldName}. Les personnages ne peuvent pas être transférés sur et depuis ce monde nouvellement créé.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Seuls les personnages participant à Retourner à Aeternum peuvent créer des personnages sur le monde {worldName}. Les personnages ne peuvent pas être transférés sur et depuis ce monde.</string>
 	<string key="ui_clusterwarning_non_freshstart">Les personnages peuvent être importés et exportés sur ce monde.</string>
 	<string key="ui_clusterwarning_transferoutonly">Les personnages ne peuvent pas être transférés sur ce monde.\nLes personnages peuvent être transférés depuis ce monde.</string>
 	<string key="ui_clusterwarning_transferinonly">Les personnages peuvent être transférés sur ce monde.\nLes personnages ne peuvent pas être transférés depuis ce monde.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">Les personnages ne peuvent pas être transférés sur ce monde.\nLes personnages ne peuvent pas être transférés depuis ce monde.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">Vous ne pouvez pas marquer plus d'objectifs.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Vous ne pouvez avoir qu'un seul personnage dans l'ensemble de mondes {worldSetName}.&lt;/font&gt;\n\nSi vous souhaitez jouer dans un autre monde {worldSetName}, vous devez supprimer votre personnage de {worldName} et en créer un nouveau dans le monde de votre choix.\n\nVous ne pouvez pas non plus jouer avec des amis dont les personnages se trouvent dans d'autres mondes {worldSetName} que le vôtre.</string>

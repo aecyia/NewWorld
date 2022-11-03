@@ -565,6 +565,7 @@
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Du musst mindestens Stufe {minLevel} erreicht haben, um dich einzutragen.</string>
 	<string key="ui_siege_signup_failed_banned">Du wurdest von der herrschenden Kompanie aus der Liste entfernt und kannst dich dieser Armee nicht erneut anschließen.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Du hast vor kurzem eine Kompanie verlassen und kannst 72 Stunden lang nicht in einem Verteidigungskrieg für deine Kompanie kämpfen</string>
+	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Du hast noch keinen Zugriff auf dieses Gebiet.</string>
 	<string key="ui_siege_signup_failed">Bei deinem Eintragungsversuch für einen Krieg gab es ein Problem.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Möchtest du fortfahren?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Du bist bereits für einen Krieg eingetragen, der etwa zur selben Zeit stattfindet.\nMöchtest du deine Eintragung für {territoryName} verwerfen?</string>

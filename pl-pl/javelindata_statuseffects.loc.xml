@@ -664,14 +664,6 @@
 	<string key="AI_Slime_Slow_DisplayName">Lepki</string>
 	<string key="AI_Slime_Slow_Tooltip">Szybkość ruchu ulega zmniejszeniu o {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Arogancja</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Dyniowa zaraza</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Zmniejsza przywracane zdrowie o {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% na {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} s. Kumuluje się {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} razy.</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Dyniowa zaraza</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Zmniejsza przywracane zdrowie o {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% na {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]} s. Kumuluje się {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]} razy.</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura oczyszczająca</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Usuwa dyniową zarazę i przywraca {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.HealthModifierPercent * 100]}% podstawowego zdrowia co {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.TickRate]} s.</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura oczyszczająca</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Usuwa dyniową zarazę i przywraca {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.HealthModifierPercent * 100]}% podstawowego zdrowia co {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.TickRate]} s.</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Klątwa Baalfazu</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Otrzymujesz obrażenia od natury w wysokości {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% podstawowych obrażeń co {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]} s.</string>
 	<string key="AI_SpiderBite_Tooltip">Zatrucie zadające {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% podstawowych obrażeń od natury co {[Type_StatusEffectData.AI_SpiderBite.TickRate]} s przez {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} s.</string>

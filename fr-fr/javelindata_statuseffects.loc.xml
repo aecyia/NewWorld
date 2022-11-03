@@ -664,14 +664,6 @@
 	<string key="AI_Slime_Slow_DisplayName">Colle</string>
 	<string key="AI_Slime_Slow_Tooltip">Réduit la vitesse de déplacement de {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]} %.</string>
 	<string key="AI_PillarGoat_Buff_DisplayName" rel_version="Territory_Brimstone_Sands">Insistance</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Peste de potirons</string>
-	<string key="AI_HalloweenPlaguer_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Réduit les soins reçus de {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% pendant {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]}secondes. Cumulable {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]}fois.</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_DisplayName" rel_version="Event_Halloween_Temp">Peste de potirons</string>
-	<string key="AI_HalloweenBoss_PumpkinPlague_Tooltip" rel_version="Event_Halloween_Temp">Réduit les soins reçus de {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.HealMod * -100]}% pendant {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.BaseDuration]}secondes. Cumulable {[Type_StatusEffectData.AI_HalloweenPlaguer_PumpkinPlague.StackMax]}fois.</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura purificatrice</string>
-	<string key="AI_HalloweenGourdspewer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Soigne de la peste de potirons et {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.HealthModifierPercent * 100]}% de votre santé de base toutes les {[Type_StatusEffectData.AI_HalloweenGourdspewer_HealPuddle.TickRate]}secondes.</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_DisplayName" rel_version="Event_Halloween_Temp">Aura purificatrice</string>
-	<string key="AI_HalloweenPlaguer_HealPuddle_Tooltip" rel_version="Event_Halloween_Temp">Soigne de la peste de potirons et {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.HealthModifierPercent * 100]}% de votre santé de base toutes les {[Type_StatusEffectData.AI_HalloweenPlaguer_HealPuddle.TickRate]}secondes.</string>
 	<string key="AI_HalloweenBoss_PutridAura_DisplayName">Malédiction de Baalphazu</string>
 	<string key="AI_HalloweenBoss_PutridAura_Tooltip">Subit des dégâts de nature à hauteur de {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.HealthModifierDamageBased * -100]}% de la santé de base toutes les {[Type_StatusEffectData.HalloweenBoss_Putrid_Aura_DoT_Damage.TickRate * 6]}secondes.</string>
 	<string key="AI_SpiderBite_Tooltip">Empoisonnement à hauteur de {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]} % des dégâts de nature de base toutes les {[Type_StatusEffectData.AI_SpiderBite.TickRate]} secondes pendant {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} secondes.</string>

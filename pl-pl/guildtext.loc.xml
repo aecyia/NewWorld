@@ -565,6 +565,7 @@
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Musisz być przynajmniej na poziomie {minLevel}, by móc się zapisać.</string>
 	<string key="ui_siege_signup_failed_banned">Kompania zarządzająca usunęła cię z listy. Nie możesz ponownie dołączyć do jej armii.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Niedawno opuszczono kompanię – nie możesz brać udziału w wojnie obronnej toczonej przez twoją kompanię przez 72 godziny.</string>
+	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Nie masz jeszcze dostępu do tego terytorium.</string>
 	<string key="ui_siege_signup_failed">Wystąpił problem podczas zapisywania się na wojnę.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Na pewno chcesz to zrobić?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Bierzesz już udział w wojnie, która rozpocznie się w podobnym czasie.\nCzy chcesz zrezygnować z zapisu na terytorium: {territoryName}?</string>

@@ -667,7 +667,7 @@
 	<string key="ui_instrument-mandolin-slot_name" rel_version="Feature_MusicalPerformances">Mandolina</string>
 	<string key="ui_instrument-uprightbass-slot_name" rel_version="Feature_MusicalPerformances">Contrabajo</string>
 	<string key="ui_instrument-drums-slot_name" rel_version="Feature_MusicalPerformances">Batería</string>
-	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ranura de gema del alma&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Una runa del alma colocada en esta ranura desbloquea su habilidad.\n\nSe desbloquea al completar la misión de runa del alma. (Disponible en el nivel 60)&lt;/font&gt;</string>
+	<string key="ui_heartgem-slot" rel_version="Feature_Heartgems">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Semibold.font"&gt;Ranura de gema del alma&lt;/font&gt;\n\n&lt;font face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;Una runa del alma colocada en esta ranura desbloquea su habilidad.\n\nSe desbloquea al descubrir la misión «Los secretos de la gema del alma» en las Arenas de Azufre&lt;/font&gt;</string>
 	<string key="ui_heartgemcharge-tooltip" rel_version="Feature_Heartgems">La gema del alma se carga al realizar varias acciones en combate:\n\n Infligir daño (incluidos los golpes bloqueados).\n\n Recibir daño (incluidos los golpes bloqueados).\n\n Aplicar potenciadores (incluidas curaciones) y estados negativos.</string>
 	<string key="ui_heartgem_rune_ability" rel_version="Feature_Heartgems">Habilidad runa del alma</string>
 	<string key="ui_heartgem_rune_ability_silenced" rel_version="Feature_Heartgems">Habilidad runa del alma silenciada</string>
@@ -1850,6 +1850,8 @@
 	<string key="ui_server_utc_-3">BRT</string>
 	<string key="ui_server_utc_1">CET</string>
 	<string key="ui_server_utc_dst_1">CEST</string>
+	<string key="ui_server_utc_9">JST</string>
+	<string key="ui_server_utc_dst_9">JST</string>
 	<string key="ui_server_utc_10">AEST</string>
 	<string key="ui_server_utc_dst_10">AEDT</string>
 	<string key="ui_date_format" comment="{dayOfWeek} is abbreviated day text ('Mon', 'Tues'). {month} will be abbreviated month text ('Jan', 'Feb', etc.). {date} is the number of day of the month. The English format might be 'Mon, Oct 29'">{dayOfWeek}, {date} {month}</string>
@@ -2150,9 +2152,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Solo puedes tener 1 personaje en el &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;conjunto de mundos de {worldSetName}&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Si quieres jugar en otro mundo de {worldSetName}, tienes que borrar este personaje en {worldName}.</string>
 	<string key="ui_clusterwarning_description2">Si tienes amigos jugando en otros mundos de {worldSetName}, no podrás jugar con ellos.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Solo se pueden crear personajes nuevos en {worldName}. No se pueden transferir personajes desde o a este mundo desde cero.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Solo pueden crear personajes en {worldName} los participantes en Retorno a Aetérnum. No se pueden transferir personajes desde o a este mundo.</string>
 	<string key="ui_clusterwarning_non_freshstart">Se pueden transferir personajes desde y a este mundo.</string>
 	<string key="ui_clusterwarning_transferoutonly">No se pueden transferir personajes a este mundo.\nSe pueden transferir personajes desde este mundo.</string>
 	<string key="ui_clusterwarning_transferinonly">Se pueden transferir personajes a este mundo.\nNo se pueden transferir personajes desde este mundo.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">No se pueden transferir personajes a este mundo.\nNo se pueden transferir personajes desde este mundo.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">No puedes fijar más objetivos.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Solo puedes tener 1 personaje en el grupo de mundo {worldSetName}.&lt;/font&gt;\n\nSi alguna vez quieres jugar en un mundo {worldSetName} distinto, tendrás que borrar tu personaje en {worldName} y crear uno nuevo en otro mundo.\n\nSi tienes amigos jugando en otros mundos {worldSetName}, no podrás jugar con ellos.</string>

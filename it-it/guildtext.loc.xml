@@ -565,6 +565,7 @@
 	<string key="ui_siege_signup_failed_invasionlevelrequirement">Per iscriverti devi raggiungere almeno il livello {minLevel}.</string>
 	<string key="ui_siege_signup_failed_banned">Sei stato rimosso dalla formazione dalla compagnia governante e non puoi unirti nuovamente al suo esercito.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Hai lasciato una compagnia di recente e non puoi combattere in una guerra difensiva per la tua compagnia per 72 ore</string>
+	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Non hai ancora accesso a questo territorio.</string>
 	<string key="ui_siege_signup_failed">Si è verificato un problema durante l'iscrizione a questa guerra.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Vuoi procedere?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Hai già un'iscrizione attiva per una guerra prevista intorno allo stesso orario.\nVuoi davvero annullare l'iscrizione nel territorio {territoryName}?</string>
