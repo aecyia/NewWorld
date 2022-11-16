@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">{[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]}% szansy na znalezienie rzadkich przedmiotów podczas górnictwa.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Szczęście skórownika</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">{[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]}% szansy na znalezienie rzadkich przedmiotów podczas skórowania.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Narzędzia Turkulona</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Zapewnia szansę na zdobycie od indyków przedmiotów specjalnych, które pomogą ci pokonać Turkulona</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Wydajność drwala</string>
 	<string key="PerkID_Tools_LoggingYield_Description">Zapewnia {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]}% więcej surowców podczas wyrębu.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Wydajność żniwiarza</string>

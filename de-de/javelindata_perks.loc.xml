@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">Beim Bergbau findest du mit einer Wahrscheinlichkeit von {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]} % seltene Gegenstände.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Häuteglück</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">Beim Häuten findest du mit einer Wahrscheinlichkeit von {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]} % seltene Gegenstände.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Trutalon-Werkzeuge</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Bietet die Chance, besondere Gegenstände von Truthähnen zu erhalten, die helfen, Trutalon zu besiegen</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Holzfällerertrag</string>
 	<string key="PerkID_Tools_LoggingYield_Description">Holzfällerei liefert {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]} % mehr Rohstoffe.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Erntearbeitsertrag</string>

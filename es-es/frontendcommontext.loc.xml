@@ -176,6 +176,8 @@
 	<string key="mm_rejected_No_Ghost_Client">Error del servidor: no se ha podido iniciar la replicación.</string>
 	<string key="mm_rejected_Server_Crash">Se perdió el contacto de forma inesperada con el servidor. Inténtalo de nuevo más adelante.</string>
 	<string key="mm_rejected_Free_Session_Expired">Se ha agotado el tiempo para jugar gratuitamente.</string>
+	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">La solicitud de inicio de sesión no es válida para el mundo</string>
+	<string key="mm_rejected_Player_Not_Entitled_To_World">Acceso denegado: No tienes permiso para este mundo del juego.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Expulsado</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Se te ha expulsado del juego.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Se te ha expulsado del juego por estar demasiado tiempo ausente.</string>

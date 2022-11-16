@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">L'extraction de minerai vous confère {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]} % de chances de trouver des objets rares.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Chance de dépeçage</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">Le dépeçage vous confère {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]} % de chances de trouver des objets rares.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Outils de Turulon</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Octroie une chance d'obtenir des objets spéciaux des dindons permettant d'aider à vaincre Turulon.</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Rendement d'abattage</string>
 	<string key="PerkID_Tools_LoggingYield_Description">L'abattage génère {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]} % de ressources supplémentaires.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Rendement de récolte</string>

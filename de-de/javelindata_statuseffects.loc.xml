@@ -1223,6 +1223,8 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">Solange diese Waffe aktiv ist, fügst du +{[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]} % Schaden gegen Zornige Erdkreaturen zu.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Behandelte Bestien-Waffenbeschichtung</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">Solange diese Waffe aktiv ist, fügst du +{[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]} % Schaden gegen Bestien zu.</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
+	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">While this weapon is active deal more 300% damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Behandelte Ahnenwaffenbeschichtung</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">Solange diese Waffe aktiv ist, fügst du +{[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]} % Schaden gegen Ahnen zu.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Behandelte Verlorenen-Waffenbeschichtung</string>

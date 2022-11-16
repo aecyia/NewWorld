@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">Durante l'attività estrattiva ottieni un {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]}% di probabilità di trovare oggetti rari.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Fortuna nella scuoiatura</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">Durante la scuoiatura ottieni un {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]}% di probabilità di trovare oggetti rari.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Strumenti di Turkulon</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Offre la possibilità di acquisire oggetti speciali dai tacchini per aiutare a sconfiggere Turkulon</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Resa del taglio e trasporto di legname</string>
 	<string key="PerkID_Tools_LoggingYield_Description">Il taglio e trasporto del legname produce un {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]}% di risorse in più.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Resa della raccolta delle messi</string>

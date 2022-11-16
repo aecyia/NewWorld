@@ -325,5 +325,14 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Skelettwirbel</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Schwing elegant die Knochen."</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} vollführt einen eleganten Wirbel.</string>
+	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Jonglieren (Ball hochhalten)</string>
+	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Eine perfekte Fähigkeit, um andere zu beeindrucken, aber absolut nutzlos während des Spiels.</string>
+	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} jongliert und lässt einen Ball springen, um sich auszutoben.</string>
+	<string key="ui_emote_KneeSlide_name" rel_version="Emote_KneeSlide">Knierutscher</string>
+	<string key="ui_emote_KneeSlide_description" rel_version="Emote_KneeSlide">Du hast es geschafft! Das ist dein Moment! Tor!</string>
+	<string key="emote_KneeSlide" rel_version="Emote_KneeSlide">{playerName} rutscht auf den Knien vorbei.</string>
+	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Argh, ich sterbe</string>
+	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Erinnert euch an mich, lasst meinen Namen nie aus den Annalen der glorreichen Geschichte verschwinden, denn ich war immer treu ergeben mei–… Ärghs.</string>
+	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} erleidet einen qualvollen und dramatischen Tod.</string>
 </resources>
 

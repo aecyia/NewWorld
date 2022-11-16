@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">Una probabilidad del {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]} % de encontrar objetos raros al realizar actividades de minería.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Suerte en el desollamiento</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">Una probabilidad del {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]} % de encontrar objetos raros al desollar.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Herramientas de Turkulon</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Ofrece una oportunidad de obtener objetos especiales de los pavos para ayudar a derrotar a Turkulon.</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Rendimiento en la tala</string>
 	<string key="PerkID_Tools_LoggingYield_Description">Un rendimiento en la tala con un {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]} % más de recursos.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Rendimiento en la cosecha</string>

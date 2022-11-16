@@ -1285,6 +1285,8 @@
 	<string key="PerkID_Tools_MiningLuck_Description">Ao Minerar, ganha {[Type_StatusEffectData.Status_Perk_Tool_MiningLuck.ROLMining * 0.01 * {perkMultiplier}]}% de chance de encontrar itens raros.</string>
 	<string key="PerkID_Tools_SkinningLuck_Name">Sorte em Esfolamento</string>
 	<string key="PerkID_Tools_SkinningLuck_Description">Ao Esfolar, ganha {[Type_StatusEffectData.Status_Perk_Tool_SkinningLuck.ROLSkinning * 0.01 * {perkMultiplier}]}% de chance de encontrar itens raros.</string>
+	<string key="PerkID_Tools_SkinningTurkey_Name" rel_version="Event_TurkeyTerror_Perm">Ferramentas de Turkulon</string>
+	<string key="PerkID_Tools_SkinningTurkey_Description" rel_version="Event_TurkeyTerror_Perm">Oferece a chance de adquirir itens especiais de perus para ajudar a derrotar Turkulon.</string>
 	<string key="PerkID_Tools_LoggingYield_Name">Rendimento da Extração de Madeira</string>
 	<string key="PerkID_Tools_LoggingYield_Description">A Extração de Madeira rende mais {[Type_StatusEffectData.Status_Perk_Tool_LoggingYield.MULTLogging * 100 * {perkMultiplier}]}% de recursos.</string>
 	<string key="PerkID_Tools_HarvestingYield_Name">Rendimento da Colheita</string>
