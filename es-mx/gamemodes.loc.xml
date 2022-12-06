@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_queue_waiting">Esperando...</string>
 	<string key="ui_queue_elapsed">Tiempo pasado</string>
-	<string key="ui_queue_expected">Tiempo previsto</string>
+	<string key="ui_queue_expected">Tiempo restante previsto</string>
 	<string key="ui_queue_leave_group">Salir del grupo</string>
 	<string key="ui_queue_leave_group_confirm_title">Salir del grupo</string>
 	<string key="ui_queue_leave_group_confirm_message">Si el tamaño del grupo cae por debajo de {minGroupSize} miembros, el grupo se eliminará de la cola.\n\n¿Confirmas esta acción?</string>
@@ -177,7 +177,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Círculo de invocación</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Usa una piedra de invocación en este obelisco para agregar un aliado monstruoso a tu equipo durante un tiempo limitado.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Fijar/quitar objetivos desactivado durante Avance a puesto de avanzada.</string>
 	<string key="ui_pinning_disabled_expeditions">No se pueden fijar o quitar objetivos en las expediciones.</string>
 	<string key="ui_or_commandpost_buff_on">La estructura le ofrece potenciadores al equipo</string>

@@ -325,6 +325,32 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Piroetta scheletrica</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Fai muovere quelle ossa con una delicata piroetta."</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} esegue una leggiadra piroetta.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Ahimè</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Che disdetta.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} sospira.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">Corno da guerra</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Suona la carica. Si va in guerra!</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} suona un corno da guerra.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Camminata zombi</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Cos'è uno zombi in una terra in cui la vita è eterna? Pensa ai Perduti.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} barcolla in avanti come un morto vivente.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Corna rock</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Consacra la tua anima al diavolo.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} fa le corna con le dita.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} fa le corna con le dita.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} fa le corna con le dita.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Saltelli</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Saltella allegramente in quest'isola terribilmente malvagia e pericolosa.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} saltella.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Danza dell'indifferenza</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Movimenti incerti ma di tendenza.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} balla la danza dell'indifferenza.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Lancio di neve</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Lancia della soffice neve bianca nell'aria frizzante.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} lancia della neve.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Lancio di brillantite</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Lancia questa pietra magica e meravigliosa.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} lancia della brillantite.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Palleggio</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Un'abilità perfetta per fare colpo ma del tutto inutile durante la sessione di gioco.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} fa rimbalzare una palla per sport.</string>
@@ -334,5 +360,11 @@
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">E così, muoio.</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Ricordami in eterno, non lasciare che il mio nome sia cancellato dagli annali della tua storia gloriosa, poiché la mia eterna fedeltà a...</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} subisce una morte straziante e drammatica.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Acrobazie con brillantite</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Fai divertire grandi e piccini destreggiandoti con le meteore magiche.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} intrattiene il pubblico facendo acrobazie con la brillantite.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Lancio di brillantite</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Lancia brillantite luccicante.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} lancia una manciata di brillantite.</string>
 </resources>
 

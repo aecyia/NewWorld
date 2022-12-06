@@ -287,7 +287,7 @@
 	<string key="emote_MicDrop_SHE" rel_version="Emote_MicDrop">{playerName} suelta su dispositivo de proyección con determinación.</string>
 	<string key="emote_MicDrop_THEY" rel_version="Emote_MicDrop">{playerName} suelta su dispositivo de proyección con determinación.</string>
 	<string key="ui_emote_DrinkCheer_name" rel_version="Emote_DrinkCheers">¡Salud!</string>
-	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Bebe a la salud de tus buenos compañeros".</string>
+	<string key="ui_emote_DrinkCheer_description" rel_version="Emote_DrinkCheers">"Bebe por la salud de tus buenos compañeros".</string>
 	<string key="emote_DrinkCheer" rel_version="Emote_DrinkCheers">{playerName} hace un brindis por la buena salud.</string>
 	<string key="ui_emote_HearNoEvil_name" rel_version="Emote_HearNoEvil">No oír nada</string>
 	<string key="ui_emote_SeeNoEvil_name" rel_version="Emote_SeeNoEvil">No ver nada</string>
@@ -325,6 +325,32 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Giro esquelético</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Mueve el esqueleto con un giro refinado".</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} hace un giro refinado.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Qué lastima</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Pobre de mí.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} suspira.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">Cuerno de guerra</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Hazlo sonar. ¡Vamos a la guerra!</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} hace sonar un cuerno de guerra.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Caminata de zombi</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">¿Qué es un zombi la tierra de la vida eterna? Pues algo idéntico a un perdido.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} camina dando tumbos como un no muerto.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Cuernos de rock</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Ofrécele tu alma al diablo.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} hace cuernos de diablo con los dedos.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} hace cuernos de diablo con los dedos.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} hace cuernos de diablo con los dedos.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Saltar</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Salta felizmente a través de esta tierra terriblemente malvada y peligrosa.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} anda dando saltitos.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Baile inseguro</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Un baile inseguro que no te hará quedar mal.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} baila con los hombros caídos.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Lanzar nieve</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Lanza nieve blanca y suave al aire frío.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} lanza nieve.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Salto de rana con brillantita</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Haz un salto de rana con esta roca mágica y maravillosa.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} hace un salto de rana con brillantita.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Hacer dominadas</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Un truco perfecto para maravillar a los demás y totalmente inútil en el juego.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} hace jueguito con una pelota.</string>
@@ -334,5 +360,11 @@
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Este es mi fin</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Recuérdame siempre, que mi nombre no caiga en el olvido de los anales de tu historia gloriosa, pues yo siempre fui fiel…</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} sufre una muerte atroz y dramática.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Malabares con brillantita</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Entretén a niños y adultos por igual haciendo malabares con meteoritos mágicos.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} hace un espectáculo de malabares con brillantitas.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Lanzamiento de brillantita</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Lanza brillantes brillantitas.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} lanza un puñado de brillantitas.</string>
 </resources>
 

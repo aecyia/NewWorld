@@ -46,7 +46,7 @@
 	<string key="owg_price_update">Os preços mudaram devido à atividade da Facção</string>
 	<string key="owg_faction_select_no">Não, deixe-me pensar sobre isso.</string>
 	<string key="owg_faction_select_title">Juntar-se a esta Facção?</string>
-	<string key="owg_faction_select_title_incompany">Aviso! Sua companhia tem uma facção diferente!</string>
+	<string key="owg_faction_select_title_incompany" rel_version="Feature_Unfactioned_Company_Members">Aviso! Sua companhia tem uma facção diferente!</string>
 	<string key="owg_faction_select_warning">Esta decisão não pode ser desfeita.</string>
 	<string key="owg_faction_select_yes">Sim, prometer sua lealdade à facção {faction}.</string>
 	<string key="owg_faction_select_confirm">Você só poderá entrar para uma Companhia com jogadores da mesma facção. Caso esteja com a sinalização de PvP ativa, você só poderá fazer grupo com jogadores da mesma facção. Você talvez queira conferir a facção que seus amigos escolheram em New World antes de começar.\n\nSua escolha não é permanente; você pode mudar de facção uma vez na tela de Biografia. Depois disso, você pode mudar de novo a cada &lt;font color="#FFD45F"&gt;60 dias&lt;/font&gt;.</string>
@@ -158,6 +158,7 @@
 	<string key="owg_rank_unlock_tooltip">Você precisa atender a todos os requisitos para desbloquear o próximo ranque.</string>
 	<string key="owg_rank_unlocked">Ranque {rankName} Desbloqueado!</string>
 	<string key="owg_refresh_message">Uma nova missão ficará disponível em breve</string>
+	<string key="owg_no_pvp_missions_available">As missões PvP não podem ser aceitas ou concluídas em enclaves</string>
 	<string key="owg_replacepopup_body">Tem certeza de que deseja abandonar sua missão atual para iniciar esta?\n\nAbandonar sua missão atual resultará em &lt;font color="#f2e8ae"&gt;{amount} Tokens do Facção&lt;/font&gt; com &lt;font color="#ffffff"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="owg_replacepopup_title">SUBSTITUIR MISSÃO ATUAL</string>
 	<string key="owg_required_currency">{amount} Moedas Necessárias</string>
@@ -166,7 +167,7 @@
 	<string key="owg_rewards_title">RECOMPENSAS</string>
 	<string key="owg_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;Moedas</string>
 	<string key="owg_rewardtype_experience">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1.9" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;EXP&lt;/font&gt;</string>
-	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
+	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
 	<string key="owg_rewardtype_guildreputation">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; de &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Reputação&lt;/font&gt;</string>
 	<string key="owg_rewardtype_guildcurrency">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Tokens&lt;/font&gt;</string>
 	<string key="owg_rewardtype_pvp_xp" rel_version="PvP_Rewards_Track">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;EXP PvP&lt;/font&gt;</string>
@@ -247,7 +248,7 @@
 	<string key="owg_pvp_cannotacceptmission_unknown">Você não pode aceitar uma &lt;font color="#eaeaea"&gt;missão PvP&lt;/font&gt; no momento.</string>
 	<string key="owg_tooltip_warning">Somente 1 Missão pode estar ativa por vez.</string>
 	<string key="owg_unlock_previous_rank">Ranque Desbloqueado {rankName}</string>
-	<string key="owg_unlock_rank">D E S B L O Q U E A R &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt; {azoth}&lt;/font&gt;&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt; {coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt; {token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="owg_unlock_rank">D E S B L O Q U E A R &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt; {azoth}&lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt; {coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt; {token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
 	<string key="owg_currency">Tokens de Facção</string>
 	<string key="owg_influence_to_rank">{influence} para {rankName}</string>
 	<string key="owg_company">Companhia</string>
@@ -537,13 +538,24 @@
 	<string key="CMissionAcquireWoodWorker">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Loja de Madeira.</string>
 	<string key="CMissionAcquireOutfitter">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
 	<string key="CMissionAcquireEngineer">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Oficina.</string>
+	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Canteiros Festivos</string>
+	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Carpinteiros Festivos</string>
+	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Tecelões Festivos</string>
+	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Ferreiros Festivos</string>
+	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Colhedores Festivos</string>
+	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Cozinheiros Festivos</string>
+	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Alquimistas Festivos</string>
+	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Suprimentos Festivos</string>
+	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Lenhadores Festivos</string>
+	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Caçadores Festivos</string>
+	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Precisa-se de Curtidores Festivos</string>
 	<string key="ui_already_in_faction">Você já está nesta facção</string>
 	<string key="ui_cant_switch_faction_pvp">Não é possível mudar de facção enquanto está com sinalização para PvP</string>
 	<string key="ui_cant_switch_faction_azoth">Azoth insuficiente</string>
 	<string key="ui_cant_switch_faction_sanctuary">Você precisa estar em um santuário para trocar de facção</string>
 	<string key="ui_cant_switch_faction_war">Não é possível trocar de facção enquanto está registrado(a) para uma guerra</string>
 	<string key="ui_cant_switch_faction_intro">Você ainda não provou seu valor para esta facção. Fale com um representante de facção para participar.</string>
-	<string key="ui_cant_switch_faction_incompany">Você está em uma companhia associada a uma facção diferente no momento. Se continuar, você será removido(a) desta Companhia.\n\nVocê só poderá entrar para uma Companhia com jogadores da mesma Facção. Caso esteja com a sinalização de PvP ativa, você só poderá fazer grupo com jogadores da mesma facção. Você talvez queira conferir a facção que seus amigos escolheram em New World antes de começar.\n\nSua escolha não é permanente; você pode mudar de facção uma vez na tela de Biografia. Depois disso, você pode mudar de novo a cada &lt;font color="#FFD45F"&gt;60 dias&lt;/font&gt;.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">Você está em uma companhia associada a uma facção diferente no momento. Se continuar, você será removido(a) desta Companhia.\n\nVocê só poderá entrar para uma Companhia com jogadores da mesma Facção. Caso esteja com a sinalização de PvP ativa, você só poderá fazer grupo com jogadores da mesma facção. Você talvez queira conferir a facção que seus amigos escolheram em New World antes de começar.\n\nSua escolha não é permanente; você pode mudar de facção uma vez na tela de Biografia. Depois disso, você pode mudar de novo a cada &lt;font color="#FFD45F"&gt;60 dias&lt;/font&gt;.</string>
 	<string key="ui_join">Entrar</string>
 	<string key="ui_faction_join_restrictions">Você pode trocar de facção uma vez a cada 60 dias. Você só poderá se juntar a companhias de sua própria facção.</string>
 </resources>

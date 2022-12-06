@@ -165,7 +165,7 @@
 	<string key="ui_attach">INCORPORAR</string>
 	<string key="ui_attachment">ACCESORIO</string>
 	<string key="ui_attachments">Accesorios</string>
-	<string key="ui_overflow_items_amount">+{amount} objetos ocultos adicionales</string>
+	<string key="ui_overflow_items_amount">&lt;font color={color}&gt;+{amount} objetos adicionales&lt;/font&gt;\nLos objetos ocultos aparecerán cuando haya espacio libre.</string>
 	<string key="ui_overflow_items_hint">Los objetos ocultos aparecerán cuando haya espacio libre</string>
 	<string key="ui_attack">Ataques básicos</string>
 	<string key="ui_melee_combat">Combate cuerpo a cuerpo</string>
@@ -746,6 +746,7 @@
 	<string key="ui_seconds">segundos</string>
 	<string key="ui_seconds_short">s</string>
 	<string key="ui_milliseconds">{time} ms</string>
+	<string key="ui_percent">{value} %</string>
 	<string key="ui_select">Elegir</string>
 	<string key="ui_selectarespawnlocation">Elige la ubicación de reaparición</string>
 	<string key="ui_selectcanvasntoload">Elige el lienzo \n para cargarlo</string>
@@ -895,6 +896,7 @@
 	<string key="ui_building_plan_limit">Límite de estructura de territorio</string>
 	<string key="ui_disable_snap_hint">Mantén pulsado el botón derecho del ratón para desactivar el modo instantánea.</string>
 	<string key="url_quitgamesurvey">https://au1.qualtrics.com/jfe/form/SV_0fCfU7SdgaspliK</string>
+	<string key="url_free_weekend_survey">https://amazon.qualtrics.com/jfe/form/SV_6LPU5ICT7WwZnQG</string>
 	<string key="ui_attack_heavy">Ataque pesado</string>
 	<string key="ui_landControlledBy">Terreno controlado por</string>
 	<string key="ui_ProtectionTime">Tiempo de protección</string>
@@ -981,9 +983,9 @@
 	<string key="ui_floating_xp_val">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
 	<string key="ui_floating_standing_val">&lt;img src="lyshineui/images/icons/misc/icon_territoryStanding" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;{amount}</string>
 	<string key="ui_killfeed_xp_val">+ {amount}</string>
-	<string key="ui_killfeed_coin_val">+{amount}</string>
-	<string key="ui_killfeed_standing_val">+{amount}</string>
-	<string key="ui_killfeed_tradeskill_val">+{amount}</string>
+	<string key="ui_killfeed_coin_val">+ {amount}</string>
+	<string key="ui_killfeed_standing_val">+ {amount}</string>
+	<string key="ui_killfeed_tradeskill_val">+ {amount}</string>
 	<string key="ui_navmenu_friends">AMIGOS</string>
 	<string key="ui_navmenu_modes">Modos</string>
 	<string key="ui_navmenu_guild">Compañía</string>
@@ -1596,8 +1598,10 @@
 	<string key="ui_or">O</string>
 	<string key="ui_tooltip_ingredient_type">Tipo de ingrediente:</string>
 	<string key="ui_tooltip_ingredient_types">Tipos de ingredientes:</string>
-	<string key="ui_tooltip_perks_info_text_socketable_singular">Inserta este objeto en cualquier objeto con una ranura de gema para obtener el efecto siguiente:</string>
-	<string key="ui_tooltip_perks_info_text_socketable_plural">Inserta este objeto en cualquier objeto con una ranura de gema para obtener uno de los efectos siguientes:</string>
+	<string key="ui_tooltip_perks_info_text_armor_singular">Inserta este objeto en cualquier armadura con una ranura de gema para obtener el efecto siguiente:</string>
+	<string key="ui_tooltip_perks_info_text_armor_plural">Inserta este objeto en cualquier armadura con una ranura de gema para obtener uno de los efectos siguientes:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_singular">Inserta este objeto en cualquier arma o armadura con una ranura de gema para obtener el efecto siguiente:</string>
+	<string key="ui_tooltip_perks_info_text_weaponarmor_plural">Inserta este objeto en cualquier arma o armadura con una ranura de gema para obtener uno de los efectos siguientes:</string>
 	<string key="ui_tooltip_perks_info_text_gem_singular">Inserta esta gema en cualquier objeto con una ranura de gema para obtener el efecto siguiente:</string>
 	<string key="ui_tooltip_perks_info_text_gem_plural">Inserta esta gema en cualquier objeto con una ranura de gema para obtener uno de los efectos siguientes:</string>
 	<string key="ui_tooltip_perks_info_text_craft_singular">Usa este recurso al fabricar para obtener el efecto siguiente:</string>
@@ -1690,7 +1694,21 @@
 	<string key="ui_characters_count">Personajes:</string>
 	<string key="ui_characters">Personajes</string>
 	<string key="ui_map_legend">Leyenda.</string>
-	<string key="ui_time_left">Tiempo restante: {time}</string>
+	<string key="ui_leaderboard_title" rel_version="Feature_Leaderboards">CLASIFICACIÓN DE LA COMPAÑÍA</string>
+	<string key="ui_leaderboard_timeremaining" rel_version="Feature_Leaderboards">TIEMPO RESTANTE</string>
+	<string key="ui_leaderboard_rank_header" rel_version="Feature_Leaderboards">RANGO</string>
+	<string key="ui_leaderboard_rank_number" rel_version="Feature_Leaderboards">{number}.</string>
+	<string key="ui_leaderboard_company_header" rel_version="Feature_Leaderboards">COMPAÑÍA</string>
+	<string key="ui_leaderboard_area_score" rel_version="Feature_Leaderboards">({number})</string>
+	<string key="ui_leaderboard_day_title" rel_version="Feature_Leaderboards">DÍA</string>
+	<string key="ui_leaderboard_day_claims_header" rel_version="Feature_Leaderboards">CONQUISTAS</string>
+	<string key="ui_leaderboard_day_score_header" rel_version="Feature_Leaderboards">SUPERFICIE</string>
+	<string key="ui_leaderboard_season_title" rel_version="Feature_Leaderboards">TEMPORADA</string>
+	<string key="ui_leaderboard_season_claims_header" rel_version="Feature_Leaderboards">PUNTUACIÓN DE CONQUISTA TOTAL</string>
+	<string key="ui_leaderboard_season_score_header" rel_version="Feature_Leaderboards">SUPERFICIE TOTAL</string>
+	<string key="ui_leaderboard_time_left" rel_version="Feature_Leaderboards">Tiempo restante: {time}</string>
+	<string key="ui_leaderboard_personal_best_increased" rel_version="Feature_Leaderboards">¡Récord personal!</string>
+	<string key="ui_leaderboard_reward_item_tooltip_title" rel_version="Feature_Leaderboards">Recompensa: Título «{title}»</string>
 	<string key="ui_autocompletetimedout">Se ha agotado el tiempo para completarlo automáticamente.</string>
 	<string key="ui_autocompletethrottled">Se ha acelerado el tiempo para completarlo automáticamente.</string>
 	<string key="ui_searchitem">Buscar objetos</string>
@@ -1757,6 +1775,9 @@
 	<string key="ui_notification_teleport_text">Está a punto de estallar una guerra en esta ubicación.\nSi no abandonas esta zona, se te teletransportará a otro lugar.</string>
 	<string key="ui_notification_left_teleport_area">Has abandonado la zona restringida y no se te teletransportará.</string>
 	<string key="ui_item_link_tooltip_command">Enlazar al chat</string>
+	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Clasificación</string>
+	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DÍA</string>
+	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">TEMPORADA</string>
 	<string key="ui_mapmenu_companiesatwar">GUERRAS INMINENTES</string>
 	<string key="ui_mapmenu_resourcelocations">UBICACIONES DE RECURSOS</string>
 	<string key="ui_mapmenu_activewars">GUERRAS INMINENTES</string>
@@ -1800,7 +1821,7 @@
 	<string key="ui_arena_item_reward">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; {itemname}&lt;/font&gt;</string>
 	<string key="AwardAngryEarthEvent_MasterName">Alijo de equipamiento tierramarga</string>
 	<string key="ui_arena_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;monedas&lt;/font&gt;</string>
-	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;de Azoth&lt;/font&gt;</string>
+	<string key="ui_arena_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;de Azoth&lt;/font&gt;</string>
 	<string key="ui_arena_group_proximity">El miembro del grupo está demasiado lejos</string>
 	<string key="ui_arena_group_dead">El miembro del grupo está muerto</string>
 	<string key="ui_arena_activating">Activación en curso</string>
@@ -2037,7 +2058,7 @@
 	<string key="ui_throwingaxe">Destral</string>
 	<string key="ui_spear">Lanza</string>
 	<string key="ui_straightsword">Espada y escudo</string>
-	<string key="ui_straightsword_mastery">Maestría con espadas rectas</string>
+	<string key="ui_straightsword_mastery">Maestría de espada y escudo</string>
 	<string key="ui_greataxe">Gran hacha</string>
 	<string key="ui_greataxe_mastery">Maestría con grandes hachas</string>
 	<string key="ui_greatsword" rel_version="Weapon_GreatSword">Espadón</string>
@@ -2115,7 +2136,7 @@
 	<string key="ui_sickle">Hoces</string>
 	<string key="ui_skinningknife">Cuchillos de desuello</string>
 	<string key="ui_camp_reconnect_failed">Se ha abandonado tu campamento. Establece uno nuevo.</string>
-	<string key="ui_weapon_mastery_respec_warning">¿Seguro que quieres reasignar esta arma?\n\n Coste: {azoth}&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_weapon_mastery_respec_warning">¿Seguro que quieres reasignar esta arma?\n\n Coste: {azoth}&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_weapon_mastery_insufficient_azoth">No tienes suficiente Azoth.</string>
 	<string key="ui_you_have_unlocked">Has desbloqueado</string>
 	<string key="ui_you_have_earned">Has conseguido:</string>
@@ -2152,12 +2173,12 @@
 	<string key="ui_clusterwarning_warning">&lt;font color={colorHex1}&gt;Solo puedes tener 1 personaje en el &lt;/font&gt; &lt;font face="lyshineui/fonts/nimbus_bold.font"&gt;&lt;font color={colorHex2}&gt;conjunto de mundos de {worldSetName}&lt;/font&gt;&lt;/font&gt;&lt;font color={colorHex1}&gt;.&lt;/font&gt;</string>
 	<string key="ui_clusterwarning_description1">Si quieres jugar en otro mundo de {worldSetName}, tienes que borrar este personaje en {worldName}.</string>
 	<string key="ui_clusterwarning_description2">Si tienes amigos jugando en otros mundos de {worldSetName}, no podrás jugar con ellos.</string>
-	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">Solo se pueden crear personajes nuevos en {worldName}. No se pueden transferir personajes desde o a este mundo desde cero.</string>
-	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">Solo pueden crear personajes en {worldName} los participantes en Retorno a Aetérnum. No se pueden transferir personajes desde o a este mundo.</string>
-	<string key="ui_clusterwarning_non_freshstart">Se pueden transferir personajes desde y a este mundo.</string>
-	<string key="ui_clusterwarning_transferoutonly">No se pueden transferir personajes a este mundo.\nSe pueden transferir personajes desde este mundo.</string>
-	<string key="ui_clusterwarning_transferinonly">Se pueden transferir personajes a este mundo.\nNo se pueden transferir personajes desde este mundo.</string>
-	<string key="ui_clusterwarning_cannottransferinnorout">No se pueden transferir personajes a este mundo.\nNo se pueden transferir personajes desde este mundo.</string>
+	<string key="ui_clusterwarning_freshstart" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Solo se pueden crear personajes nuevos en {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes a este mundo desde cero.</string>
+	<string key="ui_clusterwarning_bfnw" rel_version="Feature_BFNW">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Solo pueden crear personajes en {worldName} los participantes en Retorno a Aetérnum.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes desde o a este mundo.</string>
+	<string key="ui_clusterwarning_non_freshstart">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Se pueden transferir personajes desde y a este mundo.</string>
+	<string key="ui_clusterwarning_transferoutonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes a este mundo.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Se pueden transferir personajes desde y a este mundo.</string>
+	<string key="ui_clusterwarning_transferinonly">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Se pueden transferir personajes desde y a este mundo.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes desde este mundo.</string>
+	<string key="ui_clusterwarning_cannottransferinnorout">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes a este mundo.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes desde este mundo.</string>
 	<string key="ui_character_world_info">{worldName}</string>
 	<string key="ui_cannotPin_atMax">No puedes fijar más objetivos.</string>
 	<string key="ui_clusterwarning_body">&lt;font color="#ffffff"&gt;Solo puedes tener 1 personaje en el grupo de mundo {worldSetName}.&lt;/font&gt;\n\nSi alguna vez quieres jugar en un mundo {worldSetName} distinto, tendrás que borrar tu personaje en {worldName} y crear uno nuevo en otro mundo.\n\nSi tienes amigos jugando en otros mundos {worldSetName}, no podrás jugar con ellos.</string>
@@ -2166,6 +2187,8 @@
 	<string key="ui_character_level_short">Nv.</string>
 	<string key="ui_clusterwarning_cannot_create_title">No se puede crear un personaje.</string>
 	<string key="ui_clusterwarning_cannot_create">Ya tienes un personaje en el grupo de mundo {worldSetName}. Si quieres jugar en este mundo, tiene que borrar tu personaje en {worldName}.</string>
+	<string key="ui_clusterwarning_freeweekend_sessiontime" rel_version="Feature_FreeWeekend">Las sesiones de los jugadores gratuitos se amplían cada 30 minutos si no hay jugadores de pago en cola. Los jugadores que hayan comprado New World no tendrán límites de tiempo en la sesión.</string>
+	<string key="ui_clusterwarning_freeweekend_freshstart" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; Solo se pueden crear personajes nuevos en {worldName}.\n&lt;img src="lyshineui/images/tooltip/tooltip_bullet" xPadding="0" yOffset="1"&gt;&lt;/img&gt; No se pueden transferir personajes a este mundo desde cero.\n\nSolo los jugadores que han comprado New World pueden crear personajes en mundos desde cero.</string>
 	<string key="ui_num_chars_per_region_title">PERSONAJES EN ESTA REGIÓN</string>
 	<string key="ui_regionmaxwarning_cannot_create_title">No se puede crear un personaje.</string>
 	<string key="ui_regionmaxwarning_cannot_create">Tienes la cantidad máxima de personajes en esta región. Para crear un personaje nuevo, borra un personaje que esté en esta región o elige otra diferente.</string>
@@ -2282,8 +2305,9 @@
 	<string key="ui_fishing_divert_level_yellow">¡La población de peces está disminuyendo!</string>
 	<string key="ui_fishing_divert_level_red">¡Población de peces a niveles críticos!</string>
 	<string key="fishing_hotspot_name">{displayName}\n({territory})</string>
-	<string key="ui_change_faction_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="5" yOffset="3"&gt;&lt;/img&gt;{amount}</string>
-	<string key="ui_change_faction_azoth_required">Se necesita: &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; {amount}</string>
+	<string key="ui_fishing_combat_message">No se puede pescar durante el combate.</string>
+	<string key="ui_change_faction_azoth">{amount} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" scale="1.2" xPadding="0" yOffset="0"&gt;&lt;/img&gt;</string>
+	<string key="ui_change_faction_azoth_required">Se necesita: {amount} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt;</string>
 	<string key="ui_faction_cant_pvp">No puedes cambiar de facción si tienes el JcJ activado</string>
 	<string key="ui_faction_cant_sanctuary">Solo puedes cambiar de facción en un santuario</string>
 	<string key="ui_faction_cant_company">No puedes cambiar de facción si estás en una compañía</string>
@@ -2297,8 +2321,8 @@
 	<string key="ui_change_faction_azoth_cost">Cambiar de facción {azothcost}</string>
 	<string key="ui_change_faction_desc">¿Seguro que quieres que tu nueva facción sea la facción {factionname}?\nCambiar de facción restablecerá el rango y los blasones de facción.\n\nSi aceptas, no podrás volver a cambiar de facción hasta que pasen 60 días.</string>
 	<string key="ui_change_faction_confirmation" rel_version="Feature_Faction_Selection">¿Seguro que quieres que tu nueva facción sea la facción {factionname}?\nTu rango y blasones de facción no se transferirán contigo, pero tampoco se perderán en caso de que decidas volver en el futuro.\n\nSi aceptas, no podrás volver a cambiar de facción hasta que pasen 60 días.\n\nSi eres miembro de una compañía, saldrás de ella.</string>
-	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Misiones introductorias no completadas</string>
-	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Visita al representante de la facción para cambiar</string>
+	<string key="ui_change_faction_quest_warning" rel_version="Feature_Faction_Selection">Misiones de iniciación de facción no completadas</string>
+	<string key="ui_change_faction_visit_rep" rel_version="Feature_Faction_Selection">Completa misiones de iniciación de facción en Ocaso para cambiar a esta facción</string>
 	<string key="ui_current_faction">Tu facción actual: {factionname}</string>
 	<string key="ui_current_faction_label">Facción actual</string>
 	<string key="ui_dropconfirm_title">Confirmación para soltar</string>
@@ -2347,6 +2371,7 @@
 	<string key="ui_tooltip_fasttravel_cost">Coste del viaje rápido</string>
 	<string key="ui_tooltip_base_cost">Coste base</string>
 	<string key="ui_tooltip_distance_cost">Coste por distancia</string>
+	<string key="ui_tooltip_field_fast_travel_charge">Coste desde el campo</string>
 	<string key="ui_tooltip_encumbrance_cost">Coste por carga excesiva</string>
 	<string key="ui_tooltip_faction_discount">Descuento de facción</string>
 	<string key="ui_tooltip_company_discount">Descuento de compañía</string>
@@ -2431,6 +2456,7 @@
 	<string key="ui_itemtypedescription_Ringjewelry">Joyería - anillo</string>
 	<string key="ui_itemtypedescription_Earringjewelry">Joyería - pendiente</string>
 	<string key="ui_itemtypedescription_resource">Recurso</string>
+	<string key="ui_itemtypedescription_housingitem">Objeto para casas</string>
 	<string key="ui_itemtypedescription_tool">Herramienta</string>
 	<string key="ui_itemtypedescription_instrument">Instrumento</string>
 	<string key="ui_itemtypedescription_dye">Tinte</string>
@@ -2447,6 +2473,7 @@
 	<string key="ui_itemtooltiptitle_heartgem_rune_grasping_vines" rel_version="Feature_Heartgems">Enredaderas agarradoras</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_heretics_fall" rel_version="Feature_Heartgems">Loma oscura</string>
 	<string key="ui_itemtooltiptitle_heartgem_rune_cannon_blast" rel_version="Feature_Heartgems">Explosión de cañón</string>
+	<string key="ui_itemtooltiptitle_heartgem_rune_bile_bomb" rel_version="Feature_Heartgems_BileBomb">Bomba de bilis</string>
 	<string key="ui_cannot_perform_action_at_this_time">No puedes realizar esta acción ahora mismo</string>
 	<string key="ui_cannot_use_shield_abilities">No tienes ningún escudo equipado</string>
 	<string key="ui_tooltip_effect_duration">&lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt; Duración de los efectos</string>
@@ -2458,6 +2485,8 @@
 	<string key="ui_linktochat_disabled">El enlace al chat está desactivado por el momento.</string>
 	<string key="ui_autopinObjectivesMain">Autofijar misiones de la historia principal</string>
 	<string key="ui_autopinobjectivesMain_desc">Fija automáticamente las misiones de la historia principal en el HUD al aceptarlas</string>
+	<string key="ui_autopinObjectivesFactionStory">Autofijar misiones de historia de facción</string>
+	<string key="ui_autopinobjectivesFactionStory_desc">Fija automáticamente las misiones de historia de facción en el HUD al aceptarlas</string>
 	<string key="ui_autopinObjectivesSkillProgression">Autofijar misiones de progreso de habilidad</string>
 	<string key="ui_autopinobjectivesSkillProgression_desc">Fija automáticamente las misiones de progreso de habilidad en el HUD al aceptarlas</string>
 	<string key="ui_autopinObjectivesEpicEquipment">Autofijar misiones de armas y armaduras épicas</string>
@@ -2482,7 +2511,7 @@
 	<string key="ui_cannot_chat_global_blocked">No puedes hablar en este canal hasta que tu cuenta lleve creada más de {hoursNeeded} horas y tus horas de juego superen las {playtimeNeeded}.</string>
 	<string key="ui_complete_quests_to_unlock">Completa misiones en el asentamiento para desbloquear</string>
 	<string key="ui_interact_required_level">Tienes que llegar al nivel {level} para usar</string>
-	<string key="ui_cannot_chat_trading_blocked">Tu cuenta debe tener más de {hoursNeeded}, tu tiempo de juego debe ser superior a {playtimeNeeded} y debes tener el puesto comercial desbloqueado para acceder a este canal.</string>
+	<string key="ui_cannot_chat_trading_blocked">Para acceder al canal se necesitan {playtimeNeeded} horas de juego, una antigüedad de la cuenta de {hoursNeeded} horas y un puesto comercial desbloqueado.</string>
 	<string key="ui_averageexpertise">Pericia media</string>
 	<string key="ui_averageexpertisetooltip">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Pericia&lt;/font&gt;\nLa pericia se utiliza para medir la potencia máxima de un objeto cuando lo tienes equipado.\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Máxima pericia que es posible alcanzar&lt;/font&gt;\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{maximum}&lt;/font&gt;\n\n&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Cómo aumentar la pericia&lt;/font&gt;\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Puntos de interés y expediciones de élite&lt;/font&gt;\nLos botines de criaturas o cofres en áreas de nivel 60 o superior tienen la posibilidad de aumentar este valor.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Artesanía&lt;/font&gt;\nFabricar un objeto de 600 GS aumentará la pericia de este tipo de objeto.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Molde de aljez&lt;/font&gt;\nAbrir un molde de aljez incrementa la pericia.\n\n&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_semibold.font"&gt;Mejora de objetos (con fragmentos umbríos)&lt;/font&gt;\nDespués de llegar a 600 de pericia, la única manera de aumentar la pericia es mediante la mejora de los objetos con fragmentos umbríos.</string>
 	<string key="ui_itemtypedescription_shield_only">Escudo</string>
@@ -2529,7 +2558,16 @@
 	<string key="ui_endgame_banner_text2">&lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;Asalto a puesto remoto&lt;/font&gt;, un campo de batalla de 20 contra 20</string>
 	<string key="ui_endgame_banner_text3">Puntos de referencia de &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;élite&lt;/font&gt;, arenas de prueba y desafíos de mundo abierto para grupos</string>
 	<string key="ui_endgame_banner_text4">Visita un &lt;font face="lyshineui/fonts/Nimbus_semibold.font" color="#ffdb7a"&gt;horno de aljez&lt;/font&gt; para mejorar tu equipo.</string>
-	<string key="ui_endgame_banner_subtitle">Te doy la bienvenida al final del juego</string>
+	<string key="ui_endgame_banner_subtitle">Tu aventura acaba de empezar...</string>
+	<string key="ui_freeweekend_guide_tab" rel_version="Feature_FreeWeekend">Fin de semana gratis</string>
+	<string key="ui_freeweekend_guide_title1" rel_version="Feature_FreeWeekend">¡Aetérnum te da la bienvenida!</string>
+	<string key="ui_freeweekend_guide_title2" rel_version="Feature_FreeWeekend">Busca amigos y actividades</string>
+	<string key="ui_freeweekend_guide_title3" rel_version="Feature_FreeWeekend">Tiempo de sesión y colas</string>
+	<string key="ui_freeweekend_guide_title4" rel_version="Feature_FreeWeekend">Comprar New World</string>
+	<string key="ui_freeweekend_guide_body1" rel_version="Feature_FreeWeekend">Durante el evento del fin de semana gratis, cualquier jugador puede descargar New World y crear un personaje para jugar. A algunos mundos solo pueden acceder los jugadores que hayan comprado New World. Los jugadores gratuitos no pueden transferir personajes entre mundos ni acceder a la tienda ni al puesto comercial. Los personajes de jugadores gratuitos también tienen un límite máximo de 5000 &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;.</string>
+	<string key="ui_freeweekend_guide_body2" rel_version="Feature_FreeWeekend">Usa el menú de interacciones sociales (la tecla predeterminada es [O]) para buscar amigos en el mismo mundo o responder a invitaciones de otros jugadores. Participa en actividades multijugador como la arena o el Asalto a puesto remoto en la pestaña Modos del menú de escape [ESC]. Busca un grupo y embárcate en una expedición abriendo el menú del buscador de grupo en el mapa. Para ello, pasa el ratón por cualquier icono de expedición.</string>
+	<string key="ui_freeweekend_guide_body3" rel_version="Feature_FreeWeekend">Para los jugadores gratuitos, New World comprueba cada cierto tiempo si hay cola en el mundo del personaje. Los jugadores pueden jugar todo el tiempo que quieran si su mundo no tiene cola cuando se realiza esta comprobación del tiempo de la sesión. Si en ese momento hay cola, el jugador gratuito volverá al menú principal y podrá ponerse a la cola para volver a entrar al mundo. Si en ese momento no hay cola, el tiempo de la sesión del jugador gratuito se extenderá hasta la próxima comprobación. Las comprobaciones temporales del tiempo de la sesión no se aplican a los jugadores que hayan comprado New World, que tendrán prioridad en la cola sobre los jugadores gratuitos.</string>
+	<string key="ui_freeweekend_guide_body4" rel_version="Feature_FreeWeekend">New World se puede comprar en la tienda de Steam, a la que se puede acceder desde el menú principal o desde el botón Menú del menú de escape [ESC]. Los jugadores gratuitos conservarán todos los personajes, objetos y avances al comprar New World. Sin embargo, para desbloquear funciones como el comercio entre jugadores y el acceso a la tienda o al puesto comercial solo cuenta el tiempo total de juego de todos los personajes de una cuenta una vez comprado el juego.</string>
 	<string key="ui_factions">Facciones</string>
 	<string key="ui_factions_guide_1_header">Unirse a una facción</string>
 	<string key="ui_factions_guide_1_body">Antes de unirte a una facción, debes demostrar tu valía completando una serie de misiones de iniciación de facción. Alcanza el nivel 17 y busca a quienes dan la misión inicial de cada facción cerca o en la aldea de Villabuey, en Ocaso.</string>
@@ -2562,13 +2600,20 @@
 	<string key="ui_event_time_left">&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;El evento termina en: &lt;font color="#cca000"&gt;{timeLeft} &lt;img src="LyShineUI/Images/Icons/Misc/icon_hourglass_yellow.png" xPadding="0" scale="1.1" yOffset="1"&gt;&lt;/img&gt;&lt;/font&gt;&lt;/font&gt;</string>
 	<string key="ui_event_time_left_compass">El evento termina en &lt;font face="lyshineui/fonts/Nimbus_semibold.font"&gt;{timeLeft}&lt;/font&gt;</string>
 	<string key="attribution_WinterConvergence_2021" rel_version="Event_WinterConvergence_Perm">Convergencia Invernal 2021</string>
+	<string key="attribution_WinterConvergence_2022" rel_version="Event_WinterConvergence_Perm">Convergencia Invernal 2022</string>
 	<string key="attribution_SummerMedleyfaire_2022" rel_version="Event_Summer_Perm">Feria Musical de verano 2022</string>
 	<string key="attribution_NightveilHallow_2022" rel_version="Event_Halloween_Perm">Terreno sagrado nocturno 2022</string>
+	<string key="attribution_Housing_SettlerSet_2021" comment="Housing Furniture Set" rel_version="Housing_Settler_Set">Muebles de colono de Aetérnum</string>
+	<string key="attribution_Housing_PirateSet_2021" comment="Housing Furniture Set" rel_version="Housing_Pirate_Set">Muebles de Aguas Fétidas</string>
+	<string key="attribution_Housing_DynastySet_2021" comment="Housing Furniture Set" rel_version="Housing_Dynasty_Set">Muebles de Escamanegra</string>
+	<string key="attribution_Housing_LegionSet_2022" comment="Housing Furniture Set" rel_version="Housing_Legion_Set">Muebles de Arenas de Azufre</string>
 	<string key="attribution_TurkeyTerror_2022" rel_version="Event_TurkeyTerror_Perm">Pavor al pavo 2022</string>
 	<string key="ui_reset_daily_time">Se reinicia diariamente en {time}</string>
 	<string key="ui_reset_weekly_time">Se reinicia semanalmente cada {time}</string>
 	<string key="ui_buy_new_world">Comprar New World</string>
 	<string key="ui_transaction_failed_header">Error en la transacción</string>
 	<string key="ui_probation_account_restriction">Es necesario comprar New World para esta característica.</string>
+	<string key="ui_item_skinning_disabled">Desuello del objeto deshabilitado</string>
+	<string key="ui_camp_skins_disabled">Diseños de campamento deshabilitados</string>
 </resources>
 

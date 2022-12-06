@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Geweihte Kerze</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Geisterschrein</string>
 	<string key="dungeon_everfall_title">Die Sternensteingrabhügel</string>
-	<string key="dungeon_everfall_description">Beschaffe das Sternensteindiadem von Regent Greundgul in den Sternensteingrabhügeln.</string>
+	<string key="dungeon_everfall_description">Finde und besiege den Regenten Greundgul im Sternensteingrabhügel.</string>
 	<string key="dungeon_everfall_required_equipment">1 Azoth-Stab</string>
 	<string key="dungeon_everfall_task_explore">Erkunde die Hallen und suche nach einem Weg zum Zerstörten Obelisk.</string>
 	<string key="dungeon_everfall_task_sealedchamber">Benutze den Azoth-Stab, um die Versiegelte Kammer zu betreten.</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Finde einen Weg durch die arkanen Barrieren.</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Erhalte Arkanen Schutz.</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Suche nach einem Schlüssel, der Zugang zur Krypta des Regenten gewährt.</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Trenne das Energieschloss des Schreins der Ahnen und benutze den Schrein, um den Obeliskenschlüssel zu segnen.</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Erhalte den Obeliskenschlüssel aus der Verzierten Truhe.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Trenne das Energieschloss des Schreins der Ahnen, um die Arkane Barriere zu deaktivieren.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Nutze den Schrein der Ahnen, um den Obeliskenschlüssel zu segnen.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Benutze den Gesegneten Obeliskenschlüssel, um die Krypta des Regenten zu betreten.</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Betritt die Krypta des Regenten.</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Nähere dich Regent Greundgul.</string>
 	<string key="dungeon_everfall_task_boss">Besiege Regent Greundgul.</string>
 	<string key="dungeon_everfall_task_complete">Verlasse die Sternensteingrabhügel.</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Folge dem instabilen Pfad zur Obeliskenhöhle.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Besiege Simon Grey!</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Finde die geweihte Kerze und bringe sie zum Geisterschrein.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Besiege Vorarbeiter Nakashima.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Verlasse die Ausgrabung und kehre zum zerstörten Obelisken zurück.</string>
 	<string key="dungeon_reekwater_title">Das Lazarus-Instrumentarium</string>
 	<string key="dungeon_reekwater_description">Entdecke die Geheimnisse des magischen Orts der Ahnen.</string>
 	<string key="dungeon_reekwater_required_equipment">1 Azoth-Stab</string>

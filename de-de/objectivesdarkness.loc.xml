@@ -84,6 +84,12 @@
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Überlebe die Prüfung</string>
 	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Verbleibende Zeit: </string>
 	<string key="event_completed">Ereignis abgeschlossen</string>
+	<string key="ui_winterconv_worldboss_winterwarrior" rel_version="Event_WinterConvergence_Temp">Der Ewige Winter</string>
+	<string key="ui_winterconv_worldboss_winterwarrior_description" rel_version="Event_WinterConvergence_Temp">Der Winterkrieger und seine Legion aus dem Eisvolk bereiten die Ankunft des Ewigen Winters in Aeternum vor!</string>
+	<string key="objective_worldboss_task_destroylink_title" rel_version="Event_WinterConvergence_Temp">Deaktiviere den aufziehenden Sturmwind</string>
+	<string key="objective_worldboss_task_destroylink_desc" rel_version="Event_WinterConvergence_Temp">Verbleibende Aura der Raureifsäule: {remainingCount}</string>
+	<string key="objective_worldboss_task_winterwarrior_title" rel_version="Event_WinterConvergence_Temp">Besiege den Winterkrieger</string>
+	<string key="objective_worldboss_task_winterwarrior_desc" rel_version="Event_WinterConvergence_Temp">Verhindere die Ausbreitung des Ewigen Winters!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Die Belagerung der Wüste</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">Die Legion rückt vor! Halte sie auf, bevor sie den Außenposten von Wikala al-Waha erreichen!</string>
 	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Halte den Vormarsch der Legion auf</string>
@@ -137,7 +143,7 @@
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Nähere dich dem Verbliebenen</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Überwinde den Verbliebenen</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Verderbnis der Natur</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_desc" rel_version="Quest_MSQ2_Revamp">Besiege Zane, um eine weitere Verderbnis der Natur zu verhindern.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Besiege Zane, um eine weitere Verderbnis der Natur zu verhindern.</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Schwäche Aufseher Zane</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Zerstöre die Verderbten Ranken, um Zane zu schwächen. \nVerbleibende Ranken: {remainingCount}</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Besiege Aufseher Zane</string>

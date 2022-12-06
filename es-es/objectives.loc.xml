@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">TEMAS DEL DOCUMENTO</string>
 	<string key="journal_documents" speaker="UI">Documentos</string>
 	<string key="journal_overview" speaker="UI">RESUMEN</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages} páginas encontradas</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Página {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Página {number} - Encontrada en {location}</string>
 	<string key="journal_pages_found" speaker="UI">Páginas encontradas</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Historias secundarias</string>
 	<string key="objective_journey_desc" speaker="UI">Misiones adicionales</string>
 	<string key="objective_journey_empty" speaker="UI">No se ha conseguido ninguna aventura</string>
+	<string key="objective_factionstory" speaker="UI">Historia de la facción</string>
+	<string key="objective_factionstory_desc" speaker="UI">Objetivos de la historia de la facción</string>
 	<string key="objective_skillprogression" speaker="UI">Progreso de habilidad</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Objetivos de progreso de habilidad</string>
 	<string key="objective_epicequipment" speaker="UI">Armas y armaduras épicas</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Misión de adquisición</string>
 	<string key="objective_msq" speaker="UI">Historia principal</string>
 	<string key="objective_msq_desc" speaker="UI">Objetivos de la historia principal</string>
+	<string key="objective_get_msq_message" speaker="UI">Ahora mismo no tienes misiones activas de la historia principal.\nBusca este icono en el mapa para ver si la siguiente misión de la historia principal está disponible.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Misión de artesanía</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Misión: {title}</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">«{title}» - Recompensas</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">Con ubicaciones específicas</string>
 	<string key="objective_no_location" speaker="UI">Sin ubicaciones específicas</string>
 	<string key="objective_main_story_quest" speaker="UI">Misión principal</string>
+	<string key="objective_faction_story_quest" speaker="UI">Misión de la historia de la facción</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Misión de progreso de habilidad</string>
 	<string key="objective_side_quests" speaker="UI">Misiones secundarias</string>
 	<string key="objective_event" speaker="UI">Misiones de evento</string>

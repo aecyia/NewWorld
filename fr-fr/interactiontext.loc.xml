@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">Objet non équipé : {itemName}, palier {tier}</string>
 	<string key="ui_notoolitem_multiple">Nécessite {count} x {itemName}</string>
 	<string key="ui_notoolitem">Nécessite {itemName}</string>
+	<string key="ui_requiremultipleplayers">Nécessite un groupe de {count} joueurs</string>
 	<string key="ui_nopermission">Aucun accès public</string>
 	<string key="ui_nopermissionrank">Le rang ''{rank}'' n'est pas autorisé à ''{action}''.</string>
 	<string key="ui_nopermissionpublic">''{action}'' interdit sur les structures publiques.</string>
@@ -88,7 +89,7 @@
 	<string key="ui_build_structure_menu">Construire la structure</string>
 	<string key="ui_replace_structure_menu">Remplacer la structure</string>
 	<string key="ui_place_structure">Placer la structure</string>
-	<string key="ui_open_arena_menu">Afficher les informations d'arène</string>
+	<string key="ui_open_arena_menu">Voir les informations de l'Épreuve</string>
 	<string key="ui_notification_summoning_stone_placed">PIERRE D'INVOCATION PLACÉE</string>
 	<string key="ui_watcherscampfire">Feu de camp de guetteur</string>
 	<string key="ui_hunterscampfire">Feu de camp de chasseur</string>

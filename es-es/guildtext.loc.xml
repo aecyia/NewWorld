@@ -64,7 +64,7 @@
 	<string key="ui_guildinvitesendermessage">Has invitado a &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; a que se una a tu compañía.</string>
 	<string key="ui_guildinvitestab">Invitaciones</string>
 	<string key="ui_guildinvitetitle">Invitado a la compañía</string>
-	<string key="ui_guildmaster">Gobernador de la compañía</string>
+	<string key="ui_guildmaster">Dirigente</string>
 	<string key="ui_guildmastercannotacceptinvitemessage">Debes nombrar a otro {guildMasterRankName} para unirte a otra compañía.</string>
 	<string key="ui_warringguildofonecannotacceptinvitemessage">No puedes unirte a otra compañía mientras comandas una compañía en guerra con un único miembro.</string>
 	<string key="ui_guildcannotinviteself">No puedes invitarte a ti mismo.</string>
@@ -182,7 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Oficial</string>
 	<string key="ui_guildCannotInviteNoPrivilege">No se han podido enviar invitaciones a la compañía. Rango insuficiente.</string>
 	<string key="ui_guildCannotInviteNoFaction">No se han podido enviar invitaciones a la compañía. No está con ninguna facción.</string>
-	<string key="ui_guildcannotpromote_nofaction">No es posible ascender a gobernador. No está con ninguna facción.</string>
+	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">No es posible ascender a gobernador. No está con ninguna facción.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Colono</string>
 	<string key="ui_guildranksettler_SHE">Colona</string>
 	<string key="ui_guildranksettler_THEY">Colona</string>
@@ -203,7 +203,7 @@
 	<string key="ui_kickguildmember_confirm">¿Seguro que quieres eliminar a {playerName} de la compañía?</string>
 	<string key="ui_leaveguild">Abandonar compañía</string>
 	<string key="ui_disbandguild">Disolver la compañía</string>
-	<string key="ui_leaveguild_confirm">Si sales de la compañía, &lt;font color="#FFD600"&gt;ocurrirá lo siguiente: \n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_confirm">Si sales de la compañía, &lt;font color="#FFD600"&gt;ocurrirá lo siguiente: \n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">¿Seguro que quieres salir de la compañía?</string>
 	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;TIEMPO DE RECARGA DE GUERRA DE LA COMPAÑÍA ({cooldownTimeWar}).&lt;/font&gt; Mientras el tiempo de recarga esté activo, solo podrás luchar como mercenario en las guerras defensivas de la compañía a la que vas a unirte. \n\n&lt;font color="#FFD600"&gt;TIEMPO DE RECARGA DE LA CONTRIBUCIÓN A LA VANGUARDIA DE GUERRA DE LA COMPAÑÍA ({cooldownTimeInfluence}).&lt;/font&gt; Mientras el tiempo de recarga esté activo, podrás ganar influencia para tu facción completando misiones JcJ, pero la influencia que ganes no se destinará a la selección de tu nueva compañía como vanguardia de la guerra.</string>
 	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Abandonar posesiones. &lt;/font&gt;Se ascenderá a gobernador a otro miembro cuando abandones, y la compañía conservará las posesiones que tenga bajo el mando del nuevo gobernador.</string>
@@ -225,10 +225,12 @@
 	<string key="ui_governorexpire_deleted" comment="Pronoun for Disappeared Governor">El gobernador de tu compañía se ha ido o ha eliminado su personaje. Un miembro con el rango de cónsul puede ocupar su puesto.</string>
 	<string key="ui_governorexpire_deleted_SHE">La gobernadora de tu compañía se ha ido o ha eliminado su personaje. Un miembro con el rango de cónsul puede ocupar su puesto.</string>
 	<string key="ui_governorexpire_deleted_THEY">El gobernador de tu compañía se ha ido o ha eliminado su personaje. Un miembro con el rango de cónsul puede ocupar su puesto.</string>
+	<string key="ui_governorseat_vacant">El puesto de gobernador está vacío.</string>
+	<string key="ui_governorseat_overthrowable">Los cónsules pueden derrocar al gobernador.</string>
 	<string key="ui_becomegovernor">Convertirte en gobernador</string>
 	<string key="ui_becomegovernor_SHE">Convertirte en gobernadora</string>
 	<string key="ui_becomegovernor_THEY">Convertirte en dirigente</string>
-	<string key="ui_becomegovernor_requires_faction">Únete al gremio de una facción para ser gobernador</string>
+	<string key="ui_becomegovernor_requires_faction" rel_version="Feature_Unfactioned_Company_Members">Únete al gremio de una facción para ser gobernador</string>
 	<string key="ui_permission_assign_structures">{allowed}: asignar estructuras de la compañía</string>
 	<string key="ui_permission_build_structures">{allowed}: construir en terrenos de la compañía</string>
 	<string key="ui_permission_cancel_structures">{allowed} cancelar estructuras planeadas</string>
@@ -387,7 +389,7 @@
 	<string key="ui_otherguilds_sortbyname">Por nombre</string>
 	<string key="ui_otherguilds_sortbysize">Por tamaño</string>
 	<string key="ui_otherguilds_sortbyclaims">por conquistas</string>
-	<string key="ui_otherguilds_header_guildname">Nombre de la compañía</string>
+	<string key="ui_otherguilds_header_guildname">Compañía</string>
 	<string key="ui_otherguilds_header_nummembers">Miembros</string>
 	<string key="ui_otherguilds_header_claims">Conq.</string>
 	<string key="ui_otherguilds_header_warstatus">Estado de guerra</string>
@@ -465,7 +467,7 @@
 	<string key="ui_cantpromote_leaderatwar">No se puede transferir el liderazgo de la compañía mientras esté declarada la guerra</string>
 	<string key="ui_cantpromote_lackpermissionforrank">No tienes autorización para ascender a miembros a tu mismo rango o por encima</string>
 	<string key="ui_cantpromote_lackpermission">No tienes autorización para ascender a miembros</string>
-	<string key="ui_cantpromote_nonfactionmember">El miembro debe unirse a una facción para ascender</string>
+	<string key="ui_cantpromote_nonfactionmember" rel_version="Feature_Unfactioned_Company_Members">El miembro debe unirse a una facción para ascender</string>
 	<string key="ui_cantdemote_lowestrank">Ya está en el rango más bajo de todos</string>
 	<string key="ui_cantdemote_lackpermissionforrank">No tienes autorización para degradar a miembros de tu mismo rango o superior</string>
 	<string key="ui_cantdemote_lackpermission">No tienes autorización para degradar a miembros</string>
@@ -559,6 +561,7 @@
 	<string key="ui_siege_signup_failed_opposingside">No puedes unirte a una batalla contra tu propia compañía.</string>
 	<string key="ui_siege_signup_failed_invalidfaction">No puedes unirte a una batalla contra tu propia facción.</string>
 	<string key="ui_siege_signup_failed_full">La lista para unirse a esta guerra está llena.</string>
+	<string key="ui_siege_signup_failed_dailylimitreached">Has alcanzado tu límite de guerra diario en el siguiente bando: {attackerOrDefenderSide}.</string>
 	<string key="ui_siege_signup_failed_conquestoverlaps">Ya te has unido a una guerra que está programada para el mismo periodo de tiempo.</string>
 	<string key="ui_siege_signup_failed_remotesignup">Tienes que ir al tablero de guerra para unirte.</string>
 	<string key="ui_siege_signup_failed_notinfaction">Para poder participar en una guerra, primero te tienes que unir a una facción.</string>
@@ -566,7 +569,14 @@
 	<string key="ui_siege_signup_failed_banned">La compañía gobernante te ha eliminado de la cuadrilla y no puedes volver a unirte a su ejército.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Has abandonado recientemente una compañía y no puedes luchar en una guerra defensiva para tu compañía durante 72 horas</string>
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Aún no tienes acceso a este territorio.</string>
+	<string key="ui_siege_signup_failed_warinprogress">No puedes unirte porque la guerra o la invasión ya han comenzado.</string>
 	<string key="ui_siege_signup_failed">Se ha producido un problema al unirte a esta guerra.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">El límite de guerra de los atacantes se actualiza dentro de:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">El límite de guerra de los defensores se actualiza dentro de:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_available">Puedes registrarte como atacante en guerras.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Has alcanzado tu límite de guerra diario como atacante y no puedes registrarte en más guerras como atacante.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_available">Puedes registrarte como defensor en guerras.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_limitreached">Has alcanzado tu límite de guerra diario como defensor y no puedes registrarte en más guerras como defensor.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">¿Seguro?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Ya te has unido a una guerra que está programada para el mismo periodo de tiempo.\n¿Quieres dejar de estar registrado para la guerra en {territoryName}?</string>
 	<string key="ui_siege_signup_abandon_title">Abandonar registro</string>
@@ -617,6 +627,7 @@
 	<string key="ui_how_does_invasion_work">¿Cómo funcionan las invasiones?</string>
 	<string key="ui_signup_restriction_tooltip">No puedes unirte a los enemigos de tu facción.</string>
 	<string key="ui_signup_nofaction_tooltip">Debes tener una facción para unirte a una guerra.</string>
+	<string key="ui_signup_warinprogress_tooltip">No puedes unirte a una guerra o invasión en curso.</string>
 	<string key="ui_signup_not_available">Registro no disponible</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#c0c0c0"&gt;El jugador debe haber alcanzado el &lt;/font&gt;&lt;font color="#ff6363"&gt;nivel {level} para registrarse.&lt;/font&gt;</string>
 	<string key="ui_signup_count">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; jugadores unidos</string>

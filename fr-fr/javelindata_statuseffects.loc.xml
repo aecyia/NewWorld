@@ -786,6 +786,12 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Brûlure qui inflige des dégâts de feu à hauteur de {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]} % de la santé de base toutes les {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} secondes pendant {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} secondes.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Brûlure de canon</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Inflige une brûlure de {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]} % de dégâts de feu de base toutes les {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} secondes.</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Force bestiale</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Les dégâts du guerrier de l'hiver augmentent de {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]} %.</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Endurance de l'hiver</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">L'absorption des dégâts du guerrier de l'hiver augmente de {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]} %.</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">La morsure de l'Hiver éternel</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Vous subissez un ralentissement et subissez des dégâts de froid de la morsure de la magie de l'Hiver éternel.</string>
 	<string key="godModeThirst_DisplayName">Mode divin</string>
 	<string key="godModeHealth_DisplayName">Mode divin</string>
 	<string key="godModeAll_DisplayName">Mode divin</string>
@@ -1223,8 +1229,6 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">Lorsque cette arme est active, vous infligez {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]} % de dégâts supplémentaires à la Terre enragée.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Enduit d'arme anti-monstres imprégné</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">Lorsque cette arme est active, vous infligez {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]} % de dégâts supplémentaires aux monstres.</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">While this weapon is active deal more 300% damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Enduit d'arme anti-Anciens imprégné</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">Lorsque cette arme est active, vous infligez {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]} % de dégâts supplémentaires aux Anciens.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Enduit d'arme anti-dévoyés imprégné</string>
@@ -1459,6 +1463,7 @@
 	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Augmente vos soins de {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]} %.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">Réduit votre vitesse de déplacement de {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]} %.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer_description">Quand l'effet se termine, vous pouvez de nouveau déclencher Équilibre.</string>
+	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name">Intensification</string>
 	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Augmente vos soins de {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]} %.</string>
 	<string key="Status_Passive_Lifestaff_Healing_AoeHealWhenHit_description">Une aura de soin apparaît pour vous et vos alliés dans un rayon de 4 m. Vous soigne à hauteur de {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]} % des dégâts de l'arme par seconde.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround">Terre sainte</string>
@@ -1669,7 +1674,7 @@
 	<string key="StatusTestCrafting_DisplayName">TestFabrication</string>
 	<string key="Status_Rune_StoneForm">Forme rocheuse</string>
 	<string key="Status_Rune_StoneForm_Desc">Immunité à tous les effets de contrôle de la foule.</string>
-	<string key="Status_Rune_StoneForm_Major_Desc">Immunité à tous les effets de contrôle de la foule et absorption des dégâts augmentée de {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]} %.</string>
+	<string key="Status_Rune_StoneForm_Major_Desc">Augmente l'absorption des dégâts de {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]} %.</string>
 	<string key="Status_Rune_StoneForm_Survivor_Desc">Immunité à tous les effets de contrôle de la foule et soin à hauteur de {[Type_StatusEffectData.Rune_StoneForm_Survivor.HealthModifierDamageBased * 100]} % des dégâts de rune par seconde.</string>
 	<string key="Status_Rune_StoneForm_Greater_Desc">Augmente l'absorption des dégâts de {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]} %.</string>
 	<string key="Status_Rune_CannonBlast_Major_Desc">Brûlure à hauteur de {[Type_StatusEffectData.Rune_CannonBlast_Burn.HealthModifierDamageBased * -100]} % des dégâts de rune par seconde.</string>
@@ -1684,6 +1689,11 @@
 	<string key="Status_Rune_GraspingVines_Dominator_ReducedStamRegen_Desc">Réduit la régénération de la vitalité de {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.StaminaRate * -100]} %.</string>
 	<string key="Status_Rune_HereticsFall_Greater_Desc">Réduit la vitesse de déplacement de {[Type_StatusEffectData.Rune_HereticsFall_Greater.MoveSpeedMod * -100]} %.</string>
 	<string key="Status_Rune_HereticsFall_Survivor_Desc">Augmente l'absorption des dégâts de {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]} %, mais réduit les dégâts infligés de {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]} %.</string>
+	<string key="Status_Rune_BileBomb_Desc" rel_version="Feature_Heartgems_BileBomb">Réduit de {[Type_StatusEffectData.Rune_BileBomb.HealMod * -100]} % les soins reçus et vous subissez {[Type_StatusEffectData.Rune_BileBomb.HealthModifierDamageBased * -100]} % des dégâts de la rune-cœur de l'assaillant par seconde.</string>
+	<string key="Status_Rune_BileBomb_Major_Desc" rel_version="Feature_Heartgems_BileBomb">Réduit la vitesse de déplacement de {[Type_StatusEffectData.Rune_BileBomb_Major.MoveSpeedMod * -100]} %.</string>
+	<string key="Status_Rune_BileBomb_Greater_Desc" rel_version="Feature_Heartgems_BileBomb">Réduit de {[Type_StatusEffectData.Rune_BileBomb_Greater.HealMod * -100]} % les soins reçus, réduction de {[Type_StatusEffectData.Rune_BileBomb_Greater.StaminaRate * -100]} % de la régénération de la vitalité et vous subissez {[Type_StatusEffectData.Rune_BileBomb_Greater.HealthModifierDamageBased * -100]} % des dégâts de la rune-cœur de l'assaillant par seconde.</string>
+	<string key="Status_Rune_BileBomb_Survivor_Desc" rel_version="Feature_Heartgems_BileBomb">Réduit de {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]} % les soins reçus et les ennemis qui vous touchent sont soignés à hauteur de {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]} % des dégâts infligés.</string>
+	<string key="Status_Rune_BileBomb_Dominator_Desc" rel_version="Feature_Heartgems_BileBomb">Réduit de {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]} % les soins reçus et vous subissez {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]} % des dégâts de la rune-cœur de l'assaillant par seconde.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Jugement des dieux</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">Les dieux de l'Ennéade jugent la pureté de votre cœur.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdict des dieux</string>

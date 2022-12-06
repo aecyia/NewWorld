@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">Recursos e fundos insuficientes</string>
 	<string key="ui_protection_price">Preço por {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">Todas as Missões serão atualizadas em </string>
+	<string key="ui_daily_bonuses_faction_mission">As três primeiras missões de facção concluídas receberão um bônus diário.</string>
 	<string key="ui_daily_bonuses_available">Bônus diários disponíveis </string>
 	<string key="ui_daily_mission_bonus_awarded">Bônus de missão diária concedido!</string>
 	<string key="ui_no_active_projects">Não há projetos ativos nesta categoria</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Aprimorar Assentamento</string>
 	<string key="ui_upgrade_settlement_description">Um assentamento de maior escala permite que você e sua Companhia construam estruturas de escala também maior.</string>
 	<string key="ui_upgrade_owned">Possuído</string>
+	<string key="ui_upgrade_azoth_discount">Desconto de Azoth</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount}%</string>
 	<string key="ui_upgrade_locked">Trancado</string>
 	<string key="ui_upgrade_place_plan">Aprimorar</string>
 	<string key="ui_upgrade_unlocks">Destranca</string>
@@ -185,7 +188,7 @@
 	<string key="ui_encounter_signupDesc_invasion_minlevel">&lt;font color="#ff6363"&gt;Nível mínimo: {level}&lt;/font&gt;</string>
 	<string key="ui_encounter_signup_invasion_minlevel_tooltip">Você deve estar pelo menos no nível {level} para se inscrever na invasão.</string>
 	<string key="ui_encounter_signup_invasion_too_early_tooltip">As inscrições ainda não estão abertas para esta invasão.</string>
-	<string key="ui_encounter_signupbutton_invasion">Inscrever-se para a Invasão</string>
+	<string key="ui_encounter_signupbutton_invasion">Participar da Invasão</string>
 	<string key="ui_encounter_viewstatusbutton_war">Exibir Exército</string>
 	<string key="ui_encounter_viewstatusbutton_invasion">Exibir Exército</string>
 	<string key="ui_warselected_title">Alistado para Guerra</string>
@@ -232,7 +235,7 @@
 	<string key="ui_fortressinfo_button_signup_at_board">Registrar-se para a Guerra</string>
 	<string key="ui_fortressinfo_button_warsignup">Inscrever-se para a Guerra</string>
 	<string key="ui_fortressinfo_button_warstatus">Status da Inscrição</string>
-	<string key="ui_fortressinfo_button_invasionsignup">Inscrever-se para a Invasão</string>
+	<string key="ui_fortressinfo_button_invasionsignup">Participar da Invasão</string>
 	<string key="ui_fortressinfo_attackerlabel">(atacante)</string>
 	<string key="ui_fortressinfo_defenderlabel">(defensor)</string>
 	<string key="ui_fortressinfo_invasionattackername">Os Corrompidos</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Explosivos Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosivos Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosivos Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Aprimora a Forja para Escala 3, que pode criar &lt;font color="#ffd058"&gt;armas e armaduras de Aço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Aprimora a Forja para Escala 4, que pode criar &lt;font color="#ffd058"&gt;armas e armaduras de Estelaço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Aprimora a Forja para Escala 5, que pode criar &lt;font color="#ffd058"&gt;armas e armaduras de Oricalco.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Aprimora a Fundição para Escala 4, que pode criar &lt;font color="#ffd058"&gt;lingotes de Estelaço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Aprimora a Fundição para Escala 5, que pode criar &lt;font color="#ffd058"&gt;lingotes de Platina e Oricalco.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Aprimora a Loja de Madeira para Escala 4, que pode criar &lt;font color="#ffd058"&gt;tábuas de Urdeira.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Aprimora a Loja de Madeira para Escala 5, que pode criar &lt;font color="#ffd058"&gt;tábuas de Jucá.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Aprimora a Mesa de Cantaria para Escala 4, que pode criar &lt;font color="#ffd058"&gt;Tijolos de Magnetita e Gemas Brilhantes Lapidadas.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Aprimora a Mesa de Cantaria para Escala 5, que pode criar &lt;font color="#ffd058"&gt;Tijolos de Magnetita Infusa e Gemas Puras Lapidadas.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Aprimora a Máquina de Tear para Escala 4, que pode criar &lt;font color="#ffd058"&gt;Seda.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Aprimora a Máquina de Tear para Escala 5, que pode criar &lt;font color="#ffd058"&gt;Seda Infusa.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Aprimora o Curtume para Escala 4, que pode criar &lt;font color="#ffd058"&gt;Couro Reforçado.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Aprimora o Curtume para Escala 5, que pode criar &lt;font color="#ffd058"&gt;Couro Infuso.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Aprimora a Oficina para Escala 3, que pode criar &lt;font color="#ffd058"&gt;armas a distância e munições de Aço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Aprimora a Oficina para Escala 4, que pode criar &lt;font color="#ffd058"&gt;armas a distância e munições de Estelaço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Aprimora a Oficina para Escala 5, que pode criar &lt;font color="#ffd058"&gt;armas a distância e munições de Oricalco.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Aprimora a Estação de Alfaiataria para Escala 3, que pode criar roupas de &lt;font color="#ffd058"&gt;Cetim e Couro Rústico e adornos de Ouro.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Aprimora a Estação de Alfaiataria para Escala 4, que pode criar roupas de &lt;font color="#ffd058"&gt;Seda e Couro Reforçado e adornos de Platina.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Aprimora a Estação de Alfaiataria para Escala 5, que pode criar roupas de &lt;font color="#ffd058"&gt;Seda Infusa e Couro Infuso.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Aprimora o Repositório Arcano para Escala 3, que pode criar &lt;font color="#ffd058"&gt;Itens de Repositório Arcano Destilados e bastões mágicos de Aço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Aprimora o Repositório Arcano para Escala 4, que pode criar &lt;font color="#ffd058"&gt;Itens de Repositório Arcano Concentrados e bastões mágicos de Estelaço.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Aprimora o Alquimista para Escala 5, que pode criar &lt;font color="#ffd058"&gt;Itens de Repositório Arcano Fortes e bastões mágicos de Oricalco.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Aprimore a Forja para a Escala 3 para desbloquear confecções adicionais da Escala 3 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Aprimore a Forja para a Escala 4 para desbloquear confecções adicionais da Escala 4 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Aprimore a Forja para a Escala 5 para desbloquear confecções adicionais da Escala 5 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Aprimora a Fundição para Escala 4, que pode confeccionar &lt;font color="#ffd058"&gt;lingotes de Oricalco.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Aprimora a Fundição para Escala 5, que pode confeccionar &lt;font color="#ffd058"&gt;lingotes de Asmódeo.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Aprimora a Loja de Madeira para Escala 4, que pode confeccionar &lt;font color="#ffd058"&gt;tábuas de Jucá.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Aprimora a Loja de Madeira para Escala 5, que pode confeccionar &lt;font color="#ffd058"&gt;Ébano Cintilante.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Aprimora a Mesa de Cantaria para Escala 4, que pode confeccionar &lt;font color="#ffd058"&gt;Pedra Imaterial Obsidiana.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Aprimora a Mesa de Cantaria para Escala 5, que pode confeccionar &lt;font color="#ffd058"&gt;Pedra Rúnica.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Aprimora a Máquina de Tear para Escala 4, que pode confeccionar &lt;font color="#ffd058"&gt;Seda Infusa.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Aprimora a Máquina de Tear para Escala 5, que pode confeccionar &lt;font color="#ffd058"&gt;Fio de Fênix.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Aprimora o Curtume para Escala 4, que pode confeccionar &lt;font color="#ffd058"&gt;Couro Infuso.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Aprimora o Curtume para Escala 5, que pode confeccionar &lt;font color="#ffd058"&gt;Couro Rúnico.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Aprimore a Oficina para a Escala 3 para desbloquear confecções adicionais da Escala 3 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Aprimore a Oficina para a Escala 4 para desbloquear confecções adicionais da Escala 4 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Aprimore a Oficina para a Escala 5 para desbloquear confecções adicionais da Escala 5 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Aprimore a Estação de Alfaiataria para a Escala 3 para desbloquear confecções adicionais da Escala 3 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Aprimore a Estação de Alfaiataria para a Escala 4 para desbloquear confecções adicionais da Escala 4 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Aprimore a Estação de Alfaiataria para a Escala 5 para desbloquear confecções adicionais da Escala 5 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Aprimore o Repositório Arcano para a Escala 3 para desbloquear confecções adicionais da Escala 3 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Aprimore o Repositório Arcano para a Escala 4 para desbloquear confecções adicionais da Escala 4 e um desconto de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Aprimore o Repositório Arcano para a Escala 5 para desbloquear confecções adicionais da Escala 5 e um desconto de Azoth.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Aprimora a Cozinha para Escala 3, que pode criar &lt;font color="#ffd058"&gt;refeições de Escala 3.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Aprimora a Cozinha para Escala 4, que pode criar &lt;font color="#ffd058"&gt;refeições de Escala 4.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Aprimora a Cozinha para Escala 5, que pode criar &lt;font color="#ffd058"&gt;refeições de Escala 5.&lt;/font&gt;</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Aprimora Trombeta de Guerra para Escala 3. Quando aprimorada, toda Trombeta de Guerra existente (implantada ou não) também é aprimorada.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Aprimora Explosivos para Escala 2. Quando aprimorados, todo Explosivo existente (implantado ou não) também é aprimorado.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Aprimora os Explosivos para Escala 3. Quando aprimorado, qualquer Explosivo existente (implantado ou não) também é aprimorado.</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Árvore da Luz</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Aprimoramentos da Árvore da Luz concluídos!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala 3</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Aprimoramentos da Árvore da Luz concluídos!</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Árvore da Luz Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Árvore da Luz Escala &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala 2 para rodeá-la de &lt;font color="#ffd058"&gt;Presentes Lindamente Embrulhados!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Aprimore a Árvore da Luz para a Escala 3 para rodeá-la de &lt;font color="#ffd058"&gt;Presentes Extraordinariamente Embrulhados!&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Conclua os Projetos da Vila da Convergência de Inverno para receber Reputação no Evento!</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Aprimorar Árvore da Luz</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Projeto para Aprimorar a Árvore da Luz Concluído</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Conclua as missões e atividades da Convergência de Inverno&lt;/font&gt; para ganhar Reputação no Evento e Tokens de Inverno, permitindo que você desfrute de grandes recompensas de evento! \n\n&lt;font color="#ffd058"&gt;Recupere Presentes Perdidos, minere Brilhitas e derrote o Guerreiro Invernal &lt;/font&gt; para manter o espírito da Convergência e evitar o iminente Inverno Eterno!\n\n&lt;font color="#ffd058"&gt;Colete recompensas diárias do Saco de Presentes Abundante de cada povoado e Ponto Central da Árvore da Luz do Assentamento! &lt;/font&gt; Aprimore o esplendor e recompensas adquiridos da peça central com um suprimento infinito de Projetos da Vila da Convergência!</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Infinito</string>
 	<string key="ui_territory_level">Nível do Território: {level}</string>
 	<string key="ui_enter_house">Acessar Menu de Casa</string>
 	<string key="ui_purchase_house">Comprar Casa</string>

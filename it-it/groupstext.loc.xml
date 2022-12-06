@@ -194,7 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Seleziona automaticamente i giocatori dalla lista d'attesa in ordine di iscrizione.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Seleziona manualmente i giocatori dalla lista d'attesa per riempire i posti abbandonati.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
-	<string key="ui_raid_count_with_mercenaries" comment="">Mercenari: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt; / {nonCompanyTotal} Totale: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Mercenari: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt;/{nonCompanyTotal} Totale: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/{total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Impossibile promuovere ulteriormente questo giocatore</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Impossibile degradare ulteriormente questo giocatore</string>

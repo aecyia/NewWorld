@@ -482,9 +482,11 @@
 	<string key="Avalancher_Shivers_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
 	<string key="Avalancher_Shivers_60_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
 	<string key="Avalancher_Shivers_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
+	<string key="Avalancher_Shivers_YetiEncounter_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Faiseur d'avalanches</string>
 	<string key="Avalancher_Yeti_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
 	<string key="Avalancher_Yeti_60_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
 	<string key="Avalancher_Yeti_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Faiseur d'avalanches</string>
+	<string key="Avalancher_YetiEncounter_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Faiseur d'avalanches</string>
 	<string key="Barbary_Lion_60_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lion de l'Atlas</string>
 	<string key="Barbary_Lion_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lion de l'Atlas</string>
 	<string key="Barbary_Lion_62_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Lion de l'Atlas</string>
@@ -2307,11 +2309,11 @@
 	<string key="Desert_Scorpion_ELITE_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Scorpion du désert</string>
 	<string key="Desert_Scorpion_Impaler_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert d'élite</string>
 	<string key="Desert_Scorpion_Impaler_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert d'élite</string>
-	<string key="Desert_Scorpion_Impaler_Medium_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur ancien</string>
+	<string key="Desert_Scorpion_Impaler_Medium_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Soufroptère de Shah-Neshen</string>
 	<string key="Desert_Scorpion_Impaler_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_Intro_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_S_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert</string>
-	<string key="Desert_Scorpion_Impaler_Sandworm_XS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_Intro_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Empaleur du désert</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_S_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Empaleur du désert</string>
+	<string key="Desert_Scorpion_Impaler_Sandworm_XS_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Empaleur du désert</string>
 	<string key="Desert_Scorpion_Impaler_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Empaleur du désert</string>
 	<string key="Desert_Scorpion_Medium_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Scorpion du désert</string>
 	<string key="Desert_Scorpion_Medium_61_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Scorpion du désert</string>
@@ -2333,7 +2335,7 @@
 	<string key="Desert_Scorpion_Slinger_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Frondeur du désert d'élite</string>
 	<string key="Desert_Scorpion_Slinger_Medium_ELITE_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Frondeur du désert d'élite</string>
 	<string key="Desert_Scorpion_Slinger_Medium_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Frondeur du désert</string>
-	<string key="Desert_Scorpion_Slinger_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Frondeur du désert</string>
+	<string key="Desert_Scorpion_Slinger_Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Frondeur du désert</string>
 	<string key="Desert_Scorpion_Slinger_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Frondeur du désert</string>
 	<string key="Desert_Scorpion_Small_VitalsName" comment="BASE" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Jeune scorpion</string>
 	<string key="Desert_Scorpion_Sulfur_Named_00_VitalsName" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Bassins04</string>
@@ -3281,6 +3283,7 @@
 	<string key="Ghost_Plagued_63_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Fantôme pestiféré</string>
 	<string key="Ghost_Plagued_64_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Fantôme pestiféré</string>
 	<string key="Ghost_Plagued_DG_Cutlass_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Expedition_CutlassKeys_00">Pestesprit du drapeau noir</string>
+	<string key="Ghost_Plagued_DG_Everfall_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Pestesprit de l'Excavation stellaire</string>
 	<string key="Ghost_Plagued_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Pestesprit de l'Excavation stellaire</string>
 	<string key="Ghost_Plagued_Named_00_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Barbe-moisie</string>
 	<string key="Ghost_Plagued_Named_01_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Chef cultiste Nunez</string>
@@ -3515,11 +3518,13 @@
 	<string key="IceDryad_Melee_Frostfang_62_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Croc gelé</string>
 	<string key="IceDryad_Melee_Frostfang_65_ELITE_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Croc gelé</string>
 	<string key="IceDryad_Melee_Frostfang_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Croc de givre dryade de glace</string>
+	<string key="IceDryad_Melee_Frostfang_YetiEncounter_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Croc de givre dryade de glace</string>
 	<string key="IceDryad_Range_Frostgrip_25_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Poigne de givre</string>
 	<string key="IceDryad_Range_Frostgrip_61_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Poigne de givre</string>
 	<string key="IceDryad_Range_Frostgrip_62_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Poigne de givre</string>
 	<string key="IceDryad_Range_Frostgrip_65_ELITE_VitalsName" comment="Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Poigne de givre</string>
 	<string key="IceDryad_Range_Frostgrip_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Poigne de givre dryade de glace</string>
+	<string key="IceDryad_Range_Frostgrip_YetiEncounter_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Temp">Poigne de givre dryade de glace</string>
 	<string key="IceMagicBeast_VitalsName" comment="BASE" speaker="Vitals Sheet">Monstre des neiges</string>
 	<string key="IceMagicEntomb_VitalsName" comment="BASE" speaker="Vitals Sheet">Sépulture de glace</string>
 	<string key="IceMagicPylon_VitalsName" comment="BASE" speaker="Vitals Sheet">Pylône de glace</string>
@@ -3727,6 +3732,7 @@
 	<string key="Lost_Pikeman_Named_12MB05_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Forgeron Baldwyne</string>
 	<string key="Lost_Pikeman_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Piquier dévoyé</string>
 	<string key="Medea_Caster_VitalsName" comment="Quest Medea - Windsward" speaker="Vitals Sheet" rel_version="Quest_MSQ2_Revamp">Médéa</string>
+	<string key="Armored_Dragon_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_FirstLight">Armored Dragon</string>
 	<string key="Lost_Totem_60_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Totem dévoyé</string>
 	<string key="Lost_Totem_VitalsName" comment="BASE" speaker="Vitals Sheet">Totem dévoyé</string>
 	<string key="Lynx_03GC10_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Lynx roux Patte de neige</string>
@@ -4276,9 +4282,9 @@
 	<string key="Sand_Elemental_Soldier_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Myrmidon de la Terre</string>
 	<string key="Sand_Elemental_Soldier_RockPile_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Soldat déchu</string>
 	<string key="Sand_Elemental_Soldier_RockPile_Spawn_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Soldat déchu</string>
-	<string key="Sandworm_Acidball_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Boule d'acide</string>
-	<string key="Sandworm_AcidSpew_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Crachat d'acide</string>
-	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Territory_Brimstone_Sands">Shah-Neshen le Dévoreur</string>
+	<string key="Sandworm_Acidball_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Boule d'acide</string>
+	<string key="Sandworm_AcidSpew_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Crachat d'acide</string>
+	<string key="Sandworm_VitalsName" comment="BASE" speaker="Vitals Sheet" rel_version="Trial_Brimstone_Sandworm">Shah-Neshen le Dévoreur</string>
 	<string key="Sheep_Churro_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mouton churro</string>
 	<string key="Sheep_Churro_15_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mouton churro</string>
 	<string key="Sheep_Churro_18_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Mouton churro</string>
@@ -9587,7 +9593,7 @@
 	<string key="VC_Legion_Villager_Ladel_67" comment="Generic Level Variant" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Cuisinier de la Légion</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS01" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Servant de la Légion</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS02" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Servant de la Légion</string>
-	<string key="VC_Legion_Villager_Pickaxe_16BS02a" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Servant du monument</string>
+	<string key="VC_Legion_Villager_Pickaxe_16BS02a" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Mineur du monument</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS02d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="Territory_Brimstone_Sands">Récupérateur de la Légion</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS03" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Servant de la Légion</string>
 	<string key="VC_Legion_Villager_Pickaxe_16BS04" comment="Generic Level Variant" speaker="VitalsCategory" rel_version="Territory_Brimstone_Sands">Servant de la Légion</string>
@@ -12137,7 +12143,7 @@
 	<string key="VC_Withered_Brute_Named_03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Wesley le Flétri</string>
 	<string key="VC_Withered_Brute_Named_04" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Goura le grotesque</string>
 	<string key="VC_Withered_Brute_Named_05" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Le vestige de souffrance</string>
-	<string key="VC_Withered_Brute_Named_06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pasteur Walsh</string>
+	<string key="VC_Withered_Brute_Named_06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Pasteur Prewitt</string>
 	<string key="VC_Withered_Brute_Named_07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Le Contestataire</string>
 	<string key="VC_Withered_Brute_Named_08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Simon Grey</string>
 	<string key="VC_Withered_Brute_Named_09_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Ivan l'Implacable</string>
@@ -12544,6 +12550,7 @@
 	<string key="Withered_Brute_39_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Brute dévoyée</string>
 	<string key="Withered_Brute_40_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Brute dévoyée</string>
 	<string key="Withered_Brute_44_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Brute dévoyée</string>
+	<string key="Withered_Brute_DG_Everfall_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Ravageur de l'Excavation stellaire</string>
 	<string key="Withered_Brute_DG_Windsward_00_Vitalsname" comment="Generic Level Variant" speaker="Vitals Sheet">Ravageur de l'Excavation stellaire</string>
 	<string key="Withered_Brute_Named_00_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Sneed le fermier</string>
 	<string key="Withered_Brute_Named_01_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Willette le fermier</string>
@@ -12551,7 +12558,7 @@
 	<string key="Withered_Brute_Named_03_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Wesley le Flétri</string>
 	<string key="Withered_Brute_Named_04_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Goura le grotesque</string>
 	<string key="Withered_Brute_Named_05_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Bras-fendu</string>
-	<string key="Withered_Brute_Named_06_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Pasteur Walsh</string>
+	<string key="Withered_Brute_Named_06_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Pasteur Prewitt</string>
 	<string key="Withered_Brute_Named_07_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Le Contestataire</string>
 	<string key="Withered_Brute_Named_08_VitalsName" comment="Named Variant - Mission Target Display Name" speaker="Vitals Sheet">Simon Grey</string>
 	<string key="Withered_Brute_Named_09_08QP07_VitalsName" comment="Named Variant" speaker="Vitals Sheet">Ivan l'Implacable</string>

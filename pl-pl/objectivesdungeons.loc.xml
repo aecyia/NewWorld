@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Poświęcona świeca</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Widmowy relikwiarz</string>
 	<string key="dungeon_everfall_title">Gwiezdny Kurhan</string>
-	<string key="dungeon_everfall_description">Zdobądź gwiezdny diadem od regentki Greundgul we wnętrzu Gwiezdnego Kurhanu.</string>
+	<string key="dungeon_everfall_description">Przejdź przez Gwiezdny Kurhan i pokonaj Regentkę Greundgul.</string>
 	<string key="dungeon_everfall_required_equipment">1 azothowa laska</string>
 	<string key="dungeon_everfall_task_explore">Zbadaj okolicę i znajdź drogę do zniszczonego obelisku</string>
 	<string key="dungeon_everfall_task_sealedchamber">Użyj azothowej laski, by wejść do zapieczętowanej komnaty</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Znajdź sposób na pokonanie barier arkanistycznych</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Zdobądź ochronę przed arkanami</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Znajdź klucz, by dostać się do Krypty Regenta</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Odłącz zamek mocy przy pradawnej kapliczce i użyj jej, by pobłogosławić klucz do obelisku</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Zdobądź klucz do obelisku z ozdobnej skrzyni.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Odłącz zamek mocy przy pradawnej kapliczce, by wyłączyć magiczne bariery.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Użyj pradawnej kapliczki, by pobłogosławić klucz do obelisku.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Użyj pobłogosławionego klucza do obelisku, by wejść do Krypty Regenta</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Zbadaj Kryptę Regenta</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Podejdź do regentki Greundgul</string>
 	<string key="dungeon_everfall_task_boss">Pokonaj regentkę Greundgul</string>
 	<string key="dungeon_everfall_task_complete">Opuść Gwiezdny Kurhan</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Podążaj zniszczoną ścieżką do pieczary obelisku.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Pokonaj Simona Greya!</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Znajdź poświęconą świecę i zanieś ją do Widmowego Relikwiarza.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Pokonaj brygadzistę Nakashimę.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Opuść teren wykopalisk i wróć do zniszczonego obelisku.</string>
 	<string key="dungeon_reekwater_title">Użyteczność Łazarza</string>
 	<string key="dungeon_reekwater_description">Odkryj sekrety pradawnego magicznego kompleksu.</string>
 	<string key="dungeon_reekwater_required_equipment">1 azothowa laska</string>

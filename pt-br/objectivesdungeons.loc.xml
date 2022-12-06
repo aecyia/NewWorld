@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Vela Sagrada</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Santuário Espectral</string>
 	<string key="dungeon_everfall_title">Os Túmulos de Pedra Estelar</string>
-	<string key="dungeon_everfall_description">Recupere o Diadema de Pedra Estelar de Greundgul, o Regente, dentro dos Túmulos de Pedra Estelar.</string>
+	<string key="dungeon_everfall_description">Navegue por Túmulos de Pedra Estelar e derrote Greundgul, o Regente.</string>
 	<string key="dungeon_everfall_required_equipment">1 Bastão de Azoth</string>
 	<string key="dungeon_everfall_task_explore">Explore os corredores para encontrar um caminho ao Obelisco Despedaçado.</string>
 	<string key="dungeon_everfall_task_sealedchamber">Use o Bastão de Azoth para entrar na Câmara Selada.</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Procure uma maneira de navegar através das barreiras arcanas.</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Receba Proteção contra Arcano.</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Busque a chave para entrar na Cripta do Regente.</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Desconecte a trava de energia no Santuário Ancião e use-o para abençoar a Chave do Obelisco.</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Obtenha a Chave do Obelisco no Baú Ornamentado.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Desconecte o bloqueio de energia no Santuário Ancião para desativar as barreiras arcanas.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Use o Santuário Ancião para abençoar a Chave do Obelisco.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Use a Chave do Obelisco Abençoada para entrar na Cripta do Regente.</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Prossiga para a Cripta do Regente.</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Aproxime-se de Greundgul, o Regente.</string>
 	<string key="dungeon_everfall_task_boss">Derrote Greundgul, o Regente.</string>
 	<string key="dungeon_everfall_task_complete">Saia dos Túmulos de Pedra Estelar.</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Siga o caminho quebrado para a Caverna do Obelisco.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Derrote Simon Grey!</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Localize a Vela Sagrada e traga-a até o Santuário Espectral.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Derrote Capataz Nakashima.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Saia da escavação e retorne ao Obelisco Despedaçado.</string>
 	<string key="dungeon_reekwater_title">A Importância de Lázaro</string>
 	<string key="dungeon_reekwater_description">Descubra os segredos do local mágico ancião.</string>
 	<string key="dungeon_reekwater_required_equipment">1 Bastão de Azoth</string>

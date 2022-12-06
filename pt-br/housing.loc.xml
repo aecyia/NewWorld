@@ -9,9 +9,9 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent}% do custo de compra original será reembolsado se esta casa for abandonada.&lt;/font&gt;\nTodos os troféus e móveis da casa abandonada serão movidos para o Inventário da Vila.\n\nPara continuar, digite {territoryName} abaixo.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandonar Casa?</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Você deve ter pelo menos um espaço livre de armazenamento do Assentamento antes de poder remover todos os itens de sua casa.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pague {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Pague {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">É necessário {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; para fazer viagem rápida</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">É necessário {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; para fazer viagem rápida</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">É necessário {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; para fazer viagem rápida</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">Você não poderá retornar nem fazer uma viagem rápida ao morrer.</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">Você não pode fazer uma viagem rápida durante um confronto</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">Você não pode fazer uma viagem rápida enquanto estiver sobrecarregado</string>
@@ -24,6 +24,7 @@
 	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Ponto de Viagem Rápida</string>
 	<string key="ui_fast_travel_cost" comment="Fast Travel">{total} &lt;font color="#949494"&gt;/ {cost}&lt;/font&gt;</string>
 	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">Você só pode realizar uma Viagem Rápida em um Assentamento, Posto Avançado ou Santuário Espiritual.</string>
+	<string key="ui_fast_travel_error_belowFromFieldLevelReq" comment="Fast Travel">Você não atende ao Requisito de Nível para fazer uma Viagem Rápida deste Campo.</string>
 	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">Você não tem Azoth suficiente.</string>
 	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">Esta ação está em recarga.</string>
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">Esta ação está em recarga.\nVocê pode retornar em {time}.</string>
@@ -45,14 +46,14 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">É possível fazer Viagem rápida novamente em {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Viagem Rápida</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">De qualquer lugar, para o seu lar</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Você precisa de {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Você precisa de {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; para reiniciar a recarga.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Não foi possível retornar devido a um erro de servidor.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Retornar a</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Retornar à casa</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Retornar à casa (desativada)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">Recarga de reinício de {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_reset_travel" comment="Fast Travel">Recarga de reinício de {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Viagem Rápida</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Faça uma Viagem Rápida até este Assentamento por {cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Faça uma Viagem Rápida até este Assentamento por {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Santuário Espiritual</string>
 	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Faça uma Viagem Rápida para qualquer Assentamento, Posto Avançado ou Santuário Espiritual visitado anteriormente.</string>
 	<string key="ui_travel" comment="Fast Travel">Viagem</string>
@@ -216,6 +217,7 @@
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">É preciso estar no nível {level} de jogador para comprar sua primeira casa.</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Compensação de Alojamento</string>
 	<string key="ui_house_purchase" comment="Purchase House">Comprar esta casa {coinText}</string>
+	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Nível de Jogador {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Quer comprar esta casa?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Cancelar</string>
 	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Comprar Casa</string>
@@ -257,5 +259,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">Ver Informações da Guerra</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Aviso: Você alcançou o limite de pontos de alojamento para este item.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Aviso: Posicionar muitos do mesmo tipo de item de alojamento acumulará pontos negativos.</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Colocar toda a mobília e decorações no armazém do seu Assentamento?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Remover toda a mobília</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Remover toda a mobília?</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">Todos os troféus e mobília da casa serão movidos para o inventário da vila.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Remover toda a mobília</string>
 </resources>
 

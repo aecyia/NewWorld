@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">SUJETS DE DOCUMENT</string>
 	<string key="journal_documents" speaker="UI">Documents</string>
 	<string key="journal_overview" speaker="UI">SYNTHÈSE</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages} pages trouvées</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Page {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Page {number} - lieu de découverte : {location}</string>
 	<string key="journal_pages_found" speaker="UI">Pages trouvées</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Histoires annexes</string>
 	<string key="objective_journey_desc" speaker="UI">Quêtes supplémentaires</string>
 	<string key="objective_journey_empty" speaker="UI">Aucun voyage obtenu</string>
+	<string key="objective_factionstory" speaker="UI">Histoire de la faction</string>
+	<string key="objective_factionstory_desc" speaker="UI">Objectifs d'histoire de la faction</string>
 	<string key="objective_skillprogression" speaker="UI">Progression des capacités</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Objectifs de progression des capacités</string>
 	<string key="objective_epicequipment" speaker="UI">Armes et armures épiques</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Mission d'acquisition</string>
 	<string key="objective_msq" speaker="UI">Histoire principale</string>
 	<string key="objective_msq_desc" speaker="UI">Objectifs de l'histoire principale</string>
+	<string key="objective_get_msq_message" speaker="UI">Vous n'avez actuellement aucune quête de l'histoire principale active.\nCherchez cette icône sur la carte pour savoir si la prochaine quête de l'histoire principale est disponible.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Missions de fabrication</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Quête : « {title} »</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">« {title} » : récompenses</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">Emplacement spécifique</string>
 	<string key="objective_no_location" speaker="UI">Sans emplacement spécifique</string>
 	<string key="objective_main_story_quest" speaker="UI">Quête de l'histoire principale</string>
+	<string key="objective_faction_story_quest" speaker="UI">Quête d'histoire de la faction</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Quête de progression des capacités</string>
 	<string key="objective_side_quests" speaker="UI">Quêtes annexes</string>
 	<string key="objective_event" speaker="UI">Quêtes d'événements</string>

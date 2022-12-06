@@ -9,9 +9,9 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;{percent} % du prix d'achat vous sera remboursé si cette maison est abandonnée.&lt;/font&gt;\nTous les trophées et les meubles de la maison que vous abandonnez seront stockés dans les réserves de la ville.\n\nPour continuer, renseignez le champ ({territoryName}) ci-dessous.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Abandonner la maison ?</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Vous devez disposer d'au moins un emplacement de rangement libre dans la colonie avant de pouvoir retirer tous les objets de votre maison.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Payer {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; pour réinitialiser le temps de recharge.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Payer {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; pour réinitialiser le temps de recharge.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">Transfert rapide : {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; requis</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Transfert rapide : {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; requis</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Transfert rapide : {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; requis</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">Retour et transfert rapide impossibles en étant mort</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">Transfert rapide impossible durant un affrontement</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">Transfert rapide impossible en étant encombré</string>
@@ -24,6 +24,7 @@
 	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Point de transfert rapide</string>
 	<string key="ui_fast_travel_cost" comment="Fast Travel">{total}&lt;font color="#949494"&gt;/{cost}&lt;/font&gt;</string>
 	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">Vous ne pouvez effectuer de transfert rapide que dans une colonie, un avant-poste ou un sanctuaire spirituel.</string>
+	<string key="ui_fast_travel_error_belowFromFieldLevelReq" comment="Fast Travel">Vous ne remplissez pas les conditions de niveau pour utiliser le transfert rapide depuis le champ.</string>
 	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">Vous n'avez pas assez d'Azoth.</string>
 	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">Cette action est cours de recharge.</string>
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">Cette action est cours de recharge.\nRetour possible dans {time}.</string>
@@ -45,14 +46,14 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Transfert rapide à nouveau possible dans {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Transfert rapide</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">Depuis n'importe où, jusque chez vous.</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Réinitialisation du temps de recharge : {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; requis</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Réinitialisation du temps de recharge : {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; requis</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Retour impossible en raison d'une erreur du serveur.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Retour à</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Retour à la maison</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Retour à la maison (désactivé)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">Réinitialisation du temps de recharge : {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_reset_travel" comment="Fast Travel">Réinitialisation du temps de recharge : {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Transfert rapide</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Transfert rapide vers cette colonie ({cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;)</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Transfert rapide vers cette colonie ({cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;)</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Sanctuaire spirituel</string>
 	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Transfert vers une colonie, un avant-poste ou un sanctuaire spirituel déjà visité.</string>
 	<string key="ui_travel" comment="Fast Travel">Transfert</string>
@@ -158,7 +159,7 @@
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Votre maison est désactivée. Payer vos frais d'entretien pour la réactiver !</string>
 	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Payer les frais</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Erreur lors du paiement des frais d'entretien. Veuillez réessayer.</string>
-	<string key="ui_pay_property_tax" comment="Housing Taxes">Payer les frais d'entretien</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Payer les frais</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Payez les frais d'entretien de votre propriété sur la carte ou dans votre maison.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Vous devez payer des frais d'entretien de propriété pour retourner et réapparaître dans votre maison, ou décorer votre maison.\nLes frais d'entretien doivent être payés {firstCycle} après l'achat d'une maison, puis chaque {otherCycle}.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Frais d'entretien de propriété</string>
@@ -216,6 +217,7 @@
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">L'achat d'une première maison requiert le niveau de joueur : {level}.</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Dédommagement pour le logement</string>
 	<string key="ui_house_purchase" comment="Purchase House">Acheter cette maison {coinText}</string>
+	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Niveau de joueur {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Voulez-vous acheter cette maison ?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Annuler</string>
 	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Acheter la maison</string>
@@ -257,5 +259,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">Afficher les informations de guerre</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Attention : Vous avez atteint la limite de points de logement pour cet objet.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Attention : Placer trop d'objets domestiques du même type confère un solde de points négatif.</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Placer tous les meubles et décorations dans le rangement de la colonie ?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Enlever tous les meubles</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Enlever tous les meubles ?</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">Tous les trophées et les meubles de la maison que vous abandonnez seront stockés dans les réserves de la ville.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Enlever tous les meubles</string>
 </resources>
 

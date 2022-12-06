@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">No tienes suficientes recursos ni fondos</string>
 	<string key="ui_protection_price">Precio por {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">Todas las misiones se actualizarán en </string>
+	<string key="ui_daily_bonuses_faction_mission">Las primeras tres misiones de facción completadas recibirán una bonificación diaria.</string>
 	<string key="ui_daily_bonuses_available">Bonificaciones diarias disponibles </string>
 	<string key="ui_daily_mission_bonus_awarded">¡Has recibido una bonificación de misión diaria!</string>
 	<string key="ui_no_active_projects">No hay ningún proyecto activo en esta categoría</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Mejorar asentamiento</string>
 	<string key="ui_upgrade_settlement_description">Un asentamiento de clase más alta te permite a ti y a tu compañía construir estructuras de clase más alta.</string>
 	<string key="ui_upgrade_owned">En propiedad</string>
+	<string key="ui_upgrade_azoth_discount">Descuento de Azoth</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount} %</string>
 	<string key="ui_upgrade_locked">Bloqueado</string>
 	<string key="ui_upgrade_place_plan">Ordenar Mejora</string>
 	<string key="ui_upgrade_unlocks">Desbloquea</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Explosivos de clase &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosivos de clase &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosivos de clase &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Mejora la fragua a clase 3 para poder fabricar &lt;font color="#ffd058"&gt;armas y armaduras de acero&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Mejora la fragua a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;armas y armaduras de metal estelar&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Mejora la fragua a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;armas y armaduras de oricalco&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Mejora la fundición a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;lingotes de metal estelar.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Mejora la fundición a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;lingotes de oricalco y platino.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Mejora la carpintería a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;planchas de madera del sino.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Mejora la carpintería a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;planchas de palo fierro.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Mejora la mesa de cantería a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;ladrillos de calamita y gemas talladas brillantes.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Mejora la mesa de cantería a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;ladrillos de calamita imbuidos y gemas talladas impecables.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Mejora el telar a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;seda.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Mejora el telar a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;seda imbuida.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Mejora la curtiduría a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;cuero con capas.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Mejora la curtiduría a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;cuero imbuido.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Mejora el taller de ingeniería a clase 3 para poder fabricar &lt;font color="#ffd058"&gt;armas a distancia y municiones de acero&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Mejora el taller de ingeniería a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;armas a distancia y municiones de metal estelar&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Mejora el taller de ingeniería a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;armas a distancia y municiones de oricalco&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Mejora la estación de equipamiento a clase 3 para poder fabricar ropa con &lt;font color="#ffd058"&gt;abalorios de satén, cuero resistente y oro&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Mejora la estación de equipamiento a clase 4 para poder fabricar ropa con &lt;font color="#ffd058"&gt;abalorios de seda, cuero con capas y platino&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Mejora la estación de equipamiento a clase 5 para poder fabricar ropa con &lt;font color="#ffd058"&gt;seda imbuida y cuero imbuido&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Mejora el repositorio de artes arcanas a clase 3 para poder fabricar &lt;font color="#ffd058"&gt;objetos destilados y báculos mágicos de acero.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Mejora el repositorio de artes arcanas a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;objetos concentrados y báculos mágicos de metal estelar.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Mejora el repositorio de artes arcanas a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;objetos fuertes y báculos mágicos de oricalco.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Mejora la fragua a clase 3 para desbloquear objetos de clase 3 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Mejora la fragua a clase 4 para desbloquear objetos de clase 4 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Mejora la fragua a clase 5 para desbloquear objetos de clase 5 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Mejora la fundición a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;lingotes de oricalco.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Mejora la fundición a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;lingotes de asmodeum.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Mejora la carpintería a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;planchas de palo fierro&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Mejora la carpintería a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;ébano resplandeciente&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Mejora la mesa de cantería a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;piedra de vacío de obsidiana.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Mejora la mesa de cantería a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;piedra rúnica.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Mejora el telar a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;seda imbuida&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Mejora el telar a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;tejido de fénix.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Mejora la curtiduría a clase 4 para poder fabricar &lt;font color="#ffd058"&gt;cuero imbuido.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Mejora la curtiduría a clase 5 para poder fabricar &lt;font color="#ffd058"&gt;cuero rúnico.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Mejora el taller de ingeniería a clase 3 para desbloquear objetos de clase 3 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Mejora el taller de ingeniería a clase 4 para desbloquear objetos de clase 4 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Mejora el taller de ingeniería a clase 5 para desbloquear objetos de clase 5 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Mejora la estación de equipamiento a clase 3 para desbloquear objetos de clase 3 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Mejora la estación de equipamiento a clase 4 para desbloquear objetos de clase 4 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Mejora la estación de equipamiento a clase 5 para desbloquear objetos de clase 5 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Mejora el repositorio de artes arcanas a clase 3 para desbloquear objetos de clase 3 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Mejora el repositorio de artes arcanas a clase 4 para desbloquear objetos de clase 4 y un descuento de Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Mejora el repositorio de artes arcanas a clase 5 para desbloquear objetos de clase 5 y un descuento de Azoth.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Mejora la cocina a clase 3 para poder preparar &lt;font color="#ffd058"&gt;comidas de clase 3&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Mejora la cocina a clase 4 para poder preparar &lt;font color="#ffd058"&gt;comidas de clase 4&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Mejora la cocina a clase 5 para poder preparar &lt;font color="#ffd058"&gt;comidas de clase 5&lt;/font&gt;.</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Mejora los cuernos de guerra a clase 3. También se mejoran los cuernos de guerra (estén desplegados o no).</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Mejora los explosivos a clase 2. También se mejoran los explosivos existentes (estén desplegados o no).</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Mejora los explosivos a clase 3. También se mejoran los explosivos existentes (estén desplegados o no).</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Árbol de luz</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Subir el árbol de luz al nivel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Subir el árbol de luz al nivel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">¡Mejoras del árbol de luz completadas!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Subir el árbol de luz al nivel 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Subir el árbol de luz al nivel 3</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">¡Mejoras del árbol de luz completadas!</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Árbol de luz de nivel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Árbol de luz de nivel &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">¡Sube el árbol de luz al nivel 2 para rodearlo de &lt;font color="#ffd058"&gt;regalos envueltos perfectamente&lt;/font&gt;!</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">¡Sube el árbol de luz al nivel 3 para rodearlo de &lt;font color="#ffd058"&gt;regalos envueltos con gusto exquisito&lt;/font&gt;!</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">¡Completa proyectos de pueblo de la Convergencia Invernal para conseguir reputación de evento!</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Subir de nivel el árbol de luz</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Proyecto completado: subir de nivel el árbol de luz</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">¡&lt;font color="#ffd058"&gt;Completa misiones y actividades de la Convergencia Invernal&lt;/font&gt; para conseguir reputación de evento y blasones de invierno y ganar acceso a un botín de recompensas! \n\n&lt;font color="#ffd058"&gt;¡Recupera regalos perdidos, extrae brillantitas y derrota al guerrero invernal&lt;/font&gt; para preservar el espíritu de la Convergencia y mantener a raya el Invierno Eterno!\n\n&lt;font color="#ffd058"&gt;¡Consigue recompensas diarias en cada saco de regalos abundante de las villas y en el centro de mesa del árbol de luz del asentamiento! &lt;/font&gt; ¡Completar los numerosos proyectos de pueblo de la Convergencia mejora el esplendor y las recompensas que puedes conseguir!</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Sin fin</string>
 	<string key="ui_territory_level">Nivel de territorio: {level}</string>
 	<string key="ui_enter_house">Ir al menú de casa</string>
 	<string key="ui_purchase_house">Comprar casa</string>

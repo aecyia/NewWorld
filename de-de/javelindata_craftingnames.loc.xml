@@ -513,12 +513,12 @@
 	<string key="Procedural_HealthRecoveryT2">Reiseproviant</string>
 	<string key="Procedural_HealthRecoveryT3">Kleine Mahlzeit</string>
 	<string key="Procedural_HealthRecoveryT4">Magenfüllende Mahlzeit</string>
-	<string key="Procedural_HealthRecoveryT5">Üppige Mahlzeit</string>
+	<string key="Procedural_HealthRecoveryT5">Herzhaftes Mahl</string>
 	<string key="Procedural_ManaRecoveryT1">Energiespendende kleine Ration</string>
 	<string key="Procedural_ManaRecoveryT2">Energiespendender Reiseproviant</string>
 	<string key="Procedural_ManaRecoveryT3">Energiespendende kleine Mahlzeit</string>
 	<string key="Procedural_ManaRecoveryT4">Energiespendende magenfüllende Mahlzeit</string>
-	<string key="Procedural_ManaRecoveryT5">Energiespendende üppige Mahlzeit</string>
+	<string key="Procedural_ManaRecoveryT5">Energiespendende herzhafte Mahlzeit</string>
 	<string key="LeatherT2_CraftName">Raues \nLeder</string>
 	<string key="LeatherT3_CraftName">Grobes \nLeder</string>
 	<string key="LeatherT4_CraftName">Schicht- \nleder</string>
@@ -1895,6 +1895,9 @@
 	<string key="Procedural_GauntletVoidT3_WC" rel_version="Event_WinterConvergence_Perm">Bitterer Schatten</string>
 	<string key="Procedural_GauntletVoidT4_WC" rel_version="Event_WinterConvergence_Perm">Bitterer Schatten</string>
 	<string key="Procedural_GauntletVoidT5_WC" rel_version="Event_WinterConvergence_Perm">Bitterer Schatten</string>
+	<string key="PresentToken" rel_version="Event_WinterConvergence_Temp">Wintermarke ؘ– Geschenke</string>
+	<string key="GleamiteToken" rel_version="Event_WinterConvergence_Temp">Wintermarke – Glitzerit</string>
+	<string key="WarriorToken" rel_version="Event_WinterConvergence_Temp">Wintermarke – Kriegerhorn</string>
 	<string key="ScrapExtractMetalT2">Metall extrahieren – Eisen</string>
 	<string key="ScrapExtractMetalT3">Metall extrahieren – Stahl</string>
 	<string key="ScrapExtractMetalT4">Metall extrahieren – Sternenmetall</string>
@@ -1952,10 +1955,10 @@
 	<string key="GypsumOrbOrange">Gipskugel - Zitrin</string>
 	<string key="GypsumOrbPurple">Gipskugel - Amethyst</string>
 	<string key="GypsumOrbWhite">Gipskugel - Diamant</string>
-	<string key="Procedural_2hGreatSwordT2">Eisernes Großschwert</string>
-	<string key="Procedural_2hGreatSwordT3">Stählernes Großschwert</string>
-	<string key="Procedural_2hGreatSwordT4">Sternenmetall-Großschwert</string>
-	<string key="Procedural_2hGreatSwordT5">Orichalcum-Großschwert</string>
+	<string key="Procedural_2hGreatSwordT2">Großschwert (Eisen)</string>
+	<string key="Procedural_2hGreatSwordT3">Großschwert (Stahl)</string>
+	<string key="Procedural_2hGreatSwordT4">Großschwert (Sternenmetall)</string>
+	<string key="Procedural_2hGreatSwordT5">Großschwert (Orichalcum)</string>
 	<string key="TinctureAcidT5">Säuretinktur</string>
 	<string key="ChitinPadding">Chitinpolster</string>
 	<string key="HeavyHead_ChitinT5">Schwerer Chitin-Plattenhelm</string>

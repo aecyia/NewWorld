@@ -1,5 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<string key="dungeon_amrine_title">Site de fouilles amrine</string>
+	<string key="dungeon_amrine_title">Site de fouilles Amrine</string>
 	<string key="dungeon_amrine_description">Il faut mettre au jour ce site de fouilles !</string>
 	<string key="dungeon_amrine_required_equipment">1 bâton d'Azoth</string>
 	<string key="dungeon_amrine_task_explore">Explorer le site de fouilles</string>
@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Cierge béni</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Autel spectral</string>
 	<string key="dungeon_everfall_title">Les carrières de pierre d'étoile</string>
-	<string key="dungeon_everfall_description">Récupérez le diadème en pierre d'étoile sur Greundgul le régent aux carrières de pierre d'étoile.</string>
+	<string key="dungeon_everfall_description">Explorez les carrières de pierre d'étoile et éliminez Greundgul le régent.</string>
 	<string key="dungeon_everfall_required_equipment">1 bâton d'Azoth</string>
 	<string key="dungeon_everfall_task_explore">Explorer les halls afin de trouver un chemin menant à l'Obélisque brisé</string>
 	<string key="dungeon_everfall_task_sealedchamber">Utiliser le bâton d'Azoth pour pénétrer dans la chambre verrouillée</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Chercher un moyen de traverser les barrières d'arts obscurs</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Obtenir une protection contre les arts obscurs</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Chercher la clé permettant d'accéder à la Crypte du régent</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Couper le verrouillage électrique sur le Sanctuaire ancien et utiliser le sanctuaire pour bénir la clé d'Obélisque</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Obtenir la Clé d'Obélisque dans le Coffre orné.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Couper le verrouillage électrique sur le Sanctuaire ancien pour déconnecter les barrières d'arts obscurs.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Utiliser le Sanctuaire ancien pour bénir la Clé d'Obélisque.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Utiliser la clé d'Obélisque bénite pour pénétrer dans la Crypte du régent</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Pénétrer dans la Crypte du régent</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">S'approcher de Greundgul le régent</string>
 	<string key="dungeon_everfall_task_boss">Vaincre Greundgul le régent</string>
 	<string key="dungeon_everfall_task_complete">Quitter les carrières de pierre d'étoile</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Suivre la piste accidentée jusqu'à la Caverne de l'obélisque</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Vaincre Simon Grey !</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Trouver le cierge béni et le rapporter à l'autel spectral</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Vaincre le contremaître Nakashima</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Quitter le site de fouilles et retourner à l'Obélisque brisé</string>
 	<string key="dungeon_reekwater_title">L'Instrument de Lazarus</string>
 	<string key="dungeon_reekwater_description">Découvrez les secrets de l'ancien site magique.</string>
 	<string key="dungeon_reekwater_required_equipment">1 bâton d'Azoth</string>

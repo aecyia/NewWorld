@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">Nicht genug Rohstoffe und Guthaben.</string>
 	<string key="ui_protection_price">Preis pro {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">Alle Missionen werden aktualisiert in </string>
+	<string key="ui_daily_bonuses_faction_mission">Du erhältst täglich einen Bonus für die ersten drei Fraktionsmissionen, die du abschließt.</string>
 	<string key="ui_daily_bonuses_available">Tägliche Boni verfügbar </string>
 	<string key="ui_daily_mission_bonus_awarded">Täglichen Missionsbonus erhalten!</string>
 	<string key="ui_no_active_projects">Kein aktives Projekt dieser Kategorie vorhanden.</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Siedlung aufrüsten.</string>
 	<string key="ui_upgrade_settlement_description">Ein höherer Siedlungsrang erlaubt es dir und deiner Kompanie, Gebäude mit höherem Rang zu errichten.</string>
 	<string key="ui_upgrade_owned">Im Besitz</string>
+	<string key="ui_upgrade_azoth_discount">Azoth-Rabatt</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount} %</string>
 	<string key="ui_upgrade_locked">Verschlossen</string>
 	<string key="ui_upgrade_place_plan">Plan platzieren</string>
 	<string key="ui_upgrade_unlocks">Ermöglicht</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Kanonen Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Kanonen Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Kanonen Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Rüste die Schmiede auf Rang 3 auf, ab dem sie &lt;font color="#ffd058"&gt;Waffen und Rüstungen aus Stahl&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Rüste die Schmiede auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Waffen und Rüstungen aus Sternenmetall&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Rüste die Schmiede auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Waffen und -Rüstungen aus Orichalcum&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Rüste den Schmelzofen auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Sternenmetallbarren&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Rüste den Schmelzofen auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Orichalcum- und Platinbarren&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Rüste die Holzwerkstatt auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Wyrdholzbretter&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Rüste die Holzwerkstatt auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Tropenholzbretter&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Rüste den Steinmetztisch auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Magnetitziegel und Geschliffene brillante Edelsteine&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Rüste den Steinmetztisch auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Behandelte Magnetitziegel und Geschliffene makellose Edelsteine&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Rüste den Webstuhl auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Seide&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Rüste den Webstuhl auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Behandelte Seide&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Rüste die Gerberei auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Schichtleder&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Rüste die Gerberei auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Behandeltes Leder&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Rüste die Werkstatt auf Rang 3 auf, ab dem sie &lt;font color="#ffd058"&gt;Fernkampfwaffen und Munition aus Stahl&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Rüste die Werkstatt auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Fernkampfwaffen und Munition aus Sternenmetall&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Rüste die Werkstatt auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Fernkampfwaffen und Munition aus Orichalcum&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Rüste die Kleidermacherei auf Rang 3 auf, ab dem sie Kleidung aus &lt;font color="#ffd058"&gt;Satin, Grobem Leder und mit Goldverzierungen&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Rüste die Kleidermacherei auf Rang 4 auf, ab dem sie Kleidung aus &lt;font color="#ffd058"&gt;Seide, Schichtleder und mit Platinverzierungen&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Rüste die Kleidermacherei auf Rang 5 auf, ab dem sie Kleidung aus &lt;font color="#ffd058"&gt;Behandelter Seide und Behandeltem Leder&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Rüste das Arkanumarchiv auf Rang 3 auf, ab dem es &lt;font color="#ffd058"&gt;Destillierte Arkanumarchivgegenstände und Zauberstäbe aus Stahl&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Rüste das Arkanumarchiv auf Rang 4 auf, ab dem es &lt;font color="#ffd058"&gt;Konzentrierte Arkanumarchivgegenstände und Zauberstäbe aus Sternenmetall&lt;/font&gt; herstellen kann.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Rüste das Arkanumarchiv auf Rang 5 auf, ab dem es &lt;font color="#ffd058"&gt;Starke Arkanumarchivgegenstände und Zauberstäbe aus Orichalcum&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Rüste die Schmiede auf Rang 3 auf, um zusätzliche Baupläne und Schemata auf Rang 3 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Rüste die Schmiede auf Rang 4 auf, um zusätzliche Baupläne und Schemata auf Rang 4 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Rüste die Schmiede auf Rang 5 auf, um zusätzliche Baupläne und Schemata auf Rang 5 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Rüste den Schmelzofen auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Orichalcumbarren&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Rüste den Schmelzofen auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Asmodeumbarren&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Rüste die Holzwerkstatt auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Tropenholzbretter&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Rüste die Holzwerkstatt auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Glitzerndes Ebenholz&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Rüste den Steinmetztisch auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Unheilsstein (Obsidian)&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Rüste den Steinmetztisch auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Runenstein&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Rüste den Webstuhl auf Rang 4 auf, ab dem er &lt;font color="#ffd058"&gt;Behandelte Seide&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Rüste den Webstuhl auf Rang 5 auf, ab dem er &lt;font color="#ffd058"&gt;Phönixgeflecht&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Rüste die Gerberei auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Behandeltes Leder&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Rüste die Gerberei auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Runenleder&lt;/font&gt; herstellen kann.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Rüste die Werkstatt auf Rang 3 auf, um zusätzliche Baupläne und Schemata auf Rang 3 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Rüste die Werkstatt auf Rang 4 auf, um zusätzliche Baupläne und Schemata auf Rang 4 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Rüste die Werkstatt auf Rang 5 auf, um zusätzliche Baupläne und Schemata auf Rang 5 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Rüste die Kleidermacherei auf Rang 3 auf, um zusätzliche Schemata auf Rang 3 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Rüste die Kleidermacherei auf Rang 4 auf, um zusätzliche Schemata auf Rang 4 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Rüste die Kleidermacherei auf Rang 5 auf, um zusätzliche Schemata auf Rang 5 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Rüste das Arkanumarchiv auf Rang 3 auf, um zusätzliche Baupläne und Schemata auf Rang 3 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Rüste das Arkanumarchiv auf Rang 4 auf, um zusätzliche Baupläne und Schemata auf Rang 4 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Rüste das Arkanumarchiv auf Rang 5 auf, um zusätzliche Baupläne und Schemata auf Rang 5 und einen Rabatt auf die Azoth-Kosten zu erhalten.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Rüste die Küche auf Rang 3 auf, ab dem sie &lt;font color="#ffd058"&gt;Speisen mit Rang 3&lt;/font&gt; herstellen kann.</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Rüste die Küche auf Rang 4 auf, ab dem sie &lt;font color="#ffd058"&gt;Speisen mit Rang 4&lt;/font&gt; herstellen kann.</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Rüste die Küche auf Rang 5 auf, ab dem sie &lt;font color="#ffd058"&gt;Speisen mit Rang 5&lt;/font&gt; herstellen kann.</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Kriegshörner auf Rang 3 aufrüsten. Nach der Aufrüstung werden alle existierenden Kriegshörner (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Kanonen auf Rang 2 aufrüsten. Nach der Aufrüstung werden alle existierenden Kanonen (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Rüste die Kanonen auf Rang 3 auf. Nach der Aufrüstung werden alle existierenden Kanonen (aufgestellt oder nicht) ebenfalls aufgerüstet.</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Baum des Lichts</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Baum des Lichts auf Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt; aufrüsten</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Baum des Lichts auf Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt; aufrüsten</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Aufrüstung von Baum des Lichts abgeschlossen!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Rüste den Baum des Lichts auf Rang 2 auf</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Rüste den Baum des Lichts auf Rang 3 auf</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Aufrüstung von Baum des Lichts abgeschlossen!</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Baum des Lichts Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Baum des Lichts Rang &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Rüste den Baum des Lichts auf Rang 2 auf, um ihn mit &lt;font color="#ffd058"&gt;schön verpackten Geschenken&lt;/font&gt; zu umgeben!</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Rüste den Baum des Lichts auf Rang 3 auf, um ihn mit &lt;font color="#ffd058"&gt;kunstvoll verpackten Geschenken&lt;/font&gt; zu umgeben!</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Schließe Winterkonvergenz-Stadtprojekte ab, um Ereignis-Ansehen zu verdienen!</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Baum des Lichts aufrüsten</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Baum des Lichts aufrüsten Projekt abgeschlossen</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Schließe Winterkonvergenz-Aufgaben und -Aktivitäten ab&lt;/font&gt;, um Ereignis-Ansehen und Wintermarken zu verdienen und reichlich Ereignis-Belohnungen zu erhalten! \n\n&lt;font color="#ffd058"&gt;Beschaffe Verlorene Geschenke, baue Glitzerit ab und besiege den Winterkrieger&lt;/font&gt;, um die Konvergenzstimmung zu wahren und den drohenden Ewigen Winter zu verhindern!\n\n&lt;font color="#ffd058"&gt;Sammle täglich Belohnungen aus den prallen Geschenkesäcken in den Dörfern und der Hauptattraktion: Aus dem Baum des Lichts der Siedlung! &lt;/font&gt; Das Abschließen der zahlreichen Konvergenz-Stadtprojekte verbessert die Pracht und Belohnungen des Baums!</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Endlos</string>
 	<string key="ui_territory_level">Gebietsstufe: {level}</string>
 	<string key="ui_enter_house">Hausmenü öffnen</string>
 	<string key="ui_purchase_house">Haus kaufen</string>

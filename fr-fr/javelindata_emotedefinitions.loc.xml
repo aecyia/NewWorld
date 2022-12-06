@@ -20,7 +20,7 @@
 	<string key="emote_farmerblow_THEY" rel_version="Emote_Noseblow">{playerName} se mouche.</string>
 	<string key="emote_fistbump" rel_version="New_World_Launch">{playerName} cogne du poing pour saluer.</string>
 	<string key="emote_fistbump_SHE" rel_version="New_World_Launch">{playerName} cogne du poing pour saluer.</string>
-	<string key="emote_fistbump_THEY" rel_version="New_World_Launch">{playerName} fait un check.</string>
+	<string key="emote_fistbump_THEY" rel_version="New_World_Launch">{playerName} cogne du poing pour saluer.</string>
 	<string key="emote_fistshake" rel_version="Emote_Fistshake">{playerName} lève le poing.</string>
 	<string key="emote_fistshake_SHE" rel_version="Emote_Fistshake">{playerName} lève le poing.</string>
 	<string key="emote_fistshake_THEY" rel_version="Emote_Fistshake">{playerName} lève le poing.</string>
@@ -325,14 +325,46 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Pirouette squelette</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">« Bougez un peu ces os avec une gracieuse pirouette. »</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} fait une gracieuse pirouette.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Hélas</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Pauvre de moi.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} soupire.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">Cor de guerre</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Sonnez le rappel. Nous partons en guerre !</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} sonne le cor de guerre.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Marche de zombie</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Que vaut un zombie dans les terres de la vie éternelle ? Regardez les dévoyés.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} titube comme une créature morte-vivante.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Cornes du diable</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Vendez votre âme au diable.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} fait les cornes du diable avec ses doigts.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} fait les cornes du diable avec ses doigts.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} fait les cornes du diable avec ses doigts.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Gambader</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Baladez-vous gaiement dans ce territoire effroyablement dangereux et maléfique.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} gambade.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Danse hasardeuse</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Une chorégraphie incertaine, mais plutôt cool.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} entame une danse hasardeuse.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Lancer de neige</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Lancez des poignées de neige poudreuse dans l'air glacé.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} lance de la neige.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Ricochet de coruscante</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Faites des ricochets avec cette pierre magique et merveilleuse.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} fait des ricochets avec un morceau de coruscante.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Jonglage avec un ballon</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Le talent idéal pour éblouir votre entourage mais parfaitement inutile pendant une session de jeu.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} jongle et fait rebondir un ballon.</string>
 	<string key="ui_emote_KneeSlide_name" rel_version="Emote_KneeSlide">Glissade sur les genoux</string>
-	<string key="ui_emote_KneeSlide_description" rel_version="Emote_KneeSlide">Contre toute attente...Vous avez réussi ! But !</string>
+	<string key="ui_emote_KneeSlide_description" rel_version="Emote_KneeSlide">Contre toute attente... Vous avez réussi ! But !</string>
 	<string key="emote_KneeSlide" rel_version="Emote_KneeSlide">{playerName} court et glisse sur les genoux en signe de victoire.</string>
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Ainsi, je meurs</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Souvenez-vous de moi ! Puisse mon nom ne jamais disparaître des chroniques de votre glorieuse histoire, car toujours je demeurai fidèle à...</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} s'éteint de façon dramatique.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Jonglage de coruscantes</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Amusez les petits comme les grands en jonglant avec des météores magiques.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} amuse la foule en jonglant avec des coruscantes.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Lancer de coruscantes</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Jetez des coruscantes scintillantes.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} jette une poignée de coruscantes.</string>
 </resources>
 

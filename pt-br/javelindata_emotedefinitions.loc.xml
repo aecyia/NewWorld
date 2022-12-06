@@ -325,6 +325,32 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Rodopio de Esqueleto</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">“Faça esses ossos se moverem com um rodopio delicado.”</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} rodopia delicadamente.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Ai de Mim</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">Ah, pobre de mim.</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} suspira.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">Trombeta de Guerra</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Soe o chamado. Vamos à guerra!</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} toca uma trombeta de guerra.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Passinho de Zumbi</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">O que é um zumbi na terra da vida eterna? É só dar uma olhada nos Perdidos.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} se lança para frente como um morto-vivo.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Chifres de Roqueiro</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Jure entregar sua alma ao diabo.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} faz chifres do diabo com os dedos.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} faz chifres do diabo com os dedos.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} faz chifres do diabo com os dedos.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Saltitar</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Saltite com alegria por esta terra terrivelmente maligna e perigosa.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} sai saltitando.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Dançar Dando de Ombros</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Um conjunto de movimentos incertos, mas não desagradáveis.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} dança enquanto dá de ombros.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Atirar Bolas de Neve</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Atire a neve fofa branca no ar frio.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} atira bolas de neve.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Pular Brilhita</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Pule essa pedra mágica e maravilhosa.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} pula uma brilhita.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Embaixadinha</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Uma habilidade perfeita para deslumbrar os outros e absolutamente inútil durante o jogo.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} faz malabarismo quicando uma bola por esporte.</string>
@@ -334,5 +360,11 @@
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">E Assim Eu Morro</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Lembre-me cada vez mais, que meu nome nunca escape dos anais de sua gloriosa história, pois sempre fui fiel a…</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} sofre uma morte excruciante e dramática.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Malabarismo com Brilhita</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Entretenha crianças e adultos fazendo malabarismos com meteoros mágicos.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} diverte os outros fazendo malabarismos com brilhitas.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Arremesso de Brilhita</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Arremesse brilhitas brilhantes.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} arremessa várias brilhitas.</string>
 </resources>
 

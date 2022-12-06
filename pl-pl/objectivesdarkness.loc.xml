@@ -22,7 +22,7 @@
 	<string key="incursion_flyout_minor">Wyłom skażenia (mały)</string>
 	<string key="incursion_flyout_major">Wyłom skażenia (duży)</string>
 	<string key="incursion_completed_minor">Wyłom skażenia zamknięty</string>
-	<string key="incursion_completed_major">Zwycięstwo nad wyłomem skażenia</string>
+	<string key="incursion_completed_major">Wyłom skażenia zamknięty</string>
 	<string key="objective_darkness_corrupted_monolith_title">Skażony monolit</string>
 	<string key="objective_darkness_corrupted_monolith_desc">Zniszcz skażony monolit, by powstrzymać szerzenie się skażenia w okolicy.</string>
 	<string key="objective_darkness_task_damage_monolith_title">Odkryj rdzeń monolitu skażenia</string>
@@ -84,6 +84,12 @@
 	<string key="ui_holdout_chamber_Obj_Task_02" rel_version="Quest_MSQ2_Revamp">Przetrwaj próbę</string>
 	<string key="ui_holdout_chamber_Obj_Task_02_desc" rel_version="Quest_MSQ2_Revamp">Pozostały czas: </string>
 	<string key="event_completed">Wydarzenie ukończone</string>
+	<string key="ui_winterconv_worldboss_winterwarrior" rel_version="Event_WinterConvergence_Temp">Wieczna Zima</string>
+	<string key="ui_winterconv_worldboss_winterwarrior_description" rel_version="Event_WinterConvergence_Temp">Zimowy Wojownik i jego legion zimowego ludu szerzą początki Wiecznej Zimy w całym Aeternum!</string>
+	<string key="objective_worldboss_task_destroylink_title" rel_version="Event_WinterConvergence_Temp">Deaktywuj emanującą burzę</string>
+	<string key="objective_worldboss_task_destroylink_desc" rel_version="Event_WinterConvergence_Temp">Pozostałe aury filaru mroźnoszronu: {remainingCount}</string>
+	<string key="objective_worldboss_task_winterwarrior_title" rel_version="Event_WinterConvergence_Temp">Pokonaj Zimowego Wojownika</string>
+	<string key="objective_worldboss_task_winterwarrior_desc" rel_version="Event_WinterConvergence_Temp">Powstrzymaj rozprzestrzenianie się Wiecznej Zimy!</string>
 	<string key="ui_legion_outpost_attack" rel_version="Territory_Brimstone_Sands">Oblężenie Piaskobrzegów</string>
 	<string key="ui_legion_outpost_attack_description" rel_version="Territory_Brimstone_Sands">Legion jest coraz bliżej! Powstrzymaj ich, zanim dotrą do posterunku Wikala al-Waha!</string>
 	<string key="objective_legion_outpost_attack_title" rel_version="Territory_Brimstone_Sands">Zatrzymaj Legion!</string>
@@ -137,7 +143,7 @@
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup" rel_version="Quest_MSQ2_Revamp">Podejdź do Reliktu</string>
 	<string key="04A_Encounter_Remnant_Boss_Obj_Enc_task_setup_desc" rel_version="Quest_MSQ2_Revamp">Pokonaj Relikt</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title" rel_version="Quest_MSQ2_Revamp">Skażenie natury</string>
-	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_desc" rel_version="Quest_MSQ2_Revamp">Pokonaj Zane'a, by powstrzymać dalsze skażenie natury.</string>
+	<string key="04A_Encounter_Zane_Boss_Obj_Enc_Title_description" rel_version="Quest_MSQ2_Revamp">Pokonaj Zane'a, by powstrzymać dalsze skażenie natury.</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront" rel_version="Quest_MSQ2_Revamp">Osłab nadzorcę Zane'a</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_confront_desc" rel_version="Quest_MSQ2_Revamp">Zniszcz skażone pnącza, by osłabić Zane'a. \nPozostałe pnącza: {remainingCount}</string>
 	<string key="04A_Encounter_Zane_Boss_Obj_Enc_task_defeat" rel_version="Quest_MSQ2_Revamp">Pokonaj nadzorcę Zane'a</string>

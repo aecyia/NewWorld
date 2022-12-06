@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">Nessun bastone di Azoth "{itemName}" livello {tier} equipaggiato</string>
 	<string key="ui_notoolitem_multiple">Richiede {count}x {itemName}</string>
 	<string key="ui_notoolitem">Richiede: {itemName}</string>
+	<string key="ui_requiremultipleplayers">Richiede un gruppo di {count} giocatori</string>
 	<string key="ui_nopermission">Nessun accesso pubblico.</string>
 	<string key="ui_nopermissionrank">Il grado "{rank}" non ha il permesso di "{action}".</string>
 	<string key="ui_nopermissionpublic">{action}: non consentito per le strutture pubbliche.</string>
@@ -88,7 +89,7 @@
 	<string key="ui_build_structure_menu">Costruisci struttura</string>
 	<string key="ui_replace_structure_menu">Sostituisci struttura</string>
 	<string key="ui_place_structure">Posiziona struttura</string>
-	<string key="ui_open_arena_menu">Visualizza informazioni sull'arena</string>
+	<string key="ui_open_arena_menu">Visualizza informazioni prova</string>
 	<string key="ui_notification_summoning_stone_placed">PIETRA DI EVOCAZIONE POSIZIONATA</string>
 	<string key="ui_watcherscampfire">Falò del Sorvegliante</string>
 	<string key="ui_hunterscampfire">Falò del Cacciatore</string>

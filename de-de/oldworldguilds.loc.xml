@@ -46,10 +46,10 @@
 	<string key="owg_price_update">Preise haben sich aufgrund von Fraktionsaktivitäten geändert</string>
 	<string key="owg_faction_select_no">Nein, ich überlege es mir noch.</string>
 	<string key="owg_faction_select_title">Dieser Fraktion beitreten?</string>
-	<string key="owg_faction_select_title_incompany">Achtung! Deine Kompanie gehört einer anderen Fraktion an!</string>
+	<string key="owg_faction_select_title_incompany" rel_version="Feature_Unfactioned_Company_Members">Achtung! Deine Kompanie gehört einer anderen Fraktion an!</string>
 	<string key="owg_faction_select_warning">Die Entscheidung kannst du nicht rückgängig machen.</string>
 	<string key="owg_faction_select_yes">Ja, ich möchte mich der Fraktion {faction} anschließen.</string>
-	<string key="owg_faction_select_confirm">Du kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist dauerhaft – du kannst deine Fraktion einmalig im Bio-Bildschirm wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
+	<string key="owg_faction_select_confirm">Du kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist nicht endgültig – du kannst deine Fraktion zu Beginn einmal im Biographie-Menü wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
 	<string key="owg_factionwarinfo_desc_1">Schließe dich einer der drei Krieg führenden Fraktionen an, um noch tiefer in die spannende Welt von Aeternum einzutauchen. Miss dich mit den anderen Fraktionen und erweitere deinen Einfluss in neuen Gebieten, um Belohnungen zu erhalten.</string>
 	<string key="owg_factionwarinfo_desc_2">Um gegen andere Spieler kämpfen zu können, musst du dich einer Fraktion anschließen und dich innerhalb einer Siedlung für PvP markieren. Sobald du markiert bist, kannst du gegen andere für PvP markierte Spieler der gegnerischen Fraktionen kämpfen. (Ihr Fraktionswappen wird in ihrem Namensschild angezeigt.)</string>
 	<string key="owg_factionwarinfo_desc_3">Demnächst verfügbar: Indem du Fraktionsmissionen von deinem Fraktionsvertreter in der Siedlung absolvierst, verdienst du dir Fraktionseinflusspunkte in diesem Gebiet. Der Fraktionseinfluss hilft dir, deine Gebiete zu schützen, oder erlaubt es dir, einen Krieg gegen Feinde zu erklären.</string>
@@ -158,6 +158,7 @@
 	<string key="owg_rank_unlock_tooltip">Du musst alle Anforderungen erfüllen, um den nächsten Rang freizuschalten.</string>
 	<string key="owg_rank_unlocked">Rang {rankName} freigeschaltet!</string>
 	<string key="owg_refresh_message">Eine neue Mission wird bald verfügbar sein</string>
+	<string key="owg_no_pvp_missions_available">PvP-Missionen können in Enklaven nicht angenommen oder abgeschlossen werden.</string>
 	<string key="owg_replacepopup_body">Möchtest du deine aktuelle Mission wirklich abbrechen, um diese Mission anzunehmen?\n\nWenn du die aktuelle Mission abbrichst, verlierst du &lt;font color="#f2e8ae"&gt;{amount} Fraktionsmarken&lt;/font&gt; beim &lt;font color="#ffffff"&gt;{guildName}&lt;/font&gt;.</string>
 	<string key="owg_replacepopup_title">AKTUELLE MISSION ERSETZEN</string>
 	<string key="owg_required_currency">{amount} Taler erforderlich</string>
@@ -166,7 +167,7 @@
 	<string key="owg_rewards_title">BELOHNUNGEN</string>
 	<string key="owg_rewardtype_currency">&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt;Taler</string>
 	<string key="owg_rewardtype_experience">&lt;img src="lyshineui/images/icons/misc/icon_xp" xPadding="0" scale="1.9" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;EP&lt;/font&gt;</string>
-	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
+	<string key="owg_rewardtype_azoth">&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.8" yOffset="3"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; Azoth</string>
 	<string key="owg_rewardtype_guildreputation">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Ansehen&lt;/font&gt;</string>
 	<string key="owg_rewardtype_guildcurrency">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;Marken&lt;/font&gt;</string>
 	<string key="owg_rewardtype_pvp_xp" rel_version="PvP_Rewards_Track">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;PvP-EP&lt;/font&gt;</string>
@@ -247,7 +248,7 @@
 	<string key="owg_pvp_cannotacceptmission_unknown">Du kannst derzeit keine &lt;font color="#eaeaea"&gt;PvP-Missionen&lt;/font&gt; annehmen.</string>
 	<string key="owg_tooltip_warning">Du kannst nur eine Mission gleichzeitig bearbeiten.</string>
 	<string key="owg_unlock_previous_rank">Rang {rankName} freigeschaltet</string>
-	<string key="owg_unlock_rank">FREISCHALTEN: &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt;{azoth} &lt;/font&gt;&lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.2" yOffset="4"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt;{coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt; &lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt;{token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
+	<string key="owg_unlock_rank">FREISCHALTEN: &lt;font face="lyshineui/fonts/CaslonAnt.font" color={azothTextColor}&gt;{azoth} &lt;/font&gt;&lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={coinTextColor}&gt;{coin}&lt;/font&gt;&lt;img src="lyshineui/images/icons/objectives/reward_coin" xPadding="0" scale="1.2" yOffset="4"&gt; &lt;/img&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font" color={influenceTextColor}&gt;{token}&lt;/font&gt;&lt;img src="{icon}" xPadding="0" scale="1.4" yOffset="7"&gt;&lt;/img&gt;</string>
 	<string key="owg_currency">Fraktionsmarken</string>
 	<string key="owg_influence_to_rank">{influence} bis {rankName}</string>
 	<string key="owg_company">Kompanie</string>
@@ -537,13 +538,24 @@
 	<string key="CMissionAcquireWoodWorker">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von einer Holzwerkstatt.</string>
 	<string key="CMissionAcquireOutfitter">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Kleidermacherei.</string>
 	<string key="CMissionAcquireEngineer">Erhalte und liefere &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; von der Werkstatt.</string>
+	<string key="CMissionAcquireBlock_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Steinmetze gesucht</string>
+	<string key="CMissionAcquireTimber_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Zimmermänner gesucht</string>
+	<string key="CMissionAcquireCloth_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Weber gesucht</string>
+	<string key="CMissionAcquireMetal_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Metallbauer gesucht</string>
+	<string key="CMissionAcquireFibers_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Erntearbeiter gesucht</string>
+	<string key="CMissionAcquireFood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Köche gesucht</string>
+	<string key="CMissionAcquirePotions_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Alchemisten gesucht</string>
+	<string key="CMissionAcquireGeneric_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Vorräte gesucht</string>
+	<string key="CMissionAcquireWood_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Holzfäller gesucht</string>
+	<string key="CMissionAcquireRawhide_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Jäger gesucht</string>
+	<string key="CMissionAcquireLeather_Name_WC" rel_version="Event_WinterConvergence_Temp">Festliche Gerber gesucht</string>
 	<string key="ui_already_in_faction">Du befindest dich bereits in der Fraktion.</string>
 	<string key="ui_cant_switch_faction_pvp">Fraktionswechsel nicht möglich, wenn du für PvP markiert bist.</string>
 	<string key="ui_cant_switch_faction_azoth">Nicht genug Azoth</string>
 	<string key="ui_cant_switch_faction_sanctuary">Du musst in einer Zufluchtsstätte sein, um Fraktionen wechseln zu können.</string>
 	<string key="ui_cant_switch_faction_war">Solange du zu einem Krieg angemeldet bist, ist kein Fraktionswechsel möglich.</string>
 	<string key="ui_cant_switch_faction_intro">Du hast dich bei dieser Fraktion noch nicht bewährt. Sprich mit einem Fraktionsvertreter, um beizutreten.</string>
-	<string key="ui_cant_switch_faction_incompany">Du bist derzeit in einer Kompanie, die mit einer anderen Fraktion verbündet ist. Wenn du fortfährst, wirst du aus dieser Kompanie entfernt.\n\nDu kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist dauerhaft – du kannst deine Fraktion erstmalig im Bio-Bildschirm wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
+	<string key="ui_cant_switch_faction_incompany" rel_version="Feature_Unfactioned_Company_Members">Du bist derzeit in einer Kompanie, die mit einer anderen Fraktion verbündet ist. Wenn du fortfährst, wirst du aus dieser Kompanie entfernt.\n\nDu kannst nur einer Kompanie mit Spielern aus derselben Fraktion beitreten. Wenn du für PvP markiert bist, kannst du dich nur mit Spielern aus derselben Fraktion zu einer Gruppe zusammenschließen. Vor dem Beitritt solltest du dich vergewissern, für welche Fraktionen sich deine Freunde in New World entschieden haben.\n\nDeine Entscheidung ist nicht endgültig – du kannst deine Fraktion zu Beginn einmal im Biographie-Menü wechseln. Danach kannst du sie alle &lt;font color="#FFD45F"&gt;60 Tage&lt;/font&gt; erneut wechseln.</string>
 	<string key="ui_join">Beitreten</string>
 	<string key="ui_faction_join_restrictions">Du kannst einmal alle 60 Tage die Fraktion wechseln. Du kannst nur Kompanien deiner eigenen Fraktion beitreten.</string>
 </resources>

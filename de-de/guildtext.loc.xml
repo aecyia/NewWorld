@@ -64,7 +64,7 @@
 	<string key="ui_guildinvitesendermessage">Du hast &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; in deine Kompanie eingeladen.</string>
 	<string key="ui_guildinvitestab">Einlad.</string>
 	<string key="ui_guildinvitetitle">In Kompanie eingeladen</string>
-	<string key="ui_guildmaster">Gouverneur der Kompanie</string>
+	<string key="ui_guildmaster">Gouverneur*in</string>
 	<string key="ui_guildmastercannotacceptinvitemessage">Du musst einen anderen {guildMasterRankName} ernennen, bevor du dich einer anderen Kompanie anschließen kannst.</string>
 	<string key="ui_warringguildofonecannotacceptinvitemessage">Du kannst keiner anderen Kompanie beitreten, solange du einer Kompanie angehörst, die nur ein Mitglied hat und sich im Krieg befindet.</string>
 	<string key="ui_guildcannotinviteself">Du kannst dich nicht selbst einladen.</string>
@@ -182,7 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Offizier*in</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Du kannst keine Kompanieeinladung senden. Rang zu niedrig.</string>
 	<string key="ui_guildCannotInviteNoFaction">Du kannst keine Kompanieeinladung senden. Nicht in einer Fraktion.</string>
-	<string key="ui_guildcannotpromote_nofaction">Kann nicht zum Gouverneur befördert werden. Nicht in einer Fraktion.</string>
+	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">Kann nicht zum Gouverneur befördert werden. Nicht in einer Fraktion.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Siedler</string>
 	<string key="ui_guildranksettler_SHE">Siedlerin</string>
 	<string key="ui_guildranksettler_THEY">Siedler*in</string>
@@ -203,7 +203,7 @@
 	<string key="ui_kickguildmember_confirm">Möchtest du {playerName} wirklich aus der Kompanie werfen?</string>
 	<string key="ui_leaveguild">Kompanie verlassen</string>
 	<string key="ui_disbandguild">Kompanie auflösen</string>
-	<string key="ui_leaveguild_confirm">Wenn du die Kompanie verlässt, &lt;font color="#FFD600"&gt;geschieht das Folgende: \n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_confirm">Wenn du die Kompanie verlässt, &lt;font color="#FFD600"&gt;geschieht das Folgende: \n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">Möchtest du die Kompanie wirklich verlassen?</string>
 	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;KOMPANIEKRIEGSABKLINGZEIT ({cooldownTimeWar}).&lt;/font&gt; Während der Abklingzeit kannst du nur als Söldner in Verteidigungskriegen kämpfen, die von der Kompanie geführt werden, der du als Nächstes beitrittst. \n\n&lt;font color="#FFD600"&gt;ABKLINGZEIT DES VORHUTBEITRAGS ZUM KOMPANIEKRIEG ({cooldownTimeInfluence}).&lt;/font&gt; Während der Abklingzeit kannst du durch das Abschließen von PvP-Missionen Einfluss für deine Fraktion verdienen, aber der verdiente Einfluss wird nicht auf die Auswahl deiner neuen Kompanie als Kriegsvorhut angerechnet.</string>
 	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Besitz ausschlagen &lt;/font&gt;Dann wird ein anderes Mitglied zum Gouverneur befördert und sämtlicher Besitz der Kompanie verbleibt innerhalb der Kompanie mit dem neuen Gouverneur.</string>
@@ -225,10 +225,12 @@
 	<string key="ui_governorexpire_deleted" comment="Pronoun for Disappeared Governor">Der Gouverneur deiner Kompanie hat das Spiel verlassen oder seinen Charakter gelöscht. Ein Mitglied mit dem Rang Konsul kann Gouverneur werden.</string>
 	<string key="ui_governorexpire_deleted_SHE">Die Gouverneurin deiner Kompanie hat das Spiel verlassen oder ihren Charakter gelöscht. Ein Mitglied mit dem Rang Konsul kann Gouverneur werden.</string>
 	<string key="ui_governorexpire_deleted_THEY">Dier Gouverneur*in deiner Kompanie hat das Spiel verlassen oder xiesen Charakter gelöscht. Ein Mitglied mit dem Rang Konsul kann Gouverneur werden.</string>
+	<string key="ui_governorseat_vacant">Der Gouverneursposten ist unbesetzt.</string>
+	<string key="ui_governorseat_overthrowable">Der Gouverneur kann von Konsuln gestürzt werden.</string>
 	<string key="ui_becomegovernor">Gouverneur werden</string>
 	<string key="ui_becomegovernor_SHE">Gouverneurin werden</string>
 	<string key="ui_becomegovernor_THEY">Gouverneur*in werden</string>
-	<string key="ui_becomegovernor_requires_faction">Tritt der Gildenfraktion bei, um Gouverneur zu werden.</string>
+	<string key="ui_becomegovernor_requires_faction" rel_version="Feature_Unfactioned_Company_Members">Tritt der Gildenfraktion bei, um Gouverneur zu werden.</string>
 	<string key="ui_permission_assign_structures">{allowed} Kompaniegebäude zuweisen.</string>
 	<string key="ui_permission_build_structures">{allowed} auf Kompanieland bauen.</string>
 	<string key="ui_permission_cancel_structures">{allowed} geplante Gebäude abbrechen</string>
@@ -387,7 +389,7 @@
 	<string key="ui_otherguilds_sortbyname">nach Name</string>
 	<string key="ui_otherguilds_sortbysize">nach Größe</string>
 	<string key="ui_otherguilds_sortbyclaims">nach Gebietanzahl</string>
-	<string key="ui_otherguilds_header_guildname">Kompaniename</string>
+	<string key="ui_otherguilds_header_guildname">Kompanie</string>
 	<string key="ui_otherguilds_header_nummembers">Mitglieder</string>
 	<string key="ui_otherguilds_header_claims">Ansprüche</string>
 	<string key="ui_otherguilds_header_warstatus">Kriegsstatus</string>
@@ -465,7 +467,7 @@
 	<string key="ui_cantpromote_leaderatwar">Die Kompanieleitung kann im Krieg nicht übertragen werden.</string>
 	<string key="ui_cantpromote_lackpermissionforrank">Du hast nicht die Berechtigungen, Mitglieder auf deinen Rang oder höher zu befördern.</string>
 	<string key="ui_cantpromote_lackpermission">Dir fehlt die notwendige Berechtigung, um Mitglieder zu befördern.</string>
-	<string key="ui_cantpromote_nonfactionmember">Mitglied muss einer Fraktion beitreten, um befördert zu werden.</string>
+	<string key="ui_cantpromote_nonfactionmember" rel_version="Feature_Unfactioned_Company_Members">Mitglied muss einer Fraktion beitreten, um befördert zu werden.</string>
 	<string key="ui_cantdemote_lowestrank">Bereits niedrigster Rang</string>
 	<string key="ui_cantdemote_lackpermissionforrank">Du kannst Mitglieder deines Rangs oder höher nicht degradieren.</string>
 	<string key="ui_cantdemote_lackpermission">Dir fehlt die notwendige Berechtigung, um Mitglieder zu degradieren.</string>
@@ -559,6 +561,7 @@
 	<string key="ui_siege_signup_failed_opposingside">Du kannst dich nicht für einen Kampf gegen deine eigene Kompanie eintragen.</string>
 	<string key="ui_siege_signup_failed_invalidfaction">Du kannst dich nicht für einen Kampf gegen deine eigene Fraktion eintragen.</string>
 	<string key="ui_siege_signup_failed_full">Die Eintragungsliste für den Krieg ist bereits voll.</string>
+	<string key="ui_siege_signup_failed_dailylimitreached">Du hast dein tägliches Kriegslimit auf der {attackerOrDefenderSide} erreicht.</string>
 	<string key="ui_siege_signup_failed_conquestoverlaps">Du bist bereits für einen Krieg eingetragen, der etwa zur selben Zeit stattfindet.</string>
 	<string key="ui_siege_signup_failed_remotesignup">Du musst dich an einer Kriegsübersicht befinden, um dich einzutragen.</string>
 	<string key="ui_siege_signup_failed_notinfaction">Du musst einer Fraktion beitreten, um an einem Krieg teilnehmen zu können.</string>
@@ -566,7 +569,14 @@
 	<string key="ui_siege_signup_failed_banned">Du wurdest von der herrschenden Kompanie aus der Liste entfernt und kannst dich dieser Armee nicht erneut anschließen.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Du hast vor kurzem eine Kompanie verlassen und kannst 72 Stunden lang nicht in einem Verteidigungskrieg für deine Kompanie kämpfen</string>
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Du hast noch keinen Zugriff auf dieses Gebiet.</string>
+	<string key="ui_siege_signup_failed_warinprogress">Es sind keine weiteren Eintragungen möglich. Der Krieg oder die Invasion hat bereits begonnen.</string>
 	<string key="ui_siege_signup_failed">Bei deinem Eintragungsversuch für einen Krieg gab es ein Problem.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Angreifer-Kriegslimit wird aktualisiert in:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Verteidiger-Kriegslimit wird aktualisiert in:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_available">Du kannst dich als Angreifer für Kriege registrieren.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Du hast dein tägliches Angreifer-Kriegslimit erreicht und kannst dich nicht mehr als Angreifer für Kriege registrieren.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_available">Du kannst dich als Verteidiger für Kriege registrieren.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_limitreached">Du hast dein tägliches Verteidiger-Kriegslimit erreicht und kannst dich nicht mehr als Verteidiger für Kriege registrieren.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Möchtest du fortfahren?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Du bist bereits für einen Krieg eingetragen, der etwa zur selben Zeit stattfindet.\nMöchtest du deine Eintragung für {territoryName} verwerfen?</string>
 	<string key="ui_siege_signup_abandon_title">Eintragung verwerfen</string>
@@ -617,6 +627,7 @@
 	<string key="ui_how_does_invasion_work">Wie funktioniert eine Invasion?</string>
 	<string key="ui_signup_restriction_tooltip">Du kannst dich nicht als Gegner deiner Fraktion eintragen.</string>
 	<string key="ui_signup_nofaction_tooltip">Du musst einer Fraktion angehören, um dich für einen Krieg anzumelden.</string>
+	<string key="ui_signup_warinprogress_tooltip">Du kannst dich nicht für einen bereits laufenden Krieg oder eine bereits laufende Invasion eintragen.</string>
 	<string key="ui_signup_not_available">Anmeldung nicht möglich</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#ff6363"&gt;Spielerstufe {level}&lt;/font&gt; &lt;font color="#c0c0c0"&gt; ist für die Anmeldung erforderlich.&lt;/font&gt;</string>
 	<string key="ui_signup_count">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; Spieler haben sich angemeldet.</string>

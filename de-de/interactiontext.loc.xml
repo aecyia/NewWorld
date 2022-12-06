@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">Kein/e Rang-{tier}-{itemName} ausgerüstet</string>
 	<string key="ui_notoolitem_multiple">Erfordert {count}x {itemName}.</string>
 	<string key="ui_notoolitem">Erfordert {itemName}</string>
+	<string key="ui_requiremultipleplayers">Erfordert eine Gruppe mit {count} Spielern.</string>
 	<string key="ui_nopermission">Kein öffentlicher Zugang.</string>
 	<string key="ui_nopermissionrank">Der Rang "{rank}" hat nicht die nötige Berechtigung für die Aktion "{action}".</string>
 	<string key="ui_nopermissionpublic">Die Aktion "{action}" ist in öffentlichen Gebäuden nicht gestattet.</string>
@@ -88,7 +89,7 @@
 	<string key="ui_build_structure_menu">Gebäude errichten</string>
 	<string key="ui_replace_structure_menu">Gebäude ersetzen</string>
 	<string key="ui_place_structure">Gebäude platzieren</string>
-	<string key="ui_open_arena_menu">Arenainfo ansehen</string>
+	<string key="ui_open_arena_menu">Prüfungsinfo ansehen</string>
 	<string key="ui_notification_summoning_stone_placed">BESCHWÖRUNGSSTEIN PLATZIERT</string>
 	<string key="ui_watcherscampfire">Lagerfeuer des Wächters</string>
 	<string key="ui_hunterscampfire">Lagerfeuer des Jägers</string>

@@ -325,6 +325,32 @@
 	<string key="ui_emote_TwirlDance_name" rel_version="Event_Halloween_Perm">Skelettwirbel</string>
 	<string key="ui_mote_TwirlDance_description" rel_version="Event_Halloween_Perm">"Schwing elegant die Knochen."</string>
 	<string key="emote_TwirlDance" rel_version="Event_Halloween_Perm">{playerName} vollführt einen eleganten Wirbel.</string>
+	<string key="ui_emote_Alas_name" rel_version="Emote_Alas">Ach je</string>
+	<string key="ui_emote_Alas_description" rel_version="Emote_Alas">So ein Unglück!</string>
+	<string key="emote_Alas" rel_version="Emote_Alas">{playerName} seufzt.</string>
+	<string key="ui_emote_WarHorn_name" rel_version="Emote_WarHorn">Kriegshorn</string>
+	<string key="ui_emote_WarHorn_description" rel_version="Emote_WarHorn">Lasse den Ruf ertönen! Wir ziehen in den Krieg!</string>
+	<string key="emote_WarHorn" rel_version="Emote_WarHorn">{playerName} stößt in das Kriegshorn.</string>
+	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombiegang</string>
+	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Wer ist im Land des ewigen Lebens kein Zombie? Schau dir doch nur die Verlorenen an.</string>
+	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} schlurft untot herum.</string>
+	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Teufelsgruß</string>
+	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Verkaufe deine Seele an den Teufel.</string>
+	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} ahmt Teufelshörner mit seinen Fingern nach.</string>
+	<string key="emote_DevilHornRock_SHE" rel_version="Emote_DevilHornRock">{playerName} ahmt Teufelshörner mit ihren Fingern nach.</string>
+	<string key="emote_DevilHornRock_THEY" rel_version="Emote_DevilHornRock">{playerName} ahmt Teufelshörner mit den Fingern nach.</string>
+	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Hopsen</string>
+	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Hopse fröhlich über das schrecklich bösartige und gefährliche Land.</string>
+	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} hopst vorbei.</string>
+	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Achselzuckender Tanz</string>
+	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Unsichere, aber nicht uncoole Moves.</string>
+	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} tanzt achselzuckend.</string>
+	<string key="ui_emote_SnowPileThrow_name" rel_version="Emote_SnowPileThrow">Schnee werfen</string>
+	<string key="ui_emote_SnowPileThrow_description" rel_version="Emote_SnowPileThrow">Wirf weißen, fluffigen Schnee in die kalte Luft.</string>
+	<string key="emote_SnowPileThrow" rel_version="Emote_SnowPileThrow">{playerName} wirft Schnee.</string>
+	<string key="ui_emote_GleamiteSkip_name" rel_version="Emote_GleamiteSkip">Glitzerithüpfen</string>
+	<string key="ui_emote_GleamiteSkip_description" rel_version="Emote_GleamiteSkip">Lass diesen magischen, wundersamen Felsen davonschnellen.</string>
+	<string key="emote_GleamiteSkip" rel_version="Emote_GleamiteSkip">{playerName} lässt einen Glitzerit hüpfen.</string>
 	<string key="ui_emote_FootballJuggle_name" rel_version="Emote_Soccer_Juggle">Jonglieren (Ball hochhalten)</string>
 	<string key="ui_emote_FootballJuggle_description" rel_version="Emote_Soccer_Juggle">Eine perfekte Fähigkeit, um andere zu beeindrucken, aber absolut nutzlos während des Spiels.</string>
 	<string key="emote_FootballJuggle" rel_version="Emote_Soccer_Juggle">{playerName} jongliert und lässt einen Ball springen, um sich auszutoben.</string>
@@ -334,5 +360,11 @@
 	<string key="ui_emote_DramaticDeath_name" rel_version="Emote_DramaticDeath">Argh, ich sterbe</string>
 	<string key="ui_emote_DramaticDeath_description" rel_version="Emote_DramaticDeath">Erinnert euch an mich, lasst meinen Namen nie aus den Annalen der glorreichen Geschichte verschwinden, denn ich war immer treu ergeben mei–… Ärghs.</string>
 	<string key="emote_DramaticDeath" rel_version="Emote_DramaticDeath">{playerName} erleidet einen qualvollen und dramatischen Tod.</string>
+	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Glitzerit-Jonglieren</string>
+	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Unterhalte Kinder und Erwachsene gleichermaßen, indem du mit magischen Meteorit-Stücken jonglierst.</string>
+	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} unterhält die Anwesenden durch Jonglieren mit Glitzerit.</string>
+	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Glitzerit-Wurf</string>
+	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Wirf mit funkelndem Glitzerit.</string>
+	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} wirft eine Handvoll Glitzerit.</string>
 </resources>
 

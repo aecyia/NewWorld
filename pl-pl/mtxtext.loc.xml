@@ -33,8 +33,8 @@
 	<string key="ui_preview">Podgląd</string>
 	<string key="ui_item_already_claimed">Już odebrano przedmiot.</string>
 	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Dodaj więcej &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
-	<string key="ui_discount_off">&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;Zniżka:&lt;/font&gt; {number}</string>
-	<string key="ui_discount_off_bold">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;Zniżka:&lt;/font&gt; {number}</string>
+	<string key="ui_discount_off">{number}%&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt; zniżki&lt;/font&gt;</string>
+	<string key="ui_discount_off_bold">{number}%&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt; zniżki&lt;/font&gt;</string>
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marki losu</string>
 	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Saldo: {balance}</string>
 	<string key="ui_dye_number" rel_version="Feature_MTX">Barwnik nr {rewardId}</string>
@@ -88,7 +88,7 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Przed przeniesieniem musisz znajdować się w azylu (osada, posterunek, kapliczka ducha, strażnica)</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">Przed przeniesieniem nie można należeć do kompanii</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">Przed przeniesieniem nie można mieć aktywnych ofert kupna/sprzedaży w faktorii</string>
-	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">Nie można przenosić postaci pomiędzy światami nowego początku a innymi.</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">Nie można przenosić postaci do światów nowego początku.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Przed przeniesieniem musisz być przynajmniej na {level}. poziomie</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">Przed przeniesieniem nie możesz posiadać żadnych domów</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Aby móc ponownie przenieść postać pomiędzy światami lub regionami, musisz zaczekać, aż upłynie czas odnowienia.</string>
@@ -111,7 +111,7 @@
 	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">Ten produkt jest paczką.</string>
 	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GESTY&lt;/font&gt;: Gestów możesz używać z poziomu menu gestów. Naciśnij [{hintText}], by otworzyć menu gestów.</string>
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;SKÓRKI PRZEDMIOTÓW&lt;/font&gt;: Możesz nałożyć skórkę, klikając pancerz, broń lub narzędzia w ekwipunku, a następne wybierając "Zmień skórkę".</string>
-	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;SKÓRKI OBOZU&lt;/font&gt;: Możesz nałożyć skórkę, klikając obóz w ekwipunku, a następne wybierając "Zmień skórkę".</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;SKÓRKI OBOZU&lt;/font&gt;: Możesz użyć skórki za pomocą opcji "Zmień skórkę" w obozie.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BARWNIKI&lt;/font&gt;: Możesz użyć barwnika, klikając pancerz w ekwipunku, a następne klikając "Ufarbuj pancerz".</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;HERBY&lt;/font&gt;: Możesz ustawić herb na ekranie kompanii.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;PRZEDMIOTY DOMOWE&lt;/font&gt;: Możesz umieścić przedmioty domowe w swoim domu, korzystając z trybu ozdabiania.</string>
@@ -471,7 +471,7 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">Nie możesz zmieniać światów, gdy czekasz w kolejce do napadu na posterunek.</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">Lista przenosin tego regionu jest pełna, spróbuj ponownie za kilka godzin</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Miejsca na postacie w tym regionie są pełne. Musisz usunąć lub przenieść którąś z postaci istniejących w tym regionie, zanim będzie można przenieść do niego kolejną.</string>
-	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">W tym świecie nowego początku można tworzyć wyłącznie nowe postacie. Nie można przenosić postaci do tego świata nowego początku lub z tego świata do innego.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">W tym świecie nowego początku można tworzyć wyłącznie nowe postacie. Nie można przenosić postaci do tego świata nowego początku.</string>
 	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Jedynie osoby biorące udział w Powrócie do Aeternum mogą tworzyć postaci w tym świecie. Nie można przenosić postaci do lub z tego świata.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Więcej informacji zawiera</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Przenoszenie między regionami – FAQ</string>
@@ -926,11 +926,30 @@
 	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Kościany Król</string>
 	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Nawiedzenie Baalfazu</string>
 	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Fruwające dyniołaki</string>
-	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Zestaw narzędzki wróżek zmierzchu</string>
+	<string key="Bundle_Decor_DarkFae_name" rel_version="Housing_DarkFae_MTX_Pack_2022">Paczka dekoracji sylfid zmierzchu</string>
+	<string key="Bundle_Decor_DarkFae_description" rel_version="Housing_DarkFae_MTX_Pack_2022">Twoi goście poczują się jak u siebie dzięki tym wytwornym i czarującym ozdobom.</string>
+	<string key="Bundle_Decor_Winter2022_name" rel_version="Housing_Winter_MTX_Pack_2022">Pakiet dekoracji zimowych wygód</string>
+	<string key="Bundle_Decor_Winter2022_description" rel_version="Housing_Winter_MTX_Pack_2022">Coś ciepłego i wygodnego, by pomóc przetrwać bijące zimowe wichry i wycie istot rodem z koszmarów.</string>
+	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Zestaw narzędzi duszka zmierzchu</string>
 	<string key="Bundle_Tool_DarkFae_description" rel_version="ToolSkins_DarkFae_MTX">Mistyczne duchy strzegące tych ziem natchnęły zestaw narzędzi swoją wiedzą o najlepszych sposobach zbierania surowców, które można tutaj znaleźć.</string>
-	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Paczka ubioru wróżek zmierzchu</string>
-	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">Aeternum aż roi się od skażonych dusz, lecz pośród baśniowych duchów można również znaleźć delikatną, zachwycającą magię.</string>
-	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Paczka broni wróżek zmierzchu</string>
+	<string key="Apparel_WinterConv2022_1_name" rel_version="Apparel_Winter_Conv_MTX_1">Zimowy rogacz</string>
+	<string key="Apparel_WinterConv2022_1_description" rel_version="Apparel_Winter_Conv_MTX_1">Od wewnątrz oblewa cię dziwne zimowe ciepło.</string>
+	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Hulajdusza Konwergencji</string>
+	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Takie stroje od wieków są noszone przez wszystkich obchodzących konwergencję.</string>
+	<string key="Apparel_WinterConv2022_Prime_name" rel_version="Apparel_Winter_Conv_Prime_1">Rycerz przesilenia</string>
+	<string key="Apparel_WinterConv2022_Prime_description" rel_version="Apparel_Winter_Conv_Prime_1">Ci ceremonialni rycerze strzegą nas podczas świętowania, chociaż pamięć o ich prawdziwym przeznaczeniu przepadła pod kartami historii.</string>
+	<string key="ui_crestforeground_225" rel_version="Crest_Pack_Winter_Conv">Poroże konwergencji</string>
+	<string key="ui_crestforeground_226" rel_version="Crest_Pack_Winter_Conv">Płatek konwergencji</string>
+	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Yeti konwergencji</string>
+	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Paczka herbów – Zimowa Konwergencja</string>
+	<string key="Bundle_Crest_WinterConv2022_description" rel_version="Crest_Pack_Winter_Conv">Okaż swojego świątecznego ducha i zamiłowanie do tradycji.</string>
+	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Paczka ubioru duszka zmierzchu</string>
+	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">Aeternum aż roi się od skażonych dusz, lecz wśród kłębiących się tam duchów można również znaleźć delikatną, zachwycającą magię.</string>
+	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Paczka broni duszka zmierzchu</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">Rezultaty używania broni naznaczonej przez duchy dzikich ostępów są zarówno nieprzewidywalne, jak i czarujące.</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Pakiet ubiorów Zimowej Konwergencji</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Odpędź Wieczną Zimę w świątecznym stylu z tymi sezonowymi strojami!</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Pakiet broni Zimowej Konwergencji</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Zimowa Konwergencja to cudowna pora na świętowanie z rodziną i dobywanie śmiercionośnej broni z byle powodu!</string>
 </resources>
 

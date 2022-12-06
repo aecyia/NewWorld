@@ -786,6 +786,12 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente con danni da fuoco pari a un {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% della salute base ogni {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} secondi.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Bruciatura da cannone</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente per un {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% di danni da fuoco di base ogni {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} secondi.</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Forza bestiale</string>
+	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Danni del Guerriero d'inverno aumentati di un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Resistenza invernale</string>
+	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Assorbimento dei danni del Guerriero d'inverno aumentato di un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]}%.</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">Freddo pungente dell'inverno eterno</string>
+	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Sei rallentato e subisci danni dal freddo pungente della magia dell'inverno eterno.</string>
 	<string key="godModeThirst_DisplayName">Modalità dio</string>
 	<string key="godModeHealth_DisplayName">Modalità dio</string>
 	<string key="godModeAll_DisplayName">Modalità dio</string>
@@ -1223,8 +1229,6 @@
 	<string key="WeaponCoatingEffect_T4_AngryEarth_Description">Mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAngryEarthT4.DMGVitalsCategory * 100]}% di danni in più alla Terra irata.</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_DisplayName">Rivestimento armi per bestie impregnato</string>
 	<string key="WeaponCoatingEffect_T5_Beasts_Description">Mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingBeastT5.DMGVitalsCategory * 100]}% di danni in più alle Bestie.</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_DisplayName" rel_version="Event_TurkeyTerror_Temp">Infused Turkey Weapon Coating</string>
-	<string key="WeaponCoatingEffect_T5_BeastsTurkey_Description" rel_version="Event_TurkeyTerror_Temp">While this weapon is active deal more 300% damage to Turkulon and 15% to Beasts.</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_DisplayName">Rivestimento armi per Antichi impregnato</string>
 	<string key="WeaponCoatingEffect_T5_Ancient_Description">Mentre quest'arma è attiva, infliggi un {[ConsumableItemDefinitions.CoatingAncientT5.DMGVitalsCategory * 100]}% di danni in più agli Antichi.</string>
 	<string key="WeaponCoatingEffect_T5_Lost_DisplayName">Rivestimento armi per Perduti impregnato</string>
@@ -1459,6 +1463,7 @@
 	<string key="Status_Passive_Lifestaff_Protection_HealingOnDodge_description">Le tue cure aumentano di un {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HealingOnDodge.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_description">La tua velocità di movimento si riduce di un {[Type_StatusEffectData.Status_Passive_Lifestaff_Protection_HasteWhenLow.SprintSpeedMod * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Protection_HasteWhenLow_Timer_description">Allo scadere, potrai riottenere Equilibrio.</string>
+	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_name">Intensifica</string>
 	<string key="Status_Passive_Lifestaff_Healing_HealingBuffonBasic_description">Le tue cure aumentano di un {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_HealingBuffonBasic.HealScalingValueMultiplier * 100]}%.</string>
 	<string key="Status_Passive_Lifestaff_Healing_AoeHealWhenHit_description">Attiva un'aura curativa per te e i tuoi amici nelle vicinanze in un raggio di 4 metri, guarendo un {[Type_StatusEffectData.Status_Passive_Lifestaff_Healing_AoeHealWhenHit.HealthModifierDamageBased * 100]}% dei danni da arma al secondo.</string>
 	<string key="Status_Ability_Lifestaff_SacredGround">Terra sacra</string>
@@ -1669,7 +1674,7 @@
 	<string key="StatusTestCrafting_DisplayName">Produzione di prova</string>
 	<string key="Status_Rune_StoneForm">Forma di pietra</string>
 	<string key="Status_Rune_StoneForm_Desc">Invulnerabile a tutti i CC.</string>
-	<string key="Status_Rune_StoneForm_Major_Desc">Sei invulnerabile a tutti i CC; l'assorbimento dei danni aumenta di un {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]}%.</string>
+	<string key="Status_Rune_StoneForm_Major_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_StoneForm_Major.ABSStandard * 100]}%.</string>
 	<string key="Status_Rune_StoneForm_Survivor_Desc">Sei invulnerabile a tutti i CC; guarisci dai danni da rune di un {[Type_StatusEffectData.Rune_StoneForm_Survivor.HealthModifierDamageBased * 100]}% al secondo.</string>
 	<string key="Status_Rune_StoneForm_Greater_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_StoneForm_Greater.ABSStandard * 100]}%.</string>
 	<string key="Status_Rune_CannonBlast_Major_Desc">Rovente per un {[Type_StatusEffectData.Rune_CannonBlast_Burn.HealthModifierDamageBased * -100]}% di danni da rune al secondo.</string>
@@ -1684,6 +1689,11 @@
 	<string key="Status_Rune_GraspingVines_Dominator_ReducedStamRegen_Desc">Rigenerazione di energia ridotta di un {[Type_StatusEffectData.Rune_GraspingVines_Dominator_ReduceStamRegen.StaminaRate * -100]}%.</string>
 	<string key="Status_Rune_HereticsFall_Greater_Desc">Velocità di movimento ridotta di un {[Type_StatusEffectData.Rune_HereticsFall_Greater.MoveSpeedMod * -100]}%.</string>
 	<string key="Status_Rune_HereticsFall_Survivor_Desc">Assorbimento dei danni aumentato di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.ABSStandard * 100]}% ma con danni inflitti ridotti di un {[Type_StatusEffectData.Rune_HereticsFall_Survivor.DMGStandard * -100]}%.</string>
+	<string key="Status_Rune_BileBomb_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb.HealMod * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
+	<string key="Status_Rune_BileBomb_Major_Desc" rel_version="Feature_Heartgems_BileBomb">Velocità di movimento ridotta di un {[Type_StatusEffectData.Rune_BileBomb_Major.MoveSpeedMod * -100]}%.</string>
+	<string key="Status_Rune_BileBomb_Greater_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Greater.HealMod * -100]}%, la rigenerazione di energia è ridotta di un {[Type_StatusEffectData.Rune_BileBomb_Greater.StaminaRate * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb_Greater.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
+	<string key="Status_Rune_BileBomb_Survivor_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Survivor.HealMod * -100]}% e i nemici che ti colpiscono vengono curati di un {[Type_StatusEffectData.Rune_BileBomb_Survivor_Heal.HealthModifierDamageBased * 100]}% dei danni inflitti.</string>
+	<string key="Status_Rune_BileBomb_Dominator_Desc" rel_version="Feature_Heartgems_BileBomb">Le cure ricevute sono ridotte di un {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealMod * -100]}% e subisci un {[Type_StatusEffectData.Rune_BileBomb_Dominator.HealthModifierDamageBased * -100]}% dei danni della runa a cuore dell'attaccante al secondo.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_DisplayName">Giudizio divino</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Tracking_Tooltip">Gli dei dell'Enneade stanno giudicando il tuo cuore.</string>
 	<string key="AI_AnubianGuardian_HorusBoss_InstrumentOfJudgement_Damage_DisplayName">Verdetto divino</string>

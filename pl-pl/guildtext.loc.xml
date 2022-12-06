@@ -64,7 +64,7 @@
 	<string key="ui_guildinvitesendermessage">Zaproszono gracza &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; do twojej kompanii.</string>
 	<string key="ui_guildinvitestab">Zaproszenia</string>
 	<string key="ui_guildinvitetitle">Zaproszono do kompanii</string>
-	<string key="ui_guildmaster">Zarządca kompanii</string>
+	<string key="ui_guildmaster">Zarządca</string>
 	<string key="ui_guildmastercannotacceptinvitemessage">Jeśli chcesz dołączyć do innej kompanii, musisz mianować innego gracza na stopień {guildMasterRankName}.</string>
 	<string key="ui_warringguildofonecannotacceptinvitemessage">Nie możesz dołączyć do innej kompanii, gdy przewodzisz kompanii toczącej wojnę i mającej tylko jednego członka.</string>
 	<string key="ui_guildcannotinviteself">Nie możesz wysyłać zaproszeń do siebie.</string>
@@ -182,7 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Oficer</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Nie można wysłać zaproszeń do kompanii. Za niski stopień.</string>
 	<string key="ui_guildCannotInviteNoFaction">Nie można wysłać zaproszeń do kompanii. Brak frakcji.</string>
-	<string key="ui_guildcannotpromote_nofaction">Nie można mianować do rangi zarządcy. Gracz nie należy do frakcji.</string>
+	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">Nie można mianować do rangi zarządcy. Gracz nie należy do frakcji.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Osadnik</string>
 	<string key="ui_guildranksettler_SHE">Osadniczka</string>
 	<string key="ui_guildranksettler_THEY">Osoba osadnicza</string>
@@ -203,7 +203,7 @@
 	<string key="ui_kickguildmember_confirm">Czy na pewno chcesz usunąć gracza {playerName} z kompanii?</string>
 	<string key="ui_leaveguild">Opuść kompanię</string>
 	<string key="ui_disbandguild">Rozwiąż kompanię</string>
-	<string key="ui_leaveguild_confirm">Jeśli opuścisz kompanię, &lt;font color="#FFD600"&gt;oto, co się stanie:\n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_confirm">Jeśli opuścisz kompanię, &lt;font color="#FFD600"&gt;oto, co się stanie:\n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">Czy na pewno chcesz opuścić kompanię?</string>
 	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;CZAS ODNOWIENIA WOJNY – KOMPANIA ({cooldownTimeWar}).&lt;/font&gt; Gdy ten czas odnowienia jest aktywny, możesz tylko walczyć jako najemnik w dowolnej wojnie obronnej prowadzonej przez kompanię, do której dołączysz w następnej kolejności. \n\n&lt;font color="#FFD600"&gt;CZAS ODNOWIENIA WKŁADU WOJENNEJ STRAŻY PRZEDNIEJ – KOMPANIA ({cooldownTimeInfluence}).&lt;/font&gt; Gdy ten czas odnowienia jest aktywny, możesz zdobywać wpływy dla swojej frakcji, wykonując misje PvP, ale zdobyte wpływy nie zostaną zaliczone na poczet twojej nowej kompanii będącej wojenną strażą przednią.</string>
 	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Zrezygnuj z aktywów. &lt;/font&gt;Jeśli to zrobisz, inny członek kompanii zostanie mianowany zarządcą, a kompania zachowa wszystkie swoje aktywa, którymi będzie rozporządzał nowy zarządca.</string>
@@ -225,10 +225,12 @@
 	<string key="ui_governorexpire_deleted" comment="Pronoun for Disappeared Governor">Zarządca twojej kompanii odszedł lub usunął swoją postać. Członek kompanii ze stopniem konsula może stać się zarządcą.</string>
 	<string key="ui_governorexpire_deleted_SHE">Zarządczyni twojej kompanii odeszła lub usunęła swoją postać. Członek kompanii ze stopniem konsula może stać się zarządcą.</string>
 	<string key="ui_governorexpire_deleted_THEY">Zarządca twojej kompanii odszedł lub usunął swoją postać. Członek kompanii ze stopniem konsula może stać się zarządcą.</string>
+	<string key="ui_governorseat_vacant">Obecnie nie ma zarządcy</string>
+	<string key="ui_governorseat_overthrowable">Zarządca może zostać obalony przez konsulów</string>
 	<string key="ui_becomegovernor">Zostań zarządcą</string>
 	<string key="ui_becomegovernor_SHE">Zostań zarządczynią</string>
 	<string key="ui_becomegovernor_THEY">Zostań osobą zarządzającą</string>
-	<string key="ui_becomegovernor_requires_faction">Dołącz do frakcji, do której należy ta gildia, by zostać zarządcą</string>
+	<string key="ui_becomegovernor_requires_faction" rel_version="Feature_Unfactioned_Company_Members">Dołącz do frakcji, do której należy ta gildia, by zostać zarządcą</string>
 	<string key="ui_permission_assign_structures">Przydzielanie konstrukcji należących do kompanii: {allowed}</string>
 	<string key="ui_permission_build_structures">Budowanie na ziemi kompanii: {allowed}</string>
 	<string key="ui_permission_cancel_structures">Anulowanie budowania konstrukcji: {allowed}</string>
@@ -387,7 +389,7 @@
 	<string key="ui_otherguilds_sortbyname">wg nazw</string>
 	<string key="ui_otherguilds_sortbysize">wg wielkości</string>
 	<string key="ui_otherguilds_sortbyclaims">wg przejętych ziem</string>
-	<string key="ui_otherguilds_header_guildname">Nazwa kompanii</string>
+	<string key="ui_otherguilds_header_guildname">Kompania</string>
 	<string key="ui_otherguilds_header_nummembers">Członkowie</string>
 	<string key="ui_otherguilds_header_claims">Przejęcia</string>
 	<string key="ui_otherguilds_header_warstatus">Stan wojny</string>
@@ -465,7 +467,7 @@
 	<string key="ui_cantpromote_leaderatwar">Nie można zmienić kapitana kompanii w trakcie wojny.</string>
 	<string key="ui_cantpromote_lackpermissionforrank">Nie masz pozwolenia na awansowanie członków o stopniu równym twojemu lub wyższym</string>
 	<string key="ui_cantpromote_lackpermission">Nie masz pozwolenia na awansowanie członków</string>
-	<string key="ui_cantpromote_nonfactionmember">Członek musi dołączyć do frakcji, by móc awansować na wyższą rangę</string>
+	<string key="ui_cantpromote_nonfactionmember" rel_version="Feature_Unfactioned_Company_Members">Członek musi dołączyć do frakcji, by móc awansować na wyższą rangę</string>
 	<string key="ui_cantdemote_lowestrank">Gracz ma już najniższy możliwy stopień</string>
 	<string key="ui_cantdemote_lackpermissionforrank">Nie masz pozwolenia na degradowanie członków o stopniu równym twojemu lub wyższym</string>
 	<string key="ui_cantdemote_lackpermission">Nie masz pozwolenia na degradowanie członków</string>
@@ -559,6 +561,7 @@
 	<string key="ui_siege_signup_failed_opposingside">Nie możesz dołączyć do walki przeciwko swojej kompanii.</string>
 	<string key="ui_siege_signup_failed_invalidfaction">Nie możesz dołączyć do walki przeciwko swojej frakcji.</string>
 	<string key="ui_siege_signup_failed_full">Lista zapisów na tę wojnę jest kompletna.</string>
+	<string key="ui_siege_signup_failed_dailylimitreached">{attackerOrDefenderSide} – osiągnięto dzienny limit liczby wojen.</string>
 	<string key="ui_siege_signup_failed_conquestoverlaps">Bierzesz już udział w wojnie, która rozpocznie się w podobnym czasie.</string>
 	<string key="ui_siege_signup_failed_remotesignup">Musisz być przy tablicy wojennej, by móc się zapisać.</string>
 	<string key="ui_siege_signup_failed_notinfaction">Musisz dołączyć do którejś z frakcji, by wziąć udział w wojnie.</string>
@@ -566,7 +569,14 @@
 	<string key="ui_siege_signup_failed_banned">Kompania zarządzająca usunęła cię z listy. Nie możesz ponownie dołączyć do jej armii.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Niedawno opuszczono kompanię – nie możesz brać udziału w wojnie obronnej toczonej przez twoją kompanię przez 72 godziny.</string>
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Nie masz jeszcze dostępu do tego terytorium.</string>
+	<string key="ui_siege_signup_failed_warinprogress">Wojna lub inwazja już się rozpoczęła, więc zapisy nie są już przyjmowane.</string>
 	<string key="ui_siege_signup_failed">Wystąpił problem podczas zapisywania się na wojnę.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">Limit wojen po stronie atakujących odświeża się za:</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">Limit wojen po stronie obrońców odświeża się za:</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_available">Udało ci się zapisać do wojen po stronie atakujących.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Wyczerpujesz dzienny limit po stronie atakujących i nie możesz zapisać się do kolejnych wojen po tej stronie.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_available">Udało ci się zapisać do wojen po stronie obrońców.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_limitreached">Wyczerpujesz dzienny limit po stronie obrońców i nie możesz zapisać się do kolejnych wojen po tej stronie.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Na pewno chcesz to zrobić?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Bierzesz już udział w wojnie, która rozpocznie się w podobnym czasie.\nCzy chcesz zrezygnować z zapisu na terytorium: {territoryName}?</string>
 	<string key="ui_siege_signup_abandon_title">Zrezygnuj z wojny</string>
@@ -617,6 +627,7 @@
 	<string key="ui_how_does_invasion_work">Jak działa inwazja?</string>
 	<string key="ui_signup_restriction_tooltip">Nie możesz zapisać się do wroga twojej frakcji.</string>
 	<string key="ui_signup_nofaction_tooltip">Musisz mieć frakcję, by móc zapisać się na wojnę.</string>
+	<string key="ui_signup_warinprogress_tooltip">Nie możesz się zapisać do wojny lub inwazji, która już się rozpoczęła.</string>
 	<string key="ui_signup_not_available">Zapis niedostępny</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#c0c0c0"&gt;Do zapisu wymagany jest &lt;/font&gt; &lt;font color="#ff6363"&gt;{level}. poziom gracza&lt;/font&gt;</string>
 	<string key="ui_signup_count">Zapisani gracze: &lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt;</string>

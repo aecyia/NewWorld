@@ -181,7 +181,7 @@
 	<string key="ui_raid_signup_button" comment="">Zapisz się</string>
 	<string key="ui_auto" comment="">Auto</string>
 	<string key="ui_manual" comment="">Ręcznie</string>
-	<string key="ui_drag_instruction" comment="">Przeciągnij ikony graczy</string>
+	<string key="ui_drag_instruction" comment="">Przeciągnij graczy, by ich dodać</string>
 	<string key="ui_raid_selections_remaining" comment="">Kompania zarządzająca może wybrać tylko {remainingSelections} graczy.</string>
 	<string key="ui_raid_auto_select_countdown" comment="">{totalAutoSelections} graczy zostanie wybranych automatycznie na podstawie pierwszeństwa za: {timeRemaining}.</string>
 	<string key="ui_raid_standby_description" comment="">Zaczekaj, aż kompania zaprosi cię do armii.</string>
@@ -194,7 +194,7 @@
 	<string key="ui_backfill_auto_tooltip" comment="">Automatycznie uzupełnij graczy z listy oczekujących na podstawie czasu zapisu.</string>
 	<string key="ui_backfill_manual_tooltip" comment="">Wybierz ręcznie graczy z listy oczekujących, by zapełnić wolne miejsca.</string>
 	<string key="ui_raid_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
-	<string key="ui_raid_count_with_mercenaries" comment="">Najemnicy: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt; / {nonCompanyTotal} Łącznie: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
+	<string key="ui_raid_count_with_mercenaries" comment="">Najemnicy: &lt;font color="#ffffff"&gt;{nonCompanyNumber}&lt;/font&gt;/{nonCompanyTotal} Łącznie: &lt;font color="#ffffff"&gt;{number}&lt;/font&gt;/ {total}</string>
 	<string key="ui_invasion_count" comment="">&lt;font color="#ffffff"&gt;{number}&lt;/font&gt; / {total}</string>
 	<string key="ui_promote_disabled_max_tooltip" comment="">Nie można już awansować tego gracza</string>
 	<string key="ui_demote_disabled_min_tooltip" comment="">Nie można już zdegradować tego gracza</string>

@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">DOKUMENTENTHEMEN</string>
 	<string key="journal_documents" speaker="UI">Dokumente</string>
 	<string key="journal_overview" speaker="UI">ÜBERSICHT</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages} Seiten gefunden</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Seite {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Seite {number} – Fundort: {location}</string>
 	<string key="journal_pages_found" speaker="UI">Seiten gefunden</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Nebengeschichten</string>
 	<string key="objective_journey_desc" speaker="UI">Zusätzliche Aufgaben</string>
 	<string key="objective_journey_empty" speaker="UI">Keine Reisen vorhanden</string>
+	<string key="objective_factionstory" speaker="UI">Fraktionshandlung</string>
+	<string key="objective_factionstory_desc" speaker="UI">Ziele der Fraktionshandlung</string>
 	<string key="objective_skillprogression" speaker="UI">Fähigkeitsfortschritt</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Fähigkeitsfortschritt – Ziele</string>
 	<string key="objective_epicequipment" speaker="UI">Epische Waffen &amp; Rüstung</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Beschaffungsmission</string>
 	<string key="objective_msq" speaker="UI">Haupthandlung</string>
 	<string key="objective_msq_desc" speaker="UI">Ziele der Haupthandlung</string>
+	<string key="objective_get_msq_message" speaker="UI">Du hast derzeit keine aktive Haupthandlungsaufgaben.\nSuche auf der Karte nach diesem Symbol, um herauszufinden, ob die nächste Haupthandlungsaufgabe verfügbar ist.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Herstellungsmission</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Aufgabe: "{title}"</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" – Belohnungen</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">Mit bestimmten Orten</string>
 	<string key="objective_no_location" speaker="UI">Ohne bestimmte Orte</string>
 	<string key="objective_main_story_quest" speaker="UI">Haupthandlungsaufgabe</string>
+	<string key="objective_faction_story_quest" speaker="UI">Fraktionshandlungsaufgabe</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Fähigkeitsfortschrittsaufgabe</string>
 	<string key="objective_side_quests" speaker="UI">Nebenaufgaben</string>
 	<string key="objective_event" speaker="UI">Event-Aufgaben</string>

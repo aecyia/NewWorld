@@ -9,9 +9,9 @@
 	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">W razie porzucenia tego domu otrzymasz zwrot &lt;font color="#f25d5d"&gt;{percent}% kosztów zakupu.&lt;/font&gt;\nWszystkie trofea i meble z porzuconego domu zostaną przeniesione do magazynu miejskiego.\n\nBy kontynuować, wpisz poniżej nazwę terytorium ({territoryName}).</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Porzucić dom?</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Musisz mieć przynajmniej 1 wolne miejsce w magazynie osady, by móc usunąć wszystkie przedmioty ze swojego domu.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zapłać {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zapłać {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">Aby móc szybko podróżować, potrzeba: {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">Nie możesz skorzystać z powrotu ani z szybkiej podróży, gdy nie żyjesz.</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży podczas walki</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">Nie możesz korzystać z szybkiej podróży przy przeciążeniu</string>
@@ -24,6 +24,7 @@
 	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Punkt szybkiej podróży</string>
 	<string key="ui_fast_travel_cost" comment="Fast Travel">{total} &lt;font color="#949494"&gt;/ {cost}&lt;/font&gt;</string>
 	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">Możesz odbyć szybką podróż tylko z osady, posterunku lub kapliczki ducha.</string>
+	<string key="ui_fast_travel_error_belowFromFieldLevelReq" comment="Fast Travel">Masz zbyt niski poziom, by odbyć szybką podróż z pola.</string>
 	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">Masz za mało azothu.</string>
 	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">Ta czynność czeka na odnowienie.</string>
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">Ta czynność czeka na odnowienie.\nPowrót dostępny za: {time}.</string>
@@ -45,14 +46,14 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Szybką podróż można odbyć ponownie za {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Szybka podróż</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">Z dowolnego miejsca do twojego domu</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Potrzebujesz {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Potrzebujesz {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, by zresetować czas odnowienia.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Powrót jest niemożliwy z powodu błędu serwera.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Powrót do</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Powróć do domu</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Powróć do domu (nieaktywne)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">Zresetuj czas odnowienia: {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_reset_travel" comment="Fast Travel">Zresetuj czas odnowienia: {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Szybka podróż</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Odbądź szybką podróż do tej osady za: {cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Odbądź szybką podróż do tej osady za: {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Kapliczka ducha</string>
 	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Odbądź szybką podróż do wcześniej odwiedzonych osad, posterunków lub kapliczek ducha.</string>
 	<string key="ui_travel" comment="Fast Travel">Podróż</string>
@@ -216,6 +217,7 @@
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">Musisz być na {level}. poziomie, by kupić pierwszy dom</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Rekompensata za dom</string>
 	<string key="ui_house_purchase" comment="Purchase House">Kup ten dom: {coinText}</string>
+	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Poziom gracza {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Czy chcesz kupić ten dom?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Anuluj</string>
 	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Kup dom</string>
@@ -257,5 +259,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">Wyświetl informacje na temat wojny</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Uwaga: Osiągnięto limit punktów mieszkaniowych tego przedmiotu.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Uwaga: Zbyt wiele takich samych przedmiotów domowych umieszczonych w domu spowoduje zebranie punktów negatywnych.</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Czy chcesz przenieść wszystkie meble i ozdoby do magazynu osady?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Usuń wszystkie meble</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Czy na pewno chcesz usunąć wszystkie meble?</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">Wszystkie trofea i meble z domu zostaną przeniesione do magazynu miejskiego.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Usuń wszystkie meble</string>
 </resources>
 

@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_playertitle_special_TurkeyTerror">Aniquilapavos</string>
-	<string key="ui_playertitle_special_TurkeyTerror_SHE">Aniquilapavos</string>
-	<string key="ui_playertitle_special_TurkeyTerror_THEY">Aniquilapavos</string>
+	<string key="ui_playertitle_special_TurkeyTerror_SHE">Guerrera del moco</string>
+	<string key="ui_playertitle_special_TurkeyTerror_THEY">Adalid del moco</string>
 	<string key="ui_playertitle_TurkeyTerror_description">¡Has derrotado a los pavos monstruosos del territorio! ¡Enhorabuena, ANIQUILAPAVOS!</string>
 	<string key="ui_playertitle_pvparenawins_250">Carnaza de la arena</string>
 	<string key="ui_playertitle_pvparenawins_250_SHE">Carnaza de la arena</string>
@@ -11,8 +11,8 @@
 	<string key="ui_playertitle_pvparenawins_500_SHE">Gladiador</string>
 	<string key="ui_playertitle_pvparenawins_500_THEY">Gladiador</string>
 	<string key="ui_playertitle_pvparenawins_500_description">Se obtiene al ganar 500 combates de la arena.</string>
-	<string key="ui_playertitle_pvparenawins_1000">Maestro de la arena</string>
-	<string key="ui_playertitle_pvparenawins_1000_SHE">Maestra de la arena</string>
+	<string key="ui_playertitle_pvparenawins_1000">Maestre de la arena</string>
+	<string key="ui_playertitle_pvparenawins_1000_SHE">Maestre de la arena</string>
 	<string key="ui_playertitle_pvparenawins_1000_THEY">Maestre de la arena</string>
 	<string key="ui_playertitle_pvparenawins_1000_description">Se obtiene al ganar 1000 combates de la arena.</string>
 	<string key="ui_playertitle_pvparenawins_Flawless">Guerrero inmortal</string>
@@ -325,8 +325,8 @@
 	<string key="ui_playertitle_territorystanding_ebonscale3" rel_version="P2_MetaAchievements">Famoso en Escamanegra</string>
 	<string key="ui_playertitle_territorystanding_ebonscale3_SHE" rel_version="P2_MetaAchievements">Famosa en Escamanegra</string>
 	<string key="ui_playertitle_territorystanding_ebonscale3_THEY" rel_version="P2_MetaAchievements">Célebre en Escamanegra</string>
-	<string key="ui_playertitle_territorystanding_ebonscale4" rel_version="P2_MetaAchievements">Mítica en Escamanegra</string>
-	<string key="ui_playertitle_territorystanding_ebonscale4_SHE" rel_version="P2_MetaAchievements">Insigne en Escamanegra</string>
+	<string key="ui_playertitle_territorystanding_ebonscale4" rel_version="P2_MetaAchievements">Mítico en Escamanegra</string>
+	<string key="ui_playertitle_territorystanding_ebonscale4_SHE" rel_version="P2_MetaAchievements">Mítica en Escamanegra</string>
 	<string key="ui_playertitle_territorystanding_ebonscale4_THEY" rel_version="P2_MetaAchievements">Insigne en Escamanegra</string>
 	<string key="ui_playertitle_territorystanding_everfall3" rel_version="P2_MetaAchievements">Famoso en Ocaso</string>
 	<string key="ui_playertitle_territorystanding_everfall3_SHE" rel_version="P2_MetaAchievements">Famosa en Ocaso</string>
@@ -464,7 +464,7 @@
 	<string key="ui_playertitle_weaponmaster_blunderbuss3_SHE" rel_version="Weapon_Blunderbuss">Trabucadora bombástica</string>
 	<string key="ui_playertitle_weaponmaster_blunderbuss3_THEY" rel_version="Weapon_Blunderbuss">As del trabuco bombástico</string>
 	<string key="ui_playertitle_weaponmaster_greatsword2" rel_version="Territory_Brimstone_Sands">Experiencia en espadón</string>
-	<string key="ui_playertitle_weaponmaster_greatsword2_SHE" rel_version="Territory_Brimstone_Sands">Experiencia en espadón</string>
+	<string key="ui_playertitle_weaponmaster_greatsword2_SHE" rel_version="Territory_Brimstone_Sands">Experta en espadón</string>
 	<string key="ui_playertitle_weaponmaster_greatsword2_THEY" rel_version="Territory_Brimstone_Sands">Experiencia en espadón</string>
 	<string key="ui_playertitle_weaponmaster_greatsword3" rel_version="Territory_Brimstone_Sands">Hoja de Titán</string>
 	<string key="ui_playertitle_weaponmaster_greatsword3_SHE" rel_version="Territory_Brimstone_Sands">Hoja de Titán</string>
@@ -732,8 +732,8 @@
 	<string key="ui_playertitle_territory_permanent_owner_16_THEY" rel_version="Territory_Brimstone_Sands">Terrateniente en Arenas de Azufre</string>
 	<string key="ui_playertitle_territory_permanent_owner_desc" rel_version="Feature_Titles">Tu compañía acaba de ganar este territorio.</string>
 	<string key="ui_playertitle_music_easy">Juglar</string>
-	<string key="ui_playertitle_music_easy_SHE">Juglar</string>
-	<string key="ui_playertitle_music_easy_THEY">Juglar</string>
+	<string key="ui_playertitle_music_easy_SHE">Trovadora</string>
+	<string key="ui_playertitle_music_easy_THEY">Trovador</string>
 	<string key="ui_playertitle_music_medium">Estrella</string>
 	<string key="ui_playertitle_music_medium_SHE">Estrella</string>
 	<string key="ui_playertitle_music_medium_THEY">Estrella</string>
@@ -823,5 +823,305 @@
 	<string key="ui_playerTitle_archaeologist_SHE" rel_version="Title_Nightmares_Prime">Arqueóloga</string>
 	<string key="ui_playerTitle_archaeologist_THEY" rel_version="Title_Nightmares_Prime">Arqueólogo</string>
 	<string key="ui_playerTitle_archaeologist_description" rel_version="Title_Nightmares_Prime">Algunos secretos deberían permanecer enterrados.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1" rel_version="Feature_Leaderboards">Número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del astillero de La Dinastía.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10" rel_version="Feature_Leaderboards">Medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del astillero de La Dinastía.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1" rel_version="Feature_Leaderboards">Número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del Jardín del Génesis.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10" rel_version="Feature_Leaderboards">Medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del Jardín del Génesis.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1" rel_version="Feature_Leaderboards">Número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de la Instrumentalidad de Lazarus.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10" rel_version="Feature_Leaderboards">Medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de la Instrumentalidad de Lazarus.</string>
+	<string key="ui_playertitle_tempestheart_score_top1" rel_version="Feature_Leaderboards">Número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del Corazón de la Tempestad.</string>
+	<string key="ui_playertitle_tempestheart_score_top10" rel_version="Feature_Leaderboards">Medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del Corazón de la Tempestad.</string>
+	<string key="ui_playertitle_barnacles_score_top1" rel_version="Feature_Leaderboards">Número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de Percebes y pólvora negra.</string>
+	<string key="ui_playertitle_barnacles_score_top10" rel_version="Feature_Leaderboards">Medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de Percebes y pólvora negra.</string>
+	<string key="ui_playertitle_brimstone_score_top1" rel_version="Feature_Leaderboards">Número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de la Enéada.</string>
+	<string key="ui_playertitle_brimstone_score_top10" rel_version="Feature_Leaderboards">Medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de la Enéada.</string>
+	<string key="ui_playertitle_depths_score_top1" rel_version="Feature_Leaderboards">Número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de Las Profundidades.</string>
+	<string key="ui_playertitle_depths_score_top10" rel_version="Feature_Leaderboards">Medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal de Las Profundidades.</string>
+	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del puesto Piedraestelar.</string>
+	<string key="ui_playertitle_starstone_score_top10" rel_version="Feature_Leaderboards">Medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación de puntuación semanal del puesto Piedraestelar.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del astillero de La Dinastía.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de La Dinastía</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del astillero de La Dinastía.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1" rel_version="Feature_Leaderboards">Velocista número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros de dificultad 5 en la clasificación por tiempo semanal del Jardín del Génesis.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10" rel_version="Feature_Leaderboards">Velocista medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista del Génesis</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros de dificultad 25 en la clasificación por tiempo semanal del Jardín del Génesis.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de la Instrumentalidad de Lazarus.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de la Instrumentalidad de Lazarus.</string>
+	<string key="ui_playertitle_tempestheart_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del Corazón de la Tempestad.</string>
+	<string key="ui_playertitle_tempestheart_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de la Tempestad</string>
+	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del Corazón de la Tempestad.</string>
+	<string key="ui_playertitle_barnacles_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de Percebes y pólvora negra.</string>
+	<string key="ui_playertitle_barnacles_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de Percebes</string>
+	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de Percebes y pólvora negra.</string>
+	<string key="ui_playertitle_brimstone_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de la Enéada.</string>
+	<string key="ui_playertitle_brimstone_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de la Enéada</string>
+	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de la Enéada.</string>
+	<string key="ui_playertitle_depths_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de Las Profundidades.</string>
+	<string key="ui_playertitle_depths_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de Las Profundidades</string>
+	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal de Las Profundidades.</string>
+	<string key="ui_playertitle_starstone_time_top1" rel_version="Feature_Leaderboards">Velocista número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top1_SHE" rel_version="Feature_Leaderboards">Velocista número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top1_THEY" rel_version="Feature_Leaderboards">Velocista número uno de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los cinco primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del puesto Piedraestelar.</string>
+	<string key="ui_playertitle_starstone_time_top10" rel_version="Feature_Leaderboards">Velocista medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Velocista medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Velocista medallista de Piedraestelar</string>
+	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 25 primeros del nivel de dificultad 10 en la clasificación por tiempo semanal del puesto Piedraestelar.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Número uno de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación trimestral de la reina sirena.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Medallista de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la reina sirena</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación trimestral de la reina sirena.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Número uno de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Número uno de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Número uno de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación trimestral de los estanques eternos.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Medallista de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Medallista de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Medallista de los estanques eternos</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación trimestral de los estanques eternos.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Número uno de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación trimestral de la Grieta de Monoecious.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Medallista de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la Grieta de Monoecious</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación trimestral de la Grieta de Monoecious.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Número uno de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Número uno de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Número uno de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación trimestral de influencia obtenida.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Medallista de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Medallista de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Medallista de influencia</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación trimestral de influencia obtenida.</string>
+	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Número uno de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación de puntuación trimestral de Asalto a puesto remoto.</string>
+	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Medallista de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de asalto a puesto remoto</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación de puntuación trimestral de Asalto a puesto remoto.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Número uno de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación de puntuación trimestral de las grietas de corrupción.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Medallista de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la grieta</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación de puntuación trimestral de las grietas de corrupción.</string>
+	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">Número uno de la guerra</string>
+	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la guerra</string>
+	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la guerra</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación de puntuación de guerra trimestral.</string>
+	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">Medallista de guerra</string>
+	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de guerra</string>
+	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de guerra</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación de puntuación de guerra trimestral.</string>
+	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Número uno de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los diez primeros en la clasificación de puntuación de invasión trimestral.</string>
+	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Medallista de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de las invasiones</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los 50 primeros en la clasificación de puntuación de invasión trimestral.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros en la clasificación trimestral de días gobernados en Cayos del Alfanje.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Cayos del Alfanje</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros en la clasificación trimestral de días gobernados en Cayos del Alfanje.</string>
+	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Primera Luz.</string>
+	<string key="ui_playertitle_firstlight_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Primera Luz</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Primera Luz.</string>
+	<string key="ui_playertitle_windsward_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Guardaelviento.</string>
+	<string key="ui_playertitle_windsward_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Guardaelviento</string>
+	<string key="ui_playertitle_windsward_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Guardaelviento.</string>
+	<string key="ui_playertitle_reekwater_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Aguas Fétidas.</string>
+	<string key="ui_playertitle_reekwater_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Aguas Fétidas</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Aguas Fétidas.</string>
+	<string key="ui_playertitle_everfall_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Ocaso.</string>
+	<string key="ui_playertitle_everfall_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Ocaso</string>
+	<string key="ui_playertitle_everfall_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Ocaso.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1" rel_version="Feature_Leaderboards">Número uno de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en la Ciénaga de los Tejedores.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10" rel_version="Feature_Leaderboards">Medallista de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la Ciénaga de los Tejedores</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en la Ciénaga de los Tejedores.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1" rel_version="Feature_Leaderboards">Número uno de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en la Costa de la Zozobra.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10" rel_version="Feature_Leaderboards">Medallista de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de la Costa de la Zozobra</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en la Costa de la Zozobra.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en el Valle del Pesar.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Valle del Pesar</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en el Valle del Pesar.</string>
+	<string key="ui_playertitle_brightwood_company_score_top1" rel_version="Feature_Leaderboards">Número uno del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en el Bosque Luminoso.</string>
+	<string key="ui_playertitle_brightwood_company_score_top10" rel_version="Feature_Leaderboards">Medallista del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista del Bosque Luminoso</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en el Bosque Luminoso.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Altos de Escamanegra.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Escamanegra</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Altos de Escamanegra.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1" rel_version="Feature_Leaderboards">Número uno del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Riscos del Monarca.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10" rel_version="Feature_Leaderboards">Medallista del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista del Monarca</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en Riscos del Monarca.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1" rel_version="Feature_Leaderboards">Número uno de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Arenas de Azufre.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10" rel_version="Feature_Leaderboards">Medallista de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de Azufre</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en Arenas de Azufre.</string>
+	<string key="ui_playertitle_allterritories_company_score_top1" rel_version="Feature_Leaderboards">Número uno del control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_SHE" rel_version="Feature_Leaderboards">Número uno del control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_THEY" rel_version="Feature_Leaderboards">Número uno del control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los tres primeros de la clasificación de días gobernados en todos los territorios.</string>
+	<string key="ui_playertitle_allterritories_company_score_top10" rel_version="Feature_Leaderboards">Medallista de control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_SHE" rel_version="Feature_Leaderboards">Medallista de control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_THEY" rel_version="Feature_Leaderboards">Medallista de control del territorio</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Se obtiene por quedar entre los seis primeros de la clasificación de días gobernados en todos los territorios.</string>
+	<string key="ui_playertitle_special_thereturned">Rostro familiar</string>
+	<string key="ui_playertitle_special_thereturned_SHE">Rostro familiar</string>
+	<string key="ui_playertitle_special_thereturned_THEY">Rostro familiar</string>
+	<string key="ui_playertitle_thereturned_description">Su trabajo es supervisar Retorno a Aetérnum.</string>
 </resources>
 

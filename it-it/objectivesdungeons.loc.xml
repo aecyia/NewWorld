@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Candela consacrata</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Santuario spettrale</string>
 	<string key="dungeon_everfall_title">Tumuli di pietra stellare</string>
-	<string key="dungeon_everfall_description">Recupera il Diadema di pietra stellare da Greundgul il Reggente all'interno dei Tumuli di pietra stellare.</string>
+	<string key="dungeon_everfall_description">Attraversa i Tumuli di pietra stellare e sconfiggi Greundgul il Reggente.</string>
 	<string key="dungeon_everfall_required_equipment">1 bastone di Azoth</string>
 	<string key="dungeon_everfall_task_explore">Esplora le sale per trovare un percorso verso l'Obelisco infranto.</string>
 	<string key="dungeon_everfall_task_sealedchamber">Usa il bastone di Azoth per entrare nella Camera sigillata.</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Cerca un modo per attraversare le barriere arcane.</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Ottieni Protezione dall'arcano.</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Cerca la chiave per accedere alla Cripta del reggente.</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Scollega la serratura potente del Santuario antico e usalo per benedire la chiave dell'Obelisco.</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Ottieni la chiave dell'Obelisco dal forziere decorato.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Scollega la serratura potente del Santuario antico per disattivare le barriere arcane.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Usa il Santuario antico per benedire la chiave dell'Obelisco.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Usa la chiave dell'Obelisco benedetta per accedere alla Cripta della reggente.</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Procedi verso la Cripta della reggente.</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Avvicinati a Greundgul il Reggente.</string>
 	<string key="dungeon_everfall_task_boss">Sconfiggi Greundgul il Reggente.</string>
 	<string key="dungeon_everfall_task_complete">Abbandona i Tumuli di pietra stellare.</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Segui il sentiero interrotto fino alla Caverna dell'obelisco.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Sconfiggi Simon Grey!</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Trova la Candela consacrata e portala al Santuario spettrale.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Sconfiggi il Capomastro Nakashima.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Esci dallo scavo e torna all'Obelisco infranto.</string>
 	<string key="dungeon_reekwater_title">La Strumentalità di Lazzaro</string>
 	<string key="dungeon_reekwater_description">Scopri i segreti dell'antico sito magico.</string>
 	<string key="dungeon_reekwater_required_equipment">1 bastone di Azoth</string>

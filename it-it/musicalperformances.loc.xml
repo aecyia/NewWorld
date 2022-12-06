@@ -74,6 +74,7 @@
 	<string key="ui_musical_performances_waiting_for_tips" rel_version="Feature_MusicalPerformances">IN ATTESA DI MONETE</string>
 	<string key="ui_musical_performances_end_tipping" rel_version="Feature_MusicalPerformances">Termina ora e raccogli le mance</string>
 	<string key="ui_musical_performances_tip_timer_duration" rel_version="Feature_MusicalPerformances">{seconds} s</string>
+	<string key="ui_musical_performances_preshow_timeout_warning" rel_version="Feature_MusicalPerformances">Uscita per inattività: {seconds} s</string>
 	<string key="ui_musical_performances_complete" rel_version="Feature_MusicalPerformances">ESIBIZIONE\nCOMPLETATA!</string>
 	<string key="ui_musical_performances_score_00" rel_version="Feature_MusicalPerformances">Incredibile!</string>
 	<string key="ui_musical_performances_score_01" rel_version="Feature_MusicalPerformances">Ottimo!</string>
@@ -158,11 +159,12 @@
 	<string key="ui_music_mandolin_part_2" rel_version="Feature_MusicalPerformances">Mandolino (parte 2)</string>
 	<string key="ui_cannot_travel_in_musical_performance" rel_verstion="Feature_MusicalPerformances">Impossibile usare il viaggio veloce durante un'esibizione musicale.</string>
 	<string key="ui_cannot_enter_store_in_musical_performance" rel_version="Feature_MusicalPerformances">Impossibile accedere al negozio durante un'esibizione musicale.</string>
+	<string key="ui_musical_performance_combat_message">Non è possibile avviare un'esibizione durante il combattimento.</string>
 	<string key="songtitle_Maudlinbug_Waltz" rel_version="Feature_MusicalPerformances">Cortina di dolcinsetti</string>
 	<string key="songtitle_Traveling_Aeternum" rel_version="Feature_MusicalPerformances">Strada meno battuta</string>
 	<string key="songtitle_Windsward_Inn" rel_version="Feature_MusicalPerformances">Locanda di Sopravvento</string>
 	<string key="songtitle_Honey_N_Biscuits" rel_version="Feature_MusicalPerformances">Miele e biscotti</string>
-	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Coraggio delle Scogliere</string>
+	<string key="songtitle_Embark" rel_version="Feature_MusicalPerformances">Imbarco</string>
 	<string key="songtitle_The_Brightwood" rel_version="Feature_MusicalPerformances">Viaggio del Custode di anime</string>
 	<string key="songtitle_The_Butterfly" rel_version="Feature_MusicalPerformances">La farfalla</string>
 	<string key="songtitle_These_Old_Bones" rel_version="Feature_MusicalPerformances">Queste vecchie ossa</string>

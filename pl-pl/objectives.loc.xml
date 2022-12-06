@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">TEMATY DOKUMENTÓW</string>
 	<string key="journal_documents" speaker="UI">Dokumenty</string>
 	<string key="journal_overview" speaker="UI">OGÓLNIE</string>
-	<string key="journal_page_count" speaker="UI">Liczba odnalezionych stron: {pagesFound}/{totalPages}</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Strona {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Strona {number} – Znaleziona w: {location}</string>
 	<string key="journal_pages_found" speaker="UI">Odnalezione\nstrony</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Wątki poboczne</string>
 	<string key="objective_journey_desc" speaker="UI">Dodatkowe zadania</string>
 	<string key="objective_journey_empty" speaker="UI">Nie uzyskano podróży</string>
+	<string key="objective_factionstory" speaker="UI">Wątek frakcji</string>
+	<string key="objective_factionstory_desc" speaker="UI">Cele wątku frakcji</string>
 	<string key="objective_skillprogression" speaker="UI">Rozwój umiejętności</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Cele związane z rozwojem umiejętności</string>
 	<string key="objective_epicequipment" speaker="UI">Epickie pancerze i broń</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Misje kolekcjonerskie</string>
 	<string key="objective_msq" speaker="UI">Wątek główny</string>
 	<string key="objective_msq_desc" speaker="UI">Cele wątku głównego</string>
+	<string key="objective_get_msq_message" speaker="UI">Aktualnie nie masz żadnych aktywnych zadań wątku głównego.\nPoszukaj tej ikony na mapie, by sprawdzić, czy kolejne zadanie wątku głównego jest dostępne.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Misja – wytwarzanie</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Zadanie: "{title}"</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">"{title}" – nagrody</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">Z określonym miejscem</string>
 	<string key="objective_no_location" speaker="UI">Bez określonego miejsca</string>
 	<string key="objective_main_story_quest" speaker="UI">Zadanie wątku głównego</string>
+	<string key="objective_faction_story_quest" speaker="UI">Zadanie wątku frakcji</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Zadanie związane z rozwojem umiejętności</string>
 	<string key="objective_side_quests" speaker="UI">Zadania poboczne</string>
 	<string key="objective_event" speaker="UI">Zadania z wydarzeń</string>

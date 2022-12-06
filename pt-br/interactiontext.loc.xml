@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">Nenhum {itemName} Escala {tier} equipado</string>
 	<string key="ui_notoolitem_multiple">Requer {count}x {itemName}</string>
 	<string key="ui_notoolitem">Requer {itemName}</string>
+	<string key="ui_requiremultipleplayers">Requer um grupo de {count} jogadores</string>
 	<string key="ui_nopermission">Sem acesso público.</string>
 	<string key="ui_nopermissionrank">O ranque “{rank}” não tem permissão para “{action}”.</string>
 	<string key="ui_nopermissionpublic">Não é possível “{action}” em estruturas públicas.</string>
@@ -88,7 +89,7 @@
 	<string key="ui_build_structure_menu">Construir Estrutura</string>
 	<string key="ui_replace_structure_menu">Substituir Estrutura</string>
 	<string key="ui_place_structure">Colocar Estrutura</string>
-	<string key="ui_open_arena_menu">Ver Informações da Arena</string>
+	<string key="ui_open_arena_menu">Ver Informações da Prova</string>
 	<string key="ui_notification_summoning_stone_placed">PEDRA DE INVOCAÇÃO COLOCADA</string>
 	<string key="ui_watcherscampfire">Fogueira de Vigia</string>
 	<string key="ui_hunterscampfire">Fogueira do Caçador</string>

@@ -64,7 +64,7 @@
 	<string key="ui_guildinvitesendermessage">Vous avez invité &lt;font color="#9e947e"&gt;{playerName}&lt;/font&gt; à rejoindre votre compagnie.</string>
 	<string key="ui_guildinvitestab">Invit.</string>
 	<string key="ui_guildinvitetitle">Invitation (compagnie)</string>
-	<string key="ui_guildmaster">Gouverneur de compagnie</string>
+	<string key="ui_guildmaster">Gouverneur</string>
 	<string key="ui_guildmastercannotacceptinvitemessage">Vous devez désigner un autre {guildMasterRankName} avant de rejoindre une autre compagnie.</string>
 	<string key="ui_warringguildofonecannotacceptinvitemessage">Impossible de rejoindre une compagnie si vous commandez une compagnie en guerre n'ayant qu'un seul membre.</string>
 	<string key="ui_guildcannotinviteself">Impossible de vous inviter vous-même.</string>
@@ -182,7 +182,7 @@
 	<string key="ui_guildrankofficer_THEY">Officier</string>
 	<string key="ui_guildCannotInviteNoPrivilege">Impossible d'envoyer des invitations de compagnie. Rang insuffisant.</string>
 	<string key="ui_guildCannotInviteNoFaction">Impossible d'envoyer des invitations de compagnie. Vous ne faites pas partie d'une faction.</string>
-	<string key="ui_guildcannotpromote_nofaction">Impossible de promouvoir au rang de gouverneur. Le joueur ne fait pas partie d'une faction.</string>
+	<string key="ui_guildcannotpromote_nofaction" rel_version="Feature_Unfactioned_Company_Members">Impossible de promouvoir au rang de gouverneur. Le joueur ne fait pas partie d'une faction.</string>
 	<string key="ui_guildranksettler" comment="Pronoun for Target Player">Colon</string>
 	<string key="ui_guildranksettler_SHE">Colon</string>
 	<string key="ui_guildranksettler_THEY">Colon</string>
@@ -203,7 +203,7 @@
 	<string key="ui_kickguildmember_confirm">Voulez-vous vraiment exclure {playerName} de la compagnie ?</string>
 	<string key="ui_leaveguild">Quitter la compagnie</string>
 	<string key="ui_disbandguild">Dissoudre la compagnie</string>
-	<string key="ui_leaveguild_confirm">Votre départ de la compagnie aura &lt;font color="#FFD600"&gt;les conséquences suivantes :\n\n&lt;/font&gt;</string>
+	<string key="ui_leaveguild_confirm">Votre départ de la compagnie aura &lt;font color="#FFD600"&gt;les conséquences suivantes :\n&lt;/font&gt;</string>
 	<string key="ui_leaveguild_final_confirm">Voulez-vous vraiment quitter la compagnie ?</string>
 	<string key="ui_leaveguild_cooldown_warning">&lt;font color="#FFD600"&gt;DÉLAI D'ATTENTE DE LA GUERRE DE COMPAGNIES ({cooldownTimeWar}).&lt;/font&gt; Tant que le délai d'attente est actif, vous ne pourrez vous battre qu'en tant que mercenaire dans les guerres défensives menées par votre nouvelle compagnie. \n\n&lt;font color="#FFD600"&gt;DÉLAI D'ATTENTE DE LA CONTRIBUTION À L'AVANT-GARDE DE LA GUERRE DE COMPAGNIES ({cooldownTimeInfluence}).&lt;/font&gt; Pendant que le délai d'attente est actif, vous pourrez gagner de l'influence pour votre faction en accomplissant des missions JcJ, mais celle-ci ne sera pas prise en compte lors de la sélection de votre nouvelle compagnie comme avant-garde de guerre.</string>
 	<string key="ui_leaveguild_governor_confirm">&lt;font color="#FFD600"&gt;Abandonner les possessions. &lt;/font&gt;Un autre membre sera promu gouverneur lorsque vous partirez, et toutes les possessions détenues par la compagnie resteront au sein de cette dernière, sous le contrôle du nouveau gouverneur.</string>
@@ -225,10 +225,12 @@
 	<string key="ui_governorexpire_deleted" comment="Pronoun for Disappeared Governor">Le gouverneur de votre compagnie a délaissé ou supprimé son personnage. Une membre ayant le rang de « consul » peut devenir gouverneur.</string>
 	<string key="ui_governorexpire_deleted_SHE">Le gouverneur de votre compagnie a délaissé ou supprimé son personnage. Une membre ayant le rang de « consul » peut devenir gouverneur.</string>
 	<string key="ui_governorexpire_deleted_THEY">Le gouverneur de votre compagnie est parti ou a supprimé son personnage. Un membre ayant le rang de « consul » peut devenir gouverneur.</string>
+	<string key="ui_governorseat_vacant">Le poste de gouverneur est vacant.</string>
+	<string key="ui_governorseat_overthrowable">Les consuls peuvent renverser le gouverneur en place.</string>
 	<string key="ui_becomegovernor">Devenir gouverneur</string>
 	<string key="ui_becomegovernor_SHE">Devenir gouverneur</string>
 	<string key="ui_becomegovernor_THEY">Devenir gouverneur</string>
-	<string key="ui_becomegovernor_requires_faction">Rejoignez la faction de la guilde pour devenir gouverneur.</string>
+	<string key="ui_becomegovernor_requires_faction" rel_version="Feature_Unfactioned_Company_Members">Rejoignez la faction de la guilde pour devenir gouverneur.</string>
 	<string key="ui_permission_assign_structures">{allowed} assigner des structures de compagnie</string>
 	<string key="ui_permission_build_structures">{allowed} construire sur le territoire de la compagnie</string>
 	<string key="ui_permission_cancel_structures">{allowed} annuler les structures prévues</string>
@@ -387,7 +389,7 @@
 	<string key="ui_otherguilds_sortbyname">par nom</string>
 	<string key="ui_otherguilds_sortbysize">par taille</string>
 	<string key="ui_otherguilds_sortbyclaims">par territoires</string>
-	<string key="ui_otherguilds_header_guildname">Nom de compagnie</string>
+	<string key="ui_otherguilds_header_guildname">Compagnie</string>
 	<string key="ui_otherguilds_header_nummembers">Membres</string>
 	<string key="ui_otherguilds_header_claims">Terr.</string>
 	<string key="ui_otherguilds_header_warstatus">Statut de la guerre</string>
@@ -465,7 +467,7 @@
 	<string key="ui_cantpromote_leaderatwar">Impossible de transférer la direction de la compagnie pendant une guerre.</string>
 	<string key="ui_cantpromote_lackpermissionforrank">Impossible de promouvoir des membres à votre rang ou à un rang supérieur</string>
 	<string key="ui_cantpromote_lackpermission">Impossible de promouvoir des membres</string>
-	<string key="ui_cantpromote_nonfactionmember">Le membre doit rejoindre une faction pour être promu.</string>
+	<string key="ui_cantpromote_nonfactionmember" rel_version="Feature_Unfactioned_Company_Members">Le membre doit rejoindre une faction pour être promu.</string>
 	<string key="ui_cantdemote_lowestrank">Déjà au rang le plus bas</string>
 	<string key="ui_cantdemote_lackpermissionforrank">Impossible de rétrograder des membres de votre rang ou au-dessus</string>
 	<string key="ui_cantdemote_lackpermission">Impossible de rétrograder des membres</string>
@@ -559,6 +561,7 @@
 	<string key="ui_siege_signup_failed_opposingside">Vous ne pouvez pas vous inscrire à une guerre contre votre propre compagnie.</string>
 	<string key="ui_siege_signup_failed_invalidfaction">Vous ne pouvez pas vous inscrire à une guerre contre votre propre faction.</string>
 	<string key="ui_siege_signup_failed_full">La liste d'inscription pour cette guerre est complète.</string>
+	<string key="ui_siege_signup_failed_dailylimitreached">Vous avez atteint votre limite quotidienne de guerres en tant que : {attackerOrDefenderSide}.</string>
 	<string key="ui_siege_signup_failed_conquestoverlaps">Vous avez déjà une inscription pour une guerre prévue au même moment.</string>
 	<string key="ui_siege_signup_failed_remotesignup">Les inscriptions se font uniquement à un tableau de guerre.</string>
 	<string key="ui_siege_signup_failed_notinfaction">Vous devez rejoindre une faction pour pouvoir participer à une guerre.</string>
@@ -566,7 +569,14 @@
 	<string key="ui_siege_signup_failed_banned">Vous avez été retiré(e) de la liste par la compagnie dirigeante et ne pouvez pas rejoindre ses rangs.</string>
 	<string key="ui_siege_signup_failed_on_defensive_cooldown">Vous avez récemment quitté une compagnie et ne pouvez participer à aucune guerre défensive pour votre compagnie pendant 72 heures.</string>
 	<string key="ui_siege_signup_failed_territory_not_unlocked_yet">Vous n'avez pas encore accès à ce territoire.</string>
+	<string key="ui_siege_signup_failed_warinprogress">Les inscriptions ne sont plus acceptées car la guerre ou l'invasion a déjà commencé.</string>
 	<string key="ui_siege_signup_failed">Un problème est survenu lors de votre inscription à cette guerre.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_refreshlabel">La limite de guerres en tant qu'assaillant se réinitialise dans :</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_refreshlabel">La limite de guerres en tant que défenseur se réinitialise dans :</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_available">Vous pouvez vous inscrire pour des guerres en tant qu'assaillant.</string>
+	<string key="ui_siege_signup_dailywarlimit_attacker_limitreached">Vous avez atteint votre limite de guerres en tant qu'assaillant pour aujourd'hui et ne pouvez pas vous inscrire pour d'autres guerres en tant qu'assaillant.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_available">Vous pouvez vous inscrire pour des guerres en tant que défenseur.</string>
+	<string key="ui_siege_signup_dailywarlimit_defender_limitreached">Vous avez atteint votre limite de guerres en tant que défenseur pour aujourd'hui et ne pouvez pas vous inscrire pour d'autres guerres en tant que défenseur.</string>
 	<string key="ui_siege_signup_conquest_overlap_title">Voulez-vous continuer ?</string>
 	<string key="ui_siege_signup_conquest_overlap_confirm">Vous avez déjà une inscription pour une guerre prévue au même moment.\nVoulez-vous annuler votre inscription dans le territoire {territoryName} ?</string>
 	<string key="ui_siege_signup_abandon_title">Annuler l'inscription</string>
@@ -617,6 +627,7 @@
 	<string key="ui_how_does_invasion_work">Fonctionnement de l'invasion</string>
 	<string key="ui_signup_restriction_tooltip">Vous ne pouvez pas vous inscrire auprès de l'adversaire de votre faction.</string>
 	<string key="ui_signup_nofaction_tooltip">Vous devez faire partie d'une faction afin de vous inscrire à une guerre.</string>
+	<string key="ui_signup_warinprogress_tooltip">Vous ne pouvez pas vous inscrire pour une guerre ou une invasion en cours.</string>
 	<string key="ui_signup_not_available">Inscription indisponible</string>
 	<string key="ui_signup_level_requirement">&lt;font color="#ff6363"&gt;Niveau de joueur {level}&lt;/font&gt; &lt;font color="#c0c0c0"&gt; requis pour s'inscrire.&lt;/font&gt;</string>
 	<string key="ui_signup_count">&lt;font color="#ffffff"&gt;&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}&lt;/font&gt;&lt;/font&gt; joueurs inscrits</string>

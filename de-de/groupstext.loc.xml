@@ -17,7 +17,7 @@
 	<string key="ui_receivedwargroupinvitetitle" comment="">Schließe dich dem Krieg an!</string>
 	<string key="ui_receivedwargroupinvitemessage" comment="">Du wurdest eingeladen, dich von {startTime} bis {endTime} dem Krieg beim Gebiet {territoryName} anzuschließen. Nimm an, um zum Schlachtfeld teleportiert zu werden.</string>
 	<string key="ui_receivedinvasiongroupinvitetitle" comment="">Wehre die Invasion ab!</string>
-	<string key="ui_receivedinvasiongroupinvitemessage" comment="">Du wurdest eingeladen, von {startTime} bis {endTime} bei der Verteidigung gegen die Invasion im Gebiet {territoryName} mitzuwirken. Nimm an, um zum Schlachtfeld teleportiert zu werden.</string>
+	<string key="ui_receivedinvasiongroupinvitemessage" comment="">Du wurdest eingeladen, die Invasion von {startTime} – {endTime} abzuwehren (Gebiet: {territoryName}). Nimm an, um zum Schlachtfeld teleportiert zu werden.</string>
 	<string key="ui_group_invite_failed" comment="">Gruppeneinladung fehlgeschlagen.</string>
 	<string key="ui_groupinvitesentmessage" comment="">Gruppeneinladung wurde an &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; geschickt.</string>
 	<string key="ui_groupinviteacceptsentmessage" comment="">Gruppeneinladung von &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; angenommen.</string>
@@ -28,7 +28,7 @@
 	<string key="ui_groupinvitedeclinerequeue" comment="">Warteschlange erneut beigetreten, weil ein Spieler abgelehnt hat.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat seine Gruppeneinladung zurückgenommen.</string>
 	<string key="ui_groupinvitewithdrawnreceivermessage_SHE" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat ihre Gruppeneinladung zurückgenommen.</string>
-	<string key="ui_groupinvitewithdrawnreceivermessage_THEY" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat deine Gruppeneinladung zurückgenommen.</string>
+	<string key="ui_groupinvitewithdrawnreceivermessage_THEY" comment="">&lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; hat die Gruppeneinladung zurückgezogen.</string>
 	<string key="ui_groupinvitewithdrawnsendermessage" comment="">Gruppeneinladung an &lt;font color="#ffffff"&gt;{playerName}&lt;/font&gt; zurückgenommen.</string>
 	<string key="ui_groupinvitewithdrawnraid" comment="">Gruppeneinladung zurückgenommen</string>
 	<string key="ui_leftgroupmessage" comment="">Gruppe verlassen</string>

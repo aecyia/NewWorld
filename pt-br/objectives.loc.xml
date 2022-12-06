@@ -10,7 +10,7 @@
 	<string key="journal_document_topics_title" speaker="UI">TÓPICOS DO DOCUMENTO</string>
 	<string key="journal_documents" speaker="UI">Documentos</string>
 	<string key="journal_overview" speaker="UI">VISÃO GERAL</string>
-	<string key="journal_page_count" speaker="UI">{pagesFound}/{totalPages} Páginas Encontradas</string>
+	<string key="journal_page_count" speaker="UI">{pagesFound} / {totalPages}</string>
 	<string key="journal_page_number" speaker="UI">Página {number}</string>
 	<string key="journal_page_number_location" speaker="UI">Página {number} — encontrada em {location}</string>
 	<string key="journal_pages_found" speaker="UI">Páginas Encontradas</string>
@@ -84,6 +84,8 @@
 	<string key="objective_journey" speaker="UI">Histórias Paralelas</string>
 	<string key="objective_journey_desc" speaker="UI">Jornadas adicionais</string>
 	<string key="objective_journey_empty" speaker="UI">Nenhuma Jornada Obtida</string>
+	<string key="objective_factionstory" speaker="UI">História da Facção</string>
+	<string key="objective_factionstory_desc" speaker="UI">Objetivos da história da facção</string>
 	<string key="objective_skillprogression" speaker="UI">Progressão de Habilidade</string>
 	<string key="objective_skillprogression_desc" speaker="UI">Objetivos de progressão de habilidade</string>
 	<string key="objective_epicequipment" speaker="UI">Armas e Armaduras Épicas</string>
@@ -146,6 +148,7 @@
 	<string key="objective_mission_title_procurer_acquire" speaker="UI">Missão de Aquisição</string>
 	<string key="objective_msq" speaker="UI">História Principal</string>
 	<string key="objective_msq_desc" speaker="UI">Objetivos da história principal</string>
+	<string key="objective_get_msq_message" speaker="UI">Você não tem jornadas da História Principal ativas no momento.\nProcure este ícone no mapa para determinar se a próxima Missão da História Principal está disponível.</string>
 	<string key="M_procurer_craft_workorder_items" speaker="UI">Missão de Confecção</string>
 	<string key="objective_name_template" comment="Obsolete - Used to show above rewards on the conversation screen. {title} is the quest title." speaker="UI">Missão: “{title}”</string>
 	<string key="objective_name_and_rewards_template" comment="Shows above rewards on the conversation screen. {title} is the quest title" speaker="UI">“{title}” – Recompensas</string>
@@ -164,6 +167,7 @@
 	<string key="objective_has_location" speaker="UI">Com Localizações Específicas</string>
 	<string key="objective_no_location" speaker="UI">Sem Localizações Específicas</string>
 	<string key="objective_main_story_quest" speaker="UI">Jornada da História Principal</string>
+	<string key="objective_faction_story_quest" speaker="UI">Jornada da História da Facção</string>
 	<string key="objective_skill_progression_quest" speaker="UI">Jornada da Progressão de Habilidade</string>
 	<string key="objective_side_quests" speaker="UI">Jornadas Paralelas</string>
 	<string key="objective_event" speaker="UI">Jornadas de Evento</string>

@@ -243,6 +243,8 @@
 	<string key="ui_bandwidthmode_desc">Ancho de banda que se usará para recibir datos del servidor. Los valores bajos pueden afectar la calidad</string>
 	<string key="ui_analyticsenabled">Transmitir datos telemétricos del cliente</string>
 	<string key="ui_analyticsenabled_desc">Si desactivas esta opción, dejarás de enviarle al equipo de New World ciertos datos telemétricos del cliente relacionados con tus ajustes y experiencia de juego. Si estás experimentando problemas de red en New World, desactivar esta opción podría ayudarte a solucionarlos.</string>
+	<string key="ui_leaderboardenabled" rel_version="Feature_Leaderboards">Participar en las clasificaciones</string>
+	<string key="ui_leaderboardenabled_desc" rel_version="Feature_Leaderboards">Si participas, tu nombre aparecerá en la tabla de clasificaciones y podrás obtener recompensas.</string>
 	<string key="ui_enable_camera_lock">Sanación dirigida</string>
 	<string key="ui_enable_camera_lock_description">Habilita el sistema de sanación dirigida.</string>
 	<string key="ui_enable_camera_lock_friendlies">Bloquear cámara en simpatizantes</string>

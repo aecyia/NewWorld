@@ -51,7 +51,7 @@
 	<string key="1416_0201_a_Title" speaker="UI">Palos en las ruedas</string>
 	<string key="1416_0201_b_Description" speaker="UI">Sabotea a los mineros corruptos en la Grieta Profana saboteando sus suministros y diezmando sus filas Luego, informa al vigilante Ducquet en la Arboleda del Edén.</string>
 	<string key="1416_0201_Start_Prompt" speaker="UI - Player Prompt">«¿Por qué no?»</string>
-	<string key="1416_0201_c_Proposal" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_ProposalResponse" VO_Status="Recorded" dialogue-next="@1416_0201_c_Proposal_Pt2">Hemos estado esperando la oportunidad adecuada, claro. Tu llegada, por ejemplo.\n\nEste podría ser el momento adecuado, si quieres ponerte al frente.</string>
+	<string key="1416_0201_c_Proposal" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_ProposalResponse" VO_Status="Recorded" dialogue-next="@1416_0201_c_Proposal_Pt2">Hemos estado esperando la oportunidad adecuada, claro. Por ejemplo... a tu llegada.\n\nEste podría ser el momento adecuado, si quieres ponerte al frente.</string>
 	<string key="1416_0201_c_Proposal_Pt2Prompt" speaker="UI - Player Prompt">«Puedo hacerlo».</string>
 	<string key="1416_0201_c_Proposal_Pt2" speaker="Warden Ducquet - Edengrove" name="WardenDucquet" VO="Warden_1416_0201_sabotage_CompleteNext" VO_Status="Recorded" dialogue-prompt="@1416_0201_c_Proposal_Pt2Prompt">Perfecto. Los corruptos han estado montando campamentos mineros en la Grieta Profana.\n\nAtaca sus posiciones, desármalos si puedes y pronto conoceremos su fuerza.</string>
 	<string key="1416_0201_e_Incomplete" speaker="Warden Ducquet - Edengrove">¿Has ido ya a la Grieta Profana? Los enemigos se creen que si se ocultan entre los riscos estarán a salvo. \n\nNo tardarán en comprobar que se equivocan.</string>
@@ -70,9 +70,9 @@
 	<string key="1416_0202_d_02_Task" speaker="UI">Derrota a {targetName} en {POITags}</string>
 	<string key="1416_0202_d_03_Task" speaker="UI">Derrota a {targetName} en {POITags}</string>
 	<string key="1414_0101_a_Title" speaker="UI">De camino a Aguas Fétidas</string>
-	<string key="1414_0101_b_Description" speaker="UI">Habla con el legado Fulvius en Aguas Fétidas.</string>
+	<string key="1414_0101_b_Description" speaker="UI">Habla con Aulus Fulvius en Aguas Fétidas.</string>
 	<string key="1414_0101_Start_Prompt" speaker="UI - Player Prompt">«Puedo entregar tu mensaje».</string>
-	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Ah, ¿sí? Excelente. Aunque está bastante lejos. ¡Pero bueno! Si ya lo has decidido...\n\nEste mensaje es para el magistrado local, el legado Fulvius. Necesitará tus talentos, y no me refiero solo a tu presteza. De eso estoy seguro.</string>
+	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO="1414_0101_c_Proposal" VO_Status="Recorded">Ah, ¿sí? Excelente. Aunque está bastante lejos. ¡Pero bueno! Si ya lo has decidido...\n\nEste mensaje es para el magistrado local, Aulus Fulvius. Necesitará tus talentos, y no me refiero solo a tu presteza. De eso estoy seguro.</string>
 	<string key="1414_0101_e_Incomplete" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Tendrás que caminar hacia el sur durante... mucho tiempo, la verdad. Asegúrate de llevar suficientes raciones para el viaje.</string>
 	<string key="1414_0101_f_Complete" speaker="Legatus Fulvius - Reekwater" name="LegatusFulvius" VO="1414_0101_f_Complete" VO_Status="Recorded">¿Y esto qué es? ¿Un mensaje de la Arboleda del Edén? No conozco a mucha gente capaz de hacer semejante viaje y vivir para contarlo. Has conseguido impresionarme.\n\nYa que estás aquí, creo que alguien tan trotamundos como tú puede venirnos bien por aquí.</string>
 	<string key="1418_0201_a_Title" speaker="UI">Luces apagadas</string>

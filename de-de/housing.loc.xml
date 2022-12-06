@@ -5,13 +5,13 @@
 	<string key="ui_house_abandon_notification" comment="Abandon House">Du hast dein Haus {houseName} aufgegeben.</string>
 	<string key="ui_house_abandon_popup_desc" comment="Abandon House">In dieser Stadt besitzt du bereits ein Haus.\nMöchtest du {houseName} aufgeben, um dieses Haus zu kaufen?\nSämtliche Trophäen und Möbel aus dem aufgegebenen Haus werden ins Stadtlager gebracht.</string>
 	<string key="ui_house_abandon_popup_title" comment="Abandon House">Du kannst in jeder Stadt nur ein Haus haben.</string>
-	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">Wenn du dieses Haus aufgibst, werden dir {percent} % des ursprünglichen Kaufpreis rückerstattet. Sämtliche Trophäen und Möbel aus dem Haus werden ins Stadtlager gebracht.</string>
-	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;Wenn du dieses Haus aufgibst, werden dir {percent} % des ursprünglichen Kaufpreis rückerstattet.&lt;/font&gt;\nSämtliche Trophäen und Möbel aus dem verlassenen Haus werden ins Stadtlager gebracht.\n\nWenn du fortfahren möchtest, gib unten {territoryName} ein.</string>
+	<string key="ui_house_abandon_this_house_desc" comment="Abandon House">Wenn du dieses Haus aufgibst, werden dir {percent} % des ursprünglichen Kaufpreises rückerstattet. Sämtliche Trophäen und Möbel aus dem Haus werden ins Stadtlager gebracht.</string>
+	<string key="ui_house_abandon_this_popup_desc" comment="Abandon House">&lt;font color="#f25d5d"&gt;Wenn du dieses Haus aufgibst, werden dir {percent} % des ursprünglichen Kaufpreises rückerstattet.&lt;/font&gt;\nSämtliche Trophäen und Möbel aus dem verlassenen Haus werden ins Stadtlager gebracht.\n\nWenn du fortfahren möchtest, gib unten {territoryName} ein.</string>
 	<string key="ui_house_abandon_this_popup_title" comment="Abandon House">Haus aufgeben?</string>
 	<string key="ui_house_abandon_no_storage_warning" comment="Abandon House">Du musst mindestens einen freien Platz in deinem Siedlungsspeicher haben, um alle Gegenstände aus deinem Haus zu entfernen.</string>
-	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zahle {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, um die Abklingzeit zurückzusetzen.</string>
+	<string key="ui_cannot_reset_travel_currency" comment="Fast Travel">Zahle {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, um die Abklingzeit zurückzusetzen.</string>
 	<string key="ui_cannot_travel_currency" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_crown" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; zum Schnellreisen erforderlich.</string>
-	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; zur Schnellreise erforderlich.</string>
+	<string key="ui_cannot_travel_currency_azoth" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; zur Schnellreise erforderlich.</string>
 	<string key="ui_cannot_travel_dead" comment="Fast Travel">Rückruf und Schnellreise sind nicht möglich, wenn du tot bist.</string>
 	<string key="ui_cannot_travel_encounter" comment="Fast Travel">Während einer Begegnung sind Schnellreisen nicht möglich.</string>
 	<string key="ui_cannot_travel_encumbered" comment="Fast Travel">Bei Auslastung sind keine Schnellreisen möglich.</string>
@@ -24,6 +24,7 @@
 	<string key="ui_fast_travel_charted_point" comment="Fast Travel">Schnellreisepunkt</string>
 	<string key="ui_fast_travel_cost" comment="Fast Travel">{total} &lt;font color="#949494"&gt;/ {cost}&lt;/font&gt;</string>
 	<string key="ui_fast_travel_error_badStartLoc" comment="Fast Travel">Schnellreise ist nur in einer Siedlung, einem Außenposten oder einem Geisterschrein möglich.</string>
+	<string key="ui_fast_travel_error_belowFromFieldLevelReq" comment="Fast Travel">Du erfüllst die Mindeststufen-Voraussetzung für die Schnellreise aus freiem Feld nicht.</string>
 	<string key="ui_fast_travel_error_cantAfford" comment="Fast Travel">Du hast nicht genug Azoth.</string>
 	<string key="ui_fast_travel_error_description_inCooldown" comment="Fast Travel">Diese Aktion befindet sich in der Abklingzeit.</string>
 	<string key="ui_fast_travel_error_description_inCooldown_with_time" comment="Fast Travel">Die Aktion befindet sich in der Abklingzeit.\nRückruf möglich in {time}.</string>
@@ -45,14 +46,14 @@
 	<string key="ui_house_travel_cooldown_remaining" comment="Fast Travel">Schnellreisen wieder möglich in {time}</string>
 	<string key="ui_housing_fast_travel" comment="Fast Travel">Schnellreise</string>
 	<string key="ui_housing_fast_travel_desc" comment="Fast Travel">Von überall, zu dir nach Hause</string>
-	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Du benötigst {coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, um die Abklingzeit zurückzusetzen.</string>
+	<string key="ui_need_reset_travel_currency" comment="Fast Travel">Du benötigst {coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt;, um die Abklingzeit zurückzusetzen.</string>
 	<string key="ui_recall_not_available_server_error" comment="Fast Travel">Rückruf aufgrund eines Serverfehlers nicht möglich.</string>
 	<string key="ui_recall_to" comment="Fast Travel">Rückruf in</string>
 	<string key="ui_recall_to_house" comment="Fast Travel">Rückruf ins Haus</string>
 	<string key="ui_recall_to_house_disabled" comment="Fast Travel">Rückruf ins Haus (nicht verfügbar)</string>
-	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt; Abklingzeit zurücksetzen</string>
+	<string key="ui_reset_travel" comment="Fast Travel">{coin} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt; Abklingzeit zurücksetzen</string>
 	<string key="ui_settlement_fast_travel" comment="Fast Travel">Schnellreise</string>
-	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Schnellreise zu dieser Siedlung für {cost} &lt;img src="lyshineui/images/icon_azoth" xPadding="0" scale="1" yOffset="0.5"&gt;&lt;/img&gt;</string>
+	<string key="ui_settlement_fast_travel_desc" comment="Fast Travel">Schnellreise zu dieser Siedlung für {cost} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="0" scale="1.2" yOffset="0"&gt;&lt;/img&gt;</string>
 	<string key="ui_spirit_shrine" comment="Fast Travel">Geisterschrein</string>
 	<string key="ui_spirit_shrine_desc" comment="Fast Travel">Führe eine Schnellreise zu einer Siedlung, einem Außenposten oder einem Geisterschrein durch, die bzw. den du bereits einmal besucht hast.</string>
 	<string key="ui_travel" comment="Fast Travel">Reise</string>
@@ -156,9 +157,9 @@
 	<string key="ui_house_unpaid_taxes_due_soon" comment="Housing Taxes">Grundstückssteuer für {territoryName} fällig in: {time}. Entrichte die Grundstückssteuer, um weiterhin die Funktionen Schnellreise und Dekorieren verwenden zu können.</string>
 	<string key="ui_house_unpaid_taxes_string" comment="Housing Taxes">Dein Haus (nicht verfügbar)</string>
 	<string key="ui_housing_disabled_tooltip" comment="Housing Taxes">Dein Haus ist nicht verfügbar. Entrichte die Grundstückssteuer, um dein Haus wieder zu aktivieren!</string>
-	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Grundstückssteuer entrichten</string>
+	<string key="ui_housing_pay_taxes" comment="Housing Taxes">Grundstückssteuer</string>
 	<string key="ui_pay_house_tax_fail" comment="Housing Taxes">Fehler beim Bezahlen der Grundstückssteuer für das Haus. Versuche es bitte erneut.</string>
-	<string key="ui_pay_property_tax" comment="Housing Taxes">Grundstückssteuer entrichten</string>
+	<string key="ui_pay_property_tax" comment="Housing Taxes">Grundstückssteuer</string>
 	<string key="ui_pay_property_tax_desc" comment="Housing Taxes">Entrichte die Grundstückssteuer über die Karte oder an deinem Haus.</string>
 	<string key="ui_pay_property_tax_popup_desc" comment="Housing Taxes">Für Rückrufe in dein Haus, um dort zu respawnen und es dekorieren zu können, musst du Grundstückssteuer entrichten.\nDie Grundstückssteuer ist {firstCycle} nach dem Kauf fällig und danach alle {otherCycle}.</string>
 	<string key="ui_property_tax" comment="Housing Taxes">Grundstückssteuer</string>
@@ -216,6 +217,7 @@
 	<string key="ui_home_purchase_error_level_first" comment="Purchase House">Erster Hauskauf ab Spielerstufe {level} verfügbar.</string>
 	<string key="ui_house_compensation_title" comment="Purchase House">Behausung, Entschädigung</string>
 	<string key="ui_house_purchase" comment="Purchase House">Dieses Haus kaufen {coinText}</string>
+	<string key="ui_house_purchase_level_requirement" comment="Purchase House">Spielerstufe {amount}</string>
 	<string key="ui_house_purchase_confirm_popup_desc" comment="Purchase House">Möchtest du dieses Haus kaufen?</string>
 	<string key="ui_house_purchase_confirm_popup_no_button" comment="Purchase House">Abbrechen</string>
 	<string key="ui_house_purchase_confirm_popup_title" comment="Purchase House">Haus kaufen</string>
@@ -257,5 +259,10 @@
 	<string key="ui_view_warinfo" comment="Territory Wars">Kriegsinformationen ansehen</string>
 	<string key="ui_housing_item_over_placement_no_points" comment="Placed Housing Items">Achtung: Du hast das Hauspunktelimit für diesen Gegenstand erreicht.</string>
 	<string key="ui_housing_item_over_placement_negative_points" comment="Placed Housing Items">Achtung: Wenn du denselben Behausungsgegenstand zu oft platzierst, zieht das negative Punkte nach sich.</string>
+	<string key="ui_remove_all_furniture_desc" comment="Remove All Furniture">Alle Möbel und Dekorationen in dein Siedlungslager bringen?</string>
+	<string key="ui_remove_all_furniture_button" comment="Remove All Furniture">Alle Möbel entfernen</string>
+	<string key="ui_remove_all_furniture_confirm_title" comment="Remove All Furniture">Alle Möbel entfernen?</string>
+	<string key="ui_remove_all_furniture_confirm_message" comment="Remove All Furniture">Sämtliche Trophäen und Möbel aus dem Haus werden ins Stadtlager gebracht.</string>
+	<string key="ui_house_remove_all_furniture_confirm_button" comment="Remove All Furniture">Alle Möbel entfernen</string>
 </resources>
 

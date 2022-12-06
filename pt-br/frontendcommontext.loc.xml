@@ -2,7 +2,8 @@
 	<string key="mm_randomizetitle">Aviso</string>
 	<string key="mm_randomizewarning">Randomizar seu personagem fará com que as alterações já feitas sejam perdidas. Tem certeza que deseja randomizar seu personagem?</string>
 	<string key="mm_deletechartitle">Excluir Personagem</string>
-	<string key="mm_deletecharwarning">&lt;font color="#ffffff"&gt;Tem certeza que deseja excluir {characterName}?\n\nEsta ação não pode ser desfeita. Você perderá todos os itens e progresso feitos com este personagem.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Você manterá seus itens comprados.)&lt;/font&gt;</string>
+	<string key="mm_deletecharwarning">&lt;font color="#ffffff"&gt;Tem certeza que deseja excluir {characterName}?\n\nEsta ação não pode ser desfeita. Você perderá todos os itens e progresso feitos com este personagem.\n\nUma vez excluído, você tem &lt;font color={highlightColor}&gt;7 dias&lt;/font&gt; para entrar em contato com o atendimento ao cliente para restaurar seu personagem.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Você manterá seus itens comprados.)&lt;/font&gt;</string>
+	<string key="mm_deletecharwarning_serverfull">&lt;font color="#ffffff"&gt;Tem certeza que deseja excluir {characterName}?\n\nEsta ação não pode ser desfeita. Você perderá todos os itens e progresso feitos com este personagem.\n\nUma vez excluído, você tem &lt;font color={highlightColor}&gt;7 dias&lt;/font&gt; para entrar em contato com o atendimento ao cliente para restaurar seu personagem.&lt;/font&gt;\n&lt;font color="#cccccc" face="lyshineui/fonts/Nimbus_Regular_Italic.font"&gt;(Você manterá seus itens comprados.)&lt;/font&gt;\n\n&lt;font color="#ff6b6b"&gt;{worldName} está lotado e não permite a criação ou transferência de personagens.&lt;/font&gt;</string>
 	<string key="mm_selectcharacter">Selecionar Personagem</string>
 	<string key="mm_charactercount">Personagens</string>
 	<string key="mm_emptyslot">Espaço Vazio</string>
@@ -99,7 +100,7 @@
 	<string key="mm_loginservices_TooManyCharactersForWorldSet">Você já tem um personagem em um mundo relacionado. O personagem no mundo relacionado precisa ser excluído para você poder criar outro.</string>
 	<string key="mm_loginservices_WorldRequiresCharacterCreation">Autenticação negada: O personagem deve ser criado neste mundo.</string>
 	<string key="mm_loginservices_NotEntitledToWorld">Acesso negado: Sem autorização para este mundo de jogo.</string>
-	<string key="mm_loginservices_WorldNotEligibleForCharacterCreation">Acesso negado: Personagens não foram criados neste mundo.</string>
+	<string key="mm_loginservices_WorldNotEligibleForCharacterCreation">Acesso negado: O Mundo está lotado. O personagem não pode ser criado.</string>
 	<string key="mm_loginservices_PatchFieldNotPermitted">Acesso negado: O campo de personagens não pode ser atualizado.</string>
 	<string key="mm_loginservices_CharacterNotFlaggedForRename">Acesso negado: O personagem não é elegível para ser renomeado.</string>
 	<string key="mm_loginservices_NotEligibleForFTUE">Autenticação negada: O FTUE já foi concluído.</string>
@@ -175,9 +176,11 @@
 	<string key="mm_rejected_Grid_Too_Busy">Erro no servidor: A região está ocupada demais, tente novamente mais tarde.</string>
 	<string key="mm_rejected_No_Ghost_Client">Erro no servidor: Falha ao iniciar a replicação.</string>
 	<string key="mm_rejected_Server_Crash">Perda inesperada de contato com o servidor de jogo, tente novamente mais tarde.</string>
-	<string key="mm_rejected_Free_Session_Expired">O tempo de jogo livre terminou.</string>
+	<string key="mm_rejected_Free_Session_Expired_Title">O período de jogo gratuito expirou.</string>
+	<string key="mm_rejected_Free_Session_Expired">Seu período de jogo gratuito terminou. Clique em “OK” para voltar ao Menu Principal.</string>
 	<string key="mm_rejected_Client_Kicked_Login_Ticket_Error">O ticket de autenticação não é válido para o mundo.</string>
 	<string key="mm_rejected_Player_Not_Entitled_To_World">Acesso negado: Sem autorização para este mundo de jogo.</string>
+	<string key="mm_rejected_Matchmaking_Login">Conecte-se novamente para entrar na partida.</string>
 	<string key="mm_rejected_Client_Kicked_Title">Expulso</string>
 	<string key="mm_rejected_Client_Kicked_NoMessage">Você foi expulso do jogo.</string>
 	<string key="mm_rejected_Client_Kicked_AFK">Você foi expulso do jogo por ter ficado ausente por muito tempo.</string>
@@ -206,7 +209,7 @@
 	<string key="mm_rejected_Client_Kicked_Unknown">Você foi expulso do jogo</string>
 	<string key="mm_authresult_Authorized">Sucesso</string>
 	<string key="mm_characterCreateDisabled">A criação de personagem está temporariamente desativada porque este mundo está lotado. Tente um mundo diferente.</string>
-	<string key="mm_charactertransferdisabled">A transferência de personagem está temporariamente desativada neste mundo. Tente um mundo diferente.</string>
+	<string key="mm_characterTransferDisabled">A transferência de personagem está temporariamente desativada porque este mundo está lotado. Tente um mundo diferente.</string>
 	<string key="mm_authresult_Denied_ClaimConnectionTicketFailed">Falha ao obter ticket de conexão.</string>
 	<string key="mm_authresult_Denied_HubNotReady">O servidor não está pronto para jogar. Tentando novamente...</string>
 	<string key="mm_authresult_Denied_CapacityLimitReached">Os servidores estão ocupados no momento. Tente novamente mais tarde.</string>
@@ -235,7 +238,7 @@
 	<string key="mm_queuewithestimate">Tempo Estimado: {time}\nPosição na Fila: {rank}\n{status}</string>
 	<string key="mm_queuewithcappedestimate">Tempo Estimado: &gt; {time}\nPosição na Fila: {rank}\n{status}</string>
 	<string key="mm_queueestimateunknown">Tempo Estimado: Desconhecido\nPosição na Fila: Desconhecida\n{status}</string>
-	<string key="mm_queuepopuptitle">Aguardando início de sessão...</string>
+	<string key="mm_queuepopuptitle">Aguarde início de sessão...</string>
 	<string key="mm_queuejoinfailed">Falha ao entrar na fila de autenticação. Tente novamente.</string>
 	<string key="mm_queuerefresherror">Erro ao comunicar com a fila de autenticação. Tentando novamente...</string>
 	<string key="mm_server_message_title">Mensagem do Servidor</string>
@@ -243,7 +246,8 @@
 	<string key="mm_waitingforaoi_message">Conectando-se ao servidor, aguarde...</string>
 	<string key="mm_waitingforspawnpoint_title">Aguardando para entrar...</string>
 	<string key="mm_waitingforspawnpoint_message">Buscando capacidade, aguarde...</string>
-	<string key="mm_world_character_limit">Você só pode ter 1 personagem em um Conjunto de Mundos.</string>
+	<string key="mm_world_set_character_limit">Você só pode ter 1 personagem em um Conjunto de Mundos.</string>
+	<string key="mm_world_character_limit">Você só pode ter {characterLimit} personagem(ns) neste Mundo.</string>
 	<string key="confirm_buy_unequippable">Não é possível equipar</string>
 	<string key="confirm_buy_unequippable_body">Você não pode equipar este item. Continuar?</string>
 	<string key="lt_1_title">Conquistando</string>
@@ -347,6 +351,63 @@
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Conquista de Trilha {milestone} em:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Conquista de Trilha {milestone}</string>
 	<string key="ui_pvp_track_reward" rel_version="PvP_Rewards_Track">Recompensa</string>
+	<string key="ui_leaderboards_update_time" rel_version="Feature_Leaderboards">Atualiza em {time}</string>
+	<string key="ui_leaderboards_skills_tab" rel_version="Feature_Leaderboards">Tabela de Classificação</string>
+	<string key="ui_leaderboards_reward_title" rel_version="Feature_Leaderboards">{rotationType} &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}: {startDate}–{endDate}&lt;/font&gt;</string>
+	<string key="ui_leaderboards_reward_location_title" rel_version="Feature_Leaderboards">{location}</string>
+	<string key="ui_leaderboards_reward_location_difficulty_title" rel_version="Feature_Leaderboards">{location}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
+	<string key="ui_leaderboards_reward_category_title" rel_version="Feature_Leaderboards">{category}</string>
+	<string key="ui_leaderboards_skip_all" rel_version="Feature_Leaderboards">Pular Tudo</string>
+	<string key="ui_leaderboards_claim" rel_version="Feature_Leaderboards">Receber</string>
+	<string key="ui_leaderboards_season" rel_version="Feature_Leaderboards">Trimestre</string>
+	<string key="ui_leaderboards_month" rel_version="Feature_Leaderboards">Mês</string>
+	<string key="ui_leaderboards_week" rel_version="Feature_Leaderboards">Semana</string>
+	<string key="ui_leaderboard_filter_filters" rel_version="Feature_Leaderboards">Filtros</string>
+	<string key="ui_leaderboard_filter_faction" rel_version="Feature_Leaderboards">Facção</string>
+	<string key="ui_leaderboard_filter_company" rel_version="Feature_Leaderboards">Companhia</string>
+	<string key="ui_leaderboard_filter_friends" rel_version="Feature_Leaderboards">Amigos</string>
+	<string key="ui_leaderboard_filter_characters" rel_version="Feature_Leaderboards">Personagens</string>
+	<string key="ui_leaderboard_filter_changeview" rel_version="Feature_Leaderboards">Alterar Visão</string>
+	<string key="ui_leaderboard_filter_region" rel_version="Feature_Leaderboards">Região</string>
+	<string key="ui_leaderboard_filter_world" rel_version="Feature_Leaderboards">Mundo</string>
+	<string key="ui_leaderboard_filter_global" rel_version="Feature_Leaderboards">Global</string>
+	<string key="ui_leaderboard_filter_duration" rel_version="Feature_Leaderboards">Duração</string>
+	<string key="ui_leaderboard_filter_weekly" rel_version="Feature_Leaderboards">Semanal</string>
+	<string key="ui_leaderboard_filter_monthly" rel_version="Feature_Leaderboards">Mensal</string>
+	<string key="ui_leaderboard_filter_seasonal" rel_version="Feature_Leaderboards">Trimestral</string>
+	<string key="ui_leaderboard_filter_thisduration" rel_version="Feature_Leaderboards">Este {duration}</string>
+	<string key="ui_leaderboard_filter_leaderboard" rel_version="Feature_Leaderboards">Classificação</string>
+	<string key="ui_leaderboard_filter_viewonly" rel_version="Feature_Leaderboards">Somente Ver</string>
+	<string key="ui_leaderboard_category_expedition" rel_version="Feature_Leaderboards">Expedição</string>
+	<string key="ui_leaderboard_crafting" rel_version="Feature_Leaderboards">Confecção</string>
+	<string key="ui_leaderboard_fishing" rel_version="Feature_Leaderboards">Pesca</string>
+	<string key="ui_leaderboard_category_expeditions" rel_version="Feature_Leaderboards">Expedições Transmutadas</string>
+	<string key="ui_leaderboard_category_factionwar" rel_version="Feature_Leaderboards">Guerra de Facções</string>
+	<string key="ui_leaderboard_category_vs_environment" rel_version="Feature_Leaderboards">VS. Ambiente</string>
+	<string key="ui_leaderboard_category_vs_players" rel_version="Feature_Leaderboards">VS. Jogadores</string>
+	<string key="ui_leaderboard_category_tradeskills" rel_version="Feature_Leaderboards">Habilidades Mercantes</string>
+	<string key="ui_leaderboard_top_number" rel_version="Feature_Leaderboards">TOP\n{number}</string>
+	<string key="ui_leaderboard_ladder_number" rel_version="Feature_Leaderboards">{number}</string>
+	<string key="ui_leaderboard_rewards" rel_version="Feature_Leaderboards">Recompensas</string>
+	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Semana {number}</string>
+	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Mês {number}</string>
+	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">{number}º Trimestre</string>
+	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Semana {number} (Esta Semana)</string>
+	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Mês {number} (Este Mês)</string>
+	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Trimestre {number} (Este Trimestre)</string>
+	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">Este Trimestre</string>
+	<string key="ui_leaderboard_rewards_owned" rel_version="Feature_Leaderboards">Possuídas</string>
+	<string key="ui_leaderboard_rewards_earned" rel_version="Feature_Leaderboards">Ganhas</string>
+	<string key="ui_leaderboard_rewards_personalbest" rel_version="Feature_Leaderboards">Recorde Pessoal</string>
+	<string key="ui_leaderboard_rewards_companybest" rel_version="Feature_Leaderboards">Recorde da Companhia</string>
+	<string key="ui_leaderboard_rewards_rank" rel_version="Feature_Leaderboards">Ranque</string>
+	<string key="ui_leaderboard_rewards_daysgoverned" rel_version="Feature_Leaderboards">Dias de Governo</string>
+	<string key="ui_leaderboard_rewards_gotome" rel_version="Feature_Leaderboards">Ir para Mim</string>
+	<string key="ui_leaderboard_rewards_gototop" rel_version="Feature_Leaderboards">Ir para Topo</string>
+	<string key="ui_leaderboard_notification_title_single" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;1&lt;/font&gt; Recompensa de Classificação</string>
+	<string key="ui_leaderboard_notification_title" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;{amount}&lt;/font&gt; Recompensas de Classificação</string>
+	<string key="ui_leaderboard_notification_accept_single" rel_version="Feature_Leaderboards">Ver Recompensa</string>
+	<string key="ui_leaderboard_notification_accept" rel_version="Feature_Leaderboards">Ver Recompensas</string>
 	<string key="ui_blacksmithing">Forjamento de Armas</string>
 	<string key="ui_estimated_time">Tempo Estimado</string>
 	<string key="ui_queue_soon">&lt; 1 minuto</string>
@@ -526,5 +587,11 @@
 	<string key="error_loading_assets_title">Erro de carregamento de ativo do jogo</string>
 	<string key="error_loading_assets_message">Erro ao carregar ativos do jogo! Verifique a instalação.</string>
 	<string key="ui_musician" rel_version="Feature_MusicalPerformances">Músico</string>
+	<string key="ui_fw_thanksforplaying" rel_version="Feature_FreeWeekend">Agradecemos por jogar!</string>
+	<string key="ui_fw_expired_popup_body" rel_version="Feature_FreeWeekend">Sua sessão gratuita terminou devido a uma fila de jogadores que estão esperando para entrar neste mundo. Entre na fila novamente para se juntar ao mundo. Os jogadores que adquiriram o jogo têm prioridade na fila sobre os jogadores gratuitos.\n\nInscreva-se no Boletim de Notícias de New World para receber as últimas notícias e ofertas da Aeternum.</string>
+	<string key="ui_fw_seeyounexttime" rel_version="Feature_FreeWeekend">Nos vemos na próxima!</string>
+	<string key="ui_fw_rtmm_body" rel_version="Feature_FreeWeekend">Agradecemos por se juntar a nós no Final de Semana Gratuito de New World!\n\nInscreva-se no Boletim de Notícias de New World para receber as últimas notícias e ofertas da Aeternum.</string>
+	<string key="ui_fw_newsletter" rel_version="Feature_FreeWeekend">Boletim de Notícias</string>
+	<string key="ui_fw_survey" rel_version="Feature_FreeWeekend">Pesquisa</string>
 </resources>
 

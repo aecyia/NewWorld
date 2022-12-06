@@ -730,10 +730,10 @@
 	<string key="Cactus_Bush_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Suculenta joven</string>
 	<string key="Cactus_Bush_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Suculenta madura</string>
 	<string key="Cactus_Bush_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Suculenta madura</string>
-	<string key="Cactus_Bush_PricklyPear_Tiny_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus Opuntia joven</string>
+	<string key="Cactus_Bush_PricklyPear_Tiny_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus opuntia joven</string>
 	<string key="Cactus_Bush_PricklyPear_Small_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus Opuntia joven</string>
 	<string key="Cactus_Bush_PricklyPear_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus Opuntia joven</string>
-	<string key="Cactus_Bush_PricklyPear_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus Opuntia maduro</string>
+	<string key="Cactus_Bush_PricklyPear_Large_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus opuntia maduro</string>
 	<string key="Cactus_Bush_PricklyPear_Huge_DisplayName" rel_version="Territory_Brimstone_Sands">Cactus Opuntia maduro</string>
 	<string key="Scorpion_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Escorpión</string>
 	<string key="Scorpion_Medium_DisplayName" rel_version="Territory_Brimstone_Sands">Escorpión</string>
@@ -744,6 +744,17 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Autómata anubino</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Autómata esfinge</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Ofrendas de tumbas de élite</string>
+	<string key="WinterConv_Settlement_Tree_Master_DisplayName" rel_version="Event_WinterConvergence_Temp">Árbol de luz</string>
+	<string key="WinterConv_Settlement_Tree_Master_Description" rel_version="Event_WinterConvergence_Temp">¡Completa proyectos de pueblo para aumentar la belleza y las recompensas que concede el árbol de luz!</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Pila de regalos abandonada</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Pila de regalos majestuosa</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Pila de regalos espléndida</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Trozo de brillantita</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Brillantita</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Saco de regalos abundante</string>
+	<string key="WinterConv_Village_GiftBag_Description" rel_version="Event_WinterConvergence_Temp">¡Consigue un regalo maravilloso cada día para llenarte de la alegría y celebrar la Convergencia Invernal!</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Regalo perdido</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Regalo perdido</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">Cofre del campamento de guerra</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Foco arcano</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Foco arcano</string>
@@ -800,7 +811,7 @@
 	<string key="16BS_AncientGlyphWall_Exit_DisplayName" rel_version="Territory_Brimstone_Sands">Puerta de glifo antiguo</string>
 	<string key="16BS_AncientGlyphLearn_DisplayName" rel_version="Territory_Brimstone_Sands">Descifrar el glifo antiguo</string>
 	<string key="16BS_AncientTeleporter_DisplayName" rel_version="Territory_Brimstone_Sands">Elegir este glifo</string>
-	<string key="16BS_AncientTeleporter_MapPillar_DisplayName" rel_version="Territory_Brimstone_Sands">Activar el obelisco</string>
+	<string key="16BS_AncientTeleporter_MapPillar_DisplayName" rel_version="Territory_Brimstone_Sands">Activar obelisco</string>
 	<string key="16BS_AncientTeleporter_Entrance_DisplayName" rel_version="Territory_Brimstone_Sands">Activa la plataforma</string>
 	<string key="16BS_AncientTeleporter_ShortRange_DisplayName" rel_version="Territory_Brimstone_Sands">Traducir el glifo antiguo</string>
 	<string key="16BS_AncientTeleporter_ToHermopolis_DisplayName" rel_version="Territory_Brimstone_Sands">Portal a Hermópolis</string>
@@ -817,25 +828,25 @@
 	<string key="1666_0101_CharmionScroll_DisplayName" rel_version="Territory_Brimstone_Sands">Lee «El legado de Roma»</string>
 	<string key="1625_0101_LegionGear_DisplayName" rel_version="Territory_Brimstone_Sands">Investigar equipo</string>
 	<string key="1625_0102_LegionSabotage_DisplayName" rel_version="Territory_Brimstone_Sands">Quemar suministros</string>
-	<string key="1625_0201_ImhotepCageNodule_DisplayName" rel_version="Territory_Brimstone_Sands">Destruir el nódulo</string>
+	<string key="1625_0201_ImhotepCageNodule_DisplayName" rel_version="Territory_Brimstone_Sands">Destruir nódulo</string>
 	<string key="1625_0202_ImhotepScroll_DisplayName" rel_version="Territory_Brimstone_Sands">Lee «El legado de los antiguos»</string>
 	<string key="1624_0301_AEAncientCharger_DisplayName" rel_version="Territory_Brimstone_Sands">Destruye la fuente del poder</string>
 	<string key="1624_0301_AESeedFocus_DisplayName" rel_version="Territory_Brimstone_Sands">Eliminar la concentración</string>
-	<string key="1624_0302_GildedOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Coger el vaso canopo</string>
+	<string key="1624_0302_GildedOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Coger vaso canopo</string>
 	<string key="1624_0302_GoldenSpearhead_DisplayName" rel_version="Territory_Brimstone_Sands">Coger el vaso canopo</string>
 	<string key="1624_0302_BrokenVessel_DisplayName" rel_version="Territory_Brimstone_Sands">Desbloquear arca</string>
-	<string key="1624_0302_RitualOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Colocar el vaso canopo</string>
+	<string key="1624_0302_RitualOuroboros_DisplayName" rel_version="Territory_Brimstone_Sands">Colocar vaso canopo</string>
 	<string key="1624_0302_RitualSpearhead_DisplayName" rel_version="Territory_Brimstone_Sands">Colocar el vaso canopo</string>
 	<string key="1624_0302_RitualVotiveAltar_DisplayName" rel_version="Territory_Brimstone_Sands">Colocar el sello antiguo</string>
-	<string key="1624_0303_AncientSelector_DisplayName" rel_version="Territory_Brimstone_Sands">Seleccionar el glifo antiguo</string>
-	<string key="1624_0303_AncientActuator_DisplayName" rel_version="Territory_Brimstone_Sands">Activar el accionador</string>
+	<string key="1624_0303_AncientSelector_DisplayName" rel_version="Territory_Brimstone_Sands">Seleccionar glifo antiguo</string>
+	<string key="1624_0303_AncientActuator_DisplayName" rel_version="Territory_Brimstone_Sands">Activar accionador</string>
 	<string key="1624_0303_AncientScrolls_DisplayName" rel_version="Territory_Brimstone_Sands">Coger los pergaminos antiguos</string>
 	<string key="1624_0303_HandInJar_DisplayName" rel_version="Territory_Brimstone_Sands">Coger la vasija peculiar</string>
 	<string key="1624_0401_DiskAtumStart_DisplayName" rel_version="Territory_Brimstone_Sands">Drenar la barrera</string>
 	<string key="1624_0401_DiskAtumDamage_DisplayName" rel_version="Territory_Brimstone_Sands">Destruir el núcleo</string>
 	<string key="1624_0401_DiskAtumCollect_DisplayName" rel_version="Territory_Brimstone_Sands">Recuperar fragmento</string>
-	<string key="1625_0601_AzothProjector_DisplayName" rel_version="Territory_Brimstone_Sands">Activar el proyector de Azoth</string>
-	<string key="1625_0601_AzothReflector_DisplayName" rel_version="Territory_Brimstone_Sands">Rotar el reflector</string>
+	<string key="1625_0601_AzothProjector_DisplayName" rel_version="Territory_Brimstone_Sands">Activar proyector de Azoth</string>
+	<string key="1625_0601_AzothReflector_DisplayName" rel_version="Territory_Brimstone_Sands">Rotar reflector</string>
 	<string key="1625_0701_QuintTrail_DisplayName" rel_version="Territory_Brimstone_Sands">Localizar quintaesencia</string>
 	<string key="1625_0701_AncientCodePillar_DisplayName" rel_version="Territory_Brimstone_Sands">Activar obelisco</string>
 	<string key="1624_0901_BuriedTrunk_DisplayName" rel_version="Territory_Brimstone_Sands">Desenterrar baúl</string>
@@ -848,7 +859,7 @@
 	<string key="MSQ_ShipManifest_DisplayName" rel_version="Quest_MSQ2_Revamp">Lista de embarque</string>
 	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Quitar el blasón de la ciudad</string>
 	<string key="98_Covenant_02_Captive_DisplayName" rel_version="Quest_MSQ2_Revamp">Liberar prisionero</string>
-	<string key="98_Covenant_02_Grimoire_DisplayName" rel_version="Quest_MSQ2_Revamp">Coger el grimorio</string>
+	<string key="98_Covenant_02_Grimoire_DisplayName" rel_version="Quest_MSQ2_Revamp">Coger grimorio</string>
 	<string key="98_Covenant_03_Ritual_DisplayName" rel_version="Quest_MSQ2_Revamp">Completar el ritual</string>
 	<string key="98_Covenant_03_Pyre_DisplayName" rel_version="Quest_MSQ2_Revamp">Quemar el artefacto</string>
 	<string key="98_Marauders_02_PirateBanner_DisplayName" rel_version="Quest_MSQ2_Revamp">Quemar la bandera pirata</string>
@@ -975,9 +986,11 @@
 	<string key="MB_MSQ2_ReleaseCrystal_DisplayName" rel_version="Quest_MSQ2_Revamp">Liberar energía</string>
 	<string key="MSQ_CorruptedMaw_DisplayName" rel_version="Quest_MSQ2_Revamp">Destruye las fauces corruptas</string>
 	<string key="16_Side_12_DragonEgg_DisplayName" rel_version="Territory_Brimstone_Sands">Recoger huevos de «dragón»</string>
-	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Recoger la espina extraña</string>
+	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Recoger espina extraña</string>
 	<string key="NPCRescue_Dryad_DisplayName" rel_version="Quest_MSQ2_Revamp">Liberar a los dríades</string>
-	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activar la consola de glifos</string>
+	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Activar consola de glifos</string>
+	<string key="Yeti_2022_Fortify_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Aura de Piedraescarcha</string>
+	<string key="Yeti_2022_Empower_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Monolito de la fuerza bestial</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Armadillo</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Rata</string>
 </resources>

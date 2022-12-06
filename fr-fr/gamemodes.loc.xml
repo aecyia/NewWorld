@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_queue_waiting">En attente...</string>
 	<string key="ui_queue_elapsed">Temps écoulé</string>
-	<string key="ui_queue_expected">Temps estimé</string>
+	<string key="ui_queue_expected">Temps restant estimé</string>
 	<string key="ui_queue_leave_group">Quitter le groupe</string>
 	<string key="ui_queue_leave_group_confirm_title">Quitter le groupe</string>
 	<string key="ui_queue_leave_group_confirm_message">Si la taille du groupe est inférieure à {minGroupSize} membres, le groupe sera retiré de la file d'attente.\n\nConfirmer ?</string>
@@ -177,7 +177,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Cercle d'invocation</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Utilisez une pierre d'invocation à cet obélisque pour ajouter un allié monstrueux à votre équipe pour une durée limitée.</string>
 	<string key="ui_outpost_rush_portal">PORTAIL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Marquage/Effaçage d'objectif désactivé en Déferlante.</string>
 	<string key="ui_pinning_disabled_expeditions">Marquer/Ne pas marquer désactivé pour les objectifs d'expédition</string>
 	<string key="ui_or_commandpost_buff_on">Cette structure confère des bonus d'équipe.</string>

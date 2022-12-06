@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">Za mało surowców i pieniędzy</string>
 	<string key="ui_protection_price">Cena za {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">Wszystkie misje odnowią się za </string>
+	<string key="ui_daily_bonuses_faction_mission">Pierwsze trzy zrealizowane misje frakcyjne otrzymają dzienną premię.</string>
 	<string key="ui_daily_bonuses_available">Dostępne premie codzienne </string>
 	<string key="ui_daily_mission_bonus_awarded">Otrzymujesz premię za codzienne misje!</string>
 	<string key="ui_no_active_projects">Brak aktywnych projektów w tej kategorii</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Ulepsz osadę.</string>
 	<string key="ui_upgrade_settlement_description">Osada wyższego poziomu umożliwia budowanie konstrukcji wyższego poziomu.</string>
 	<string key="ui_upgrade_owned">Posiadane</string>
+	<string key="ui_upgrade_azoth_discount">Zniżka na azoth</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount}%</string>
 	<string key="ui_upgrade_locked">Zablokowane</string>
 	<string key="ui_upgrade_place_plan">Umieść plan</string>
 	<string key="ui_upgrade_unlocks">Odblokowuje</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Materiały wybuchowe klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Materiały wybuchowe klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Materiały wybuchowe klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Ulepsz kuźnię do klasy 3., w której można wytwarzać &lt;font color="#ffd058"&gt;stalową broń i pancerze.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Ulepsz kuźnię do klasy 4., w której można wytwarzać &lt;font color="#ffd058"&gt;broń i pancerze z gwiezdnego metalu.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Ulepsz kuźnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;broń i pancerze z orichalcum.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Ulepsz piec hutniczy do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;sztaby gwiezdnego metalu.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Ulepsz piec hutniczy do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;sztaby orichalcum i platyny.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Ulepsz stolarnię do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;deski z cieniodrzewa.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Ulepsz stolarnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;deski z żelazodrzewa.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Ulepsz stół kamieniarski do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;bloki magnetytowe i szlifowane doskonałe klejnoty.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Ulepsz stół kamieniarski do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;bloki z nasyconego magnetytu i szlifowane nieskazitelne klejnoty.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Ulepsz krosno do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;jedwab.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Ulepsz krosno do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;nasycony jedwab.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Ulepsz garbarnię do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;zbitą skórę.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Ulepsz garbarnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;nasyconą skórę.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Ulepsz warsztat do klasy 3, w której można wytwarzać &lt;font color="#ffd058"&gt;stalową broń dystansową oraz amunicję.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Ulepsz warsztat do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;broń dystansową i amunicję z gwiezdnego metalu.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Ulepsz warsztat do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;broń dystansową i amunicję z orichalcum.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Ulepsz stanowisko krawieckie do klasy 3, w której można wytwarzać stroje z &lt;font color="#ffd058"&gt;satyny i twardej skóry oraz złotą biżuterię.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Ulepsz stanowisko krawieckie do klasy 4, w której można wytwarzać stroje z &lt;font color="#ffd058"&gt;jedwabiu i zbitej skóry oraz platynową biżuterię.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Ulepsz stanowisko krawieckie do klasy 5, w której można wytwarzać stroje z &lt;font color="#ffd058"&gt;nasyconego jedwabiu i nasyconej skóry.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Ulepsz repozytorium arkanistyczne do klasy 3, w której można wytwarzać &lt;font color="#ffd058"&gt;destylowane przedmioty z repozytorium arkanistycznego oraz stalowe magiczne laski.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Ulepsz repozytorium arkanistyczne do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;stężone przedmioty z repozytorium arkanistycznego oraz magiczne laski z gwiezdnego metalu.&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Ulepsz repozytorium arkanistyczne do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;silne przedmioty z repozytorium arkanistycznego oraz magiczne laski z orichalcum.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Ulepsz kuźnię do klasy 3, by odblokować nowe przedmioty do wytwarzania klasy 3 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Ulepsz kuźnię do klasy 4, by odblokować nowe przedmioty do wytwarzania klasy 4 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Ulepsz kuźnię do klasy 5, by odblokować nowe przedmioty do wytwarzania klasy 5 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Ulepsz piec hutniczy do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;sztaby orichalcum.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Ulepsz piec hutniczy do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;sztaby asmodeum.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Ulepsz stolarnię do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;deski z żelazodrzewa.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Ulepsz stolarnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;błyszczący heban.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Ulepsz stół kamieniarski do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;obsydianowy kamień próżni.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Ulepsz stół kamieniarski do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;kamień runiczny.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Ulepsz krosno do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;nasycony jedwab.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Ulepsz krosno do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;splot feniksa.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Ulepsz garbarnię do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;nasyconą skórę.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Ulepsz garbarnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;runiczną skórę.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Ulepsz warsztat do klasy 3, by odblokować nowe przedmioty do wytwarzania klasy 3 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Ulepsz warsztat do klasy 4, by odblokować nowe przedmioty do wytwarzania klasy 4 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Ulepsz warsztat do klasy 5, by odblokować nowe przedmioty do wytwarzania klasy 5 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Ulepsz stanowisko krawieckie do klasy 3, by odblokować nowe przedmioty do wytwarzania klasy 3 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Ulepsz stanowisko krawieckie do klasy 4, by odblokować nowe przedmioty do wytwarzania klasy 4 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Ulepsz stanowisko krawieckie do klasy 5, by odblokować nowe przedmioty do wytwarzania klasy 5 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Ulepsz repozytorium arkanistyczne do klasy 3, by odblokować nowe przedmioty do wytwarzania klasy 3 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Ulepsz repozytorium arkanistyczne do klasy 4, by odblokować nowe przedmioty do wytwarzania klasy 4 i zyskać zniżkę na azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Ulepsz repozytorium arkanistyczne do klasy 5, by odblokować nowe przedmioty do wytwarzania klasy 5 i zyskać zniżkę na azoth.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Ulepsz kuchnię do klasy 3, w której można wytwarzać &lt;font color="#ffd058"&gt;posiłki 3. klasy.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Ulepsz kuchnię do klasy 4, w której można wytwarzać &lt;font color="#ffd058"&gt;posiłki 4. klasy.&lt;/font&gt;</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Ulepsz kuchnię do klasy 5, w której można wytwarzać &lt;font color="#ffd058"&gt;posiłki 5. klasy.&lt;/font&gt;</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Ulepsz rogi bojowe do klasy 3. Po ulepszeniu wszystkie rogi bojowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Ulepsz materiały wybuchowe do klasy 2. Po ulepszeniu wszystkie materiały wybuchowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Ulepsz materiały wybuchowe do klasy 3. Po ulepszeniu wszystkie materiały wybuchowe (rozmieszczone lub nie) również zostaną ulepszone.</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Świetliste Drzewo</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Ukończono ulepszenia Drzewa Światła!</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy 3</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Ukończono ulepszenia Drzewa Światła!</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Świetliste Drzewo klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Świetliste Drzewo klasy &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy 2, by otoczyć je &lt;font color="#ffd058"&gt;pięknie zapakowanymi prezentami&lt;/font&gt;!</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo do klasy 3, by otoczyć je &lt;font color="#ffd058"&gt;znakomicie zapakowanymi prezentami&lt;/font&gt;!</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Realizuj projekty miasteczka Zimowej Konwergencji, by zdobywać reputację w wydarzeniu!</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Ulepsz Świetliste Drzewo</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Projekt ulepszenia Świetlistego Drzewa ukończony</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Wykonuj zadania i bierz udział w aktywnościach Zimowej Konwergencji&lt;/font&gt;, by zdobywać reputację w wydarzeniu i zimowe żetony, które zapewnią ci dostęp do zdobyczy związanych z wydarzeniem! \n\n&lt;font color="#ffd058"&gt;Odzyskuj zagubione podarki, wydobywaj błyszczyty i pokonaj Zimowego Wojownika&lt;/font&gt;, by zachować nastrój Konwergencji i powstrzymać nadchodzącą Wieczną Zimę!\n\n&lt;font color="#ffd058"&gt;Odbieraj codzienne nagrody z worków z prezentami w wioskach i z Drzewa Światła w osadzie! &lt;/font&gt; Realizowanie nieskończonych projektów miasteczka Konwergencji zwiększa splendor i ulepsza nagrody zdobywane w centralnej części!</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Nieskończone</string>
 	<string key="ui_territory_level">Poziom terytorium: {level}</string>
 	<string key="ui_enter_house">Otwórz menu domu</string>
 	<string key="ui_purchase_house">Kup dom</string>

@@ -11,9 +11,9 @@
 	<string key="ui_playertitle_pvparenawins_500_SHE">Gladiatrice</string>
 	<string key="ui_playertitle_pvparenawins_500_THEY">Gladiateur</string>
 	<string key="ui_playertitle_pvparenawins_500_description">Obtenu en remportant 500 matchs d'arène.</string>
-	<string key="ui_playertitle_pvparenawins_1000">Maître de l'arène</string>
+	<string key="ui_playertitle_pvparenawins_1000">Virtuose de l'arène</string>
 	<string key="ui_playertitle_pvparenawins_1000_SHE">Virtuose de l'arène</string>
-	<string key="ui_playertitle_pvparenawins_1000_THEY">Pro de l'arène</string>
+	<string key="ui_playertitle_pvparenawins_1000_THEY">Virtuose de l'arène</string>
 	<string key="ui_playertitle_pvparenawins_1000_description">Obtenu en remportant 1 000 matchs d'arène.</string>
 	<string key="ui_playertitle_pvparenawins_Flawless">Guerrier immortel</string>
 	<string key="ui_playertitle_pvparenawins_Flawless_SHE">Guerrière immortelle</string>
@@ -823,5 +823,305 @@
 	<string key="ui_playerTitle_archaeologist_SHE" rel_version="Title_Nightmares_Prime">Archéologue</string>
 	<string key="ui_playerTitle_archaeologist_THEY" rel_version="Title_Nightmares_Prime">Archéologue</string>
 	<string key="ui_playerTitle_archaeologist_description" rel_version="Title_Nightmares_Prime">Certains secrets devraient rester enfouis.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire du chantier naval de la dynastie en difficulté 10.</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10" rel_version="Feature_Leaderboards">Médaille de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire du chantier naval de la dynastie en difficulté 10.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire du Jardin de la Genèse en difficulté 10.</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10" rel_version="Feature_Leaderboards">Médaille de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire du Jardin de la Genèse en difficulté 10.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire de l'Instrument de Lazarus en difficulté 10.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10" rel_version="Feature_Leaderboards">Médaille de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire de l'Instrument de Lazarus en difficulté 10.</string>
+	<string key="ui_playertitle_tempestheart_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire du Cœur de la Tempête en difficulté 10.</string>
+	<string key="ui_playertitle_tempestheart_score_top10" rel_version="Feature_Leaderboards">Médaille de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire du Cœur de la Tempête en difficulté 10.</string>
+	<string key="ui_playertitle_barnacles_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire de Bernacles et Poudre noire en difficulté 10.</string>
+	<string key="ui_playertitle_barnacles_score_top10" rel_version="Feature_Leaderboards">Médaille de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Bernacles</string>
+	<string key="ui_playertitle_barnacles_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire de Bernacles et Poudre noire en difficulté 10.</string>
+	<string key="ui_playertitle_brimstone_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire de l'Ennéade en difficulté 10.</string>
+	<string key="ui_playertitle_brimstone_score_top10" rel_version="Feature_Leaderboards">Médaille de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire de l'Ennéade en difficulté 10.</string>
+	<string key="ui_playertitle_depths_score_top1" rel_version="Feature_Leaderboards">Médaille d'or des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire des Profondeurs en difficulté 10.</string>
+	<string key="ui_playertitle_depths_score_top10" rel_version="Feature_Leaderboards">Médaille des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des Profondeurs</string>
+	<string key="ui_playertitle_depths_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire des Profondeurs en difficulté 10.</string>
+	<string key="ui_playertitle_starstone_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs scores du classement hebdomadaire des carrières de pierre d'étoile en difficulté 10.</string>
+	<string key="ui_playertitle_starstone_score_top10" rel_version="Feature_Leaderboards">Médaille de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs scores du classement hebdomadaire des carrières de pierre d'étoile en difficulté 10.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire du chantier naval de la dynastie en difficulté 10.</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de la dynastie</string>
+	<string key="ui_playertitle_dynastyshipyard_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire du chantier naval de la dynastie en difficulté 10.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire du Jardin de la Genèse en difficulté 10.</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de la Genèse</string>
+	<string key="ui_playertitle_gardenofgenesis_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire du Jardin de la Genèse en difficulté 10.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire de l'Instrument de Lazarus en difficulté 10.</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de Lazarus</string>
+	<string key="ui_playertitle_lazarusinstrumentality_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire de l'Instrument de Lazarus en difficulté 10.</string>
+	<string key="ui_playertitle_tempestheart_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire du Cœur de la Tempête en difficulté 10.</string>
+	<string key="ui_playertitle_tempestheart_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de la Tempête</string>
+	<string key="ui_playertitle_tempestheart_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire du Cœur de la Tempête en difficulté 10.</string>
+	<string key="ui_playertitle_barnacles_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire de Bernacles et Poudre noire en difficulté 10.</string>
+	<string key="ui_playertitle_barnacles_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de Bernacles</string>
+	<string key="ui_playertitle_barnacles_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire de Bernacles et Poudre noire en difficulté 10.</string>
+	<string key="ui_playertitle_brimstone_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire de l'Ennéade en difficulté 10.</string>
+	<string key="ui_playertitle_brimstone_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de l'Ennéade</string>
+	<string key="ui_playertitle_brimstone_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire de l'Ennéade en difficulté 10.</string>
+	<string key="ui_playertitle_depths_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire des Profondeurs en difficulté 10.</string>
+	<string key="ui_playertitle_depths_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse des Profondeurs</string>
+	<string key="ui_playertitle_depths_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire des Profondeurs en difficulté 10.</string>
+	<string key="ui_playertitle_starstone_time_top1" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 5 meilleurs temps du classement hebdomadaire des carrières de pierre d'étoile en difficulté 10.</string>
+	<string key="ui_playertitle_starstone_time_top10" rel_version="Feature_Leaderboards">Médaille de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top10_SHE" rel_version="Feature_Leaderboards">Médaille de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top10_THEY" rel_version="Feature_Leaderboards">Médaille de vitesse de pierre d'étoile</string>
+	<string key="ui_playertitle_starstone_time_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 25 meilleurs temps du classement hebdomadaire des carrières de pierre d'étoile en difficulté 10.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Reine Sirène.</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille d'exécution de la Reine Sirène</string>
+	<string key="ui_playertitle_sirenqueen_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Reine Sirène.</string>
+	<string key="ui_playertitle_eternalpools_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Mare d'éternité.</string>
+	<string key="ui_playertitle_eternalpools_completion_top10" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Mare d'éternité</string>
+	<string key="ui_playertitle_eternalpools_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Mare d'éternité.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de la Fissure monoïque.</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Fissure monoïque</string>
+	<string key="ui_playertitle_monoeciouscleft_completion_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de la Fissure monoïque.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 10 premières places du classement trimestriel de gain d'influence.</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_SHE" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_THEY" rel_version="Feature_Leaderboards">Médaille de l'influence</string>
+	<string key="ui_playertitle_openworldpvp_influence_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 50 premières places du classement trimestriel de gain d'influence.</string>
+	<string key="ui_playertitle_outpostrush_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel de la Déferlante.</string>
+	<string key="ui_playertitle_outpostrush_score_top10" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Déferlante</string>
+	<string key="ui_playertitle_outpostrush_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel de la Déferlante.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel du foyer d'altération.</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10" rel_version="Feature_Leaderboards">Médaille des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des failles</string>
+	<string key="ui_playertitle_darknessbreaches_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel du foyer d'altération.</string>
+	<string key="ui_playertitle_war_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
+	<string key="ui_playertitle_war_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
+	<string key="ui_playertitle_war_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de guerre</string>
+	<string key="ui_playertitle_war_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel de guerre.</string>
+	<string key="ui_playertitle_war_score_top10" rel_version="Feature_Leaderboards">Médaille de guerre</string>
+	<string key="ui_playertitle_war_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de guerre</string>
+	<string key="ui_playertitle_war_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de guerre</string>
+	<string key="ui_playertitle_war_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel de guerre.</string>
+	<string key="ui_playertitle_invasion_score_top1" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 10 meilleurs scores du classement trimestriel d'invasion.</string>
+	<string key="ui_playertitle_invasion_score_top10" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille d'invasion</string>
+	<string key="ui_playertitle_invasion_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en réalisant l'un des 50 meilleurs scores du classement trimestriel d'invasion.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement trimestriel des jours de gouvernance des Îles des Lames.</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille des Îles des Lames</string>
+	<string key="ui_playertitle_cutlasskeys_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement trimestriel des jours de gouvernance des Îles des Lames.</string>
+	<string key="ui_playertitle_firstlight_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance du Levant.</string>
+	<string key="ui_playertitle_firstlight_company_score_top10" rel_version="Feature_Leaderboards">Médaille du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille du Levant</string>
+	<string key="ui_playertitle_firstlight_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance du Levant.</string>
+	<string key="ui_playertitle_windsward_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance de Gré-du-Vent.</string>
+	<string key="ui_playertitle_windsward_company_score_top10" rel_version="Feature_Leaderboards">Médaille de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Gré-du-Vent</string>
+	<string key="ui_playertitle_windsward_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance de Gré-du-Vent.</string>
+	<string key="ui_playertitle_reekwater_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance d'Eaux-Fétides.</string>
+	<string key="ui_playertitle_reekwater_company_score_top10" rel_version="Feature_Leaderboards">Médaille d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille d'Eaux-Fétides</string>
+	<string key="ui_playertitle_reekwater_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance d'Eaux-Fétides.</string>
+	<string key="ui_playertitle_everfall_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance de Haute-Chute.</string>
+	<string key="ui_playertitle_everfall_company_score_top10" rel_version="Feature_Leaderboards">Médaille de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Haute-Chute</string>
+	<string key="ui_playertitle_everfall_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance de Haute-Chute.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance du Marais des Trames.</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10" rel_version="Feature_Leaderboards">Médaille du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille du marais des Trames</string>
+	<string key="ui_playertitle_weaversfen_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance du Marais des Trames.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance de la Rive tourmentée.</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10" rel_version="Feature_Leaderboards">Médaille de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de la Rive tourmentée</string>
+	<string key="ui_playertitle_restlessshore_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance de la Rive tourmentée.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance du Val des Larmes.</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10" rel_version="Feature_Leaderboards">Médaille du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille du Val des Larmes</string>
+	<string key="ui_playertitle_mourningdale_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance du Val des Larmes.</string>
+	<string key="ui_playertitle_brightwood_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance de Boisclair.</string>
+	<string key="ui_playertitle_brightwood_company_score_top10" rel_version="Feature_Leaderboards">Médaille de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Boisclair</string>
+	<string key="ui_playertitle_brightwood_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance de Boisclair.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance du bief de Nerécaille.</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10" rel_version="Feature_Leaderboards">Médaille de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Nerécaille</string>
+	<string key="ui_playertitle_ebonscale_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance du bief de Nerécaille.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance des Falaises du Roy.</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10" rel_version="Feature_Leaderboards">Médaille du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille du Roy</string>
+	<string key="ui_playertitle_monarchsbluffs_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance des Falaises du Roy.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance de Sulfure.</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10" rel_version="Feature_Leaderboards">Médaille de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de Sulfure</string>
+	<string key="ui_playertitle_brimstonesands_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance de Sulfure.</string>
+	<string key="ui_playertitle_allterritories_company_score_top1" rel_version="Feature_Leaderboards">Médaille d'or de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_SHE" rel_version="Feature_Leaderboards">Médaille d'or de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_THEY" rel_version="Feature_Leaderboards">Médaille d'or de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top1_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 3 premières places du classement saisonnier des jours de gouvernance pour tous les territoires.</string>
+	<string key="ui_playertitle_allterritories_company_score_top10" rel_version="Feature_Leaderboards">Médaille de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_SHE" rel_version="Feature_Leaderboards">Médaille de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_THEY" rel_version="Feature_Leaderboards">Médaille de contrôle de territoire</string>
+	<string key="ui_playertitle_allterritories_company_score_top10_description" rel_version="Feature_Leaderboards">Obtenu en se hissant à l'une des 6 premières places du classement saisonnier des jours de gouvernance pour tous les territoires.</string>
+	<string key="ui_playertitle_special_thereturned">Arpenteur du retour</string>
+	<string key="ui_playertitle_special_thereturned_SHE">Arpenteuse du retour</string>
+	<string key="ui_playertitle_special_thereturned_THEY">As du retour</string>
+	<string key="ui_playertitle_thereturned_description">A arpenté Retourner à Aeternum.</string>
 </resources>
 

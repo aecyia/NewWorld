@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_queue_waiting">Warten ...</string>
 	<string key="ui_queue_elapsed">Vergangen</string>
-	<string key="ui_queue_expected">Erwartet</string>
+	<string key="ui_queue_expected">Erwartete verbleibende Zeit</string>
 	<string key="ui_queue_leave_group">Gruppe verlassen</string>
 	<string key="ui_queue_leave_group_confirm_title">Gruppe verlassen</string>
 	<string key="ui_queue_leave_group_confirm_message">Sinkt die Gruppengröße unter {minGroupSize} Mitglieder, wird die Gruppe aus der Warteschlange entfernt.\n\nBist du dir sicher?</string>
@@ -177,7 +177,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Beschwörungszirkel</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Setze an diesem Obelisken einen Beschwörungsstein ein, um für eine gewisse Zeit ein verbündetes Monster für dein Team zu rufen.</string>
 	<string key="ui_outpost_rush_portal">PORTAL</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">Das An-/Abheften von Zielen ist im Außenpostensturm deaktiviert.</string>
 	<string key="ui_pinning_disabled_expeditions">Das An-/Abheften ist für Expeditionsziele deaktiviert.</string>
 	<string key="ui_or_commandpost_buff_on">Das Gebäude verleiht Teamboni.</string>

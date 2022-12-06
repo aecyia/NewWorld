@@ -23,6 +23,7 @@
 	<string key="ui_notoolazothstaff">Nie wyposażono się w: {itemName} klasy {tier}</string>
 	<string key="ui_notoolitem_multiple">Wymaga: {itemName} x{count}</string>
 	<string key="ui_notoolitem">Wymaga: {itemName}</string>
+	<string key="ui_requiremultipleplayers">Wymaga grupy co najmniej {count} osób</string>
 	<string key="ui_nopermission">Brak dostępu publicznego.</string>
 	<string key="ui_nopermissionrank">Stopień "{rank}" nie ma pozwolenia na to działanie ({action}).</string>
 	<string key="ui_nopermissionpublic">To działanie ({action}) nie jest dozwolone w przypadku konstrukcji publicznych.</string>
@@ -88,7 +89,7 @@
 	<string key="ui_build_structure_menu">Zbuduj obiekt</string>
 	<string key="ui_replace_structure_menu">Zamień obiekt</string>
 	<string key="ui_place_structure">Umieść konstrukcję</string>
-	<string key="ui_open_arena_menu">Wyświetl informacje o arenie</string>
+	<string key="ui_open_arena_menu">Wyświetl informacje o próbie</string>
 	<string key="ui_notification_summoning_stone_placed">KAMIEŃ PRZYWOŁANIA UMIESZCZONY</string>
 	<string key="ui_watcherscampfire">Ognisko strażnika</string>
 	<string key="ui_hunterscampfire">Ognisko łowcy</string>

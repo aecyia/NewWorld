@@ -47,6 +47,7 @@
 	<string key="ui_protection_fail_resources">Ressources et fonds insuffisants</string>
 	<string key="ui_protection_price">Prix par {protectionDuration}</string>
 	<string key="ui_projects_will_refresh_in">Rafraîchissement de toutes les missions dans </string>
+	<string key="ui_daily_bonuses_faction_mission">Accomplir les trois premières missions de faction vous octroie un bonus quotidien.</string>
 	<string key="ui_daily_bonuses_available">Bonus quotidiens disponibles </string>
 	<string key="ui_daily_mission_bonus_awarded">Bonus de mission quotidienne reçus !</string>
 	<string key="ui_no_active_projects">Aucun projet actif dans cette catégorie</string>
@@ -81,6 +82,8 @@
 	<string key="ui_upgrade_settlement">Améliorer la colonie</string>
 	<string key="ui_upgrade_settlement_description">Une colonie de niveau supérieur permet à tous les membres de la compagnie de construire de meilleures structures.</string>
 	<string key="ui_upgrade_owned">Qté</string>
+	<string key="ui_upgrade_azoth_discount">Remise sur l'Azoth</string>
+	<string key="ui_upgrade_azoth_discount_amount">{amount} %</string>
 	<string key="ui_upgrade_locked">Verrouillé</string>
 	<string key="ui_upgrade_place_plan">Placer plan d'am.</string>
 	<string key="ui_upgrade_unlocks">Confère</string>
@@ -427,28 +430,28 @@
 	<string key="ui_upgrade_button_ExplosiveProjectId">Explosifs &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;I&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId2">Explosifs &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;II&lt;/font&gt;</string>
 	<string key="ui_upgrade_button_ExplosiveProjectId3">Explosifs &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;III&lt;/font&gt;</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId">Améliorez la forge au palier 3 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes et armures en acier&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId2">Améliorez la forge au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes et armures en métal stellaire&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_BlacksmithProjectId3">Améliorez la forge au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes et armures en orichalque&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId">Améliorez la fonderie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des lingots de métal stellaire&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_SmeltingProjectId2">Améliorez la fonderie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des lingots d'orichalque et de platine&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId">Améliorez l'atelier de menuiserie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des planches en bois d'aléa&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_CarpentryProjectId2">Améliorez l'atelier de menuiserie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des planches en bois de fer&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId">Améliorez la table de tailleur de pierre au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la magnétite taillée et des gemmes éclatantes taillées&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_MasonryProjectId2">Améliorez la table de tailleur de pierre au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la magnétite taillée imprégnée et des gemmes immaculées taillées&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId">Améliorez le métier à tisser au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la soie&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_WeavingProjectId2">Améliorez le métier à tisser au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la soie imprégnée&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId">Améliorez la tannerie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;du cuir épais&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_TanningProjectId2">Améliorez la tannerie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;du cuir imprégné&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId">Améliorez l'atelier au palier 3 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes à distance et des munitions en acier&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId2">Améliorez l'atelier au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes à distance et des munitions en métal stellaire&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_EngineeringProjectId3">Améliorez l'atelier au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des armes à distance et des munitions en orichalque&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId">Améliorez le poste d'équipement au palier 3 pour pouvoir fabriquer des tenues à partir &lt;font color="#ffd058"&gt;de satin, de cuir corroyé et de talismans en or&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId2">Améliorez le poste d'équipement au palier 4 pour pouvoir fabriquer des tenues à partir &lt;font color="#ffd058"&gt;de soie, de cuir épais et de talismans en platine&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_OutfittingProjectId3">Améliorez le poste d'équipement au palier 5 pour pouvoir fabriquer des tenues à partir &lt;font color="#ffd058"&gt;de soie et de cuir imprégnés&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId">Améliorez la réserve dédiée aux arts obscurs au palier 3 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des objets d'arts obscurs distillés et des bâtons magiques en acier&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId2">Améliorez la réserve dédiée aux arts obscurs au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des objets d'arts obscurs concentrés et des bâtons magiques en métal stellaire&lt;/font&gt;.</string>
-	<string key="ui_upgrade_desc_AlchemistProjectId3">Améliorez la réserve dédiée aux arts obscurs au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de puissants objets d'arts obscurs et des bâtons magiques en orichalque&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId">Améliorez la forge au palier 3 pour déverrouiller des fabrications supplémentaires de palier 3 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId2">Améliorez la forge au palier 4 pour déverrouiller des fabrications supplémentaires de palier 4 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_BlacksmithProjectId3">Améliorez la forge au palier 5 pour déverrouiller des fabrications supplémentaires de palier 5 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId">Améliorez la fonderie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des lingots d'orichalque&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_SmeltingProjectId2">Améliorez la fonderie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des lingots d'asmodéum&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId">Améliorez l'atelier de menuiserie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des planches en bois de fer&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_CarpentryProjectId2">Améliorez l'atelier de menuiserie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de l'ébène étincelante&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_MasonryProjectId">Améliorer la table de tailleur de pierre au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de l'obsidienne du néant.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_MasonryProjectId2">Améliorer la table de tailleur de pierre au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la pierre runique.&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_WeavingProjectId">Améliorez le métier à tisser au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;de la soie imprégnée&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_WeavingProjectId2">Améliorez le métier à tisser au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;du velours de phœnix&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId">Améliorez la tannerie au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;du cuir imprégné&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_TanningProjectId2">Améliorez la tannerie au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;du cuir runique&lt;/font&gt;.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId">Améliorez l'atelier au palier 3 pour déverrouiller des fabrications supplémentaires de palier 3 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId2">Améliorez l'atelier au palier 4 pour déverrouiller des fabrications supplémentaires de palier 4 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_EngineeringProjectId3">Améliorez l'atelier au palier 5 pour déverrouiller des fabrications supplémentaires de palier 5 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId">Améliorez le poste d'équipement au palier 3 pour déverrouiller des fabrications supplémentaires de palier 3 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId2">Améliorez le poste d'équipement au palier 4 pour déverrouiller des fabrications supplémentaires de palier 4 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_OutfittingProjectId3">Améliorez le poste d'équipement au palier 5 pour déverrouiller des fabrications supplémentaires de palier 5 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId">Améliorez la réserve dédiée aux arts obscurs au palier 3 pour déverrouiller des fabrications supplémentaires de palier 3 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId2">Améliorez la réserve dédiée aux arts obscurs au palier 4 pour déverrouiller des fabrications supplémentaires de palier 4 et une remise sur l'Azoth.</string>
+	<string key="ui_upgrade_desc_AlchemistProjectId3">Améliorez la réserve dédiée aux arts obscurs au palier 5 pour déverrouiller des fabrications supplémentaires de palier 5 et une remise sur l'Azoth.</string>
 	<string key="ui_upgrade_desc_CookingProjectId">Améliorez la cuisine au palier 3 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des repas de palier 3&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_CookingProjectId2">Améliorez la cuisine au palier 4 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des repas de palier 4&lt;/font&gt;.</string>
 	<string key="ui_upgrade_desc_CookingProjectId3">Améliorez la cuisine au palier 5 pour pouvoir fabriquer &lt;font color="#ffd058"&gt;des repas de palier 5&lt;/font&gt;.</string>
@@ -466,6 +469,22 @@
 	<string key="ui_upgrade_desc_HornProjectId2">Améliorer les cornes de guerre au palier 3. Lorsqu'elles sont améliorées, toutes les cornes de guerre existantes (déployées ou non) sont également améliorées.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId">Améliorer les explosifs au palier 2. Lorsqu'ils sont améliorés, tous les explosifs existants (déployés ou non) sont également améliorés.</string>
 	<string key="ui_upgrade_desc_ExplosiveProjectId2">Améliorez les explosifs au palier 3. L'amélioration effectuée, tous les explosifs (déployés ou non) sont également améliorés.</string>
+	<string key="event_station" rel_version="Event_WinterConvergence_Temp">Arbre de lumière</string>
+	<string key="ui_upgrade_title_EventProjectId" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;3&lt;/font&gt;</string>
+	<string key="ui_upgrade_title_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Améliorations de l'Arbre de lumière terminées !</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier 2</string>
+	<string key="ui_upgrade_titleNoMarkup_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier 3</string>
+	<string key="ui_upgrade_button_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Améliorations de l'Arbre de lumière terminées !</string>
+	<string key="ui_upgrade_button_EventProjectId" rel_version="Event_WinterConvergence_Temp">Arbre de lumière palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt;</string>
+	<string key="ui_upgrade_button_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Arbre de lumière palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;2&lt;/font&gt;</string>
+	<string key="ui_upgrade_desc_EventProjectId" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier 2 pour le garnir de &lt;font color="#ffd058"&gt;cadeaux emballés avec soin&lt;/font&gt; !</string>
+	<string key="ui_upgrade_desc_EventProjectId2" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière au palier 3 pour le garnir de &lt;font color="#ffd058"&gt;cadeaux emballés de manière exquise&lt;/font&gt; !</string>
+	<string key="ui_upgrade_desc_EventProjectId3" rel_version="Event_WinterConvergence_Temp">Terminez les projets urbains de la Convergence hivernale pour gagner de la réputation de l'événement !</string>
+	<string key="ui_upgradebutton_label_event" rel_version="Event_WinterConvergence_Temp">Améliorer l'Arbre de lumière</string>
+	<string key="ui_event_project_complete" rel_version="Event_WinterConvergence_Temp">Projet Améliorer l'Arbre de lumière terminé</string>
+	<string key="ui_event_details_WinterConvergence" rel_version="Event_WinterConvergence_Temp">&lt;font color="#ffd058"&gt;Accomplissez les quêtes et activités de la Convergence hivernale&lt;/font&gt; pour gagner de la réputation de l'événement et des marques d'hiver pour avoir accès à une multitude de récompenses d'événement ! \n\n&lt;font color="#ffd058"&gt;Retrouvez les cadeaux perdus, extrayez des coruscantes et venez à bout du guerrier de l'hiver&lt;/font&gt; pour entretenir l'esprit de Convergence et conjurer l'Hiver éternel qui se profile !\n\n&lt;font color="#ffd058"&gt;Récupérez tous les jours des récompenses dans les sacs de cadeaux généreux de chaque village et à l'Arbre de lumière sur la scène centrale de la colonie ! &lt;/font&gt; Terminer un des projets urbains infinis de la Convergence améliore la splendeur et les récompenses obtenues de la scène centrale !</string>
+	<string key="ui_event_project_endless" rel_version="Event_Summer_Temp">Infini</string>
 	<string key="ui_territory_level">Niveau de territoire : {level}</string>
 	<string key="ui_enter_house">Ouvrir le menu Maison</string>
 	<string key="ui_purchase_house">Acheter la maison</string>

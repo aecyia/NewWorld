@@ -5,9 +5,35 @@
 	<string key="ui_calendar_event_button_go">Vamos nessa!</string>
 	<string key="ui_calendar_event_button_view_details">Ver Detalhes</string>
 	<string key="ui_rewardtype_event_progress">&lt;img src="{icon}" xPadding="0" scale="1.8" yOffset="5"&gt;&lt;/img&gt; &lt;font color="#ffffff" &gt; {amount} &lt;/font&gt; &lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt;{displayName}&lt;/font&gt;</string>
+	<string key="ui_news_button">Notícias</string>
+	<string key="ui_news_button_no_news">Nenhuma notícia nova disponível.</string>
 	<string key="ui_event_progress_name">Reputação no Evento</string>
 	<string key="ui_event">Evento</string>
 	<string key="ui_event_rules">Destaques do Evento</string>
+	<string key="ui_event_rank_0" rel_version="Event_WinterConvergence_Temp">Festeiro</string>
+	<string key="ui_event_rank_1" rel_version="Event_WinterConvergence_Temp">Celebrante</string>
+	<string key="ui_event_rank_2" rel_version="Event_WinterConvergence_Temp">Folião</string>
+	<string key="ui_event_rank_3" rel_version="Event_WinterConvergence_Temp">Animador da Festa</string>
+	<string key="ui_event_rank_4" rel_version="Event_WinterConvergence_Temp">Regente das Festas</string>
+	<string key="ui_event_shop_header" rel_version="Event_WinterConvergence_Temp">Loja da Convergência de Inverno</string>
+	<string key="ui_event_winter_body" rel_version="Event_WinterConvergence_Temp">A friaca do Inverno Eterno se aproxima! O impiedoso Guerreiro Invernal e seus lacaios de gelo ameaçam acabar com todo o calor e luz de Aeternum. Junte-se ao Andarilho Invernal para espalhar o animado Espírito de Convergência, ganhe um montão de recompensas de tempo limitado e enfrente o frio eterno!</string>
+	<string key="ui_event_winter_bullet1_title" rel_version="Event_WinterConvergence_Temp">Vila Invernal</string>
+	<string key="ui_event_winter_bullet2_title" rel_version="Event_WinterConvergence_Temp">Guerreiro Invernal</string>
+	<string key="ui_event_winter_bullet3_title" rel_version="Event_WinterConvergence_Temp">Recompensas</string>
+	<string key="ui_event_winter_convergence_tabname" rel_version="Event_WinterConvergence_Temp">Convergência de Inverno</string>
+	<string key="ui_event_winter_button_about" rel_version="Event_WinterConvergence_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre a Convergência de Inverno</string>
+	<string key="ui_event_winter_panel1_title" rel_version="Event_WinterConvergence_Temp">A CONVERGÊNCIA DE INVERNO CHEGOU</string>
+	<string key="ui_event_winter_panel1_subtitle" rel_version="Event_WinterConvergence_Temp">O evento acontece das 5h01 BRT (0h01 PST) de &lt;font color="#ffffff"&gt;14/12/22&lt;/font&gt; às 5h01 BRT (0h01 PST) de &lt;font color="#ffffff"&gt;04/01/23&lt;/font&gt;</string>
+	<string key="ui_event_winter_panel1_bullet1_title" rel_version="Event_WinterConvergence_Temp">Atividades de tempo\nlimitado</string>
+	<string key="ui_event_winter_panel1_bullet1_text" rel_version="Event_WinterConvergence_Temp">Minere cristais de Brilhita, recupere presentes perdidos, colete Tokens de Inverno e conclua atividades da Convergência de Inverno que aumentam sua reputação com o misterioso Andarilho Invernal e sua loja. Participe antes que acabe!</string>
+	<string key="ui_event_winter_panel1_bullet2_title" rel_version="Event_WinterConvergence_Temp">Armas e armaduras\ninéditas com tema de inverno</string>
+	<string key="ui_event_winter_panel1_bullet2_text" rel_version="Event_WinterConvergence_Temp">Ventos gélidos sopram e trazem novas armaduras, armas, mobília e aparências baseadas nas incríveis festividades da Convergência de Inverno em Aeternum.</string>
+	<string key="ui_event_winter_panel1_bullet3_title" rel_version="Event_WinterConvergence_Temp">NPC e loja\nde tempo limitado</string>
+	<string key="ui_event_winter_panel1_bullet3_text" rel_version="Event_WinterConvergence_Temp">O Andarilho Invernal se estabeleceu em dois povoados, Queda Eterna e Falésias do Monarca, para espalhar a alegria e a celebração da Convergência de Inverno. Visite esses locais para conhecer o Andarilho Invernal e realizar suas jornadas festivas a partir do nível 25.</string>
+	<string key="ui_event_winter_panel2_title" rel_version="Event_WinterConvergence_Temp">ITENS TEMÁTICOS DE INVERNO PARA SAQUEAR E COMPRAR</string>
+	<string key="ui_event_winter_panel2_subtile" rel_version="Event_WinterConvergence_Temp">Colete itens exclusivos que representam a época festiva de inverno em Aeternum. Confira essas novas armaduras, armas, mobília e aparências no jogo e na loja.</string>
+	<string key="ui_event_winter_panel3_title" rel_version="Event_WinterConvergence_Temp">CONFIRA AS ATIVIDADES, CONFECÇÕES E JORNADAS DA CONVERGÊNCIA DE INVERNO</string>
+	<string key="ui_event_winter_panel3_subtile" rel_version="Event_WinterConvergence_Temp">Comemore a Convergência de Inverno em Aeternum e contagie seus assentamentos e companhias com o espírito festivo! Tanto nas Vilas Invernais do Andarilho Invernal quanto nos assentamentos, há muito trabalho a ser feito!</string>
 	<string key="ui_calendar_event_button_about" rel_version="PvP_Rewards_Track">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="1"&gt;&lt;/img&gt; Sobre a Trilha de Recompensas PvP</string>
 	<string key="ui_pvp_rewards_panel1_title" rel_version="PvP_Rewards_Track">NOVA TRILHA DE RECOMPENSAS PVP ADICIONADA</string>
 	<string key="ui_pvp_rewards_panel1_subtitle" rel_version="PvP_Rewards_Track">A Trilha de Recompensas PvP contém recompensas específicas de PvP por realizar atividades PvP no jogo. A trilha pode ser concluída e executada novamente para obter uma seleção diferente de recompensas, com recompensas mais prestigiosas disponíveis à medida que mais trilhas são concluídas.</string>
@@ -17,16 +43,23 @@
 	<string key="ui_pvp_rewards_panel1_bullet2_text" rel_version="PvP_Rewards_Track">Sal de Azoth é uma moeda que permite adquirir recompensas da Trilha PvP. Você pode ganhar Sal de Azoth participando de Guerras, Investidas do Posto Avançado, Arenas 3v3 e Missões PvP, abatendo jogadores no mundo aberto e recebendo EXP enquanto estiver sinalizado.</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_title" rel_version="PvP_Rewards_Track">RECOMPENSAS</string>
 	<string key="ui_pvp_rewards_panel1_bullet3_text" rel_version="PvP_Rewards_Track">Escolha entre recompensas exclusivas, como armaduras e armas de prestígio, gestos, moedas e consumíveis.</string>
+	<string key="ui_event_weapon_xp_tabname">Impulso de EXP de Armas</string>
 	<string key="ui_event_weapon_xp_title">BÔNUS DE EXP EM ARMAS ESSA SEMANA</string>
-	<string key="ui_event_weapon_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;O bônus estará disponível para:&lt;/font&gt;</string>
+	<string key="ui_event_weapon_xp_desc">O bônus estará disponível para:</string>
+	<string key="ui_event_gathering_xp_tabname">Impulso de EXP de Coleta</string>
 	<string key="ui_event_gathering_xp_title">BÔNUS DE EXP EM COLETA ESSA SEMANA</string>
-	<string key="ui_event_gathering_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;O bônus estará disponível para:&lt;/font&gt;</string>
+	<string key="ui_event_gathering_xp_desc">O bônus estará disponível para:</string>
+	<string key="ui_event_character_xp_tabname">Impulso de EXP de Nível</string>
 	<string key="ui_event_character_xp_title">EVENTO DE BÔNUS DE EXP EM NÍVEIS DE PERSONAGEM</string>
-	<string key="ui_event_character_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;De 05/10 12:01 PT até 17/10 23:59 PT, os jogadores receberão 1,5x de bônus no nível de EXP do personagem. Este multiplicador também será aplicado à EXP de descanso.\nO bônus estará disponível para:&lt;/font&gt;</string>
+	<string key="ui_event_character_xp_desc">O bônus estará disponível para:</string>
+	<string key="ui_event_refining_xp_tabname">Impulso de EXP de Refinamento</string>
 	<string key="ui_event_refining_xp_title">BÔNUS DE EXP EM REFINAMENTO ESSA SEMANA</string>
-	<string key="ui_event_refining_xp_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;O bônus estará disponível para:&lt;/font&gt;</string>
+	<string key="ui_event_refining_xp_desc">O bônus estará disponível para:</string>
+	<string key="ui_event_extravaganza_tabname">Bônus de EXP À Vontade</string>
 	<string key="ui_event_extravaganza_title">BÔNUS DE EXP À VONTADE</string>
-	<string key="ui_event_extravaganza_desc">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Regular.font"&gt;O bônus estará disponível para:&lt;/font&gt;</string>
+	<string key="ui_event_extravaganza_desc">O bônus estará disponível para:</string>
+	<string key="ui_news_end_game_tabname">Fase Final</string>
+	<string key="ui_news_end_game_description">No nível 60, você pode &lt;font color="#ffdb7a"&gt;aprimorar seu equipamento&lt;/font&gt; para obter pontuações de equipamento mais altas. Para fazer isso, você precisará colher Gipsita de várias atividades e locais de Nível 60. Visite um &lt;font color="#ffdb7a"&gt;Forno de Gipsita&lt;/font&gt; para saber mais.</string>
 	<string key="ui_end_game_panel1_title">ATIVIDADES DA FASE FINAL</string>
 	<string key="ui_end_game_panel1_subtitle">&lt;font color="#ffffff" &gt;Você alcançou o Nível Máximo recentemente, há muito mais a fazer.&lt;/font&gt;</string>
 	<string key="ui_end_game_panel1_bullet1_title">Expedições da Fase Final</string>
@@ -56,24 +89,62 @@
 	<string key="ui_event_returnem_message_title" rel_version="Feature_FreshStart">Mundos Novos</string>
 	<string key="ui_event_returnem_message_description" rel_version="Feature_FreshStart">Mundos Novos já estão disponíveis! Apenas novos personagens podem fazer parte desses mundos.</string>
 	<string key="ui_event_returnem_button_about" rel_version="Feature_FreshStart">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre Retorno a Aeternum</string>
-	<string key="ui_event_turkulon_panel1_title" rel_version="Event_TurkeyTerror_Temp">Terror do Peru</string>
-	<string key="ui_event_turkulon_panel1_subtitle" rel_version="Event_TurkeyTerror_Temp">Se você ouvir o barulho dele, já será tarde demais.</string>
-	<string key="ui_event_turkulon_panel1_bullet1_title" rel_version="Event_TurkeyTerror_Temp">Novo Evento</string>
-	<string key="ui_event_turkulon_panel1_bullet1_text" rel_version="Event_TurkeyTerror_Temp">A grande fera Turkulon ressurge mais uma vez. Derrote-a de uma vez por todas.</string>
-	<string key="ui_event_turkulon_panel1_bullet2_title1" rel_version="Event_TurkeyTerror_Temp">Retorno à Aeternum</string>
-	<string key="ui_event_turkulon_panel1_bullet2_text1" rel_version="Event_TurkeyTerror_Temp">Assista aos streamers competirem no evento Retorno a Aeternum até 18/11 na Twitch.</string>
-	<string key="ui_event_turkulon_panel1_bullet2_title2" rel_version="Event_TurkeyTerror_Temp">Mundos Novos</string>
-	<string key="ui_event_turkulon_panel1_bullet2_text2" rel_version="Event_TurkeyTerror_Temp">Comece sua jornada em um novo mundo com uma nova economia e igualdade de condições.</string>
-	<string key="ui_event_turkulon_panel1_bullet3_title" rel_version="Event_TurkeyTerror_Temp">Cosméticos Novos</string>
-	<string key="ui_event_turkulon_panel1_bullet3_text" rel_version="Event_TurkeyTerror_Temp">Os novos itens já estão disponíveis na loja.</string>
-	<string key="ui_event_turkulon_panel2_title" rel_version="Event_TurkeyTerror_Temp">Turkulon</string>
-	<string key="ui_event_turkulon_panel2_subtitle" rel_version="Event_TurkeyTerror_Temp">À medida que a estação fica mais fria, os perus de Aeternum ficam inquietos. Pegue a receita nas Estações de Culinária para esfolar e comer a famosa perna de Turkulon enquanto pode!</string>
-	<string key="ui_event_turkulon_panel3_title1" rel_version="Event_TurkeyTerror_Temp">Retorno a Aeternum</string>
-	<string key="ui_event_turkulon_panel3_subtitle1" rel_version="Event_TurkeyTerror_Temp">O evento Retorno a Aeternum termina em 18/11 na Twitch. Qual dos seus streamers favoritos sairá vitorioso?\n\nhttp://www.twitch.tv/playnewworld</string>
-	<string key="ui_event_turkulon_panel3_title2" rel_version="Event_TurkeyTerror_Temp">Mundos Novos</string>
-	<string key="ui_event_turkulon_panel3_subtitle2" rel_version="Event_TurkeyTerror_Temp">Comece um novo personagem em mundos novos certificados &lt;img src="lyshineui/images/calendarevent/turkulon/iconfreshstart" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt;. Não é possível transferir personagens de ou para esses mundos.</string>
-	<string key="ui_event_turkulon_button_about" rel_version="Event_TurkeyTerror_Temp">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre Turkulon</string>
-	<string key="ui_event_turkulon_panel3_title3" rel_version="Event_TurkeyTerror_Temp">Ofertas da Black Friday!</string>
-	<string key="ui_event_turkulon_panel3_subtitle3" rel_version="Event_TurkeyTerror_Temp">Colecione os melhores cosméticos que Aeternum tem a oferecer!\nPacotes com favoritos dos jogadores estão disponíveis por tempo limitado, além da aparência de vestimenta Sorriso de Jester.\nVisite a loja hoje mesmo!</string>
+	<string key="ui_event_battle_for_new_world_panel1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle For New World Panel 1 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Subtitle.</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet1_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet1_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 1 Text.</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet2_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_battle_for_new_world_panel1_bullet3_text" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_battle_for_new_world_panel2_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Title</string>
+	<string key="ui_event_battle_for_new_world_panel2_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 2 Subtitle</string>
+	<string key="ui_event_battle_for_new_world_panel3_title" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Battle for New World Panel 3 Title</string>
+	<string key="ui_event_battle_for_new_world_panel3_subtitle" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">Subtítulo do Painel 3 para Batalha por New World\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_battle_for_new_world_button_about" rel_version="Feature_BFNW" comment="DO NOT TRANSLATE">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; About Battle For New World</string>
+	<string key="ui_news_modal_display_start_date">Começa em {startDate}</string>
+	<string key="ui_news_modal_display_end_date">Termina em {endDate}</string>
+	<string key="ui_news_modal_display_start_datetime">Começa às {startTime} em {startDate}</string>
+	<string key="ui_news_modal_display_end_datetime">Termina às {endTime} em {endDate}</string>
+	<string key="ui_event_free_weekend_event_message_title" rel_version="Feature_FreeWeekend">Final de Semana Gratuito</string>
+	<string key="ui_event_free_weekend_event_message_description" rel_version="Feature_FreeWeekend">O Final de Semana Gratuito está em andamento.</string>
+	<string key="ui_event_free_weekend_description" rel_version="Feature_FreeWeekend">Durante este evento de tempo limitado, curta a nova zona Areias de Enxofre, a renovada Jornada da História Principal e as últimas atualizações de New World de graça!\n\nPara jogar com amigos, os personagens precisam estar no mesmo mundo. Jogadores não pagantes podem aproveitar um número ilimitado de sessões, a menos que haja fila para o mundo (no fim da sessão, jogadores não pagantes deverão entrar na fila de novo).</string>
+	<string key="ui_event_free_weekend" rel_version="Feature_FreeWeekend">Final de Semana Gratuito</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Painel 1, Título do Marcador 1</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Painel 1, Texto do Marcador 1</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_title" rel_version="Feature_FreeWeekend">Final de Semana Gratuito</string>
+	<string key="ui_event_free_weekend_in_progress_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Subtítulo do Painel 1</string>
+	<string key="ui_event_free_weekend_in_progress_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 2 Subtitle</string>
+	<string key="ui_event_free_weekend_in_progress_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend In Progress Panel 3 Title</string>
+	<string key="ui_event_free_weekend_in_progress_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito em andamento Subtítulo do Painel 3\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_free_weekend_in_progress_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre o Final de Semana Gratuito</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_title" rel_version="Feature_FreeWeekend">O Final de Semana Gratuito Acaba Hoje!</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Subtitle.</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet1_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 1 Text.</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet2_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 2 Text</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel1_bullet3_text" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 1, Bullet 3 Text</string>
+	<string key="ui_event_free_weekend_ending_soon_panel2_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel2_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 2 Subtitle</string>
+	<string key="ui_event_free_weekend_ending_soon_panel3_title" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Free Weekend Ending Soon Panel 3 Title</string>
+	<string key="ui_event_free_weekend_ending_soon_panel3_subtitle" rel_version="Feature_FreeWeekend" comment="DO NOT TRANSLATE">Final de Semana Gratuito Acaba em Breve Subtítulo do Painel 3\n \nhttp://www.twitch.tv/playnewworld</string>
+	<string key="ui_event_free_weekend_ending_soon_button_about" rel_version="Feature_FreeWeekend">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre o Final de Semana Gratuito</string>
+	<string key="ui_event_leaderboards_tabname" rel_version="Feature_Leaderboards">Tabela de Classificação</string>
+	<string key="ui_event_leaderboards_title" rel_version="Feature_Leaderboards">Introdução da Tabela de Classificação</string>
+	<string key="ui_event_leaderboards_description" rel_version="Feature_Leaderboards">As tabelas de classificação acompanham várias atividades do New World em assentamentos e facções. Compita com outros jogadores em várias atividades individuais, de companhias e de facções para subir nas tabelas de classificação, que são redefinidas periodicamente.\n\n&lt;font color="#ffdb7a"&gt;Acesse a Tabela de Classificação no menu de Modos.</string>
+	<string key="ui_event_leaderboards_bullet1_title" rel_version="Feature_Leaderboards">Recompensas</string>
+	<string key="ui_event_leaderboards_button_about" rel_version="Feature_Leaderboards">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Sobre a Tabela de Classificação</string>
+	<string key="ui_event_dec_mtx_tabname" rel_version="Entitlements_WinterConvergence_MTX">Loja</string>
+	<string key="ui_event_dec_mtx_title" rel_version="Entitlements_WinterConvergence_MTX">Convergência de Inverno</string>
+	<string key="ui_event_dec_mtx_description" rel_version="Entitlements_WinterConvergence_MTX">Proteja-se dos estragos do Inverno Eterno com novos cosméticos disponíveis na loja! Você com certeza vai querer se equipar com as últimas armas e roupas de inverno quando os dias ficarem mais curtos e as longas noites de terror lhe aguardarem. Verifique a loja regularmente para encontrar brindes em dezembro e aproveite nossas promoções de inverno! O conteúdo especial que não é de baú estará à venda em 13/12 e o equipamento Convergência de Inverno do ano passado chegará em 20/12!</string>
+	<string key="ui_event_dec_mtx_button_about" rel_version="Entitlements_WinterConvergence_MTX">&lt;img src="lyshineui/images/icons/misc/icon_question_orange" xPadding="0" scale="1.5" yOffset="3"&gt;&lt;/img&gt; Convergência de Inverno</string>
+	<string key="ui_news_store_tabname">Loja</string>
 </resources>
 

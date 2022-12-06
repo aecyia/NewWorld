@@ -70,9 +70,9 @@
 	<string key="1416_0202_d_02_Task" speaker="UI">Besiege {targetName} (Gebiet: {POITags})</string>
 	<string key="1416_0202_d_03_Task" speaker="UI">Besiege {targetName} (Gebiet: {POITags})</string>
 	<string key="1414_0101_a_Title" speaker="UI">Das Brackwasser entlang</string>
-	<string key="1414_0101_b_Description" speaker="UI">Sprich mit Legat Fulvius in Brackwasser.</string>
+	<string key="1414_0101_b_Description" speaker="UI">Sprich mit Aulus Fulvius in Brackwasser.</string>
 	<string key="1414_0101_Start_Prompt" speaker="UI - Player Prompt">"Ich kann deine Botschaft überbringen."</string>
-	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Wirklich? Hervorragend. Es ist ein ganz schöner Weg. Aber! Wenn du dir sicher bist ...\n\nDie Nachricht ist für den örtlichen Magistrat, Legat Fulvius. Abgesehen von deinen flinken Füßen wird er auch deine anderen Talente zu schätzen wissen. Da bin ich mir ganz sicher.</string>
+	<string key="1414_0101_c_Proposal" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO="1414_0101_c_Proposal" VO_Status="Recorded">Wirklich? Hervorragend. Es ist ein ganz schöner Weg. Aber! Wenn du dir sicher bist ...\n\nDie Nachricht ist für den örtlichen Magistrat, Aulus Fulvius. Abgesehen von deinen flinken Füßen wird er auch deine anderen Talente zu schätzen wissen. Da bin ich mir ganz sicher.</string>
 	<string key="1414_0101_e_Incomplete" speaker="Watcher Reynolds- Edengrove" name="WatcherReynolds" VO_Status="Recorded">Gehe einfach nach Süden, immer weiter und weiter nach Süden. Stelle sicher, dass du genügend Rationen für die Reise mitnimmst.</string>
 	<string key="1414_0101_f_Complete" speaker="Legatus Fulvius - Reekwater" name="LegatusFulvius" VO="1414_0101_f_Complete" VO_Status="Recorded">Was ist das dann? Eine Nachricht aus dem fernen Edenhain? Ich kenne nicht viele, die diese Reise heil überstehen würden. Ich bin durchaus beeindruckt.\n\nDa du schon mal hier bist, würde ich deine überragenden Wanderfähigkeiten gern für mich einsetzen.</string>
 	<string key="1418_0201_a_Title" speaker="UI">Verblassendes Licht</string>
@@ -221,7 +221,7 @@
 	<string key="1421_0207_a_Title" speaker="UI">Feiner Ölfilm</string>
 	<string key="1421_0208_a_Title" speaker="UI">Der toxische Bogenschützenschüler</string>
 	<string key="1421_0209_a_Title" speaker="UI">Der verblieben Kampfgeist</string>
-	<string key="1421_0201_b_Description" speaker="UI">Sammle die für die Herstellung des legendären Bogens Flut erforderlichen Materialien.</string>
+	<string key="1421_0201_b_Description" speaker="UI">Sammle die für die Herstellung des legendären Bogens Pfeilflut erforderlichen Materialien.</string>
 	<string key="1421_0202_b_Description" speaker="UI">Reise nach Periheim und erbeute Stücke von Fahlem Eschenholz von den Untoten.</string>
 	<string key="1421_0203_b_Description" speaker="UI">Reise zur Spilaiohöhle und erbeute Bruchstücke des Verhexten Knochens von Ahnenwächtern.</string>
 	<string key="1421_0204_b_Description" speaker="UI">Reise zum Steinschädelfort und erbeute Stücke von Seegeküsstem Eichenholz von Steinschädelpiraten.</string>
@@ -232,7 +232,7 @@
 	<string key="1421_0209_b_Description" speaker="UI">Reise nach Eridanus und erbeute Stücke von Verzaubertem Azoth-Holz von Eridanischer Freisasse.</string>
 	<string key="1421_0201_c_start_prompt" speaker="UI - Player Prompt">"Jeder braucht einen guten Bogen."</string>
 	<string key="1421_0201_c_Proposal" speaker="Ranger Chapman - Edengrove" VO="Ranger_1421_0201_Torrent_ProposalResponse" VO_Status="Recorded">Nun vor allem jemand wie du mit solchen Adleraugen, mit denen du mich sofort entdeckst. \n\nAh, das müssen die Pläne für den mächtigen Bogen "Flut" sein, einer wahren Legende unter den Waldläufern. Beschaffe diese Gegenstände und er soll dir gehören.</string>
-	<string key="1421_0201_e_Incomplete" speaker="Ranger Chapman - Edengrove">Auf "Flut" werden alle Bogenschützen Aeternums neidisch sein.\n\nEr ist eine unvergleichliche Waffe.</string>
+	<string key="1421_0201_e_Incomplete" speaker="Ranger Chapman - Edengrove">Auf "Pfeilflut" werden alle Bogenschützen Aeternums neidisch sein.\n\nEr ist eine unvergleichliche Waffe.</string>
 	<string key="1421_0201_f_Complete" speaker="Ranger Madaki - Shattered Mountain" VO="Ranger_1421_0201_Torrent_AvailResponse" VO_Status="Recorded">Du hast alles, ja? Jenseitige Sehne, alte Knochen, ein feiner Ölfilm und eine perfekte Sehne für die perfekte Spannung. \n\nNimm diesen Bogen, "Flut", und trage ihn mit Stolz. Er ist etwas ganz Besonderes.</string>
 	<string key="1421_0201_d_00_TorrentContainer_weaponwrapperquest" speaker="UI">Aufgabe abschließen: Die Segnung des Regens</string>
 	<string key="1421_0201_d_01_TorrentContainer_weaponwrapperquest_questPush_1" speaker="UI">Aufgabe abschließen: Der untote Bogenschütze</string>

@@ -33,8 +33,8 @@
 	<string key="ui_preview">Vista previa</string>
 	<string key="ui_item_already_claimed">Ya se ha reclamado el objeto.</string>
 	<string key="ui_add_more_fictional_currency" rel_version="Feature_MTX">Añadir más &lt;img src="lyshineui/images/mtx/icon_mtx_currency" scale="2.8" yOffset="10"&gt;&lt;/img&gt;</string>
-	<string key="ui_discount_off">{number} &lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;no&lt;/font&gt;</string>
-	<string key="ui_discount_off_bold">{number} &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;no&lt;/font&gt;</string>
+	<string key="ui_discount_off">{number} %&lt;font face="lyshineui/fonts/Nimbus_Regular.font"&gt;de descuento&lt;/font&gt;</string>
+	<string key="ui_discount_off_bold">{number} %&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;de descuento&lt;/font&gt;</string>
 	<string key="ui_marks_of_fortune" rel_version="Feature_MTX">Marcas de fortuna</string>
 	<string key="ui_entitlement_balance" rel_version="Feature_MTX">Saldo actual: {balance}</string>
 	<string key="ui_dye_number" rel_version="Feature_MTX">Tinte n.º {rewardId}</string>
@@ -88,7 +88,7 @@
 	<string key="ui_transfer_requirement_sanctuary" rel_version="Feature_MTX">Debes estar en un santuario (asentamiento, puesto remoto, santuario espiritual o atalaya) antes de transferirte a otro mundo</string>
 	<string key="ui_transfer_requirement_not_in_company" rel_version="Feature_MTX">No puedes pertenecer a una compañía antes de transferirte a otro mundo</string>
 	<string key="ui_transfer_requirement_not_have_active_orders" rel_version="Feature_MTX">No puedes tener ofertas de compraventa activas en el puesto comercial antes de transferirte a otro mundo</string>
-	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_MTX">No se pueden transferir personajes desde mundos desde cero o a ellos.</string>
+	<string key="ui_transfer_requirement_fresh_start" rel_version="Feature_FreshStart">No se pueden transferir personajes a los mundos desde cero.</string>
 	<string key="ui_transfer_requirement_minimum_level" rel_version="Feature_MTX">Tienes que haber alcanzado el nivel {level} antes de transferirte</string>
 	<string key="ui_transfer_requirement_no_houses" rel_version="Feature_MTX">No puedes poseer ninguna casa antes de transferirte</string>
 	<string key="ui_transfer_requirement_cooldown" rel_version="Feature_MTX">Debes esperar a que termine la recarga antes de volver a transferirte entre mundos o regiones.</string>
@@ -111,7 +111,7 @@
 	<string key="ui_bundle_tooltip" rel_version="Feature_MTX">Este producto es un lote.</string>
 	<string key="reward_type_tooltip_emote" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;GESTOS&lt;/font&gt;: Puedes usar un gesto en el menú de gestos. Pulsa [{hintText}] para abrir el menú de gestos.</string>
 	<string key="reward_type_tooltip_itemskin" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DISEÑOS DE OBJETO&lt;/font&gt;: Puedes aplicar un diseño haciendo clic en la armadura, las herramientas y las armas de tu inventario, y después en «Cambiar diseño».</string>
-	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DISEÑOS DEL CAMPAMENTO&lt;/font&gt;: Puedes aplicar un diseño haciendo clic en tu campamento desde tu inventario, y después en «Cambiar diseño».</string>
+	<string key="reward_type_tooltip_campskin" rel_version="Feature_Camp_Skins">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;DISEÑOS DEL CAMPAMENTO&lt;/font&gt;: Puedes cambiar el diseño seleccionando «Cambiar diseño» en el campamento.</string>
 	<string key="reward_type_tooltip_itemdye" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;TINTES&lt;/font&gt;: Puedes utilizar un tinte haciendo clic en una armadura de tu inventario y después en «Teñir armadura».</string>
 	<string key="reward_type_tooltip_guildcrest" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;BLASONES&lt;/font&gt;: Puedes aplicar blasones en la pantalla de la compañía.</string>
 	<string key="reward_type_tooltip_housing_item" rel_version="Feature_MTX">&lt;font face="lyshineui/fonts/Nimbus_SemiBold.font"&gt;OBJETOS PARA CASAS&lt;/font&gt;: Puedes colocar objetos para casas en el modo de decoración de casas cuando estés en tu hogar.</string>
@@ -471,7 +471,7 @@
 	<string key="server_transfer_unavailable_outpost_rush_queue" rel_version="Feature_Server_Transfer">No puedes transferirte de mundo mientras estás a la cola en Asalto a puesto remoto.</string>
 	<string key="server_transfer_unavailable_transfer_world_full" rel_version="Feature_Server_Transfer">La lista de transferencia de esta región está llena, inténtalo de nuevo en unas horas.</string>
 	<string key="server_transfer_unavailable_target_region_characters_slots_full" rel_version="Feature_Server_Transfer">Todas las ranuras de personaje de esta región están llenas. Tienes que borrar o transferir un personaje existente en esta región para poder transferir otro.</string>
-	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Solo se pueden crear personajes nuevos en este mundo desde cero. No se pueden transferir personajes desde o a este mundo desde cero.</string>
+	<string key="server_transfer_unavailable_freshstart" rel_version="Feature_FreshStart">Solo se pueden crear personajes nuevos en este mundo desde cero. No se pueden transferir personajes a este mundo desde cero.</string>
 	<string key="server_transfer_unavailable_bfnw" rel_version="Feature_BFNW">Solo pueden crear personajes en este mundo los jugadores que participen en Retorno a Aetérnum. No se pueden transferir personajes desde o a este mundo.</string>
 	<string key="server_transfer_more_details" rel_version="Feature_Server_Transfer">Para ver más detalles, consulta</string>
 	<string key="server_transfer_transfer_faq" rel_version="Feature_Server_Transfer">Preguntas frecuentes sobre la transferencia entre regiones</string>
@@ -926,11 +926,30 @@
 	<string key="ui_crestforeground_222" rel_version="Crest_Pack_Nightmares">Rey de corona ósea</string>
 	<string key="ui_crestforeground_223" rel_version="Crest_Pack_Nightmares">Tormento de Baalphazu</string>
 	<string key="ui_crestforeground_224" rel_version="Crest_Pack_Nightmares">Calabazancho en vuelo</string>
-	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Conjunto de herramientas de hada del ocaso</string>
+	<string key="Bundle_Decor_DarkFae_name" rel_version="Housing_DarkFae_MTX_Pack_2022">Lote de decoración de sílfide crepuscular</string>
+	<string key="Bundle_Decor_DarkFae_description" rel_version="Housing_DarkFae_MTX_Pack_2022">Tus invitados se sentirán como en casa con este mobiliario opulento y encantado.</string>
+	<string key="Bundle_Decor_Winter2022_name" rel_version="Housing_Winter_MTX_Pack_2022">Lote de decoración de comodidades invernales</string>
+	<string key="Bundle_Decor_Winter2022_description" rel_version="Housing_Winter_MTX_Pack_2022">Algo cálido y confortable a lo que agarrarse cuando soplan los vientos invernales y las criaturas de pesadilla aúllan.</string>
+	<string key="Bundle_Tool_DarkFae_name" rel_version="ToolSkins_DarkFae_MTX">Conjunto de herramientas de espíritu del ocaso</string>
 	<string key="Bundle_Tool_DarkFae_description" rel_version="ToolSkins_DarkFae_MTX">Los espíritus místicos que protegen estas tierras han imbuido estas herramientas de sus conocimientos sobre la mejor forma de recolectar los recursos.</string>
-	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Lote de prendas hada del ocaso</string>
-	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">Aunque Aetérnum esté a rebosar de almas corruptas, también podemos hallar magia delicada y encantadora entre las hadas.</string>
-	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Lote de armas hada del ocaso</string>
+	<string key="Apparel_WinterConv2022_1_name" rel_version="Apparel_Winter_Conv_MTX_1">Ciervo invernal</string>
+	<string key="Apparel_WinterConv2022_1_description" rel_version="Apparel_Winter_Conv_MTX_1">Notas el extraño calor del invierno en tu interior.</string>
+	<string key="Apparel_WinterConv2022_Deluxe_name" rel_version="Apparel_Winter_Conv_MTX_3">Atuendo de juerguista de la Convergencia</string>
+	<string key="Apparel_WinterConv2022_Deluxe_description" rel_version="Apparel_Winter_Conv_MTX_3">Esta vestimenta se ha usado para celebrar la Convergencia desde hace muchos siglos.</string>
+	<string key="Apparel_WinterConv2022_Prime_name" rel_version="Apparel_Winter_Conv_Prime_1">Caballero del solsticio</string>
+	<string key="Apparel_WinterConv2022_Prime_description" rel_version="Apparel_Winter_Conv_Prime_1">Aunque hace siglos que se olvidó su verdadero cometido, estos caballeros ceremoniales nos protegen durante las celebraciones.</string>
+	<string key="ui_crestforeground_225" rel_version="Crest_Pack_Winter_Conv">Astas de la Convergencia</string>
+	<string key="ui_crestforeground_226" rel_version="Crest_Pack_Winter_Conv">Copo de la Convergencia</string>
+	<string key="ui_crestforeground_227" rel_version="Crest_Pack_Winter_Conv">Yeti de la Convergencia</string>
+	<string key="Bundle_Crest_WinterConv2022_name" rel_version="Crest_Pack_Winter_Conv">Paquete de blasones de la Convergencia Invernal</string>
+	<string key="Bundle_Crest_WinterConv2022_description" rel_version="Crest_Pack_Winter_Conv">Demuestra tu espíritu festivo y tu amor por la tradición.</string>
+	<string key="Bundle_PR_DarkFae_Apparel_name" rel_version="Entitlements_DarkFae_MTX">Lote de prendas espíritu del ocaso</string>
+	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">Aunque Aetérnum esté a rebosar de almas corruptas, también podemos hallar magia delicada y encantadora entre sus numerosos espíritus.</string>
+	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Lote de armas espíritu del ocaso</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">Los resultados son tan impredecibles como encantadores al usar unas armas bendecidas por los espíritus de la naturaleza.</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Lote de prendas de la Convergencia Invernal</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">¡Haz gala de tu espíritu festivo y mantén a raya el Invierno Eterno con estos atuendos de temporada!</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Lote de armas de la Convergencia Invernal</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">¡La Convergencia Invernal es una época perfecta para celebrar con la familia y desenfundar armas letales al menor insulto!</string>
 </resources>
 

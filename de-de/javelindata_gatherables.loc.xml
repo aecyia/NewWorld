@@ -744,6 +744,17 @@
 	<string key="AnubianBrute_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Anubischer Automaton</string>
 	<string key="AnubianPanther_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Sphinx-Automaton</string>
 	<string key="16BS_LootContainer_Elite_LegionStoneTomb_DisplayName" rel_version="Territory_Brimstone_Sands">Elite-Grabbeigaben</string>
+	<string key="WinterConv_Settlement_Tree_Master_DisplayName" rel_version="Event_WinterConvergence_Temp">Baum des Lichts</string>
+	<string key="WinterConv_Settlement_Tree_Master_Description" rel_version="Event_WinterConvergence_Temp">Schließe Stadtprojekte ab, um die Pracht und die Belohnungen des Baums des Lichts zu verbessern!</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Trister Geschenkestapel</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Prächtiger Geschenkestapel</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Exquisiter Geschenkestapel</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Glitzerit-Brocken</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Glitzerit</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Praller Geschenkesack</string>
+	<string key="WinterConv_Village_GiftBag_Description" rel_version="Event_WinterConvergence_Temp">Sammle jeden Tag ein wunderbares Geschenk, um die Winterkonvergenz zu feiern und zu genießen!</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Verlorenes Geschenk</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Verlorenes Geschenk</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">Kriegslager-Truhe</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Arkanes Zentrum</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Arkanes Zentrum</string>
@@ -846,7 +857,7 @@
 	<string key="MSQ_ShipWheel_DisplayName" rel_version="Quest_MSQ2_Revamp">Steuerrad</string>
 	<string key="MSQ_Grace_Trapped_DisplayName" rel_version="Quest_MSQ2_Revamp">Verderbniskäfig</string>
 	<string key="MSQ_ShipManifest_DisplayName" rel_version="Quest_MSQ2_Revamp">Schiffsinventarliste</string>
-	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Hole das Stadtwappen herunter.</string>
+	<string key="98_Covenant_01_Crest_DisplayName" rel_version="Quest_MSQ2_Revamp">Hole das Stadtwappen herunter</string>
 	<string key="98_Covenant_02_Captive_DisplayName" rel_version="Quest_MSQ2_Revamp">Gefangenen freilassen</string>
 	<string key="98_Covenant_02_Grimoire_DisplayName" rel_version="Quest_MSQ2_Revamp">Grimoire nehmen</string>
 	<string key="98_Covenant_03_Ritual_DisplayName" rel_version="Quest_MSQ2_Revamp">Schließe das Ritual ab.</string>
@@ -854,7 +865,7 @@
 	<string key="98_Marauders_02_PirateBanner_DisplayName" rel_version="Quest_MSQ2_Revamp">Verbrenne das Piratenbanner.</string>
 	<string key="98_Marauders_02_ExplosiveBarrel_DisplayName" rel_version="Quest_MSQ2_Revamp">Beschlagnahme das explosive Fass.</string>
 	<string key="98_Marauders_02_PirateHoard_DisplayName" rel_version="Quest_MSQ2_Revamp">Den Piratenschatz plündern</string>
-	<string key="98_Marauders_03_ExplosivePlacementA_DisplayName" rel_version="Quest_MSQ2_Revamp">Platziere das explosive Fass.</string>
+	<string key="98_Marauders_03_ExplosivePlacementA_DisplayName" rel_version="Quest_MSQ2_Revamp">Platziere das explosive Fass</string>
 	<string key="98_Marauders_03_ExplosivePlacementB_DisplayName" rel_version="Quest_MSQ2_Revamp">Platziere das explosive Fass.</string>
 	<string key="98_Marauders_03_CaptiveA_DisplayName" rel_version="Quest_MSQ2_Revamp">Befreie den Marodeur-Rekruten.</string>
 	<string key="98_Marauders_03_CaptiveB_DisplayName" rel_version="Quest_MSQ2_Revamp">Befreie die Marodeur-Wache.</string>
@@ -862,8 +873,8 @@
 	<string key="98_Syndicate_01_WolfLure_DisplayName" rel_version="Quest_MSQ2_Revamp">Den Wolfsköder platzieren</string>
 	<string key="98_Syndicate_02_AzothTreeWater_DisplayName" rel_version="Quest_MSQ2_Revamp">Sammle das Azoth-Baum-Wasser.</string>
 	<string key="98_Syndicate_03_WaterBarrel_DisplayName" rel_version="Quest_MSQ2_Revamp">Zertrümmere das Wasserfass.</string>
-	<string key="98_Syndicate_03_Well_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Gieß den Trunk in den Brunnen.</string>
-	<string key="98_Syndicate_03_Well_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Gieß den Trunk in den Brunnen.</string>
+	<string key="98_Syndicate_03_Well_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Gieß den Trunk in den Brunnen</string>
+	<string key="98_Syndicate_03_Well_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Gieß den Trunk in den Brunnen</string>
 	<string key="MSQ_Treasure_A_DisplayName" rel_version="Quest_MSQ2_Revamp">Astrolabium</string>
 	<string key="MSQ_Treasure_B_DisplayName" rel_version="Quest_MSQ2_Revamp">Armleuchter</string>
 	<string key="MSQ_Treasure_C_DisplayName" rel_version="Quest_MSQ2_Revamp">Kelch</string>
@@ -945,7 +956,7 @@
 	<string key="04A_Side05_03_Delivery_DropSpot_DisplayName" rel_version="Quest_MSQ2_Revamp">Ablagestelle</string>
 	<string key="04A_Side08_02_SecretIngredient_DisplayName" rel_version="Quest_MSQ2_Revamp">Behandelte Hortensie</string>
 	<string key="04A_Side10_01_CopperSeam" rel_version="Quest_MSQ2_Revamp">Reicher Kupferflöz</string>
-	<string key="Gimmick_BreakingWallsCannon_DisplayName" rel_version="Quest_MSQ2_Revamp">Feuerkanone</string>
+	<string key="Gimmick_BreakingWallsCannon_DisplayName" rel_version="Quest_MSQ2_Revamp">Kanone abfeuern</string>
 	<string key="06A_MSQ_05_windmillTurn_DisplayName" rel_version="Quest_MSQ2_Revamp">Windmühlen drehen</string>
 	<string key="06A_MSQ_05_grainSack_DisplayName" rel_version="Quest_MSQ2_Revamp">Volle Getreidesäcke</string>
 	<string key="06A_MSQ_05_foodCart_DisplayName" rel_version="Quest_MSQ2_Revamp">Gesammeltes Essen platzieren</string>
@@ -978,6 +989,8 @@
 	<string key="16_Side_13_WormSpine_DisplayName" rel_version="Territory_Brimstone_Sands">Seltsamen Stachel sammeln</string>
 	<string key="NPCRescue_Dryad_DisplayName" rel_version="Quest_MSQ2_Revamp">Die Dryade befreien</string>
 	<string key="Dungeon_BrimstoneSands00_TranslateGlyph" rel_version="Territory_Brimstone_Sands">Glyphen-Konsole aktivieren</string>
+	<string key="Yeti_2022_Fortify_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Felsen-Aura</string>
+	<string key="Yeti_2022_Empower_Monolith_DisplayName" rel_version="Event_WinterConvergence_Temp">Monolith der Bestialischen Stärke</string>
 	<string key="Armadillo_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Gürteltier</string>
 	<string key="Rat_Base_DisplayName" rel_version="Territory_Brimstone_Sands">Ratte</string>
 </resources>

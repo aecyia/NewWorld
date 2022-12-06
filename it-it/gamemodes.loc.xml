@@ -1,7 +1,7 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<string key="ui_queue_waiting">In attesa...</string>
 	<string key="ui_queue_elapsed">Tempo trascorso</string>
-	<string key="ui_queue_expected">Previsto</string>
+	<string key="ui_queue_expected">Tempo rimanente previsto</string>
 	<string key="ui_queue_leave_group">Abbandona gruppo</string>
 	<string key="ui_queue_leave_group_confirm_title">Abbandona gruppo</string>
 	<string key="ui_queue_leave_group_confirm_message">Se il numero di membri rimasti è inferiore a {minGroupSize}, il gruppo verrà rimosso dalla coda di accesso.\n\nVuoi procedere?</string>
@@ -177,7 +177,7 @@
 	<string key="ui_outpost_rush_summoning_circle">Cerchio di evocazione</string>
 	<string key="ui_outpost_rush_summoning_circle_desc">Usa una pietra di evocazione presso questo obelisco per aggiungere un alleato mostruoso alla tua squadra per un periodo di tempo limitato.</string>
 	<string key="ui_outpost_rush_portal">PORTALE</string>
-	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icon_azoth" xPadding="-3" scale="1.4" yOffset="3"&gt;&lt;/img&gt;</string>
+	<string key="ui_outpost_rush_portal_score">{current}/{total} &lt;img src="lyshineui/images/icons/misc/icon_azothCurrency" xPadding="-3" scale="1.4" yOffset="1"&gt;&lt;/img&gt;</string>
 	<string key="ui_pinning_disabled_while_in_or">In Carica all'avamposto non è possibile fissare/rimuovere obiettivi.</string>
 	<string key="ui_pinning_disabled_expeditions">Non è possibile fissare/rimuovere gli obiettivi delle Spedizioni</string>
 	<string key="ui_or_commandpost_buff_on">Questa struttura fornisce potenziamenti alla squadra</string>

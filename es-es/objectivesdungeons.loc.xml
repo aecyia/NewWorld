@@ -21,7 +21,7 @@
 	<string key="dungeon_amrine_interact_hallowed_candle">Vela sagrada</string>
 	<string key="dungeon_amrine_interact_spectral_shrine">Santuario espectral</string>
 	<string key="dungeon_everfall_title">Puesto piedraestelar</string>
-	<string key="dungeon_everfall_description">Obtén la diadema piedraestelar del regente Greundgul dentro del puesto piedraestelar.</string>
+	<string key="dungeon_everfall_description">Recorre el puesto Piedraestelar y derrota a Greundgul el Regente.</string>
 	<string key="dungeon_everfall_required_equipment">1 báculo de Azoth</string>
 	<string key="dungeon_everfall_task_explore">Explora las estancias en busca de una ruta hacia el obelisco destrozado.</string>
 	<string key="dungeon_everfall_task_sealedchamber">Usa el báculo de Azoth para entrar en la cámara sellada.</string>
@@ -33,12 +33,19 @@
 	<string key="dungeon_everfall_task_obeliskbarrier">Busca una forma de atravesar las barreras arcanas.</string>
 	<string key="dungeon_everfall_task_obeliskstatuseffect">Obtén protección arcana.</string>
 	<string key="dungeon_everfall_task_obelisksearchkey">Busca una llave que concede acceso a la cripta del Regente.</string>
-	<string key="dungeon_everfall_task_obeliskfindbless">Desconecta el bloqueo de poder del santuario antiguo y usa el santuario para bendecir la llave del obelisco.</string>
+	<string key="dungeon_everfall_task_obelisksearchkeyget">Obtén la llave del obelisco del cofre ornamentado.</string>
+	<string key="dungeon_everfall_task_obeliskfindbless">Desconecta el bloqueo de poder del santuario antiguo para desactivar las barreras arcanas.</string>
+	<string key="dungeon_everfall_task_obeliskfindblessactivated">Usa el santuario antiguo para bendecir la llave del obelisco.</string>
 	<string key="dungeon_everfall_task_obeliskusekey">Utiliza la llave del obelisco bendecida para entrar en la cripta del Regente.</string>
 	<string key="dungeon_everfall_task_bossdoorenter">Entra en la cripta del Regente.</string>
 	<string key="dungeon_everfall_task_bossdoorapproach">Acércate a Greundgul el Regente.</string>
 	<string key="dungeon_everfall_task_boss">Derrota a Greundgul el Regente.</string>
 	<string key="dungeon_everfall_task_complete">Sal del puesto piedraestelar.</string>
+	<string key="dungeon_everfall_task_mut_approach_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Sigue el camino cortado hasta la caverna del obelisco.</string>
+	<string key="dungeon_everfall_task_mut_defeat_simon" rel_version="Feature_Dungeon_Mutators_Everfall00">Derrota a Simon Grey.</string>
+	<string key="dungeon_everfall_task_mut_approach_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Encuentra la vela sagrada y llévala al santuario espectral.</string>
+	<string key="dungeon_everfall_task_mut_defeat_foreman" rel_version="Feature_Dungeon_Mutators_Everfall00">Derrota al capataz Nakashima.</string>
+	<string key="dungeon_everfall_task_mut_exit" rel_version="Feature_Dungeon_Mutators_Everfall00">Sal de la excavación y vuelve al obelisco destrozado.</string>
 	<string key="dungeon_reekwater_title">La Instrumentalidad de Lazarus</string>
 	<string key="dungeon_reekwater_description">Descubre los secretos del antiguo sitio mágico.</string>
 	<string key="dungeon_reekwater_required_equipment">1 báculo de Azoth</string>
