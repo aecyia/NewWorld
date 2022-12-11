@@ -1,18 +1,24 @@
 # New World
 
+Extracted from the game files of New World MMO
+
 ## _personal
 
-lore stuff
-
-## localization
-
-Taken from the game files of New World MMO
-
-Steam\steamapps\common\New World\assets
-Steam\steamapps\common\New World Public Test Realm\assets
-
-Usually in DataStrm-part2.pak or DataStrm-part1.pak
++ lore stuff
++ rebindings
 
 ## datasheets
 
-extracted using a python program
++ extracted using a python program
++ in .datasheet format
+
+## datasheets_json
+
++ extracted using a python program
++ in .json format
+
+## localization
+
++ Steam\steamapps\common\New World\assets
++ Steam\steamapps\common\New World Public Test Realm\assets
++ Usually in DataStrm-part2.pak or DataStrm-part1.pak
