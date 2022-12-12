@@ -1,0 +1,62 @@
+[
+    {
+        "Rank": 0,
+        "DisplayName": "Soldier",
+        "MaximumInfluence": 3000,
+        "RequiredLevel": 10,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": null,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 1,
+        "DisplayName": "Gladiator",
+        "MaximumInfluence": 11000,
+        "RequiredLevel": 20,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 2,
+        "DisplayName": "Ravager",
+        "MaximumInfluence": 26000,
+        "RequiredLevel": 30,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 3,
+        "DisplayName": "Destroyer",
+        "MaximumInfluence": 49000,
+        "RequiredLevel": 35,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    },
+    {
+        "Rank": 4,
+        "DisplayName": "Commander",
+        "MaximumInfluence": 49000,
+        "RequiredLevel": 50,
+        "InfluenceCost": 0,
+        "CurrencyCost": 0,
+        "AzothCost": 0,
+        "SanityCheck": true,
+        "GameEventId": "",
+        "EntitlementId": ""
+    }
+]

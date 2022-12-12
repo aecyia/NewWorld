@@ -1,0 +1,210 @@
+[
+    {
+        "FactionControlBuffID": "InfluencePoints_Modifier",
+        "IsTerritoryBuff": true,
+        "Value": 0.2,
+        "Name": "Influence",
+        "Description": "Influence Points increased by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "ExperiencePoints_Modifier",
+        "IsTerritoryBuff": true,
+        "Value": 0.05,
+        "Name": "Experience",
+        "Description": "Experience Points increased by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Progression_Global_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Global Experience Boost",
+        "Description": "Increases combat, tradeskill, mastery, and territory experience by {value}.",
+        "Comments": "Percentage increase to global experience (combat, tradeskill, mastery, territory)"
+    },
+    {
+        "FactionControlBuffID": "Azoth_FastTravel_GeneralCost_Reduction",
+        "IsTerritoryBuff": false,
+        "Value": 1,
+        "Name": "Free Fast Travel",
+        "Description": "Fast Travel Azoth cost reduced by {value}",
+        "Comments": "Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')"
+    },
+    {
+        "FactionControlBuffID": "Azoth_FastTravel_Weight_Reduction",
+        "IsTerritoryBuff": false,
+        "Value": 3,
+        "Name": "Lower Fast Travel Weight Cost",
+        "Description": "Fast Travel Weight cost reduced to {value} per {scaleFactor} weight",
+        "Comments": "Implemented as a reduction of the azoth base travel cost used in calculating total cost (set by stack config 'javelin.housing.fast-travel-settlement-cost')"
+    },
+    {
+        "FactionControlBuffID": "Azoth_FastTravel_Distance_Reduction",
+        "IsTerritoryBuff": false,
+        "Value": 5,
+        "Name": "Lower Fast Travel Distance Cost",
+        "Description": "Fast Travel Distance cost reduced to {value} per {scaleFactor} meters",
+        "Comments": "Implemented as subtracting this value from the base cost, instead of setting it to 1"
+    },
+    {
+        "FactionControlBuffID": "Azoth_Crafting_Effectiveness_Modifer",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Crafting Effectiveness",
+        "Description": "Azoth Crafting Effectiveness {value}",
+        "Comments": "These modifiers either increase or decrease based on their usage in code"
+    },
+    {
+        "FactionControlBuffID": "Taxes_Crafting_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Crafting Taxes",
+        "Description": "Decrease Crafting Taxes {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Taxes_Refining_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Refining Taxes",
+        "Description": "Decrease Refining Taxes {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Taxes_Trading_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Trading Taxes",
+        "Description": "Decrease Trading Taxes {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Taxes_Housing_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Housing Taxes",
+        "Description": "Decrease Housing Taxes {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Taxes_Global_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Global Tax Reduction",
+        "Description": "Decreases global tax values by {value}.",
+        "Comments": "Percentage decrease to global taxes for members of that faction."
+    },
+    {
+        "FactionControlBuffID": "Rewards_FactionMission_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Faction Mission Rewards",
+        "Description": "Increase Faction Mission Rewards by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Rewards_DarknessEvent_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Corruption Breach Rewards",
+        "Description": "Increase Corruption Breach Rewards by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Rewards_Expedition_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Expedition Rewards",
+        "Description": "Increase Expedition rewards by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Gathering_Speed_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Gathering Speed",
+        "Description": "Increase Gathering Speed by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Gathering_Volume_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Gathering Quantity",
+        "Description": "Increase Gathering Quantity by {value}",
+        "Comments": ""
+    },
+    {
+        "FactionControlBuffID": "Gathering_Luck_Roll_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 10000,
+        "Name": "Global Gathering Luck Boost",
+        "Description": "Increases global gathering luck by {value}.",
+        "Comments": "Percentage bonus to gathering luck"
+    },
+    {
+        "FactionControlBuffID": "Crafting_Refining_Yield_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Global Refining Yield Boost",
+        "Description": "Increases global refining yield by {value}.",
+        "Comments": "Percentage bonus to global refining yield"
+    },
+    {
+        "FactionControlBuffID": "Crafting_Max_GS_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 5,
+        "Name": "Global Crafting Bonus",
+        "Description": "Increases the gearscore ceiling of crafted items by {value} GS.",
+        "Comments": "GS bonus for crafting rolls (ceiling, not floor.)"
+    },
+    {
+        "FactionControlBuffID": "Azoth_Salt_Yield_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Global Azoth Salt Bonus",
+        "Description": "Increases amount of azoth salt gained by {value}.",
+        "Comments": "Percentage increase to yield from Azoth Salt gains"
+    },
+    {
+        "FactionControlBuffID": "Pvp_Track_Exp_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Global PvP Experience Bonus",
+        "Description": "Increases amount of PvP Experience gained by {value}.",
+        "Comments": "Percentage increase to experience gained in PvP Rewards track"
+    },
+    {
+        "FactionControlBuffID": "Chance_Consumable_Not_Used",
+        "IsTerritoryBuff": false,
+        "Value": 0.1,
+        "Name": "Global Consumable Bonus",
+        "Description": "Increases the chance that a consumable isn't consumed on use by {value}.",
+        "Comments": "Percentage chance to not consume a consumable on use."
+    },
+    {
+        "FactionControlBuffID": "Road_Movement_Speed_Bonus",
+        "IsTerritoryBuff": false,
+        "Value": 0,
+        "Name": "",
+        "Description": "",
+        "Comments": "Not approved for use, consider removing if will not be reworked"
+    },
+    {
+        "FactionControlBuffID": "Faction_Store_Discount_Modifier",
+        "IsTerritoryBuff": false,
+        "Value": 0.05,
+        "Name": "Global Faction Store Discount",
+        "Description": "Decreases the cost of items in the faction store by {value}.",
+        "Comments": "Percentage decrease to costs for objects in the faction store"
+    },
+    {
+        "FactionControlBuffID": "Free_Camping",
+        "IsTerritoryBuff": false,
+        "Value": 1,
+        "Name": "Resourceless Camping",
+        "Description": "Camping no longer costs resources.",
+        "Comments": "Enables free camping (no resource requirement)"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "ConversationTopicId": "1403_Topic1",
+        "PlayerPrompt": "Blight",
+        "NPCResponse": "The blight is a curse of earth, and being of the earth also makes it a curse of the body as well. The fiends in Edengrove are infected by it, but the blight infects the human body as well. It weakens you, pulling you closer to death with every breath. Be careful, you must prepare a proper defense against it when in blighted areas of Edengrove.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1425_Prospector_talk",
+        "PlayerPrompt": "\"Uh... What is an 'Outpost Rush'?\"",
+        "NPCResponse": "Outpost Rush is a 20 vs 20 match that takes place on a large island with three Outposts.\\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "1424_Fisher_ExplainHotspots",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"></img>\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"></img>\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

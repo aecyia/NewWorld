@@ -1,0 +1,26 @@
+[
+    {
+        "ConversationTopicId": "ThoseDamned",
+        "PlayerPrompt": "Tell me about the damned…",
+        "NPCResponse": "They suck.",
+        "AchievementUnlock": ""
+    },
+    {
+        "ConversationTopicId": "TheShipwreck",
+        "PlayerPrompt": "Tell me about the shipwreck…",
+        "NPCResponse": "A bunch of you managed to not get lost.",
+        "AchievementUnlock": ""
+    },
+    {
+        "ConversationTopicId": "Watcher01_01",
+        "PlayerPrompt": "@Watcher01_01_Prompt",
+        "NPCResponse": "@Watcher01_01_Response",
+        "AchievementUnlock": ""
+    },
+    {
+        "ConversationTopicId": "Watcher01_02",
+        "PlayerPrompt": "@Watcher01_02_Prompt",
+        "NPCResponse": "@Watcher01_02_Response",
+        "AchievementUnlock": ""
+    }
+]

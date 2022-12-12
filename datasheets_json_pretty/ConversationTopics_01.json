@@ -1,0 +1,38 @@
+[
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW",
+        "PlayerPrompt": "\"Where will you go?\"",
+        "NPCResponse": "Good old \"Watcher Lleyson Reese\" says there's a town. I'll head there and sell this loot. \\n\\nI'll set your part aside until you get there. For my part, I'll be saving up for a ship to escape this hellish island.",
+        "AchievementUnlock": "01_Grace_Goodbye_WW",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB",
+        "PlayerPrompt": "\"Where will you go?\"",
+        "NPCResponse": "Good old \"Watcher Lleyson Reese\" says there's a town. I'll head there and sell this loot. \\n\\nI'll set your part aside until you get there. For my part, I'll be saving up for a ship to escape this hellish island.",
+        "AchievementUnlock": "01_Grace_Goodbye_MB",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_WW_Final",
+        "PlayerPrompt": "\"I'll meet you in town, at least.\"",
+        "NPCResponse": "I may not be going with you, but it doesn't mean I don't wish you luck. \\n\\nYou seem to have a solid share of it, so we'll see each other again. I'd wager money on it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_WW",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "01_Grace_Goodbye_MB_Final",
+        "PlayerPrompt": "\"I'll meet you in town, at least.\"",
+        "NPCResponse": "I may not be going with you, but it doesn't mean I don't wish you luck. \\n\\nYou seem to have a solid share of it, so we'll see each other again. I'd wager money on it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "01_Grace_Goodbye_MB",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

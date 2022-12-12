@@ -1,0 +1,83 @@
+[
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_DeliverPotions",
+        "PlayerPrompt": "\"No pitches, just a sample.\"",
+        "NPCResponse": "Sample? What is old Hughes playing at? Suppose it couldn't hurt to take a sip. \\n\\nWell, now. My legs don't feel as stiff. I never thought I'd see the day Anwir Hughes turned over a new leaf.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "GuardCaptain_TaskTopic_PlayForTown",
+        "PlayerPrompt": "\"I learned from a composer named Marsyas.\"",
+        "NPCResponse": "They must be prolific indeed, if their work can stand out so in a city like ours. \\n\\nConstable Maecia will want to hear this. She takes delight in introducing rising talent to the gentry. Many consider it a favor.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Captain_TaskTopic_RumorsMSQ",
+        "PlayerPrompt": "\"I'm just looking for an old fisherman.\"",
+        "NPCResponse": "Ah, the old man Yonas, right? Yes, he passes through often, always raving about Corruption. \\n\\nHe lives outside the walls, in a cabin to the east. Be careful if you're headed that way, or at least don't say I didn't warn you.",
+        "AchievementUnlock": "99A_Faction_Vector_Enable",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Captain_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"A wild woman, in the forest?\"",
+        "NPCResponse": "Hah. There's legends and then there's truth - people talk nonsense, say the huntress is part animal or some kind of spirit. \\n\\nShe's actually just a recluse, makes a shrine near the mines to the north of her home. I'd look there.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_AskAboutAdiana",
+        "PlayerPrompt": "\"Looking for a woman who lives in the forest.\"",
+        "NPCResponse": "Well now, that's right strange. I was just hearing tavern talk the other day about some wild woman in the wood. Like a ghost, disappears when you look at her. \\n\\nI'd ask the captain of the scouts - I'll wager he knows something.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Grace_TaskTopic_ReturnStaff",
+        "PlayerPrompt": "\"Who should I speak with then?\"",
+        "NPCResponse": "I've heard the constable here in Oxboro came from the old Roman Empire centuries in the past. \\n\\nSome say she's gone a little soft in the head, but maybe that means she'll take you serious.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_BearCave",
+        "PlayerPrompt": "\"I found writings. What is a Soulwarden?\"",
+        "NPCResponse": "What were they? My mind itches, yes, at the word. Perhaps this is where my ghost lives. \\n\\nThat cave. Yes. Inside it. Something that needs retrieving.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_ToAlioth",
+        "PlayerPrompt": "\"What was this armor doing in a bear cave?\"",
+        "NPCResponse": "What does anything do in a bear cave? Perhaps it was napping. Yet there is pain in the rent cloth. Shame, too. How odd. \\n\\nThe voice of that ghost has faded, but there are yet others in the stones to the north. Go, I won't be long behind.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "99a_Yonas_TaskTopic_AmrineSkip",
+        "PlayerPrompt": "\"I'd still like to hear about it.\" [Solo Option]",
+        "NPCResponse": "As you wish. The essence of a Heartgem is derived from the same elements that power the Ancient Guardians.\\n\\nIf you can collect these substances from certain Guardians, you can forge a Heartgem for yourself. Good luck.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

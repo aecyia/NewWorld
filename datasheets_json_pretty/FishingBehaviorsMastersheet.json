@@ -1,0 +1,32 @@
+[
+    {
+        "Id": "Lazy",
+        "FishBehaviorPattern": 0,
+        "FishBehaviorLocalizationKey": "Lazy"
+    },
+    {
+        "Id": "EarlyAggressive",
+        "FishBehaviorPattern": 11111000,
+        "FishBehaviorLocalizationKey": "Hot-Headed"
+    },
+    {
+        "Id": "LateAggressive",
+        "FishBehaviorPattern": 11111,
+        "FishBehaviorLocalizationKey": "Brooding"
+    },
+    {
+        "Id": "TotalAggressive",
+        "FishBehaviorPattern": 11111110,
+        "FishBehaviorLocalizationKey": "Aggressive"
+    },
+    {
+        "Id": "Sporadic",
+        "FishBehaviorPattern": 10101010,
+        "FishBehaviorLocalizationKey": "Sporadic"
+    },
+    {
+        "Id": "SporadicEasy",
+        "FishBehaviorPattern": 1001001,
+        "FishBehaviorLocalizationKey": "Chilled"
+    }
+]

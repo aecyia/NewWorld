@@ -1,0 +1,164 @@
+[
+    {
+        "ConversationTopicId": "0401_Watcher_Death",
+        "PlayerPrompt": "\"So people on Aeternum don't die?\"",
+        "NPCResponse": "Sometimes they do, but for the most part, you're right. Seems to be the blue azoth on the island, some kind of magic.\\n\\nBut it's not always perfect - sometimes people come back Corrupted or Lost. That can't be fun, can it?",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0401_Watcher_Corruption",
+        "PlayerPrompt": "\"Where does Corruption come from?\"",
+        "NPCResponse": "Ask five people, get five different answers. Some say it's a manifestation of the inherent evil in humankind.\\n\\nOthers seem to think it's some kind of brain disease. I just know it's bad news, and nothing to trifle with.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Magistrate_Everfall",
+        "PlayerPrompt": "\"Do you like living In Everfall?\"",
+        "NPCResponse": "I suppose so - good a place as any on this island. The food is good, the weather is tolerable.\\n\\nAnd we have the most colorful landscape of any territory I've been to... some of the most colorful personalities as well.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Magistrate_FactionsReady",
+        "PlayerPrompt": "\"I've talked to them. I'm ready to choose.\"",
+        "NPCResponse": "If you're called to service as a soldier, I think these outfits are the only option.\\n\\nThere have been other military orders in the past, and with luck, there will be more in the future. But for now, we have these three.",
+        "AchievementUnlock": "S_factionchoiceready",
+        "RequiredAchievement": "S_factiontalkedto",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0422_Innkeep_WhereNow",
+        "PlayerPrompt": "\"Where should I go now?\"",
+        "NPCResponse": "That's an interesting question coming from you, and I suppose it depends on your tastes. \\n\\nThere's always Cutlass Keys for those who prefer the wild side, but then I'd suggest Brightwood if you're looking to make a difference.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0422_Innkeep_WhyHouse",
+        "PlayerPrompt": "\"Why should I buy a house?\"",
+        "NPCResponse": "I personally love it here at the inn, but I live in a house.\\n\\nFor one thing, I've enjoyed furnishing the place according to my tastes. I also like the comfort of knowing if I get killed, I have a home in which to resurrect.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "Survivalist0403_01",
+        "PlayerPrompt": "\"Why set up camp outside town?\"",
+        "NPCResponse": "Are you joking? It's a lot more convenient for one thing!\\n\\nYou need somewhere to hang your shirt while you run around the wild in just your pants. It's also a handy place to resurrect. Suit yourself, though!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Marauder_talk",
+        "PlayerPrompt": "\"Tell me about the Marauders\"",
+        "NPCResponse": "The Marauders are a community of warriors who believe in self-improvement.\\n\\nIf we are blessed with eternal life, we should use it to sharpen our combat skills to perfection.",
+        "AchievementUnlock": "S_introtomarauders",
+        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Syndicate_talk",
+        "PlayerPrompt": "\"Tell me about the Syndicate\"",
+        "NPCResponse": "Let me put this way - in this world, there are those who think… and those who do not.\\n\\nWe are the former, and we look down on the latter. We believe in facts and science.",
+        "AchievementUnlock": "S_introtosyndicate",
+        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Covenant_talk",
+        "PlayerPrompt": "\"Tell me about the Covenant\"",
+        "NPCResponse": "Without spirit, harmony, and brotherly love, what is life even worth?\\n\\nWhether in the old world or here in Aeternum, we fight for the Spark that unites all life across all time.",
+        "AchievementUnlock": "S_introtocovenant",
+        "RequiredAchievement": "S_introtoallfactions_accepted",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Marauder_dye_talk",
+        "PlayerPrompt": "\"Why did you give me this dye?\"",
+        "NPCResponse": "So you can use it with pride, soldier. \\n\\nTint your armor in the color of the Marauders.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "S_marauderquest1",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Syndicate_dye_talk",
+        "PlayerPrompt": "\"Why did you give me this dye?\"",
+        "NPCResponse": "Use it if you want to, or don't. It matters not to me.\\n\\nSome Syndicate members want to show off their allegiance. It's just cosmetic, though.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "S_syndicatequest1",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0402_Covenant_dye_talk",
+        "PlayerPrompt": "\"Why did you give me this dye?\"",
+        "NPCResponse": "It is a gift, so that you may color your robes to show your support of the Covenant.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "S_covenantquest1",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0404_Constable_EncroachingCorruption",
+        "PlayerPrompt": "\"We should go and stamp it out.\"",
+        "NPCResponse": "You'll have to be the one to do that. You don't want me out there, not these days.\\n\\nIndeed, go on and search the area around the settlement. Any sign of Corruption, you put an end to it.",
+        "AchievementUnlock": "S_encroachingconstable",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0423_Fisher_ExplainHotspots",
+        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"></img>\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"></img>\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0428_Jones_Market",
+        "PlayerPrompt": "\"What's so special about the trading post?\"",
+        "NPCResponse": "The joy of speculation! The ups and downs of the market! The thrill of finding out how much solvent is worth today! \\n\\nTrade is the lifeblood of Aeternum, if you don't have your finger on its pulse, you just aren't living!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0428_Jones_Tips",
+        "PlayerPrompt": "\"Have any trading tips?\"",
+        "NPCResponse": "Buy low, sell high. \\n\\nIf at all possible discover what people want before they want it and buy it all up, thus creating a shortage in the market that only you can fill. That one's a bit trickier though...",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": null
+    },
+    {
+        "ConversationTopicId": "0428_Jones_House",
+        "PlayerPrompt": "\"You own three houses?\"",
+        "NPCResponse": "Dare I say three is not enough? I long for a house in every territory, so that my trading empire can flourish to its fullest extent, but I have been told time and again that I simply must abide by the current laws…",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": 20
+    }
+]

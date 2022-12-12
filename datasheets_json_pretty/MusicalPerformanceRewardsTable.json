@@ -1,0 +1,90 @@
+[
+    {
+        "RewardId": "MusicBuff_NoReward",
+        "Name": "No Effect",
+        "Description": "No reward selected.",
+        "Rank": 2,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "",
+        "GameEventId_Rank_Great": "",
+        "GameEventId_Rank_Okay": "",
+        "GameEventId_Rank_Bad": ""
+    },
+    {
+        "RewardId": "MusicBuff_01",
+        "Name": "Song In Your Step",
+        "Description": "Reduces player encumberance.",
+        "Rank": 75,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_01",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_01",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_01",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_01"
+    },
+    {
+        "RewardId": "MusicBuff_02",
+        "Name": "Territorial Triumph",
+        "Description": "Increases territory standing bonus.",
+        "Rank": 5,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_02",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_02",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_02",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_02"
+    },
+    {
+        "RewardId": "MusicBuff_03",
+        "Name": "All Together Now",
+        "Description": "Increases group XP sharing bonus.",
+        "Rank": 25,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_03",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_03",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_03",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_03"
+    },
+    {
+        "RewardId": "MusicBuff_05",
+        "Name": "Fortune's Favor",
+        "Description": "Increases yield when gathering.",
+        "Rank": 100,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_05",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_05",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_05",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_05"
+    },
+    {
+        "RewardId": "MusicBuff_06",
+        "Name": "Luck's Labor",
+        "Description": "Increases luck when gathering.",
+        "Rank": 150,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_06",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_06",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_06",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_06"
+    },
+    {
+        "RewardId": "MusicBuff_07",
+        "Name": "Decidedly Dexterous",
+        "Description": "Increases gathering speed.",
+        "Rank": 2,
+        "FilterType": "DefaultPerformance",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Buff_07",
+        "GameEventId_Rank_Great": "MusicReward_Great_Buff_07",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Buff_07",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Buff_07"
+    },
+    {
+        "RewardId": "MusicBuff_Waltz",
+        "Name": "Maudlinbug Haze",
+        "Description": "A captivating tune with the ability to entrance and capture Maudlinbugs.",
+        "Rank": 0,
+        "FilterType": "Summer",
+        "GameEventId_Rank_Amazing": "MusicReward_Amazing_Waltz",
+        "GameEventId_Rank_Great": "MusicReward_Great_Waltz",
+        "GameEventId_Rank_Okay": "MusicReward_Okay_Waltz",
+        "GameEventId_Rank_Bad": "MusicReward_Bad_Waltz"
+    }
+]

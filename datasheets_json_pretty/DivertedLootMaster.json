@@ -1,0 +1,14 @@
+[
+    {
+        "Id": "FishingLoot",
+        "CountToNextLevel": 300,
+        "TimeframeSeconds": 18000,
+        "YellowDivertedLootModifier": 5,
+        "RedDivertedLootModifier": 10,
+        "YellowXpMultiplier": 0.5,
+        "RedXpMultiplier": 0.1,
+        "GreenNotificationLocTag": "Fish Population Normal",
+        "YellowNotificationLocTag": "Fish Population Dwindling!",
+        "RedNotificationLocTag": "Fish Population Critical!"
+    }
+]

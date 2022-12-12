@@ -1,0 +1,46 @@
+[
+    {
+        "FactionType": "None",
+        "DisplayName": "NONE",
+        "DisplayDesc": "",
+        "ForegroundColorIndex": 0,
+        "ForegroundCrestIndex": 0,
+        "BackgroundColorIndex": 0,
+        "BackgroundCrestIndex": 0,
+        "RequiredAchievementId": "",
+        "RequiredLegacyAchievementId": ""
+    },
+    {
+        "FactionType": "Faction1",
+        "DisplayName": "Syndicate",
+        "DisplayDesc": "Clever Disciples who fight with Cunning for the sake of Truth and Progress",
+        "ForegroundColorIndex": 0,
+        "ForegroundCrestIndex": 2,
+        "BackgroundColorIndex": 0,
+        "BackgroundCrestIndex": 2,
+        "RequiredAchievementId": "FactionIntro_Syndicate_Recruitment",
+        "RequiredLegacyAchievementId": "S_syndicatequest_1"
+    },
+    {
+        "FactionType": "Faction2",
+        "DisplayName": "Marauders",
+        "DisplayDesc": "Proud Warriors who fight with Honor for Glory and Self-Improvement",
+        "ForegroundColorIndex": 0,
+        "ForegroundCrestIndex": 3,
+        "BackgroundColorIndex": 0,
+        "BackgroundCrestIndex": 3,
+        "RequiredAchievementId": "FactionIntro_Marauders_Recruitment",
+        "RequiredLegacyAchievementId": "S_marauderquest_1"
+    },
+    {
+        "FactionType": "Faction3",
+        "DisplayName": "Covenant",
+        "DisplayDesc": "Divine Champions who fight with Conviction for Righteousness and Justice",
+        "ForegroundColorIndex": 0,
+        "ForegroundCrestIndex": 4,
+        "BackgroundColorIndex": 0,
+        "BackgroundCrestIndex": 4,
+        "RequiredAchievementId": "FactionIntro_Covenant_Recruitment",
+        "RequiredLegacyAchievementId": "S_covenantquest_1"
+    }
+]

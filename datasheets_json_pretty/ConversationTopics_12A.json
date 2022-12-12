@@ -1,0 +1,119 @@
+[
+    {
+        "ConversationTopicId": "12A_Don",
+        "PlayerPrompt": "“So you've always wanted to be a knight?”",
+        "NPCResponse": "It's been my lifelong dream! Being a knight in a mystical land full of monsters and magic! \\n\\nI’m going to look for some exotic flowers soon. Then I can gift them to a fair maiden and fight in her name!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shae",
+        "PlayerPrompt": "“Someone cheat you?”",
+        "NPCResponse": "A stranger promised me shelter in exchange for information about a knight. \\n\\nThey did the unspeakable and didn't even live up to their promise. Everyone’s going to turn Lost soon and there’s nothing anyone can do about it.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Shazaan",
+        "PlayerPrompt": "“Why be a miner?”",
+        "NPCResponse": "I thought it would be adventurous. I didn’t want to sit by a lake all day. \\n\\nWell, I’ve had my fill of monsters, funny rocks, and illusions caused by foul air. I wanted a new job! And I got one!",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Tomira",
+        "PlayerPrompt": "“I'm sure you feel vindicated.”",
+        "NPCResponse": "Well there's so much uncertainty when faced with the soulless. I don’t know how the Regent does it. \\n\\nShe's normally so good at making decisions for all of us. It puzzles me why she didn’t get to us sooner.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_Chandu",
+        "PlayerPrompt": "“You like the Regent?”",
+        "NPCResponse": "Who doesn’t like her?  She used to visit the mines weekly before people started turning into the Lost. \\n\\nShe probably spends entire nights trying to figure out why this is happening. It's like the puzzle of the rocks.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_01_MSQ_04_SerPayneBennett",
+        "PlayerPrompt": "\"Is this about 'the Lost'?\"",
+        "NPCResponse": "Oh? So you have heard the unfortunate news from outlying areas… \\n\\nI'm sorry to hear that. We try not to worry newcomers with such things, but we've even had some knights who've failed to report in.",
+        "AchievementUnlock": "12A_PayneTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_02_MSQ_12_SerPayneBennett",
+        "PlayerPrompt": "\"How can I help?\"",
+        "NPCResponse": "Before you do anything else, you must build yourself a campsite. It's the wise move when we're this far from Prydwen. \\n\\nThere's a splendid spot nearby. Set your tent, relax a bit if you like, we'll be here!",
+        "AchievementUnlock": "12A_PayneTalk02",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_03_MSQ_10_Lochnir_Explains",
+        "PlayerPrompt": "\"It was, and there were several missives.\"",
+        "NPCResponse": "Oh yes, I am well aware. I received those missives myself. \\n\\nThe Foreman wanted us to send all our knights to help defend the mines, but that was, of course, impossible.",
+        "AchievementUnlock": "12A_LochnirTalk01",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_11_MSQ_15_GraceOMalley",
+        "PlayerPrompt": "“Found it and destroyed it.”",
+        "NPCResponse": "See there, we make a good team! I go in first, all sneaky like, and get the lay of the land. Then you follow up with force, taking care of business. \\n\\nOf course, for a partnership, it's vital all parties profit in a venture…",
+        "AchievementUnlock": "12A_Grace15",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_LochnirsNotes_TalkLochnir",
+        "PlayerPrompt": "\"She asked I not speak of it around town.\"",
+        "NPCResponse": "Hmm... the Knight-Regent should not be conducting affairs she can't reveal to her people, wouldn't you agree? \\n\\nI've served as Prydwen's Minister since before her birth. I should be informed of this matter.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_17_YoungeGeiser",
+        "PlayerPrompt": "\"There was an altar.\"",
+        "NPCResponse": "An altar? Related to this tablet, then? Fascinating! It couldn't have been there for long. \\n\\nThere's only one possibility - all of this came from the Ancient ruins of Khalladan and Antares in the eastern wood.",
+        "AchievementUnlock": "",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12A_MSQ_19_RegentJinJae",
+        "PlayerPrompt": "\"He's been planning this for a while.\"",
+        "NPCResponse": "Is that what you discovered in the ruins? Was Lochnir behind the strange tablet at the mine? The pirates, too? \\n\\nI am having trouble understanding what his ultimate goal is, or if he even has one.",
+        "AchievementUnlock": "12A_Regent19",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    },
+    {
+        "ConversationTopicId": "12_12_MSQ_15_GraceOMalley",
+        "PlayerPrompt": "\"Grace, what did you see?\"",
+        "NPCResponse": "I'll tell ya, but if you go in, I'm expecting some loot. \\n\\nThere's some kind of altar in there, glowing like a beacon. The bastards are drawn to it like flies to a carcass. I'd wager they'll wander off if you smash the damn thing.",
+        "AchievementUnlock": "12A_Grace15A",
+        "RequiredAchievement": "",
+        "RequiredFaction": "",
+        "RequiredLevel": ""
+    }
+]

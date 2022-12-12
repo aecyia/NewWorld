@@ -15,7 +15,12 @@ Extracted from the game files of New World MMO
 ## datasheets_json
 
 + extracted using a python program
-+ in .json format
++ raw .json format
+
+## datasheets_json_pretty
+
++ converted using a JSON prettifier program
++ prettified .json format
 
 ## localization
 

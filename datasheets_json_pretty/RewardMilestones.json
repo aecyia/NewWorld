@@ -1,0 +1,332 @@
+[
+    {
+        "RewardID": "WeaponSlot2",
+        "MilestoneType": "major",
+        "MilestoneLevel": 5,
+        "Name": "Second Weapon Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/weaponSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_weapon1.dds",
+        "Tooltip": "Unlocks the second weapon slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "QuickSlot3",
+        "MilestoneType": "",
+        "MilestoneLevel": 15,
+        "Name": "Third Consumable Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds",
+        "Image": "",
+        "Tooltip": "Unlocks the third consumable slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "QuickSlot4",
+        "MilestoneType": "",
+        "MilestoneLevel": 25,
+        "Name": "Fourth Consumable Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/quickSlot.dds",
+        "Image": "",
+        "Tooltip": "Unlocks the fourth consumable slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "RingSlot",
+        "MilestoneType": "major",
+        "MilestoneLevel": 20,
+        "Name": "Ring Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/ringSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_ring1.dds",
+        "Tooltip": "Unlocks the ring slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "EarringSlot",
+        "MilestoneType": "major",
+        "MilestoneLevel": 40,
+        "Name": "Earring Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/earringSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_earring1.dds",
+        "Tooltip": "Unlocks the earring slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "BagSlot1",
+        "MilestoneType": "major",
+        "MilestoneLevel": 10,
+        "Name": "First Bag Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+        "Tooltip": "Unlocks the first bag slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "BagSlot2",
+        "MilestoneType": "major",
+        "MilestoneLevel": 30,
+        "Name": "Second Bag Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+        "Tooltip": "Unlocks the second bag slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "BagSlot3",
+        "MilestoneType": "major",
+        "MilestoneLevel": 45,
+        "Name": "Third Bag Slot",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/bagSlot.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_bagSlot1.dds",
+        "Tooltip": "Unlocks the third bag slot.",
+        "Notes": "Located in PBA"
+    },
+    {
+        "RewardID": "House1",
+        "MilestoneType": "major",
+        "MilestoneLevel": 15,
+        "Name": "First House",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+        "Tooltip": "Unlocks the ability to purchase your first house.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "House2",
+        "MilestoneType": "major",
+        "MilestoneLevel": 35,
+        "Name": "Second House",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+        "Tooltip": "Unlocks the ability to purchase your second house.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "House3",
+        "MilestoneType": "major",
+        "MilestoneLevel": 55,
+        "Name": "Third House",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/house.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_house1.dds",
+        "Tooltip": "Unlocks the ability to purchase your third house.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Duels",
+        "MilestoneType": "major",
+        "MilestoneLevel": 10,
+        "Name": "Duels",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/duels.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_duels.dds",
+        "Tooltip": "Unlocks the ability to duel other players.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Invasions",
+        "MilestoneType": "major",
+        "MilestoneLevel": 50,
+        "Name": "Invasions",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/invasions.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_invasions.dds",
+        "Tooltip": "Unlocks the ability to participate in invasions.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "OutpostRush",
+        "MilestoneType": "major",
+        "MilestoneLevel": 60,
+        "Name": "Outpost Rush",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/outpostRush.dds",
+        "Image": "LyShineUI/Images/glory/milestoneRewards/milestoneReward_outpostrush.dds",
+        "Tooltip": "Unlocks the ability to participate in Outpost Rush.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "AzothStaffT1",
+        "MilestoneType": "",
+        "MilestoneLevel": 20,
+        "Name": "Azoth Staff Tier 1 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff1.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Forge the Staff\" quest which grants an Azoth Staff Tier 1 (upon completion). An Azoth staff is used to close Level 25 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "AzothStaffT2",
+        "MilestoneType": "",
+        "MilestoneLevel": 30,
+        "Name": "Azoth Staff Tier 2 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff2.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Heart and Souls\" quest which grants an Azoth Staff Tier 2 (upon completion). An Azoth staff is used to close Level 35 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "AzothStaffT3",
+        "MilestoneType": "",
+        "MilestoneLevel": 40,
+        "Name": "Azoth Staff Tier 3 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff3.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"The Alliance\" quest which grants an Azoth Staff Tier 3 (upon completion). An Azoth staff is used to close Level 45 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "AzothStaffT4",
+        "MilestoneType": "",
+        "MilestoneLevel": 50,
+        "Name": "Azoth Staff Tier 4 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff4.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Race for the Box\" quest which grants an Azoth Staff Tier 4 (upon completion). An Azoth staff is used to close Level 55 Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "AzothStaffT5",
+        "MilestoneType": "",
+        "MilestoneLevel": 60,
+        "Name": "Azoth Staff Tier 5 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/azothStaff5.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"The Tempest's Heart\" quest which grants an Azoth Staff Tier 5 (upon completion). An Azoth staff is used to close Level 60 and 65+ Corruption Breaches.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "CampingT1",
+        "MilestoneType": "",
+        "MilestoneLevel": 5,
+        "Name": "Camping Tier 1 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade.dds",
+        "Image": "",
+        "Tooltip": "Complete the Quest \"Friend or Foe\" in Monarch's Bluffs or \"Tracking the Tribute\" in Windsward to unlock the ability to create a Campsite for respawning and crafting.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "CampingT2",
+        "MilestoneType": "",
+        "MilestoneLevel": 15,
+        "Name": "Camping Tier 2 (Main Story Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade2.dds",
+        "Image": "",
+        "Tooltip": "Compete the Main Story Quest \"Wilderness Wiseman\" in Monarch's Bluffs or \"Seed of Hope\" in Windsward to upgrade the perks for your Campsites.\\n\\nNote: You must complete the preceding Main Story quests before undertaking this quest.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "CampingT3",
+        "MilestoneType": "",
+        "MilestoneLevel": 25,
+        "Name": "Camping Tier Upgrade (Survivalist Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade3.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Animal Instincts\" quest which upgrades the camps you can build by one tier (upon completion).",
+        "Notes": ""
+    },
+    {
+        "RewardID": "CampingT4",
+        "MilestoneType": "",
+        "MilestoneLevel": 40,
+        "Name": "Camping Tier Upgrade (Survivalist Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade4.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Survivalist: Lupine Observations\" quest which upgrades the camps you can build by one tier (upon completion).",
+        "Notes": ""
+    },
+    {
+        "RewardID": "CampingT5",
+        "MilestoneType": "",
+        "MilestoneLevel": 55,
+        "Name": "Camping Tier Upgrade (Survivalist Quest)",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/campUpgrade5.dds",
+        "Image": "",
+        "Tooltip": "Unlocks \"Survivalist: Fading Lights\" quest which upgrades the camps you can build by one tier (upon completion).",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory1a",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 15,
+        "Name": "Everfall",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory2",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 25,
+        "Name": "Brightwood, Cutlass Keys",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory3",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 30,
+        "Name": "Weaver's Fen",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory4",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 40,
+        "Name": "Restless Shore, Great Cleave",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory5",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 45,
+        "Name": "Mourningdale",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory6",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 50,
+        "Name": "Edengrove, Ebonscale",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Territory7",
+        "MilestoneType": "territory",
+        "MilestoneLevel": 60,
+        "Name": "Reekwater, Shattered Mountain, Brimstone Sands",
+        "Icon": "",
+        "Image": "",
+        "Tooltip": "",
+        "Notes": ""
+    },
+    {
+        "RewardID": "Expertise",
+        "MilestoneType": "",
+        "MilestoneLevel": 60,
+        "Name": "Expertise",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/expertise.dds",
+        "Image": "",
+        "Tooltip": "Unlocks Expertise. Expertise is a measure of the potential power of your item drops. Drops from creatures and areas that are level 60+ have a chance to increase this value. The more powerful the creature or area, the more likely you will see an increase.",
+        "Notes": ""
+    },
+    {
+        "RewardID": "PvPArenas",
+        "MilestoneType": "",
+        "MilestoneLevel": 20,
+        "Name": "3v3 Arenas",
+        "Icon": "LyShineUI/Images/Icons/ProgressionMilestones/3v3Arena.dds",
+        "Image": "",
+        "Tooltip": "Unlocks the ability to participate in 3v3 Arenas.",
+        "Notes": ""
+    }
+]
