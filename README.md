@@ -12,17 +12,22 @@ Last Update -- Live Version 1.8.0 -- 12 December 2022
 ## datasheets
 
 + extracted using a python program
-+ in .datasheet format
++ .datasheet
 
 ## datasheets_json
 
 + extracted using a python program
+<<<<<<< HEAD
 + raw .json format
 
 ## datasheets_json_pretty
 
 + converted using a JSON prettifier program
 + prettified .json format
+=======
++ datasheets in .json
++ not formatted
+>>>>>>> 8a33022e994fb68ee575f94c85b6d89536fb2cfd
 
 ## localization
 
