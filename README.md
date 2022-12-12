@@ -10,12 +10,18 @@ Extracted from the game files of New World MMO
 ## datasheets
 
 + extracted using a python program
-+ in .datasheet format
++ .datasheet
 
 ## datasheets_json
 
 + extracted using a python program
-+ in .json format
++ datasheets in .json
++ not formatted
++ to format
+	1. download & open file in a text editor
+	2. ctrl + f (FIND): ,
+	3. find all commas & mass edit
+	4. RIGHT> ENTER ENTER BACKSPACE
 
 ## localization
 
