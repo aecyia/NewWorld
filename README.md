@@ -2,6 +2,8 @@
 
 Extracted from the game files of New World MMO
 
+Last Update -- Live Version 1.8.0 -- 12 December 2022
+
 ## _personal
 
 + lore stuff
