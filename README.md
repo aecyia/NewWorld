@@ -17,11 +17,6 @@ Extracted from the game files of New World MMO
 + extracted using a python program
 + datasheets in .json
 + not formatted
-+ to format
-	1. download & open file in a text editor
-	2. ctrl + f (FIND): ,
-	3. find all commas & mass edit
-	4. RIGHT> ENTER ENTER BACKSPACE
 
 ## localization
 
