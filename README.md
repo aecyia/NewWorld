@@ -2,12 +2,13 @@
 
 Extracted from the game files of New World MMO
 
-Last Update -- Live Version 1.8.0 -- 12 December 2022
+Last Update -- Live Version 1.8.0 -- 13 December 2022
 
 ## _personal
 
 + lore stuff
 + rebindings
++ full lore doc [here](https://docs.google.com/document/d/1Mpig0JS_vELiKXqYBjG1UnKByWp5GCVxvK7ZjGwX7po/)
 
 ## datasheets
 
@@ -17,7 +18,6 @@ Last Update -- Live Version 1.8.0 -- 12 December 2022
 ## datasheets_json
 
 + extracted using a python program
-<<<<<<< HEAD
 + raw .json format
 
 ## datasheets_json_pretty
@@ -27,7 +27,6 @@ Last Update -- Live Version 1.8.0 -- 12 December 2022
 =======
 + datasheets in .json
 + not formatted
->>>>>>> 8a33022e994fb68ee575f94c85b6d89536fb2cfd
 
 ## localization
 
