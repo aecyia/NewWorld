@@ -1694,21 +1694,6 @@
 	<string key="ui_characters_count">Personajes:</string>
 	<string key="ui_characters">Personajes</string>
 	<string key="ui_map_legend">Leyenda.</string>
-	<string key="ui_leaderboard_title" rel_version="Feature_Leaderboards">LISTA DE GANADORES DE LA COMPAÑÍA</string>
-	<string key="ui_leaderboard_timeremaining" rel_version="Feature_Leaderboards">TIEMPO RESTANTE</string>
-	<string key="ui_leaderboard_rank_header" rel_version="Feature_Leaderboards">RANGO</string>
-	<string key="ui_leaderboard_rank_number" rel_version="Feature_Leaderboards">{number}</string>
-	<string key="ui_leaderboard_company_header" rel_version="Feature_Leaderboards">COMPAÑÍA</string>
-	<string key="ui_leaderboard_area_score" rel_version="Feature_Leaderboards">({number})</string>
-	<string key="ui_leaderboard_day_title" rel_version="Feature_Leaderboards">DÍA</string>
-	<string key="ui_leaderboard_day_claims_header" rel_version="Feature_Leaderboards">CONQUISTAS</string>
-	<string key="ui_leaderboard_day_score_header" rel_version="Feature_Leaderboards">SUPERFICIE</string>
-	<string key="ui_leaderboard_season_title" rel_version="Feature_Leaderboards">TEMPORADA</string>
-	<string key="ui_leaderboard_season_claims_header" rel_version="Feature_Leaderboards">PUNTUACIÓN TOTAL DE CONQUISTAS</string>
-	<string key="ui_leaderboard_season_score_header" rel_version="Feature_Leaderboards">SUPERFICIE TOTAL</string>
-	<string key="ui_leaderboard_time_left" rel_version="Feature_Leaderboards">{time} restante</string>
-	<string key="ui_leaderboard_personal_best_increased" rel_version="Feature_Leaderboards">¡Mejor logro personal!</string>
-	<string key="ui_leaderboard_reward_item_tooltip_title" rel_version="Feature_Leaderboards">Recompensa: Título "{title}"</string>
 	<string key="ui_autocompletetimedout">Se agotó el tiempo de autocompletado.</string>
 	<string key="ui_autocompletethrottled">Autocompletado desacelerado.</string>
 	<string key="ui_searchitem">Buscar objetos</string>
@@ -1775,9 +1760,6 @@
 	<string key="ui_notification_teleport_text">Está a punto de desatarse una guerra en esta ubicación.\nTe teletransportarás si no abandonas el área.</string>
 	<string key="ui_notification_left_teleport_area">Abandonaste el área restringida y no te teletransportarás.</string>
 	<string key="ui_item_link_tooltip_command">Enlace al chat</string>
-	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Clasificación</string>
-	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DÍA</string>
-	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">TEMPORADA</string>
 	<string key="ui_mapmenu_companiesatwar">GUERRAS INMINENTES</string>
 	<string key="ui_mapmenu_resourcelocations">UBICACIONES DE RECURSOS</string>
 	<string key="ui_mapmenu_activewars">GUERRAS INMINENTES</string>

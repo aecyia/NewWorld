@@ -1694,21 +1694,6 @@
 	<string key="ui_characters_count">Charaktere:</string>
 	<string key="ui_characters">Charaktere</string>
 	<string key="ui_map_legend">Legende.</string>
-	<string key="ui_leaderboard_title" rel_version="Feature_Leaderboards">KOMPANIE-BESTENLISTE</string>
-	<string key="ui_leaderboard_timeremaining" rel_version="Feature_Leaderboards">VERBLEIBENDE ZEIT</string>
-	<string key="ui_leaderboard_rank_header" rel_version="Feature_Leaderboards">RANG</string>
-	<string key="ui_leaderboard_rank_number" rel_version="Feature_Leaderboards">{number}.</string>
-	<string key="ui_leaderboard_company_header" rel_version="Feature_Leaderboards">KOMPANIE</string>
-	<string key="ui_leaderboard_area_score" rel_version="Feature_Leaderboards">({number})</string>
-	<string key="ui_leaderboard_day_title" rel_version="Feature_Leaderboards">TAG</string>
-	<string key="ui_leaderboard_day_claims_header" rel_version="Feature_Leaderboards">ANSPRÜCHE</string>
-	<string key="ui_leaderboard_day_score_header" rel_version="Feature_Leaderboards">FLÄCHE</string>
-	<string key="ui_leaderboard_season_title" rel_version="Feature_Leaderboards">SAISON</string>
-	<string key="ui_leaderboard_season_claims_header" rel_version="Feature_Leaderboards">GESAMTWERT DES ANSPRUCHS</string>
-	<string key="ui_leaderboard_season_score_header" rel_version="Feature_Leaderboards">GESAMTFLÄCHE</string>
-	<string key="ui_leaderboard_time_left" rel_version="Feature_Leaderboards">Verbleibende Zeit: {time}</string>
-	<string key="ui_leaderboard_personal_best_increased" rel_version="Feature_Leaderboards">Persönlicher Bestwert!</string>
-	<string key="ui_leaderboard_reward_item_tooltip_title" rel_version="Feature_Leaderboards">Belohnung: Titel "{title}"</string>
 	<string key="ui_autocompletetimedout">Autom. Fertigstellung ist abgelaufen.</string>
 	<string key="ui_autocompletethrottled">Autom. Fertigstellung gedrosselt.</string>
 	<string key="ui_searchitem">Gegenstände suchen</string>
@@ -1775,9 +1760,6 @@
 	<string key="ui_notification_teleport_text">An diesem Ort beginnt in Kürze ein Krieg.\nDu wirst aus dem Gebiet hinausteleportiert, wenn du es nicht selbst verlässt.</string>
 	<string key="ui_notification_left_teleport_area">Du hast das gesperrte Gebiet verlassen und wirst nicht teleportiert.</string>
 	<string key="ui_item_link_tooltip_command">Im Chat verlinken</string>
-	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Bestenlisten</string>
-	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">TAG</string>
-	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">SAISON</string>
 	<string key="ui_mapmenu_companiesatwar">KRIEG</string>
 	<string key="ui_mapmenu_resourcelocations">ORTE MIT ROHSTOFFEN</string>
 	<string key="ui_mapmenu_activewars">KRIEG</string>

@@ -1694,21 +1694,6 @@
 	<string key="ui_characters_count">Personnages :</string>
 	<string key="ui_characters">Personnages</string>
 	<string key="ui_map_legend">Légende.</string>
-	<string key="ui_leaderboard_title" rel_version="Feature_Leaderboards">CLASSEMENT DE LA COMPAGNIE</string>
-	<string key="ui_leaderboard_timeremaining" rel_version="Feature_Leaderboards">TEMPS RESTANT</string>
-	<string key="ui_leaderboard_rank_header" rel_version="Feature_Leaderboards">RANG</string>
-	<string key="ui_leaderboard_rank_number" rel_version="Feature_Leaderboards">{number}.</string>
-	<string key="ui_leaderboard_company_header" rel_version="Feature_Leaderboards">COMPAGNIE</string>
-	<string key="ui_leaderboard_area_score" rel_version="Feature_Leaderboards">({number})</string>
-	<string key="ui_leaderboard_day_title" rel_version="Feature_Leaderboards">JOUR</string>
-	<string key="ui_leaderboard_day_claims_header" rel_version="Feature_Leaderboards">TERRITOIRES</string>
-	<string key="ui_leaderboard_day_score_header" rel_version="Feature_Leaderboards">SURFACE</string>
-	<string key="ui_leaderboard_season_title" rel_version="Feature_Leaderboards">SAISON</string>
-	<string key="ui_leaderboard_season_claims_header" rel_version="Feature_Leaderboards">SCORE TOTAL DE REVENDICATION</string>
-	<string key="ui_leaderboard_season_score_header" rel_version="Feature_Leaderboards">SURFACE TOTALE</string>
-	<string key="ui_leaderboard_time_left" rel_version="Feature_Leaderboards">Temps restant : {time}</string>
-	<string key="ui_leaderboard_personal_best_increased" rel_version="Feature_Leaderboards">Record personnel !</string>
-	<string key="ui_leaderboard_reward_item_tooltip_title" rel_version="Feature_Leaderboards">Récompense : Titre « {title} »</string>
 	<string key="ui_autocompletetimedout">Le délai d'achèvement auto a expiré.</string>
 	<string key="ui_autocompletethrottled">Achèvement auto ralenti.</string>
 	<string key="ui_searchitem">Chercher objets</string>
@@ -1775,9 +1760,6 @@
 	<string key="ui_notification_teleport_text">Une guerre est sur le point d'éclater dans cette zone.\nQuittez-la ou vous serez téléporté ailleurs.</string>
 	<string key="ui_notification_left_teleport_area">Vous avez quitté la zone interdite et ne serez pas téléporté.</string>
 	<string key="ui_item_link_tooltip_command">Aller à la discussion</string>
-	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Classement</string>
-	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">JOUR</string>
-	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">SAISON</string>
 	<string key="ui_mapmenu_companiesatwar">GUERRES À VENIR</string>
 	<string key="ui_mapmenu_resourcelocations">EMPLACEMENT DES RESSOURCES</string>
 	<string key="ui_mapmenu_activewars">GUERRES À VENIR</string>

@@ -786,12 +786,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Brûlure qui inflige des dégâts de feu à hauteur de {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]} % de la santé de base toutes les {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} secondes pendant {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} secondes.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Brûlure de canon</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Inflige une brûlure de {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]} % de dégâts de feu de base toutes les {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} secondes.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Force bestiale</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Les dégâts du guerrier de l'hiver augmentent de {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Endurance de l'hiver</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">L'absorption des dégâts du guerrier de l'hiver augmente de {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">La morsure de l'Hiver éternel</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Vous subissez un ralentissement et subissez des dégâts de froid de la morsure de la magie de l'Hiver éternel.</string>
 	<string key="godModeThirst_DisplayName">Mode divin</string>
 	<string key="godModeHealth_DisplayName">Mode divin</string>
 	<string key="godModeAll_DisplayName">Mode divin</string>

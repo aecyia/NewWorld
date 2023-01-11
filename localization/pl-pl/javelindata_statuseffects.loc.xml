@@ -786,12 +786,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Podpalenie zadające obrażenia od ognia w wysokości {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% podstawowych obrażeń co {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} s przez {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} s.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Armatnie podpalenie</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Nakłada podpalenie zadające {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% podstawowych obrażeń od ognia co {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} s.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestialska siła</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Zwiększa obrażenia Zimowego Wojownika o {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]}%.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Zimowa wytrwałość</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Zwiększa pochłanianie obrażeń Zimowego Wojownika o {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]}%.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">Smagnięcie Wiecznej Zimy</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Działa na ciebie magia Wiecznej Zimy. Ulegasz spowolnieniu i otrzymujesz obrażenia od chłodu.</string>
 	<string key="godModeThirst_DisplayName">Tryb boga</string>
 	<string key="godModeHealth_DisplayName">Tryb boga</string>
 	<string key="godModeAll_DisplayName">Tryb boga</string>

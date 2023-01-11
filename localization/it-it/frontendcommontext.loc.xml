@@ -351,63 +351,6 @@
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">Traguardo percorso {milestone} presso:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">Traguardo percorso {milestone}</string>
 	<string key="ui_pvp_track_reward" rel_version="PvP_Rewards_Track">Ricompensa</string>
-	<string key="ui_leaderboards_update_time" rel_version="Feature_Leaderboards">Aggiornamento tra {time}</string>
-	<string key="ui_leaderboards_skills_tab" rel_version="Feature_Leaderboards">Classifiche</string>
-	<string key="ui_leaderboards_reward_title" rel_version="Feature_Leaderboards">{rotationType} &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}: {startDate} - {endDate}&lt;/font&gt;</string>
-	<string key="ui_leaderboards_reward_location_title" rel_version="Feature_Leaderboards">{location}</string>
-	<string key="ui_leaderboards_reward_location_difficulty_title" rel_version="Feature_Leaderboards">{location}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
-	<string key="ui_leaderboards_reward_category_title" rel_version="Feature_Leaderboards">{category}</string>
-	<string key="ui_leaderboards_skip_all" rel_version="Feature_Leaderboards">Salta tutto</string>
-	<string key="ui_leaderboards_claim" rel_version="Feature_Leaderboards">Ottieni</string>
-	<string key="ui_leaderboards_season" rel_version="Feature_Leaderboards">Trimestre</string>
-	<string key="ui_leaderboards_month" rel_version="Feature_Leaderboards">Mese</string>
-	<string key="ui_leaderboards_week" rel_version="Feature_Leaderboards">Settimana</string>
-	<string key="ui_leaderboard_filter_filters" rel_version="Feature_Leaderboards">Filtri</string>
-	<string key="ui_leaderboard_filter_faction" rel_version="Feature_Leaderboards">Fazione</string>
-	<string key="ui_leaderboard_filter_company" rel_version="Feature_Leaderboards">Compagnia</string>
-	<string key="ui_leaderboard_filter_friends" rel_version="Feature_Leaderboards">Amici</string>
-	<string key="ui_leaderboard_filter_characters" rel_version="Feature_Leaderboards">Personaggi</string>
-	<string key="ui_leaderboard_filter_changeview" rel_version="Feature_Leaderboards">Cambia visualizzazione</string>
-	<string key="ui_leaderboard_filter_region" rel_version="Feature_Leaderboards">Regione</string>
-	<string key="ui_leaderboard_filter_world" rel_version="Feature_Leaderboards">Mondo</string>
-	<string key="ui_leaderboard_filter_global" rel_version="Feature_Leaderboards">Globale</string>
-	<string key="ui_leaderboard_filter_duration" rel_version="Feature_Leaderboards">Durata</string>
-	<string key="ui_leaderboard_filter_weekly" rel_version="Feature_Leaderboards">Settimanali</string>
-	<string key="ui_leaderboard_filter_monthly" rel_version="Feature_Leaderboards">Mensili</string>
-	<string key="ui_leaderboard_filter_seasonal" rel_version="Feature_Leaderboards">Trimestrali</string>
-	<string key="ui_leaderboard_filter_thisduration" rel_version="Feature_Leaderboards">{duration} attuale</string>
-	<string key="ui_leaderboard_filter_leaderboard" rel_version="Feature_Leaderboards">Classifica</string>
-	<string key="ui_leaderboard_filter_viewonly" rel_version="Feature_Leaderboards">Visualizza solo</string>
-	<string key="ui_leaderboard_category_expedition" rel_version="Feature_Leaderboards">Spedizione</string>
-	<string key="ui_leaderboard_crafting" rel_version="Feature_Leaderboards">Produzione</string>
-	<string key="ui_leaderboard_fishing" rel_version="Feature_Leaderboards">Pesca</string>
-	<string key="ui_leaderboard_category_expeditions" rel_version="Feature_Leaderboards">Spedizioni mutate</string>
-	<string key="ui_leaderboard_category_factionwar" rel_version="Feature_Leaderboards">Guerra tra fazioni</string>
-	<string key="ui_leaderboard_category_vs_environment" rel_version="Feature_Leaderboards">VS Ambiente</string>
-	<string key="ui_leaderboard_category_vs_players" rel_version="Feature_Leaderboards">VS Giocatori</string>
-	<string key="ui_leaderboard_category_tradeskills" rel_version="Feature_Leaderboards">Competenze</string>
-	<string key="ui_leaderboard_top_number" rel_version="Feature_Leaderboards">MIGLIORI\n{number}</string>
-	<string key="ui_leaderboard_ladder_number" rel_version="Feature_Leaderboards">{number}</string>
-	<string key="ui_leaderboard_rewards" rel_version="Feature_Leaderboards">Ricompense</string>
-	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Settimana {number}</string>
-	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Mese {number}</string>
-	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">Trimestre {number}</string>
-	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Settimana {number} (settimana corrente)</string>
-	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Mese {number} (mese corrente)</string>
-	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Trimestre {number} (trimestre corrente)</string>
-	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">Questo trimestre</string>
-	<string key="ui_leaderboard_rewards_owned" rel_version="Feature_Leaderboards">In possesso</string>
-	<string key="ui_leaderboard_rewards_earned" rel_version="Feature_Leaderboards">Ottenute</string>
-	<string key="ui_leaderboard_rewards_personalbest" rel_version="Feature_Leaderboards">Record personale</string>
-	<string key="ui_leaderboard_rewards_companybest" rel_version="Feature_Leaderboards">Record compagnia</string>
-	<string key="ui_leaderboard_rewards_rank" rel_version="Feature_Leaderboards">Grado</string>
-	<string key="ui_leaderboard_rewards_daysgoverned" rel_version="Feature_Leaderboards">Giorni al governo</string>
-	<string key="ui_leaderboard_rewards_gotome" rel_version="Feature_Leaderboards">Vai a me</string>
-	<string key="ui_leaderboard_rewards_gototop" rel_version="Feature_Leaderboards">Vai in cima</string>
-	<string key="ui_leaderboard_notification_title_single" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;1&lt;/font&gt; classifica premiata</string>
-	<string key="ui_leaderboard_notification_title" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;{amount}&lt;/font&gt; classifiche premiate</string>
-	<string key="ui_leaderboard_notification_accept_single" rel_version="Feature_Leaderboards">Visualizza ricompensa</string>
-	<string key="ui_leaderboard_notification_accept" rel_version="Feature_Leaderboards">Visualizza ricompense</string>
 	<string key="ui_blacksmithing">Forgiatura di armi</string>
 	<string key="ui_estimated_time">Tempo previsto</string>
 	<string key="ui_queue_soon">&lt; 1 minuto</string>

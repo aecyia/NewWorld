@@ -1,47 +1,47 @@
 [
-    {
-        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_01",
-        "PlayerPrompt": "\"Tell me about the curse.\"",
-        "NPCResponse": "Don't believe me, do you? No, poor Antonio, no one listens to his tall tales. \\n\\nMock me if it pleases you. But I wouldn't touch a coin of that treasure, not unless yer keen on eternal suffering.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_02",
-        "PlayerPrompt": "\"Tell me about the watery wench.\"",
-        "NPCResponse": "Blackpowder called her something funny. Think, Antonio…Nerry? Nerry-id? Anyhow, he hates her something fierce, has most of his crew battering at her door. If yer fool enough to go after her, you'll have to get through HIM first.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_03",
-        "PlayerPrompt": "\"What are you doing here?\"",
-        "NPCResponse": "Heh heh…eyes on the prize, young'un. Eyes on the prize. If anyone breaks that curse, I'll be out of here with as much gold as these old arms can carry.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "Dungeon_CutlassKeys00_Mariner_01",
-        "PlayerPrompt": "\"Had any luck opening the door?\"",
-        "NPCResponse": "Alas, no. My lady wants something, but no matter what I present to the door in offering, it refuses to budge. Perhaps I'm unworthy of such a wondrous creature…",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1023_Fisher_ExplainHotspots",
-        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
-        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"></img>\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"></img>\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    }
+	{
+		"ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_01",
+		"PlayerPrompt": "\"Tell me about the curse.\"",
+		"NPCResponse": "Don't believe me, do you? No, poor Antonio, no one listens to his tall tales. \\n\\nMock me if it pleases you. But I wouldn't touch a coin of that treasure, not unless yer keen on eternal suffering.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_02",
+		"PlayerPrompt": "\"Tell me about the watery wench.\"",
+		"NPCResponse": "Blackpowder called her something funny. Think, Antonio…Nerry? Nerry-id? Anyhow, he hates her something fierce, has most of his crew battering at her door. If yer fool enough to go after her, you'll have to get through HIM first.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "Dungeon_CutlassKeys00_Scalleywag_03",
+		"PlayerPrompt": "\"What are you doing here?\"",
+		"NPCResponse": "Heh heh…eyes on the prize, young'un. Eyes on the prize. If anyone breaks that curse, I'll be out of here with as much gold as these old arms can carry.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "Dungeon_CutlassKeys00_Mariner_01",
+		"PlayerPrompt": "\"Had any luck opening the door?\"",
+		"NPCResponse": "Alas, no. My lady wants something, but no matter what I present to the door in offering, it refuses to budge. Perhaps I'm unworthy of such a wondrous creature…",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "1023_Fisher_ExplainHotspots",
+		"PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+		"NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u003e\u003c/img\u003e\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u003e\u003c/img\u003e\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	}
 ]

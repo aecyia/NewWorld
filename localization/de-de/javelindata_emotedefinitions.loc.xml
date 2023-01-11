@@ -334,6 +334,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Zombiegang</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Wer ist im Land des ewigen Lebens kein Zombie? Schau dir doch nur die Verlorenen an.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} schlurft untot herum.</string>
+	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Schmollen</string>
+	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Die Dinge laufen nicht so, wie du es gerne hättest. Lasse es ruhig alle spüren.</string>
+	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} schmollt.</string>
 	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Teufelsgruß</string>
 	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Verkaufe deine Seele an den Teufel.</string>
 	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} ahmt Teufelshörner mit seinen Fingern nach.</string>
@@ -342,6 +345,9 @@
 	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Hopsen</string>
 	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Hopse fröhlich über das schrecklich bösartige und gefährliche Land.</string>
 	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} hopst vorbei.</string>
+	<string key="ui_emote_Walk_TipToe_name" rel_version="Emote_Walk_TipToe">Auf Zehenspitzen</string>
+	<string key="ui_emote_Walk_TipToe_description" rel_version="Emote_Walk_TipToe">Du verziehst dich lieber still und leise. Hier lauern furchterregende Kreaturen mit einem außerordentlich guten Gehör.</string>
+	<string key="emote_Walk_TipToe" rel_version="Emote_Walk_TipToe">{playerName} geht auf Zehenspitzen vorbei.</string>
 	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Achselzuckender Tanz</string>
 	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Unsichere, aber nicht uncoole Moves.</string>
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} tanzt achselzuckend.</string>
@@ -363,6 +369,9 @@
 	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Glitzerit-Jonglieren</string>
 	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Unterhalte Kinder und Erwachsene gleichermaßen, indem du mit magischen Meteorit-Stücken jonglierst.</string>
 	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} unterhält die Anwesenden durch Jonglieren mit Glitzerit.</string>
+	<string key="ui_emote_SlapFight_name" rel_version="Emote_SlapFight">Schlagabtausch</string>
+	<string key="ui_emote_SlapFight_description" rel_version="Emote_SlapFight">Halte dich nicht zurück. Deine Ehre steht auf dem Spiel.</string>
+	<string key="emote_SlapFight" rel_version="Emote_SlapFight">{playerName} führt einen Schlagabtausch.</string>
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Glitzerit-Wurf</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Wirf mit funkelndem Glitzerit.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} wirft eine Handvoll Glitzerit.</string>

@@ -351,63 +351,6 @@
 	<string key="ui_pvp_track_next_milestone" rel_version="PvP_Rewards_Track">{milestone} Serien-Meilenstein bei:</string>
 	<string key="ui_pvp_track_milestone" rel_version="PvP_Rewards_Track">{milestone} Serien-Meilenstein</string>
 	<string key="ui_pvp_track_reward" rel_version="PvP_Rewards_Track">Belohnung</string>
-	<string key="ui_leaderboards_update_time" rel_version="Feature_Leaderboards">Wird aktualisiert in {time}</string>
-	<string key="ui_leaderboards_skills_tab" rel_version="Feature_Leaderboards">Bestenlisten</string>
-	<string key="ui_leaderboards_reward_title" rel_version="Feature_Leaderboards">{rotationType} &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{number}: {startDate} – {endDate}&lt;/font&gt;</string>
-	<string key="ui_leaderboards_reward_location_title" rel_version="Feature_Leaderboards">{location}</string>
-	<string key="ui_leaderboards_reward_location_difficulty_title" rel_version="Feature_Leaderboards">{location}, &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{difficulty}&lt;/font&gt;</string>
-	<string key="ui_leaderboards_reward_category_title" rel_version="Feature_Leaderboards">{category}</string>
-	<string key="ui_leaderboards_skip_all" rel_version="Feature_Leaderboards">Alles überspringen</string>
-	<string key="ui_leaderboards_claim" rel_version="Feature_Leaderboards">Beanspruchen</string>
-	<string key="ui_leaderboards_season" rel_version="Feature_Leaderboards">Quartal</string>
-	<string key="ui_leaderboards_month" rel_version="Feature_Leaderboards">Monat</string>
-	<string key="ui_leaderboards_week" rel_version="Feature_Leaderboards">Woche</string>
-	<string key="ui_leaderboard_filter_filters" rel_version="Feature_Leaderboards">Filter</string>
-	<string key="ui_leaderboard_filter_faction" rel_version="Feature_Leaderboards">Fraktion</string>
-	<string key="ui_leaderboard_filter_company" rel_version="Feature_Leaderboards">Kompanie</string>
-	<string key="ui_leaderboard_filter_friends" rel_version="Feature_Leaderboards">Freunde</string>
-	<string key="ui_leaderboard_filter_characters" rel_version="Feature_Leaderboards">Charaktere</string>
-	<string key="ui_leaderboard_filter_changeview" rel_version="Feature_Leaderboards">Ansicht ändern</string>
-	<string key="ui_leaderboard_filter_region" rel_version="Feature_Leaderboards">Region</string>
-	<string key="ui_leaderboard_filter_world" rel_version="Feature_Leaderboards">Welt</string>
-	<string key="ui_leaderboard_filter_global" rel_version="Feature_Leaderboards">Global</string>
-	<string key="ui_leaderboard_filter_duration" rel_version="Feature_Leaderboards">Zeitraum</string>
-	<string key="ui_leaderboard_filter_weekly" rel_version="Feature_Leaderboards">Wöchentlich</string>
-	<string key="ui_leaderboard_filter_monthly" rel_version="Feature_Leaderboards">Monatlich</string>
-	<string key="ui_leaderboard_filter_seasonal" rel_version="Feature_Leaderboards">Vierteljährlich</string>
-	<string key="ui_leaderboard_filter_thisduration" rel_version="Feature_Leaderboards">{duration} (Aktuell)</string>
-	<string key="ui_leaderboard_filter_leaderboard" rel_version="Feature_Leaderboards">Bestenlisten</string>
-	<string key="ui_leaderboard_filter_viewonly" rel_version="Feature_Leaderboards">Nur betrachten</string>
-	<string key="ui_leaderboard_category_expedition" rel_version="Feature_Leaderboards">Expedition</string>
-	<string key="ui_leaderboard_crafting" rel_version="Feature_Leaderboards">Herstellung</string>
-	<string key="ui_leaderboard_fishing" rel_version="Feature_Leaderboards">Angeln</string>
-	<string key="ui_leaderboard_category_expeditions" rel_version="Feature_Leaderboards">Mutierte Expedition</string>
-	<string key="ui_leaderboard_category_factionwar" rel_version="Feature_Leaderboards">Fraktionskrieg</string>
-	<string key="ui_leaderboard_category_vs_environment" rel_version="Feature_Leaderboards">GEGEN Monster</string>
-	<string key="ui_leaderboard_category_vs_players" rel_version="Feature_Leaderboards">GEGEN Spieler</string>
-	<string key="ui_leaderboard_category_tradeskills" rel_version="Feature_Leaderboards">Fähigkeiten</string>
-	<string key="ui_leaderboard_top_number" rel_version="Feature_Leaderboards">TOP\n{number}</string>
-	<string key="ui_leaderboard_ladder_number" rel_version="Feature_Leaderboards">{number}</string>
-	<string key="ui_leaderboard_rewards" rel_version="Feature_Leaderboards">Belohnungen</string>
-	<string key="ui_leaderboard_rewards_week_count" rel_version="Feature_Leaderboards">Woche {number}</string>
-	<string key="ui_leaderboard_rewards_month_count" rel_version="Feature_Leaderboards">Monat {number}</string>
-	<string key="ui_leaderboard_rewards_season_count" rel_version="Feature_Leaderboards">{number}. Quartal</string>
-	<string key="ui_leaderboard_rewards_this_week_count" rel_version="Feature_Leaderboards">Woche {number} (Aktuelle Woche)</string>
-	<string key="ui_leaderboard_rewards_this_month_count" rel_version="Feature_Leaderboards">Monat {number} (Aktueller Monat)</string>
-	<string key="ui_leaderboard_rewards_this_season_count" rel_version="Feature_Leaderboards">Quartal {number} (Aktuelles Quartal)</string>
-	<string key="ui_leaderboard_rewards_season" rel_version="Feature_Leaderboards">Dieses Quartal</string>
-	<string key="ui_leaderboard_rewards_owned" rel_version="Feature_Leaderboards">In Besitz</string>
-	<string key="ui_leaderboard_rewards_earned" rel_version="Feature_Leaderboards">Verdient</string>
-	<string key="ui_leaderboard_rewards_personalbest" rel_version="Feature_Leaderboards">Persönlicher Bestwert</string>
-	<string key="ui_leaderboard_rewards_companybest" rel_version="Feature_Leaderboards">Kompaniebestwert</string>
-	<string key="ui_leaderboard_rewards_rank" rel_version="Feature_Leaderboards">Rang</string>
-	<string key="ui_leaderboard_rewards_daysgoverned" rel_version="Feature_Leaderboards">Herrschaftszeit (Tage)</string>
-	<string key="ui_leaderboard_rewards_gotome" rel_version="Feature_Leaderboards">Springe zu mir</string>
-	<string key="ui_leaderboard_rewards_gototop" rel_version="Feature_Leaderboards">Springe zum Anfang</string>
-	<string key="ui_leaderboard_notification_title_single" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;1&lt;/font&gt; Bestenlistenbelohnung verliehen</string>
-	<string key="ui_leaderboard_notification_title" rel_version="Feature_Leaderboards">&lt;font face="lyshineui/fonts/CaslonAnt.font" color={color}&gt;{amount}&lt;/font&gt; Bestenlistenbelohnungen verliehen</string>
-	<string key="ui_leaderboard_notification_accept_single" rel_version="Feature_Leaderboards">Belohnung ansehen</string>
-	<string key="ui_leaderboard_notification_accept" rel_version="Feature_Leaderboards">Belohnungen ansehen</string>
 	<string key="ui_blacksmithing">Waffenschmiedekunst</string>
 	<string key="ui_estimated_time">Erwartete Dauer</string>
 	<string key="ui_queue_soon">&lt; 1 Minute</string>

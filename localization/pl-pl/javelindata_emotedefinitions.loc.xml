@@ -334,6 +334,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Chód zombie</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Czym są zombie w krainie wiecznego życia? Rzuć tylko okiem na zagubionych.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} pochyla się do przodu niczym nieumarła istota.</string>
+	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Dąs</string>
+	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Nic nie idzie po twojej myśli. Okaż to.</string>
+	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} się dąsa.</string>
 	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Rockowe rogi</string>
 	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Oddaj duszę diabłu.</string>
 	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} robi z palców diable rogi.</string>
@@ -342,6 +345,9 @@
 	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Podskoki</string>
 	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Podskakuj radośnie przez tę ponurą, złowrogą i śmiertelnie groźną krainę.</string>
 	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} sobie podskakuje.</string>
+	<string key="ui_emote_Walk_TipToe_name" rel_version="Emote_Walk_TipToe">Na paluszkach</string>
+	<string key="ui_emote_Walk_TipToe_description" rel_version="Emote_Walk_TipToe">Najlepiej poruszać się jak najciszej. W okolicy jest mnóstwo zabójczych stworzeń o doskonałym słuchu.</string>
+	<string key="emote_Walk_TipToe" rel_version="Emote_Walk_TipToe">{playerName} idzie na paluszkach.</string>
 	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Taniec wzruszaniec</string>
 	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Zestaw niepewnych, acz całkiem zmyślnych ruchów.</string>
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} tańczy wzruszańca</string>
@@ -363,6 +369,9 @@
 	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Żonglerka błyszczytami</string>
 	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Dostarcz rozrywki dzieciom i dorosłym, żonglując magicznymi meteorami.</string>
 	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} żongluje błyszczytami.</string>
+	<string key="ui_emote_SlapFight_name" rel_version="Emote_SlapFight">Policzkowanie</string>
+	<string key="ui_emote_SlapFight_description" rel_version="Emote_SlapFight">Nie powstrzymuj się. Tu chodzi o twój honor.</string>
+	<string key="emote_SlapFight" rel_version="Emote_SlapFight">{playerName} policzkuje.</string>
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Rzut błyszczytami</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Rzuć błyszczącymi błyszczytami.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} rzuca błyszczytami.</string>

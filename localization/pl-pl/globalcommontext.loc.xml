@@ -1694,21 +1694,6 @@
 	<string key="ui_characters_count">Postacie:</string>
 	<string key="ui_characters">Postacie</string>
 	<string key="ui_map_legend">Legenda.</string>
-	<string key="ui_leaderboard_title" rel_version="Feature_Leaderboards">RANKING KOMPANII</string>
-	<string key="ui_leaderboard_timeremaining" rel_version="Feature_Leaderboards">POZOSTAŁY CZAS</string>
-	<string key="ui_leaderboard_rank_header" rel_version="Feature_Leaderboards">STOPIEŃ</string>
-	<string key="ui_leaderboard_rank_number" rel_version="Feature_Leaderboards">{number}.</string>
-	<string key="ui_leaderboard_company_header" rel_version="Feature_Leaderboards">KOMPANIA</string>
-	<string key="ui_leaderboard_area_score" rel_version="Feature_Leaderboards">({number})</string>
-	<string key="ui_leaderboard_day_title" rel_version="Feature_Leaderboards">DZIEŃ</string>
-	<string key="ui_leaderboard_day_claims_header" rel_version="Feature_Leaderboards">PRZEJĘCIA</string>
-	<string key="ui_leaderboard_day_score_header" rel_version="Feature_Leaderboards">POWIERZCHNIA</string>
-	<string key="ui_leaderboard_season_title" rel_version="Feature_Leaderboards">PORA ROKU</string>
-	<string key="ui_leaderboard_season_claims_header" rel_version="Feature_Leaderboards">CAŁKOWITA LICZBA PRZEJĘĆ</string>
-	<string key="ui_leaderboard_season_score_header" rel_version="Feature_Leaderboards">CAŁKOWITA POWIERZCHNIA</string>
-	<string key="ui_leaderboard_time_left" rel_version="Feature_Leaderboards">Pozostało {time}</string>
-	<string key="ui_leaderboard_personal_best_increased" rel_version="Feature_Leaderboards">Rekord życiowy!</string>
-	<string key="ui_leaderboard_reward_item_tooltip_title" rel_version="Feature_Leaderboards">Nagroda: Tytuł "{title}"</string>
 	<string key="ui_autocompletetimedout">Koniec czasu automatycznego ukończenia.</string>
 	<string key="ui_autocompletethrottled">Automatyczne ukończenie spowolnione.</string>
 	<string key="ui_searchitem">Szukaj przedmiotów</string>
@@ -1775,9 +1760,6 @@
 	<string key="ui_notification_teleport_text">W tym miejscu wkrótce rozpocznie się wojna.\nJeśli nie opuścisz obszaru, czeka cię teleportacja.</string>
 	<string key="ui_notification_left_teleport_area">Udało ci się opuścić teren zastrzeżony i tym samym uniknąć teleportacji.</string>
 	<string key="ui_item_link_tooltip_command">Wspomnij na czacie</string>
-	<string key="ui_leaderboard" rel_version="Feature_Leaderboards">Ranking</string>
-	<string key="ui_mapmenu_dayleaderboard" rel_version="Feature_Leaderboards">DZIEŃ</string>
-	<string key="ui_mapmenu_seasonleaderboard" rel_version="Feature_Leaderboards">PORA ROKU</string>
 	<string key="ui_mapmenu_companiesatwar">NADCHODZĄCE WOJNY</string>
 	<string key="ui_mapmenu_resourcelocations">POŁOŻENIE SUROWCÓW</string>
 	<string key="ui_mapmenu_activewars">NADCHODZĄCE WOJNY</string>

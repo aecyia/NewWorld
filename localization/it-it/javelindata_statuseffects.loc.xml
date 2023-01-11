@@ -786,12 +786,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente con danni da fuoco pari a un {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]}% della salute base ogni {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} secondi per {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} secondi.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Bruciatura da cannone</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Rovente per un {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]}% di danni da fuoco di base ogni {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} secondi.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Forza bestiale</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Danni del Guerriero d'inverno aumentati di un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]}%.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Resistenza invernale</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Assorbimento dei danni del Guerriero d'inverno aumentato di un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]}%.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">Freddo pungente dell'inverno eterno</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Sei rallentato e subisci danni dal freddo pungente della magia dell'inverno eterno.</string>
 	<string key="godModeThirst_DisplayName">Modalità dio</string>
 	<string key="godModeHealth_DisplayName">Modalità dio</string>
 	<string key="godModeAll_DisplayName">Modalità dio</string>

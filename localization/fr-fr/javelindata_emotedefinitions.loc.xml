@@ -334,6 +334,9 @@
 	<string key="ui_emote_Walk_FrankenMummy_name" rel_version="Emote_Walk_FrankenMummy">Marche de zombie</string>
 	<string key="ui_emote_Walk_FrankenMummy_description" rel_version="Emote_Walk_FrankenMummy">Que vaut un zombie dans les terres de la vie éternelle ? Regardez les dévoyés.</string>
 	<string key="emote_Walk_FrankenMummy" rel_version="Emote_Walk_FrankenMummy">{playerName} titube comme une créature morte-vivante.</string>
+	<string key="ui_emote_Pout_name" rel_version="Emote_Pout">Moue</string>
+	<string key="ui_emote_Pout_description" rel_version="Emote_Pout">Tout ne va pas comme vous le voudriez. Montrez-le.</string>
+	<string key="emote_Pout" rel_version="Emote_Pout">{playerName} boude.</string>
 	<string key="ui_emote_DevilHornRock_name" rel_version="Emote_DevilHornRock">Cornes du diable</string>
 	<string key="ui_emote_DevilHornRock_description" rel_version="Emote_DevilHornRock">Vendez votre âme au diable.</string>
 	<string key="emote_DevilHornRock" rel_version="Emote_DevilHornRock">{playerName} fait les cornes du diable avec ses doigts.</string>
@@ -342,6 +345,9 @@
 	<string key="ui_emote_Walk_Skip_name" rel_version="Emote_Walk_Skip">Gambader</string>
 	<string key="ui_emote_Walk_Skip_description" rel_version="Emote_Walk_Skip">Baladez-vous gaiement dans ce territoire effroyablement dangereux et maléfique.</string>
 	<string key="emote_Walk_Skip" rel_version="Emote_Walk_Skip">{playerName} gambade.</string>
+	<string key="ui_emote_Walk_TipToe_name" rel_version="Emote_Walk_TipToe">Sur la pointe des pieds</string>
+	<string key="ui_emote_Walk_TipToe_description" rel_version="Emote_Walk_TipToe">Il est préférable de marcher aussi discrètement que possible. Certaines créatures vraiment très dangereuses sont douées d'une ouïe très fine.</string>
+	<string key="emote_Walk_TipToe" rel_version="Emote_Walk_TipToe">{playerName} marche sur la pointe des pieds.</string>
 	<string key="ui_emote_ShruggyDance_name" rel_version="Emote_ShruggyDance">Danse hasardeuse</string>
 	<string key="ui_emote_ShruggyDance_description" rel_version="Emote_ShruggyDance">Une chorégraphie incertaine, mais plutôt cool.</string>
 	<string key="emote_ShruggyDance" rel_version="Emote_ShruggyDance">{playerName} entame une danse hasardeuse.</string>
@@ -363,6 +369,9 @@
 	<string key="ui_emote_GleamiteJuggle_name" rel_version="Emote_GleamiteJuggle">Jonglage de coruscantes</string>
 	<string key="ui_emote_GleamiteJuggle_description" rel_version="Emote_GleamiteJuggle">Amusez les petits comme les grands en jonglant avec des météores magiques.</string>
 	<string key="emote_GleamiteJuggle" rel_version="Emote_GleamiteJuggle">{playerName} amuse la foule en jonglant avec des coruscantes.</string>
+	<string key="ui_emote_SlapFight_name" rel_version="Emote_SlapFight">Gifle de défi</string>
+	<string key="ui_emote_SlapFight_description" rel_version="Emote_SlapFight">Ne vous retenez pas. Votre honneur est en jeu.</string>
+	<string key="emote_SlapFight" rel_version="Emote_SlapFight">{playerName} gifle en signe de défi.</string>
 	<string key="ui_emote_GleamiteThrow_name" rel_version="Emote_GleamiteThrow">Lancer de coruscantes</string>
 	<string key="ui_emote_GleamiteThrow_description" rel_version="Emote_GleamiteThrow">Jetez des coruscantes scintillantes.</string>
 	<string key="emote_GleamiteThrow" rel_version="Emote_GleamiteThrow">{playerName} jette une poignée de coruscantes.</string>

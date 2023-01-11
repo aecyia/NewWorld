@@ -2,7 +2,7 @@
 
 Extracted from the game files of New World MMO
 
-Last Update -- Live Version 1.8.0 -- 13 December 2022
+Last Update -- Live Version 1.8.01 -- 11 January 2023
 
 ## _personal
 
@@ -22,11 +22,8 @@ Last Update -- Live Version 1.8.0 -- 13 December 2022
 
 ## datasheets_json_pretty
 
-+ converted using a JSON prettifier program
++ manually converted using a JSON prettifier plugin
 + prettified .json format
-=======
-+ datasheets in .json
-+ not formatted
 
 ## localization
 

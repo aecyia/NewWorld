@@ -1,20 +1,20 @@
 [
-    {
-        "ConversationTopicId": "1524_Boatswain01_talk",
-        "PlayerPrompt": "\"So far, no luck. You weren't listed in the manifest.\"",
-        "NPCResponse": "That's a shame. I was really hoping to find out more about my past. I also had no luck with Niki Andris at the settlement. \\n\\nWith any luck, the second ship holds more information about my past.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "SwapActive_1524_Boatswain01_Moved",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "1523_Fisher_ExplainHotspots",
-        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
-        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"></img>\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"></img>\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    }
+	{
+		"ConversationTopicId": "1524_Boatswain01_talk",
+		"PlayerPrompt": "\"So far, no luck. You weren't listed in the manifest.\"",
+		"NPCResponse": "That's a shame. I was really hoping to find out more about my past. I also had no luck with Niki Andris at the settlement. \\n\\nWith any luck, the second ship holds more information about my past.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "SwapActive_1524_Boatswain01_Moved",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "1523_Fisher_ExplainHotspots",
+		"PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+		"NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u003e\u003c/img\u003e\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u003e\u003c/img\u003e\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	}
 ]

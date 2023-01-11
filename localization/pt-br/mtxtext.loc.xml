@@ -220,6 +220,7 @@
 	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Pacote de Brasões Tespianos</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Pacote de Brasões do Mestre de Armamentos</string>
 	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Azul-Prime-Gaming</string>
+	<string key="gold_dye_name" rel_version="Dye_Gold">Ouro Lustroso</string>
 	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Laranja-Amazon</string>
 	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Roxo-Twitch</string>
 	<string key="shipgray_dye_name" rel_version="Entitlements_November">Cinza-navio</string>
@@ -283,6 +284,7 @@
 	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Brasões Tespianos</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">“Lâmina ou arco, machado ou mosquete? O viajante sobrevive, o mestre prospera.”</string>
 	<string key="primeblue_dye_description" rel_version="New_World_Launch">Pacote de Tinturas Consumível</string>
+	<string key="gold_dye_description" rel_version="Dye_Gold">Pacote de Tinturas Consumível</string>
 	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Pacote de Tinturas Consumível</string>
 	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Pacote de Tinturas Consumível</string>
 	<string key="softcoal_dye_description" rel_version="Entitlements_February_2022">Pacote de Tinturas Consumível</string>
@@ -947,9 +949,21 @@
 	<string key="Bundle_PR_DarkFae_Apparel_description" rel_version="Entitlements_DarkFae_MTX">Embora Aeternum esteja repleta de almas corrompidas, também é possível encontrar uma magia delicada e encantadora entre os muitos espíritos.</string>
 	<string key="Bundle_PR_DarkFae_Weapon_name" rel_version="Entitlements_DarkFae_MTX">Conjunto de de Armas do Espírito Crepuscular</string>
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">Os resultados são imprevisíveis e encantadores quando se usa armas abençoadas pelos espíritos da natureza.</string>
-	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Conjunto d e Vestimentas Convergência de Inverno</string>
+	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Conjunto de Vestimentas Convergência de Inverno</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Evite o inverno para sempre em espírito festivo com essas roupas sazonais!</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Conjunto de Armas Convergência de Inverno</string>
 	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">A Convergência de Inverno é um momento maravilhoso para comemorar com a família e sacar armas mortais ao menor insulto!</string>
+	<string key="Apparel_WinterDragon_1_name" rel_version="Apparel_WinterDragon_1">Dragão Cerúleo</string>
+	<string key="Apparel_WinterDragon_1_description" rel_version="Apparel_WinterDragon_1">Levada para a praia pelo Mar Oriental, esta armadura não foi umedecida nem manchada pelas marés que a imploraram.</string>
+	<string key="Apparel_WinterDragon_2_name" rel_version="Apparel_WinterDragon_2">Serpente da Chuva</string>
+	<string key="Apparel_WinterDragon_2_description" rel_version="Apparel_WinterDragon_2">“Onde termina o arco-íris, começa o dragão.”</string>
+	<string key="Apparel_WinterDragon_Deluxe_name" rel_version="Apparel_WinterDragon_Deluxe">Rei Dragão</string>
+	<string key="Apparel_WinterDragon_Deluxe_description" rel_version="Apparel_WinterDragon_Deluxe">Dizem que quando o Rei Dragão desce dos Céus, o amanhecer em suas costas se projeta como asas radiantes.</string>
+	<string key="Bundle_Decor_WinterDragon_name" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Conjunto de Decorações do Dragão Invernal</string>
+	<string key="Bundle_Decor_WinterDragon_description" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Decore sua casa com esses tesouros antes de entrar em sua hibernação de inverno.</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_name" rel_version="Apparel_WinterDragon_1">Conjunto de Vestimentas do Dragão Invernal</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_description" rel_version="Apparel_WinterDragon_1">O que é mais frio? O coração gelado do inverno ou o coração gelado do dragão?</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_name" rel_version="Weapon_Winter_Greatsword">Conjunto de Armas do Dragão Invernal</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_description" rel_version="Weapon_Winter_Greatsword">Abra caminho pela neve mais profunda do inverno.</string>
 </resources>
 

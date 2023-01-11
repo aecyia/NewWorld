@@ -1,38 +1,38 @@
 [
-    {
-        "ConversationTopicId": "0725_Prospector_talk",
-        "PlayerPrompt": "\"Uh... What is an 'Outpost Rush'?\"",
-        "NPCResponse": "Outpost Rush is a 20 vs 20 match that takes place on a large island with three Outposts.\\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "0724_Fisher_ExplainHotspots",
-        "PlayerPrompt": "\"Can you explain fishing hotspots?\"",
-        "NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"></img>\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n<img src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"></img>\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "Heretic_Topic1",
-        "PlayerPrompt": "\"Who are you?\"",
-        "NPCResponse": "Ah, the meek little nun sends a sweet lambkin as her champion. Hehehe, how amusing... \\n\\nThe little nun fears the Heretic. But the Heretic is a shadow… an empty skin... \\n\\nTell little Sister 'Rosa' that Nedenyek has seen her…",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "07_Quest_Isabella_04",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    },
-    {
-        "ConversationTopicId": "FatherRusso_Topic1",
-        "PlayerPrompt": "\"Who are you?\"",
-        "NPCResponse": "Beloved Isabella? Where are you? I cannot find you... \\n\\nI have searched for so long… I am bone-weary... \\n\\nSomething draws close… Isabella, is that you? Where is your light… your grace? \\n\\nIsabella, don't leave me in this darkness…",
-        "AchievementUnlock": "",
-        "RequiredAchievement": "07_Quest_Isabella_05",
-        "RequiredFaction": "",
-        "RequiredLevel": ""
-    }
+	{
+		"ConversationTopicId": "0725_Prospector_talk",
+		"PlayerPrompt": "\"Uh... What is an 'Outpost Rush'?\"",
+		"NPCResponse": "Outpost Rush is a 20 vs 20 match that takes place on a large island with three Outposts.\\nPlayers compete to capture and hold these Outposts for as long as possible, increasing their team's score in the process.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "0724_Fisher_ExplainHotspots",
+		"PlayerPrompt": "\"Can you explain fishing hotspots?\"",
+		"NPCResponse": "You can tell a fishing hotspot is active when you see fish jumping out of it.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotactive.png\" height=\"188\"\u003e\u003c/img\u003e\\nWhile it's active, landing your cast within the hotspot will yield quicker bites and rarer fish. When you place your line correctly, you'll see a small alert telling you you've hit the hotspot.\\n\\nAfter enough fish are caught at a hotspot it will become depleted. You can tell a hotspot is depleted when there are no fish jumping.\\n\u003cimg src=\"lyshineui/images/tooltipimages/fishinghotspotdepleted.png\" height=\"188\"\u003e\u003c/img\u003e\\nA depleted hotspot will become active again after some time has passed.\\n\\nAs your fishing skill improves, you will be able to find more and better hotspots.",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "Heretic_Topic1",
+		"PlayerPrompt": "\"Who are you?\"",
+		"NPCResponse": "Ah, the meek little nun sends a sweet lambkin as her champion. Hehehe, how amusing... \\n\\nThe little nun fears the Heretic. But the Heretic is a shadow… an empty skin... \\n\\nTell little Sister 'Rosa' that Nedenyek has seen her…",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "07_Quest_Isabella_04",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	},
+	{
+		"ConversationTopicId": "FatherRusso_Topic1",
+		"PlayerPrompt": "\"Who are you?\"",
+		"NPCResponse": "Beloved Isabella? Where are you? I cannot find you... \\n\\nI have searched for so long… I am bone-weary... \\n\\nSomething draws close… Isabella, is that you? Where is your light… your grace? \\n\\nIsabella, don't leave me in this darkness…",
+		"AchievementUnlock": "",
+		"RequiredAchievement": "07_Quest_Isabella_05",
+		"RequiredFaction": "",
+		"RequiredLevel": ""
+	}
 ]

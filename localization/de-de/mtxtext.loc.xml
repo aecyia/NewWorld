@@ -220,6 +220,7 @@
 	<string key="Icon_Crest_Pack_Thespain_name" rel_version="Apparel_Thespian">Wappenpaket: Mime</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_name" rel_version="New_World_Launch">Wappenpaket: Waffenmeister</string>
 	<string key="primeblue_dye_name" rel_version="Dyes_Launch">Prime Gaming-Blau</string>
+	<string key="gold_dye_name" rel_version="Dye_Gold">Glänzendes Gold</string>
 	<string key="amazonorange_dye_name" rel_version="Dyes_Launch">Amazon-Orange</string>
 	<string key="twitchpurple_dye_name" rel_version="Entitlements_November">Twitch-Lila</string>
 	<string key="shipgray_dye_name" rel_version="Entitlements_November">Schiffsgrau</string>
@@ -283,6 +284,7 @@
 	<string key="Icon_Crest_Pack_Thespain_description" rel_version="Apparel_Thespian">Mimen-Wappen</string>
 	<string key="Icon_Crest_Pack_WeaponMaster_description" rel_version="New_World_Launch">"Klinge oder Bogen, Axt oder Muskete? Der Geselle überlebt, der Meister aber blüht auf."</string>
 	<string key="primeblue_dye_description" rel_version="New_World_Launch">Farbstoff-Paket (Verbrauchsgegenstand)</string>
+	<string key="gold_dye_description" rel_version="Dye_Gold">Farbstoff-Paket (Verbrauchsgegenstand)</string>
 	<string key="amazonorange_dye_description" rel_version="New_World_Launch">Farbstoff-Paket (Verbrauchsgegenstand)</string>
 	<string key="twitchpurple_dye_description" rel_version="Apparel_Thespian">Farbstoff-Paket (Verbrauchsgegenstand)</string>
 	<string key="softcoal_dye_description" rel_version="Entitlements_February_2022">Farbstoff-Paket (Verbrauchsgegenstand)</string>
@@ -622,9 +624,9 @@
 	<string key="Emote_BellyLaugh_name" rel_version="Emote_BellyLaugh">Herzhaftes Lachen</string>
 	<string key="Emote_LegKickDance_description" rel_version="Emote_Leg_Kick_Dance">"Ein traditioneller Tanz."</string>
 	<string key="Emote_BellyLaugh_description" rel_version="Emote_BellyLaugh">"Ein herzliches Lachen aus vollem Halse!"</string>
-	<string key="Bundle_Decor_Winter21_name" rel_version="Housing_Winter_MTX_Pack_2021">Winterkonvergenz-Dekor-Paket</string>
+	<string key="Bundle_Decor_Winter21_name" rel_version="Housing_Winter_MTX_Pack_2021">Dekor-Paket: Winter-Zusammenkunft</string>
 	<string key="Pet_RednoseDeer_name" rel_version="Housing_Winter_MTX_Pack_2021">Festliches Reh</string>
-	<string key="Bundle_Decor_Winter21_description" rel_version="Housing_Winter_MTX_Pack_2021">"Heiße Gäste während der Winterkonvergenz, einer Zeit der Freude und Angst in Aeternum, in deinem Heim willkommen."</string>
+	<string key="Bundle_Decor_Winter21_description" rel_version="Housing_Winter_MTX_Pack_2021">"Heiße Gäste während der Winter-Zusammenkunft, einer Zeit der Freude und Angst in Aeternum, in deinem Heim willkommen."</string>
 	<string key="Pet_RednoseDeer_description" rel_version="Housing_Winter_MTX_Pack_2021">"Mitsamt Schal, der es wärmt und vor dem Ewigen Winter schützt."</string>
 	<string key="CampSkin_Winter2_name" rel_version="CampSkin_Winter2">Winterstern</string>
 	<string key="CampSkin_Winter3_name" rel_version="CampSkin_Winter3">Winterpracht</string>
@@ -949,7 +951,19 @@
 	<string key="Bundle_PR_DarkFae_Weapon_description" rel_version="Entitlements_DarkFae_MTX">Man weiß nie, was alles passieren kann, wenn man die Werkzeuge der Waldgeister einsetzt, aber es wird auf jeden Fall bezaubernd aussehen.</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winterkonvergenz-Kleidung-Paket</string>
 	<string key="Bundle_PR_WinterConv2022_Apparel_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Trotze dem Ewigen Winter mit Feiertagsstimmung und diesen passenden Outfits!</string>
-	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Winterkonvergenz-Waffen-Paket</string>
-	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Die Winterkonvergenz ist die beste Zeit, um mit Freunden und Familie zu feiern und bei der kleinsten Unstimmigkeit eine tödliche Waffe parat zu haben!</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_name" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Waffenpaket: Winter-Zusammenkunft</string>
+	<string key="Bundle_PR_WinterConv2022_Weapons_description" rel_version="Weapon_Winter_Conv_Greatsword_MTX">Die Winter-Zusammenkunft ist die beste Zeit, um mit Freunden und Familie zu feiern und bei der kleinsten Unstimmigkeit eine tödliche Waffe parat zu haben!</string>
+	<string key="Apparel_WinterDragon_1_name" rel_version="Apparel_WinterDragon_1">Azur-Drache</string>
+	<string key="Apparel_WinterDragon_1_description" rel_version="Apparel_WinterDragon_1">Diese Rüstung wurde an der Ostküste angespült, weist jedoch weder Feuchte noch Flecken auf.</string>
+	<string key="Apparel_WinterDragon_2_name" rel_version="Apparel_WinterDragon_2">Regenschlange</string>
+	<string key="Apparel_WinterDragon_2_description" rel_version="Apparel_WinterDragon_2">"Wo der Regenbogen endet, fängt der Drache an."</string>
+	<string key="Apparel_WinterDragon_Deluxe_name" rel_version="Apparel_WinterDragon_Deluxe">Drachenkönig</string>
+	<string key="Apparel_WinterDragon_Deluxe_description" rel_version="Apparel_WinterDragon_Deluxe">Angeblich hat die Morgendämmerung dem Drachenkönig bei dessen Abstieg aus dem Himmel strahlende Flügel auf den Rücken gezaubert haben.</string>
+	<string key="Bundle_Decor_WinterDragon_name" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Dekorpaket: Winterdrache</string>
+	<string key="Bundle_Decor_WinterDragon_description" rel_version="Housing_NewYearDragon_MTX_Pack_2023">Dekoriere dein Heim mit diesen Schätzen, bevor du dich in den Winterschlaf begibst.</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_name" rel_version="Apparel_WinterDragon_1">Kleidungspaket: Winterdrache</string>
+	<string key="Bundle_PR_WinterDragon_Apparel_description" rel_version="Apparel_WinterDragon_1">Was ist kälter? Das eisige Herz des Winters oder das frostige Herz des Drachen?</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_name" rel_version="Weapon_Winter_Greatsword">Waffenpaket: Winterdrache</string>
+	<string key="Bundle_PR_WinterDragon_Weapons_description" rel_version="Weapon_Winter_Greatsword">Bahne dir den Weg durch den tiefsten Winterschnee.</string>
 </resources>
 

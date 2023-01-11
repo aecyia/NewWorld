@@ -786,12 +786,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">{[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} Sekunden lang alle {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]} % des Basisschadens durch Brennen.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Kanonenbrand</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Verursacht alle {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} Sekunden Feuerschaden in Höhe von {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]} % des Basisschadens.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Bestialische Stärke</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">Der Schaden des Winterkriegers steigt um {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Zähigkeit des Winters</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">Die Schadensabsorption des Winterkriegers steigt um {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">Biss des Ewigen Winters</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Du wirst verlangsamt und erleidest Kälteschaden durch die beißend kalte Magie des Ewigen Winters.</string>
 	<string key="godModeThirst_DisplayName">Gottmodus</string>
 	<string key="godModeHealth_DisplayName">Gottmodus</string>
 	<string key="godModeAll_DisplayName">Gottmodus</string>

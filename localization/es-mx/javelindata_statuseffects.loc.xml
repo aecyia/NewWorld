@@ -786,12 +786,6 @@
 	<string key="AI_AdmiralBrute_Blackpowder_Burn_Tooltip" rel_version="Expedition_CutlassKeys_00">Quemadura de {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.HealthModifierPercent * -100]} % de daño de fuego de salud base cada {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.TickRate]} segundos durante {[Type_StatusEffectData.AI_AdmiralBrute_Blackpowder_Burn.BaseDuration]} segundos.</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_DisplayName" rel_version="Expedition_CutlassKeys_00">Quemadura de cañón</string>
 	<string key="AI_AdmiralBrute_CannonRain_Targeted_DOT_Tooltip" rel_version="Expedition_CutlassKeys_00">Quemadura de {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.HealthModifierDamageBased * -100]} % de daño de fuego de salud base cada {[Type_StatusEffectData.AI_AdmiralBrute_CannonRain_Targeted_DOT.TickRate]} segundos.</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_DisplayName" rel_version="Event_WinterConvergence_Temp">Fuerza bestial</string>
-	<string key="AI_Yeti_2022_IceDome_Empower_Tooltip" rel_version="Event_WinterConvergence_Temp">El daño del guerrero invernal aumenta en un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Empower.DMGStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_DisplayName" rel_version="Event_WinterConvergence_Temp">Aguante del invierno</string>
-	<string key="AI_Yeti_2022_IceDome_Fortify_Tooltip" rel_version="Event_WinterConvergence_Temp">La absorción de daño del guerrero invernal aumenta en un {[Type_StatusEffectData.AI_Yeti_2022_IceDome_Fortify.ABSStandard * 100]} %.</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_DisplayName" rel_version="Event_WinterConvergence_Temp">Punzada del invierno eterno</string>
-	<string key="AI_Yeti_2022_Snare_and_DoT_DomeFX_Tooltip" rel_version="Event_WinterConvergence_Temp">Sufres ralentización y daño de frío por la punzada de la magia del invierno eterno.</string>
 	<string key="godModeThirst_DisplayName">Modo Dios</string>
 	<string key="godModeHealth_DisplayName">Modo Dios</string>
 	<string key="godModeAll_DisplayName">Modo Dios</string>
