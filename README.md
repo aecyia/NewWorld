@@ -2,7 +2,7 @@
 
 Extracted from the game files of New World MMO
 
-Last Update -- Live Version 1.8.01 -- 11 January 2023
+Last Update -- Live Version 1.8.1 -- 11 January 2023
 
 ## _personal
 
